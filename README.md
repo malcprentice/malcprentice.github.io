@@ -1,2 +1,2 @@
 # malcprentice.github.io
-Pages tets
+Pages test
