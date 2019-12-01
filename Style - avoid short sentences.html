@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style - avoid short sentences</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script>window.onerror = function(m, u, l){alert('Javascript Error: '+m+'nURL: '+u+'nLine Number: '+l);return true;}</script><script>'use strict';window.onload = init;function init() {document.getElementById('btn').onclick = validate;document.getElementById('btnclr').onclick = clear;}function validate() {var radios = document.getElementById("quiz").getElementsByTagName("INPUT");var right = 0;var wrong = 0; for(var i=0, len=radios.length ; i<len ; i++) {  if(radios[i].value == "x") {    if(radios[i].checked == true){      right++;      radios[i].parentNode.parentNode.className = 'rightans';    }else{      wrong++;      radios[i].parentNode.parentNode.className = 'wrongans';    }  }} var pcnt = (100*right/(wrong+right)).toFixed(1);document.getElementById("score").innerHTML = 'Correct: ' + pcnt +'%';}function clear(){var radios = document.getElementById("quiz").getElementsByTagName("INPUT");for(var i=0, len=radios.length ; i<len ; i++) {radios[i].checked = false;if (radios[i].value == "x"){ radios[i].parentNode.parentNode.className = '';}}document.getElementById("score").innerHTML = '';}</script>
+    <!--script2-->
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="canonical" href="http://alba-english.org/Style - avoid short sentences.html" />
+</head>
+
+<body>
+    <!--[if lt IE 8]>
+    <p>You are using an old  Internet Explorer browser. <strong><a href="http://browsehappy.com/">Upgrade your browser</a></strong or some things here will not work</p>
+    <![endif]-->
+
+    <header>
+        <h1>Style - avoid short sentences</h1>
+    </header>
+    
+    <navbar>
+        <ul>
+            <li><a href="./index.html">&nbspHome&nbsp</a></li><li><a class="active" href="Index - Style.html">&nbspStyle&nbsp</a></li>
+            <li><a href="Admin - contact.html">&nbspContact&nbsp</a></li>
+            <li><a href="Admin - about.html">&nbspAbout&nbsp</a></li>
+            <li><a href="Index - Site Map.html">&nbspSitemap&nbsp</a></li>
+        </ul>
+    </navbar
+
+    <nav>
+		<ul>
+			<li><a href = "#Too many short sentences is bad.">Too many short sentences is bad.</a></li>
+			<li><a href = "#Target is 15 words">Target is 15 words</a></li>
+		<ul>
+			<li><a href = "#For essays in this class">For essays in this class</a></li>
+			<li><a href = "#For other work">For other work</a></li>
+		</ul>
+			<li><a href = "#Exceptions">Exceptions</a></li>
+			<li><a href = "#Solution">Solution</a></li>
+		</ul></ul>
+	</nav>
+    <section>
+
+        <!--indexstring-->
+        <!--adstring-->
+        <h2 id="Too many short sentences is bad.">	Too many short sentences is bad. </h2>
+<h4>	Bad Example </h4>
+<blockquote>	The second criterion is having a clear goal. Organizations should clearly say what they do. They should say why inviting volunteers is necessary. Goals could be ending hunger and so on. This can be check on their website. It should have a list of goals. In summary it is possible to find a good volunteer organization. </blockquote>
+	<p>	 </p>
+<h4>	Why? </h4>
+	<p>	1) It just sounds bad. </p>
+	<p>	2) It is difficult to join your ideas together </p>
+	<p>	3) Every sentence needs a subject, so you might repeat it too much </p>
+	<p>	 </p>
+<h4>	How to count </h4>
+	<p>	Word count of a sentence does NOT include citations </p>
+	<p>	Penguins are bird ("A study on flightless birds of the Antarctic," n.d.) </p>
+	<p>	This sentence is <strong> three </strong> words, not eleven </p>
+	<p>	 </p>
+<h2 id="Target is 15 words">	Target is 15 words </h2>
+<h3 id="For essays in this class">	For essays in this class </h3>
+<ul><li>	10 words per sentence ABSOLUTE MINIMUM. </li>
+<li>	15 words is OK </li>
+<li>	20 words is good </li>
+
+</ul>
+</ul>	<p>	 </p>
+	<p>	 </p>
+<h3 id="For other work">	For other work </h3>
+	<p>	News articles have shorter sentences than essays. Dissertation sentences can be much longer. When you write something, find some examples and check what is expected. </p>
+	<p>	 </p>
+	<p>	 </p>
+<h2 id="Exceptions">	Exceptions </h2>
+<ul><li>	Keyword) sentences can be short (although it's better if they're not). THese are OK: </li>
+<ul><li>	The third problem is pollution. </li>
+<li>	The second solution is reducing costs. </li>
+<li>	This paragraph describes three possible solutions </li>
+</ul><li>	Quote sentence can be short. </li>
+<ul><li>	As Martin Luther King said, "I have a dream". </li>
+
+</ul>
+</ul>
+</ul>	<p>	 </p>
+<h2 id="Solution">	Solution </h2>
+<ul><li>	Join sentences together (but/and/so/because/etc) </li>
+<li>	Give more detail - see <a href="Arrangement - write a detail sentence.html">write a detail sentence</a> </li>
+<li>	Also see <a href="Style - use cohesion.html">use cohesion</a> </li>
+
+</ul>
+</ul>	<p>	 </p>
+	<p>	 </p>
+<div id="quiz"><h2>Quiz</h2><form><fieldset id="q1"><br><legend>What is the MINIMUM length of a sentence in an essay for  this class?</legend><label><input type="radio" name="q1" value="p"/>7 words </label><br/><label><input type="radio" name="q1" value="x"/>10 words </label><br/><label><input type="radio" name="q1" value="r"/>15 words </label><br/><label><input type="radio" name="q1" value="s"/>20 words</label><br/></fieldset><fieldset id="q2"><br><legend>What is a GOOD length of a sentence in an essay for  this class?</legend><label><input type="radio" name="q2" value="p"/>7 words </label><br/><label><input type="radio" name="q2" value="q"/>10 words </label><br/><label><input type="radio" name="q2" value="r"/>15 words </label><br/><label><input type="radio" name="q2" value="x"/>20 words</label><br/></fieldset><fieldset id="q3"><br><legend>What is NOT included in the length of your sentence? </legend><label><input type="radio" name="q3" value="p"/>The first word </label><br/><label><input type="radio" name="q3" value="q"/>The last word </label><br/><label><input type="radio" name="q3" value="r"/>Names of people </label><br/><label><input type="radio" name="q3" value="x"/>Citations</label><br/></fieldset><fieldset id="q4"><br><legend>Some sentences are OK if they are short. Which of these is ok? </legend><label><input type="radio" name="q4" value="p"/>A summary sentence </label><br/><label><input type="radio" name="q4" value="q"/>An example sentence </label><br/><label><input type="radio" name="q4" value="x"/>A quote </label><br/><label><input type="radio" name="q4" value="s"/>A sentence in Japanese</label><br/></fieldset></form></div><input type="button" id="btn" value="Check Answers"/><input type="button" id="btnclr" value="Clear"/><h3 id="score"></h3>
+        <!--quizstring-->
+        
+    </section>
+    
+    <footer>
+        &copy; <a href="http://alba-english.org">Alba English</a> (2016-05-24, 12:36)
+
+    </footer>
+</body>
+</html>
