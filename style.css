@@ -219,12 +219,12 @@ ul {
 }
 
 ol {
-    counter-reset: item;
+    list-style-position: outside;
+    counter-increment: item;
     margin: 0;
     padding: 0 1vw 0 4vw;
     text-align: left;
     list-style-type: upper-roman;
-    list-style-position: inside;
     font-family: "Times New Roman", serif;
 }
 ol > li {
