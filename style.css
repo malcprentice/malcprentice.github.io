@@ -196,12 +196,46 @@ example p{
   font-family: "Times New Roman", serif;
   font-size: 2.5vw;
   text-indent: 2vw;
+  color: #000000;
+  line-height: 5vw;
   -webkit-user-select: none;  
   -moz-user-select: none;    
   -ms-user-select: none;  
   user-select: none;        
 }
 
+example h2{
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  text-align: center;
+
+  margin: 0;
+  color: #000000;
+  border-left: 1vw;
+  border-top: 1vw;
+  border-bottom: 1vw;
+
+  margin-top: 4vw;
+  margin-bottom: 4vw;
+
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;  
+  user-select: none;        
+}
+
+example h3{
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 2.5vw;
+  text-indent: 0vw;
+  margin-top: 4vw;
+  color: #000000;
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;  
+  user-select: none;        
+}
 
 a:focus,
 a:hover {
