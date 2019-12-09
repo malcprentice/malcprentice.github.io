@@ -11,6 +11,7 @@ http://www.alba-english.org/Resources - take the TOEFL iBT - 1 - Reading.html
 http://www.alba-english.org/Study Skills - make small talk.html
 http://www.alba-english.org/Resources - spelling alphabet.html
 http://www.alba-english.org/Resources - comics about learning languages.html
+http://www.alba-english.org/Invention - avoid bad sources.html
 http://www.alba-english.org/Style - write a research results section.html
 http://www.alba-english.org/Study Skills - learn vocabulary.html
 http://www.alba-english.org/Resources - list of conversation starters.html
@@ -26,7 +27,6 @@ http://www.alba-english.org/Index - Site Map.html
 http://www.alba-english.org/Arrangement - write a sectional essay.html
 http://www.alba-english.org/Style - write a response.html
 http://www.alba-english.org/Arrangement - write a detail sentence.html
-http://www.alba-english.org/Resources - take the TOEFL iBT - An Overview.html
 http://www.alba-english.org/Style - use title case.html
 http://www.alba-english.org/Study Skills - manage time.html
 http://www.alba-english.org/Arrangement - write a specific genre.html
@@ -53,6 +53,7 @@ http://www.alba-english.org/Examples - TOEFL Independent essay.html
 http://www.alba-english.org/Study Skills - set goals.html
 http://www.alba-english.org/Projects - write a CV and cover letter.html
 http://www.alba-english.org/Resources - websites for other things.html
+http://www.alba-english.org/Invention - recognise types of evidence.html
 http://www.alba-english.org/Examples - example cover letter.html
 http://www.alba-english.org/Study Skills - present.html
 http://www.alba-english.org/Style - write a compare-contrast sentence.html
@@ -96,6 +97,7 @@ http://www.alba-english.org/Style - use gerunds and infinitives.html
 http://www.alba-english.org/Style - write a research methods section.html
 http://www.alba-english.org/Invention - quote and paraphrase.html
 http://www.alba-english.org/Invention - use APA title case and italics.html
+http://www.alba-english.org/Study Skills - last class.html
 http://www.alba-english.org/Resources - plan a trip.html
 http://www.alba-english.org/Resources - can do.html
 http://www.alba-english.org/Resources - websites for listening.html
