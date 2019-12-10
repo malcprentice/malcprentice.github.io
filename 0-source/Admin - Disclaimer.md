@@ -6,12 +6,12 @@
 This document was created using a Contractology template available at http://www.contractology.com.
 
 ##No warranties
-
 This website is provided “as is” without any representations or warranties, express or implied.  Alba English makes no representations or warranties in relation to this website or the information and materials provided on this website.  
 
 Without prejudice to the generality of the foregoing paragraph, Alba English does not warrant that:
 *this website will be constantly available, or available at all; or
 *the information on this website is complete, true, accurate or non-misleading.
+
 
 Nothing on this website constitutes, or is meant to constitute, advice of any kind.  [If you require advice in relation to any [legal, financial or medical] matter you should consult an appropriate professional.]
 

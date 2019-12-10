@@ -11,8 +11,6 @@ This page is about how to plan and organise a cause-effect PARAGRAPH.
 **Future Effect:	What would happen if we banned smoking? What will happen if we turn the nuclear power stations back on?
 **Future Cause:	How can we get the government to ban smoking?
 
-
-
 #Invention - Visual Organisers
 Use these to guide your brainstorm
 
