@@ -1,0 +1,7 @@
+[[Research - analyse qualitative data]]
+[[Research - analyse quantitative data using R - intro]]
+[[Research - do a survey]]
+[[Research - do an interview]]
+[[Research - make a questionnaire]]
+[[Research - write a proposal]]
+[[Research - write good survey questions]]
