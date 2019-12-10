@@ -32,7 +32,6 @@ http://www.alba-english.org/Examples - example ethical consumption essay.html
 http://www.alba-english.org/Examples - example refugees and asylum seekers essay.html
 http://www.alba-english.org/Index - Arrangement.html
 http://www.alba-english.org/Index - Examples.html
-http://www.alba-english.org/Index - External Links.html
 http://www.alba-english.org/Index - Invention.html
 http://www.alba-english.org/Index - Notes.html
 http://www.alba-english.org/Index - Projects.html
@@ -118,12 +117,9 @@ http://www.alba-english.org/Schedules - Curriculum for Communication.html
 http://www.alba-english.org/Schedules - Curriculum for General Academic Skills.html
 http://www.alba-english.org/Schedules - Malc's schedule.html
 http://www.alba-english.org/Schedules - Syllabus for British Culture.html
-http://www.alba-english.org/Schedules - Syllabus for EFS SPRING.html
 http://www.alba-english.org/Schedules - Syllabus for EFS.html
-http://www.alba-english.org/Schedules - Syllabus for GCP SPRING.html
 http://www.alba-english.org/Schedules - Syllabus for GCP.html
 http://www.alba-english.org/Schedules - Syllabus for Global Village training.html
-http://www.alba-english.org/Schedules - Syllabus for SSB SPRING.html
 http://www.alba-english.org/Schedules - Syllabus for SSB.html
 http://www.alba-english.org/Schedules - Syllabus for intensive Communication.html
 http://www.alba-english.org/Schedules - Syllabus for intensive TOEIC.html
