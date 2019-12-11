@@ -1,4 +1,5 @@
 Once your essays get longer than 5 paragraphs, you need to use sections.
+
 This will be clearer if you read some examples and templates.
 *Template for Essay - Sectional 9 paragraph Problem-Solution
 *Template for Essay Outline - Sectional 9 paragraph Problem-Solution
@@ -6,7 +7,7 @@ This will be clearer if you read some examples and templates.
 A sectional essay needs subheadings and extra thesis statements
 
 ##Subheadings
-bold, [[Style - use title case]], subheading, and LEFT aligned
+Bold, [[Style - use title case]], subheading, and LEFT aligned
 
 ##A thesis statements for each section
 IN ADDITION to the topic sentence for the first paragraph
