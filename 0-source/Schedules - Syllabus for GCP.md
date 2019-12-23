@@ -2,21 +2,22 @@
 This class, which is only open to students in the Global Citizenship Program, is designed to help students prepare for fully participating in western-style English-only classes in their academic field.
 
 #Goals and Objectives
-Objectives are same for both semesters but more is expected in semester two.
 This course follows the [[Schedules - Curriculum for General Academic Skills]]
+Objectives are same for both semesters, but more is expected in semester two.
 
 #Required Materials
 *A4 40 pocket plastic folder
 *No textbook for this class
 
 
+
 #Evaluation/Assessment
 ###Required items
 Item								|% 				|Minimum///(NG points if missing) |OK points if extra?							|Instructions
-------------------------------------|---------------|-------------------------------|------------------------------------------|---------------------------------
+------------------------------------|---------------|-------------------------------|------------------------------------------     |---------------------------------
 Referenced Essays					|30%			|(A 15%, B 15%)      			|No  	 										|see weekly schedule
-Final Presentation |10%			|10%		|No   											|see weekly schedule
-Participation 						|20% 			|=OK-absences-NG+curve		    |Participation IS OK points 					|see [[Study Skills - do well in class]] /// see [[Study Skills - get independent learning points]]
+Final Presentation                  |10% (Delivery)	|10%		        x            |No   											|see weekly schedule
+Participation 						|20% 			|=OK-absences-NG+curve		    |Participation IS OK points 					|see your Participation Point plan
 Vocabulary Project (V)				|10% (test)		|15 words per class (420 total) |No 	                                        |see [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)			|10% 			|28 minimum 				  	|max 5 OK points for 15 extra (total 43)		|see [[Study Skills - do a quickwrite]]
 Speed Reading (SR)           		|10% 			|1 book (20 readings) minimum 	|max 5 OK points for 20 extra (total 40)		|see [[Study Skills - do a speed reading]]
@@ -27,6 +28,7 @@ Research Report (RR Powerpoint)     |10% 			|3 turns per term				|No												
 ###Optional items for Participation points
 *I want you to try what is available in SAC and the university.
 *See [[Study Skills - get independent learning points]]
+
 
 ###Grading system
 See [[Resources - grading system]]

@@ -30,7 +30,7 @@
 [[Examples - example ethical consumption essay]]
 [[Examples - example refugees and asylum seekers essay]]
 ##Invention
-[[Invention - avoid bad sources]]
+[[Invention - find good sources]]   
 [[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
 [[Invention - avoid getting onioned]]

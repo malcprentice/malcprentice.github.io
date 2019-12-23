@@ -26,7 +26,7 @@ All facts/ideas/quotes cited?                                      |<blue>OK</bl
 [[Invention - use APA format in the text]]                  |<blue>OK</blue><red> </red>
 [[Invention - use APA format in reference lists]]                      |<blue>OK</blue><red> </red>
 minimum number of sources used (see project sheet for number)           |<blue>OK</blue><red> </red>
-Use good sources, avoid bad sources                                       |<blue>OK</blue><red> </red>
+[[Invention - find good sources]]                                          |<blue>OK</blue><red> </red>
 Can answer questions on topic?                                               |<blue>OK</blue><red> </red>
 
 

@@ -6,7 +6,7 @@ __By the end of this course you will be able to:__
 *understand the question you need to answer
 *identify an interesting and researchable topic
 *use various strategies for generating ideas
-*find useful sources
+*[[Invention - find good sources]]  
 **search online effectively
 **know what is available on campus
 **avoid bad sources

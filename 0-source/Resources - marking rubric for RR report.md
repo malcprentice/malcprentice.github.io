@@ -25,7 +25,7 @@ Any plagiarism / bad paraphrasing?									|<blue>OK</blue>
 [[Invention - use APA format in the text]]					        |<blue>OK</blue>
 [[Invention - use APA format in reference lists]]					|<blue>OK</blue>
 minimum number of sources used (see project sheet for number)		|<blue>OK</blue>
-Find good sources, avoid bad sources									|<blue>OK</blue>
+[[Invention - find good sources]]									|<blue>OK</blue>
 
 ###Notes
 *Grading sections

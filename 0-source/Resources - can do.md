@@ -17,7 +17,7 @@ I can [[Arrangement - write an introduction - overview]]
 I can [[Arrangement - write an introduction paragraph background]]
 I can [[Arrangement - write an introduction thesis statement]]
 #Invention
-I can [[Invention - avoid bad sources]]
+I can [[Invention - find good sources]] 
 I can [[Invention - avoid common APA format problems]]
 I can [[Invention - avoid fallacies]]
 I can [[Invention - avoid getting onioned]]
