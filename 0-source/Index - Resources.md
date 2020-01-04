@@ -1,3 +1,4 @@
+[[Resources - Discussions with a point]]
 [[Resources - Speed Reading answers]]
 [[Resources - Training - choose a learning focus]]
 [[Resources - Training - handle mixed level classes]]

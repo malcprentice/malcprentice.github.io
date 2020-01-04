@@ -41,12 +41,12 @@ http://www.alba-english.org/Index - Schedules.html
 http://www.alba-english.org/Index - Site Map.html
 http://www.alba-english.org/Index - Study Skills.html
 http://www.alba-english.org/Index - Style.html
-http://www.alba-english.org/Invention - avoid bad sources.html
 http://www.alba-english.org/Invention - avoid common APA format problems.html
 http://www.alba-english.org/Invention - avoid fallacies.html
-http://www.alba-english.org/Invention - avoid getting onioned.html
+http://www.alba-english.org/Invention - find good sources.html
 http://www.alba-english.org/Invention - quote and paraphrase.html
 http://www.alba-english.org/Invention - recognise and avoid plagiarism.html
+http://www.alba-english.org/Invention - recognise source bias and quality.html
 http://www.alba-english.org/Invention - recognise types of evidence.html
 http://www.alba-english.org/Invention - use APA format for Japanese sources.html
 http://www.alba-english.org/Invention - use APA format for tables and figures.html
@@ -79,6 +79,7 @@ http://www.alba-english.org/Research - do an interview.html
 http://www.alba-english.org/Research - make a questionnaire.html
 http://www.alba-english.org/Research - write a proposal.html
 http://www.alba-english.org/Research - write good survey questions.html
+http://www.alba-english.org/Resources - Discussions with a point.html
 http://www.alba-english.org/Resources - Speed Reading answers.html
 http://www.alba-english.org/Resources - Training - choose a learning focus.html
 http://www.alba-english.org/Resources - Training - handle mixed level classes.html

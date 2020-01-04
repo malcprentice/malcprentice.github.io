@@ -30,12 +30,12 @@
 [[Examples - example ethical consumption essay]]
 [[Examples - example refugees and asylum seekers essay]]
 ##Invention
-[[Invention - find good sources]]   
 [[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
-[[Invention - avoid getting onioned]]
+[[Invention - find good sources]]
 [[Invention - quote and paraphrase]]
 [[Invention - recognise and avoid plagiarism]]
+[[Invention - recognise source bias and quality]]
 [[Invention - recognise types of evidence]]
 [[Invention - use APA format for Japanese sources]]
 [[Invention - use APA format for tables and figures]]
@@ -72,6 +72,7 @@
 [[Research - write a proposal]]
 [[Research - write good survey questions]]
 ##Resources
+[[Resources - Discussions with a point]]
 [[Resources - Speed Reading answers]]
 [[Resources - Training - choose a learning focus]]
 [[Resources - Training - handle mixed level classes]]

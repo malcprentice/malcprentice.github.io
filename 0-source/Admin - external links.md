@@ -6,6 +6,7 @@ archive.catholicherald.co.uk: http://archive.catholicherald.co.uk/article/20th-f
 azlyrics.com: http://azlyrics.com
 bigthink.com: http://bigthink.com/topics
 blog.apastyle.org: http://blog.apastyle.org
+bmjopen.bmj.com: http://bmjopen.bmj.com/
 breakingnewsenglish.com: http://breakingnewsenglish.com/
 buzzhootroar.com: http://buzzhootroar.com/whats-the-difference/
 ci.nii.ac.jp: http://ci.nii.ac.jp/books/
@@ -38,6 +39,7 @@ hostels.com: http://hostels.com
 hotels.com: http://hotels.com
 idealist.org: http://idealist.org
 jalt-publications.org: http://jalt-publications.org/archive/proceedings/2009/E035.pd
+jalt.org: http://jalt.org/main/publications
 jalt.org: http://jalt.org/main/publications	http://www.bps.org.uk/publications
 japantoday.com: http://japantoday.com/
 jasonrenshaw.typepad.com: http://jasonrenshaw.typepad.com/ibt_speaking_writing/2008/05/40-new-practice.html
@@ -96,6 +98,7 @@ airbnb.com: http://www.airbnb.com/c/mprentice39
 aljazeera.com: http://www.aljazeera.com/
 alternate-power.org: http://www.alternate-power.org/solar-power-advantages-and-disadvantages/
 amazon.com: http://www.amazon.com/Publication-American-Psychological-Association-Edition/dp/1433805618
+apa.org: http://www.apa.org
 apa.org: http://www.apa.org/pubs/databases/
 atlasobscura.com: http://www.atlasobscura.com
 bbc.co.uk: http://www.bbc.co.uk
@@ -116,6 +119,8 @@ bbc.com: http://www.bbc.com/news/world-middle-east-29255315
 belfasttelegraph.co.uk: http://www.belfasttelegraph.co.uk/
 bibsonomy.org: http://www.bibsonomy.org/
 bitoffun.com: http://www.bitoffun.com/video_vault/yuriko-kotani-ish.htm
+bps.org.uk: http://www.bps.org.uk/publications
+cambridge.org: http://www.cambridge.org/
 cambridge.org: http://www.cambridge.org/		http://www.press.uchicago.edu/
 cbc.ca: http://www.cbc.ca/news/world/
 cdc.gov: http://www.cdc.gov/globalaids/Success-Stories/Nigeria.html
@@ -215,8 +220,10 @@ npr.org: http://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-
 nytimes.com: http://www.nytimes.com/
 odakyu.jp: http://www.odakyu.jp/program/emg/index.html
 oxfam.org.uk: http://www.oxfam.org.uk/education/resources/explore-overseas-aid
+plosone.org: http://www.plosone.org/
 plosone.org: http://www.plosone.org/			http://bmjopen.bmj.com/
 praguepost.com: http://www.praguepost.com/
+press.uchicago.edu: http://www.press.uchicago.edu/
 pri.org: http://www.pri.org/
 qub.ac.uk: http://www.qub.ac.uk/
 quetext.com: http://www.quetext.com/
@@ -314,6 +321,7 @@ beatthetest.wordpress.com: https://beatthetest.wordpress.com/2007/02/05/100-writ
 blogit.itu.dk: https://blogit.itu.dk/ethos/wp-content/uploads/sites/14/2016/03/8-06SRSOverview.jpg
 busuu.com: https://busuu.com/enc/
 chains.cc: https://chains.cc/
+ci.nii.ac.jp: https://ci.nii.ac.jp/
 commons.wikimedia.org: https://commons.wikimedia.org/wiki/Main_Page
 dbr.nii.ac.jp		(Japanese: https://dbr.nii.ac.jp		(Japanese
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSd5pe55AuQASS6y7PFxpsmnADoHS6wswV2gliNx5dh3jOfFfg/viewform?usp=sf_link
@@ -346,6 +354,8 @@ openclipart.org: https://openclipart.org/
 owl.english.purdue.edu: https://owl.english.purdue.edu/owl/resource/560/01/
 quizlet.com: https://quizlet.com/
 scholar.google.co.jp: https://scholar.google.co.jp/
+scholar.google.com: https://scholar.google.com/
+scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+penguin+warming+ocean&btnG=
 simple.wikipedia.org: https://simple.wikipedia.org/wiki/Venn_diagram
 thenounproject.com: https://thenounproject.com/
 traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/delay_certificate/
@@ -382,6 +392,8 @@ google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&
 google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj28cOdv8_WAhWHG5QKHcVnAYMQjBAIMzAB&url=https%3A%2F%2Fowl.english.purdue.edu%2Fowl%2Fresource%2F560%2F18%2F&usg=AOvVaw3oP7lRnREgxXz0iMnZZTZG
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=book&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fc
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=volunteering&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=flickr.com&safe=images&tbs=sur:fc
+google.com: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+ngo%22+japan&oq=%22amazon+ngo%22+japan
+google.com: https://www.google.com/search?client=safari&rls=en&q=amazon+%22ngo+japan%22
 gov.uk: https://www.gov.uk/foreign-travel-advice
 grammarly.com: https://www.grammarly.com/plagiarism-checker
 hackerearth.com: https://www.hackerearth.com/
