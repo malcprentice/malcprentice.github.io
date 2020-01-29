@@ -1,7 +1,7 @@
 #General Description
 *This course is a 8-day, TWO credit, intensive Communication and TOEIC skills course. 
-*In the Communication section, students will practice speaking, listening, reading and writing on topics that are useful for everyday situations. Students will give presentations in English.
-*In the TOEIC section of the course, students will learn and practice test-taking strategies to improve their TOEIC scores. 
+**In the Communication section, students will practice speaking, listening, reading and writing on topics that are useful for everyday situations. Students will give presentations in English.
+**In the TOEIC section of the course, students will learn and practice test-taking strategies to improve their TOEIC scores. 
 *This syllabus is for the COMMUNICATION section of the course with Malc.
 *Credit for the course is optional (if you get a failing grade and you don't want it, you can cancel the course even after it is finished). 
 
@@ -92,19 +92,22 @@ Absences/Lateness also reduce your participation score, but:
 *Learn how to [[Study Skills - make small talk]]
 *Learn how to [[Study Skills - ask good questions]]
 *Learn how to [[Study Skills - do a quickwrite]]
-*Write, share, and discuss QW 1
+*Write, share, and discuss in-class QW (IC-QW-1)
+*Present HW quickwrite
 *Learn how to [[Study Skills - learn vocabulary]]
 *Introduction to Presentations project
 
 ##Class 3+4
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (1-10)
+*Quickwrite (HW-QW-1)
 *Work on presentations
 ###What we will do in class
 *Small Talk practice
 *Vocab test
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-2)
+*Present HW quickwrite
+*Picture Description
 *Check and practice presentations
 *Learn how to [[Style - give a clear presentation]]
 *Learn how to [[Style - give good feedback]]
@@ -112,79 +115,94 @@ Absences/Lateness also reduce your participation score, but:
 
 ##Class 5+6
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (11-20)
+*Quickwrite (HW-QW-2)
 *Work on presentations
 
 ###What we will do in class
 *Small Talk practice
 *Vocab test
 *Check and practice presentations
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-3)
+*Present HW quickwrite
+*Picture Description
 
 ##Class 7+8
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (21-30)
+*Quickwrite (HW-QW-3)
 *Work on presentations (last chance!)
 
 
 ###What we will do in class
 *Small Talk practice
 *Vocab test
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-4)
+*Present HW quickwrite
+*Picture Description
 *Short presentations <red>(10% of grade) </red>!
 *Intro to presentation 2
 
 ##Class 9+10
 ###What to prepare for this class:
-*Vocab 4
-*Quickwrite
+*Vocab (31-40)
+*Quickwrite (HW-QW-4)
 *Work on presentations
 
 ###What we will do in class
 *Small Talk practice
 *Vocab test
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-5)
+*Present HW quickwrite
+*Picture Description
 *Check and practice presentations
 
 
 ##Class 11+12
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (41-50)
+*Quickwrite (HW-QW-5)
 *Work on presentations
 
 ###What we will do in class
 *Small Talk practice
 *Vocab test
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-6)
+*Present HW quickwrite
+*Picture Description
 *Check and practice presentations
 
 ##Class 13+14  
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (51-60)
+*Quickwrite (HW-QW-6)
 *Work on presentations
 
 ###What we will do in class
 *Small Talk practice
 *Vocab test
-*Write, share, and discuss QW
+*Write, share, and discuss in-class QW (IC-QW-7)
+*Present HW quickwrite
+*Picture Description
 *Check and practice presentations
 *Check progress on QW and vocab. 
-*Collect HW, check presentations (anyone who will be absent on day 8). 
+*For anyone who is absent tomorrow: collect HW, do presentations, do vocab test.
 
 ##Class 15+16
 ###What to prepare for this class:
-*Vocab
-*Quickwrite
+*Vocab (61-70)
+*Study all vocab (1-70)
+*Quickwrite (HW-QW-7)
+*Check you have ALL quickwrites ready to submit. 
 *Work on presentations
 
 ###What we will do in class
-*Final Vocab Test <red>(10% of grade) </red>!
-*Short presentations <red>(10% of grade) </red>!
-*Collect all homework
+*Last QW (IC-QW-8)
+*Final Vocab Test (1-70) <red>(10% of grade!) </red>
+*Short presentations <red>(10% of grade) </red>
+*Collect all QW 
+**(8 in class+ 7HW = 15 minimum
+** plus any extra QW for participation points
 *Assign Communication Grade
 *Questionnaire
 *Credit/No credit decision
