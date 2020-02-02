@@ -5,13 +5,13 @@ Plagiarism = Stealing someone's words or ideas = FAIL
 
 # Plagiarism Discussion
 ### Background
->>The lead author on the STAP cell paper that was in the news a few years ago - Haruko Obokata - is also accused of plagiarising her PhD thesis. She claims that the online version is an early draft, but her university has said it is "unaware of any other drafts of the dissertation" (McCoy, 2014, December 19). Here are the first paragraphs. What do you think?
+>The lead author on the STAP cell paper that was in the news a few years ago - Haruko Obokata - is also accused of plagiarising her PhD thesis. She claims that the online version is an early draft, but her university has said it is "unaware of any other drafts of the dissertation" (McCoy, 2014, December 19). Here are the first paragraphs. What do you think?
 
 ### From the NIH website
->>"Stem cells have the remarkable potential to develop into many different cell types in the body during early life and growth. In addition, in many tissues they serve as a sort of internal repair system, dividing essentially without limit to replenish other cells as long as the person or animal is still alive" (National Institutes of Health, n.d.).
+>"Stem cells have the remarkable potential to develop into many different cell types in the body during early life and growth. In addition, in many tissues they serve as a sort of internal repair system, dividing essentially without limit to replenish other cells as long as the person or animal is still alive" (National Institutes of Health, n.d.).
 
 ### From the dissertation
->>"Stem cells have the remarkable potential to develop into many different cell types in the body during early life and growth. In addition, in many tissues they serve as a sort of internal repair system, dividing essentially without limit to replenish other cells as long as the person or animal is still alive." (Obokata, 2011)
+>"Stem cells have the remarkable potential to develop into many different cell types in the body during early life and growth. In addition, in many tissues they serve as a sort of internal repair system, dividing essentially without limit to replenish other cells as long as the person or animal is still alive." (Obokata, 2011)
 ### Questions
 * Why do you think Waseda University supervisors did not catch this?
 * Waseda has decided not to cancel her PhD. Do you think this is the correct decision?
@@ -47,7 +47,7 @@ He <orange>gave up</orange> his citizenship for  <orange>some </orange> reasons 
 
 
 ### Type 5 Plagiarism: Perfectly cited, but too many quotes ("Patchwriting")
->>Deforestation is also a major source of greenhouse gases. <red>"Approximately a third of all human related greenhouse gas emissions are absorbed by the oceans"</red> (SEE Turtles, n.d.). Last, <red>"WWF works around  the world to establish marine protected areas (MPA) to ensure sea turtles have a safe place to nest, feed and migrate freely"</red> (WWF, n.d.), and there is a treaty about the international business of the endangered wild animals and plants. However, <red>"despite their current protection under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and many national laws, there is still a disturbingly large amount of illegal trade in hawksbill shells and products"<red> (WWF, n.d.).
+>Deforestation is also a major source of greenhouse gases. <red>"Approximately a third of all human related greenhouse gas emissions are absorbed by the oceans"</red> (SEE Turtles, n.d.). Last, <red>"WWF works around  the world to establish marine protected areas (MPA) to ensure sea turtles have a safe place to nest, feed and migrate freely"</red> (WWF, n.d.), and there is a treaty about the international business of the endangered wild animals and plants. However, <red>"despite their current protection under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) and many national laws, there is still a disturbingly large amount of illegal trade in hawksbill shells and products"<red> (WWF, n.d.).
 
 
 # What is the solution?

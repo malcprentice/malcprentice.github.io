@@ -1,5 +1,5 @@
 # Here is a quote 
->>“It seemed to me,' said Wonko the Sane, 'that any civilization that had so far lost its head as to need to include a set of detailed instructions for use in a package of toothpicks, was no longer a civilization in which I could live and stay sane.” (Douglas Adams, "So Long, and Thanks for all the Fish")
+>“It seemed to me,' said Wonko the Sane, 'that any civilization that had so far lost its head as to need to include a set of detailed instructions for use in a package of toothpicks, was no longer a civilization in which I could live and stay sane.” (Douglas Adams, "So Long, and Thanks for all the Fish")
 
 # Here is a boilerplate, for those who need toothpick instructions
 ## Credit

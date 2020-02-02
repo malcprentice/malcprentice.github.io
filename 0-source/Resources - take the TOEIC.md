@@ -25,7 +25,7 @@ Example Questions (PDF): http://www.toeic.or.jp/library/new/info/img/i025/Exampl
 Online practice: http://www.iibc-global.org/toeic/test/lr/about/format/sample01.html
 # Tips
 ### General exam tip - be prepared
->>When I went to my first language test in a while a few years ago, I made a lot of mistakes. The exam was being held at a university in Tokyo. I arrived, then realised I had the wrong campus. I barely made it to the right campus in time. I had the wrong pencil for the grammar section ( no sharp-pencils allowed), the wrong kind of pen for the writing (no frixion allowed), and the battery on my watch (which I never usually use) had run out. Don't be like me! Prepare the right things in advance, and check everything twice.
+>When I went to my first language test in a while a few years ago, I made a lot of mistakes. The exam was being held at a university in Tokyo. I arrived, then realised I had the wrong campus. I barely made it to the right campus in time. I had the wrong pencil for the grammar section ( no sharp-pencils allowed), the wrong kind of pen for the writing (no frixion allowed), and the battery on my watch (which I never usually use) had run out. Don't be like me! Prepare the right things in advance, and check everything twice.
 ## Listening Tips
 1) Questions are in order (answer to first question is at beginning of listening)
 2) Answer as quickly as you can, then read the next question. Try to guess what is coming.

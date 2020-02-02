@@ -22,7 +22,7 @@ Instructional
 * This paragraph looks at how you can make in six easy steps, from preparation to presentation.
 
 ### Example Skeleton DESCRIPTIVE Paragraph
->>This paragraph describes how some thing(s) are made, in seven steps, from ONE to SEVEN. Firstly, step one. Detail on step one (Sato, n.d.). Secondly, step two. Detail on step two (Sato, n.d.). Thirdly, step three. Detail on step three (Sato, n.d.). Next, step four. Detail on step four (Suzuki, 2013). After that, step five. Detail on step five (Suzuki, 2013). Then, step six. Detail on step six (Smith, 2011, July 2). Finally, step seven. Detail on step seven (Smith, 2011, July 2). This paragraph has described how some thing(s) are made, however as mentioned in the introduction the (use/process of making) (them/it) can sometimes cause issues - the following paragraph will look at some of the problems caused.
+>This paragraph describes how some thing(s) are made, in seven steps, from ONE to SEVEN. Firstly, step one. Detail on step one (Sato, n.d.). Secondly, step two. Detail on step two (Sato, n.d.). Thirdly, step three. Detail on step three (Sato, n.d.). Next, step four. Detail on step four (Suzuki, 2013). After that, step five. Detail on step five (Suzuki, 2013). Then, step six. Detail on step six (Smith, 2011, July 2). Finally, step seven. Detail on step seven (Smith, 2011, July 2). This paragraph has described how some thing(s) are made, however as mentioned in the introduction the (use/process of making) (them/it) can sometimes cause issues - the following paragraph will look at some of the problems caused.
 
 ### Keywords
 * If you have more than 5 steps, don't list all keywords - it's too long

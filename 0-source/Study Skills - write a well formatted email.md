@@ -190,13 +190,13 @@ Send a "thank you" maximum __once,__ at the end of term.
 Your email will maybe automatically add something like this:
 
 
->>--///鈴木大志(創価大学)　経営学部経営学科 /// e1659abc@soka-u.jp ///学籍番号　e1659abc///
+>--///鈴木大志(創価大学)　経営学部経営学科 /// e1659abc@soka-u.jp ///学籍番号　e1659abc///
 ///
 This is fine but it __does not replace__ the things above. You still need to actually write your name on a line of its own in romaji. It still needs to be
 
 
 
->>Regards, /// ///Taishi Suzuki ///--///鈴木大志(創価大学)　経営学部経営学科 /// e1659abc@soka-u.jp ///学籍番号　e1659abc///
+>Regards, /// ///Taishi Suzuki ///--///鈴木大志(創価大学)　経営学部経営学科 /// e1659abc@soka-u.jp ///学籍番号　e1659abc///
 
 
 

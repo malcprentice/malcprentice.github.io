@@ -85,7 +85,7 @@ Blockquotes should be
 <blue>
 blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 <green>
->>I noticed in the Chinese class that when we did have a pause...I was very relieved to have a little break. If I hadn’t noticed that, I would have carried on worrying about pauses in my own teaching. (Lowe, 1987, p. 93)
+>I noticed in the Chinese class that when we did have a pause...I was very relieved to have a little break. If I hadn’t noticed that, I would have carried on worrying about pauses in my own teaching. (Lowe, 1987, p. 93)
 </green>
 Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
 </blue>

@@ -64,7 +64,7 @@ List Here: http://www.journalindicators.com/indicators
 *** Underline words I look up and write the translation in the margin
 
 # Step 9: Choose a way to keep notes.
->>You can write (a notebook or index cards), type into text files or Word files or use software that helps manage references (try Mendeley - http://www.mendeley.com or Zotero  https://www.zotero.org. Each has advantages - writing is eaier, but if you type you can a) search, b) copy-paste references and notes, c) backup everything (e.g. using Google Drive) d) read them on your phone and e) use automatic outlines to help you keep organised. We will practice several types using "Practice Reports"
+>You can write (a notebook or index cards), type into text files or Word files or use software that helps manage references (try Mendeley - http://www.mendeley.com or Zotero  https://www.zotero.org. Each has advantages - writing is eaier, but if you type you can a) search, b) copy-paste references and notes, c) backup everything (e.g. using Google Drive) d) read them on your phone and e) use automatic outlines to help you keep organised. We will practice several types using "Practice Reports"
 
 # Step 10: Read the article again, and take notes.
 * Don't copy long chunks. Summarize.

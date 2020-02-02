@@ -46,14 +46,14 @@ For example, lack of water could be solved by:
 Download __TEMPLATE for ESSAY OUTLINE - Sectional Case Study 1 location.docx__
 
 # Suggested Thesis Statement
->>"This essay will use the example of TOPIC in CITY/COUNTRY as a case study to illustrate the issues people _dealing with TOPIC/living in TOPIC/ trying to get TOPIC face,_ and some possible solutions for those issues."
+>"This essay will use the example of TOPIC in CITY/COUNTRY as a case study to illustrate the issues people _dealing with TOPIC/living in TOPIC/ trying to get TOPIC face,_ and some possible solutions for those issues."
 
 
 
 # Suggested Topics
 ## Topic suggestion 1: Slums
 ### Background
->>Some cities are just not very rich. However, other cities are reasonably wealthy but have very poor areas, with no access to basic services like water, electricity, education. These have various names, such as "slums" or "favelas".
+>Some cities are just not very rich. However, other cities are reasonably wealthy but have very poor areas, with no access to basic services like water, electricity, education. These have various names, such as "slums" or "favelas".
 ### Link Collection
 * TED 1: Prevention (15 mins): http://www.ted.com/talks/robert_muggah_how_to_protect_fast_growing_cities_from_failing
 * TED 2: Solution (15 mins): http://www.ted.com/talks/alessandra_orofino_it_s_our_city_let_s_fix_it?language=en
@@ -92,7 +92,7 @@ Specific background: Define "Basic Education"
 
 ## Topic Suggestion 3: Access to healthcare
 ### Background
->>If we get sick, we know we can go to the hospital and get good quality care and medicine, and it will not be too expensive. This is not true for many people around the world. As a result, many people suffer and die from preventable issues. For example, the top three killers in Nigeria are Malaria, respiratory infections, and HIV. These are all cureable or preventable diseases that are still killing people in Nigeria. Why?
+>If we get sick, we know we can go to the hospital and get good quality care and medicine, and it will not be too expensive. This is not true for many people around the world. As a result, many people suffer and die from preventable issues. For example, the top three killers in Nigeria are Malaria, respiratory infections, and HIV. These are all cureable or preventable diseases that are still killing people in Nigeria. Why?
 
 ### Link collection
 * Toilets: http://www.ted.com/talks/joe_madiath_better_toilets_better_life/transcript?language=en

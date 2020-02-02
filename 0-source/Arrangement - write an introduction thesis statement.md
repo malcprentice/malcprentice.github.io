@@ -175,5 +175,5 @@ If short, use same sentence. If long, use separate sentence
 
 
 For longer works, keywords can fill a paragraph
->>>The first chapter/section (reviews the relevant literature and gives some background to the research question. Then second chapter/section (describes the method used and the participants). Results are given in the third chapter, and finally the fourth chapter/section discusses the implications of the results.
+>The first chapter/section (reviews the relevant literature and gives some background to the research question. Then second chapter/section (describes the method used and the participants). Results are given in the third chapter, and finally the fourth chapter/section discusses the implications of the results.
 

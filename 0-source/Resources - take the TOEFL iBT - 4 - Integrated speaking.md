@@ -146,7 +146,7 @@ In this set of materials, the reading passage describes a migration by one cultu
 
 ## Style
 ### 1) Topic Sentence
->>In this set of materials, the reading passage is __a__ notice (message, announcement, etc) and the listening passage shows two students’ reaction to (the message, the announcement, it).
+>In this set of materials, the reading passage is __a__ notice (message, announcement, etc) and the listening passage shows two students’ reaction to (the message, the announcement, it).
 
 ### 2) "The reading passage is..."
 |a notice about X        |from the campus administration |It states/lists (that) X  
@@ -167,11 +167,11 @@ In this set of materials, the reading passage describes a migration by one cultu
 ## RLS CampusExamples
 ### 1) Bicycles
 (Old Purple Longman: Reading p205, Listening p208, CD3-43 )
->>In this set of materials, the reading passage is a notice, and the listening passage shows two students’ reaction to the notice. The reading passage is a notice about a problem with bicycle parking on campus. It states that too many students are parking bicycles in unauthorized places, whereas bicycles should be parked on the east and west sides of campus, where there is a sign. Additionally, the notice warns that from Monday November 1st, bicycles parked in the wrong place will be ticketed. In the listening passage two students discuss their unhappiness about the notice on bicycle parking. In the conversation, the man has already seen the notice, but the woman hasn’t. Neither is happy about the notice because it seems unfair to them that they can’t park their bicycles near their classrooms. 
+>In this set of materials, the reading passage is a notice, and the listening passage shows two students’ reaction to the notice. The reading passage is a notice about a problem with bicycle parking on campus. It states that too many students are parking bicycles in unauthorized places, whereas bicycles should be parked on the east and west sides of campus, where there is a sign. Additionally, the notice warns that from Monday November 1st, bicycles parked in the wrong place will be ticketed. In the listening passage two students discuss their unhappiness about the notice on bicycle parking. In the conversation, the man has already seen the notice, but the woman hasn’t. Neither is happy about the notice because it seems unfair to them that they can’t park their bicycles near their classrooms. 
 
 ### 2) Retirement
 (Longman: p205, Listening Photo p208, CD3-44)
->>In this set of materials, the reading passage  describes a message, and the listening passage provides a student conversation about the action they will take in response. 
+>In this set of materials, the reading passage  describes a message, and the listening passage provides a student conversation about the action they will take in response. 
 The reading passage is a message about the retirement of Dr Margaret Connor from the university president, at the end of Spring Semester, after 50 years. It also describes her career as a grad student and professor in the psychology department, where she was known for her dedication to students, and for writing many books and articles.
 In the listening passage, two students express surprise at the message. The man wanted to take  Dr Connor’s class. The woman's father had studied with the professor 30 years ago - her father said it was good - and so she also wanted to take one of the professor’s classes. They will probably try to take at least one class next semester, because it will be their last chance.  
   

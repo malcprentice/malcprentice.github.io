@@ -42,26 +42,26 @@ Like the essays in this class, you can just use the thesis statement pattern for
 
 # Examples from academic sources
 ### 1) Education
->>A further key Japanese cultural belief is that learners need to be persistent in their efforts to master a language, or indeed any skill.
+>A further key Japanese cultural belief is that learners need to be persistent in their efforts to master a language, or indeed any skill.
 This is an ARGUMENT paragraph, giving evidence to support the idea the main idea (learners need to be persistent)
 ### 2) Engineering
->>Green roofs have a potential for providing an attractive green space in downtown areas where the green space on the ground is limited or simply non-existing.
+>Green roofs have a potential for providing an attractive green space in downtown areas where the green space on the ground is limited or simply non-existing.
 This is an ARGUMENT paragraph, giving evidence to support the main idea (roofs have potential in some areas)
 
->>This review paper addressed the role of vegetated roofs in urban drainage considering both management of water quantity and quality with related aspects.
+>This review paper addressed the role of vegetated roofs in urban drainage considering both management of water quantity and quality with related aspects.
 This is a TS for FIRST paragraph of a CONCLUSION section in a formal article. It follows the formal pattern (above)
 
->>The review indicates clearly that there is a need of more research into green roof performance in urban environment.
+>The review indicates clearly that there is a need of more research into green roof performance in urban environment.
 This is a TS for FINAL paragraph of a CONCLUSION section in a formal article. It follows the formal pattern (above)
 
 ### 3) Software Engineering
->>Information visualization (Spence, 2001) is a branch of computer graphics and user interface which is concerned with the presentation of interactive or animated digital images so that users can understand data.
+>Information visualization (Spence, 2001) is a branch of computer graphics and user interface which is concerned with the presentation of interactive or animated digital images so that users can understand data.
 This is a TS for a DEFINITION paragraph in the LITERATURE REVIEW section of a research article. The rest of the paragraph will give more detail.
->>We can see in Figure 6 that there are three clusters of students.
+>We can see in Figure 6 that there are three clusters of students.
 This is a TS for a DESCRIPTION paragraph in the RESULTS section of a research article.
 
 ### 3) Other
->>We have already highlighted that the sites we used for advertising the survey may have led us to a biased sample
+>We have already highlighted that the sites we used for advertising the survey may have led us to a biased sample
 This is a topic sentence for a LIMITATIONS paragraph in the CONCLUSION section of the FOREWORD of a report.
 
 

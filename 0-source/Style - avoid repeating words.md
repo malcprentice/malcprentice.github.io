@@ -1,7 +1,7 @@
 A common style problem is using the same word too much.
 
 # Example
->>There are many <red>children</red> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>children</red>, from 6-14 years old. About 60% of the <red>children</red> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of these <red>children</red> are...
+>There are many <red>children</red> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>children</red>, from 6-14 years old. About 60% of the <red>children</red> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of these <red>children</red> are...
 
 
 # Solutions
@@ -30,7 +30,7 @@ e.g. think = "consider" or "ponder"
 * There are 14 teachers in my area, 2 <blue>of whom</blue> are retiring soon.
 
 # Example, fixed
->>There are many <blue>children</blue> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>minors</red>, from 6-14 years old. About 60% of <blue>those</blue> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of <blue>them</blue> are...
+>There are many <blue>children</blue> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>minors</red>, from 6-14 years old. About 60% of <blue>those</blue> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of <blue>them</blue> are...
 
 # Exceptions
 1) Repetition is OK when it is a keyword.

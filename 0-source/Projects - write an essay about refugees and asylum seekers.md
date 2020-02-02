@@ -1,7 +1,7 @@
 # Introduction
->>UNHCR was set up in 1951 to help the estimated 1 million people still uprooted after World War II to return home. Since then, we have helped find durable solutions for tens of millions of refugees ...the number of refugees of concern to UNHCR stood at 10.4 million refugees at the beginning of 2013, down slightly from a year earlier....half in Asia and some 28 per cent in Africa. Source: http://www.unhcr.org/pages/49c3646c1d.html
+>UNHCR was set up in 1951 to help the estimated 1 million people still uprooted after World War II to return home. Since then, we have helped find durable solutions for tens of millions of refugees ...the number of refugees of concern to UNHCR stood at 10.4 million refugees at the beginning of 2013, down slightly from a year earlier....half in Asia and some 28 per cent in Africa. Source: http://www.unhcr.org/pages/49c3646c1d.html
 
->>The terms asylum-seeker and refugee are often confused: an asylum-seeker is someone who says he or she is a refugee, but whose claim has not yet been definitively evaluated...Those judged through proper procedures not to be refugees, nor to be in need of any other form of international protection, can be sent back to their home countries. Source: http://www.unhcr.org/pages/49c3646c137.html
+>The terms asylum-seeker and refugee are often confused: an asylum-seeker is someone who says he or she is a refugee, but whose claim has not yet been definitively evaluated...Those judged through proper procedures not to be refugees, nor to be in need of any other form of international protection, can be sent back to their home countries. Source: http://www.unhcr.org/pages/49c3646c137.html
 
 |"Internally displaced people" 	|in a different part of their own country 			 
 |"Asylum Seekers" 				|in another country, __applying for__ official status 

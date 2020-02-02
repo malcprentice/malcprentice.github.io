@@ -90,10 +90,10 @@ Great! But don't use it 3 times in the essay.
 # Templates
 1 and 3 have been checked against ETS "perfect score" responses.
 ## Short 1 paragraph
->>The lecture completely refutes the passage. Contrary to the statement in the passage that READING1, the professor says that LISTENING1. The lecture also refutes the idea that READING2. In fact, LISTENING2. The professor also offers a different perspective on READING3. She says that LISTENING3.
+>The lecture completely refutes the passage. Contrary to the statement in the passage that READING1, the professor says that LISTENING1. The lecture also refutes the idea that READING2. In fact, LISTENING2. The professor also offers a different perspective on READING3. She says that LISTENING3.
 
 ## Longer 1 paragraph
->>Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
+>Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
 
 ## 3 paragraph
 + The reading passage talked about READINGTHESIS. It said that READING1. However, the listening said that LISTENING1.

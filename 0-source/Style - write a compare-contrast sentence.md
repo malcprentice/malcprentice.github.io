@@ -124,6 +124,6 @@ For example, imagine you are writing an essay about Diamonds"
 
 
 ### Examples of Description paragraph comparisons
->>The Dugong is similar to the Dolphin in that they are both air breathing mammals that are streamlined for the sea. However, Dugong are fatter, have flatter faces, and eat grass instead of fish.
+>The Dugong is similar to the Dolphin in that they are both air breathing mammals that are streamlined for the sea. However, Dugong are fatter, have flatter faces, and eat grass instead of fish.
 
->>Tantalum is similar to steel in both colour and appearance, however tantalum is a transition metal as opposed to a post-transition metal, much rarer, and has a much higher melting point - 3290K compared 933K
+>Tantalum is similar to steel in both colour and appearance, however tantalum is a transition metal as opposed to a post-transition metal, much rarer, and has a much higher melting point - 3290K compared 933K
