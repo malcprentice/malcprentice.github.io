@@ -1,8 +1,8 @@
 # Question patterns
-*Use these question patterns to write clear questions for your RR
-**Use the __bold bits__ but change the content
-*Also use them for small talk - "How was your weekend?" in class every week is boring
-**Other good small talk topics are Friends, Food and drink, Music, Pets, Shopping, Travel, TV and movies, Sports, Games, Gadgets, Work, Books, School
+* Use these question patterns to write clear questions for your RR
+** Use the __bold bits__ but change the content
+* Also use them for small talk - "How was your weekend?" in class every week is boring
+** Other good small talk topics are Friends, Food and drink, Music, Pets, Shopping, Travel, TV and movies, Sports, Games, Gadgets, Work, Books, School
 
 __Can you__ play an instrument?
 __Do you have any__ pets/brothers and sisters?

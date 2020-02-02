@@ -4,9 +4,9 @@ For tips on writing a compare-contrast _paragraph_, see [[Arrangement - write a 
 
 
 ### Cohesion - introducing a comparison section
-*X is very similar to the better known Y in that SIMILARITY, however while X is/can/has/does X-ONLY-QUALITY, Y is/can/has/does Y-ONLY-QUALITY. As such, Optional Cause-Effect comment. 
-**The Russian Desman is very similar to the better known mole in that it lives underground and burrows very well, however while the mole cannot swim, the Desman is very good in rivers. As such it eats fish, whereas the Mole only eats worms and KFC.
-**The Green Sea Turtle is very similmar to the better known Box Turtle (which can be seen in any pet shop) in that it is a amphibious fish eater with a hard shell. However, whil the EBT grows to no more than 5cm, the GST can be up to 3 meters in length. As such, the Green Sea Turtle would not make a good pet. 
+* X is very similar to the better known Y in that SIMILARITY, however while X is/can/has/does X-ONLY-QUALITY, Y is/can/has/does Y-ONLY-QUALITY. As such, Optional Cause-Effect comment. 
+** The Russian Desman is very similar to the better known mole in that it lives underground and burrows very well, however while the mole cannot swim, the Desman is very good in rivers. As such it eats fish, whereas the Mole only eats worms and KFC.
+** The Green Sea Turtle is very similmar to the better known Box Turtle (which can be seen in any pet shop) in that it is a amphibious fish eater with a hard shell. However, whil the EBT grows to no more than 5cm, the GST can be up to 3 meters in length. As such, the Green Sea Turtle would not make a good pet. 
 
 ### Compare - alternatives to "And"
 Both            |A and B        |are///can be   | expensive
@@ -97,11 +97,11 @@ Despite its speed, it is cheap
 ## Concession language
 These are good for "CHOICE" type iBT independent essays - they go in the Discussion after the summary and before the final comment.
 
-*While it is understandable that many prefer X as it is cheap. At the same time, Y
-*It is understandable that many prefer X, because it is cheap. However, Y
-*It is true that X is cheap, yet this is not an important quality.
-*Although X is cheaper, nevertheless it is low quality. Meanwhile, Y...
-*While X is cheaper, it is also low quality. Y is...
+* While it is understandable that many prefer X as it is cheap. At the same time, Y
+* It is understandable that many prefer X, because it is cheap. However, Y
+* It is true that X is cheap, yet this is not an important quality.
+* Although X is cheaper, nevertheless it is low quality. Meanwhile, Y...
+* While X is cheaper, it is also low quality. Y is...
 
 # Comparison sentence for a Description paragraph
 The following only applies when you [[Arrangement - write a description paragraph]]

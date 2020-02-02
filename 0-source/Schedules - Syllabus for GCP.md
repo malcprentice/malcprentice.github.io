@@ -6,8 +6,8 @@ This course follows the [[Schedules - Curriculum for General Academic Skills]]
 Objectives are same for both semesters, but more is expected in semester two.
 
 # Required Materials
-*A4 40 pocket plastic folder
-*No textbook for this class
+* A4 40 pocket plastic folder
+* No textbook for this class
 
 
 
@@ -26,8 +26,8 @@ Research Report (RR Powerpoint)     |10% 			|3 turns per term				|No												
 
 
 ### Optional items for Participation points
-*I want you to try what is available in SAC and the university.
-*See [[Study Skills - get independent learning points]]
+* I want you to try what is available in SAC and the university.
+* See [[Study Skills - get independent learning points]]
 
 
 ### Grading system
@@ -51,17 +51,17 @@ Fall A		|[[Projects - write an essay about refugees and asylum seekers]]	|7 para
 Fall B		|[[Projects - write a country case study]]                          |9 paragraph case study essay
 Fall C		|[[Research - do a survey]]							                |research powerpoint presentation
 
-*50% of all sources should be English.
-*There is no word limit as such, but you must have:
-**Minimum number of sentences-per-paragraph (see template)
-**No short sentences
+* 50% of all sources should be English.
+* There is no word limit as such, but you must have:
+** Minimum number of sentences-per-paragraph (see template)
+** No short sentences
 
 
 
 # Draft Weekly Schedule
-*Class Dates change too much.
-*See new Google Drive schedule linked from Google Classroom "Materials" box
-*I will slowly move details there
+* Class Dates change too much.
+* See new Google Drive schedule linked from Google Classroom "Materials" box
+* I will slowly move details there
 
 
 

@@ -1,7 +1,7 @@
 This all applies to the REFERENCE list
 In the text, follow the title case rules but do use italics for your title citations
-*Good: ("Title of an article," n.d.)
-*Bad: ("<em>Title of an article,</em>" n.d.)
+* Good: ("Title of an article," n.d.)
+* Bad: ("<em>Title of an article,</em>" n.d.)
 
 # Italics = the thing you hold 
 What do you hold?							|What do you NOT hold?
@@ -28,40 +28,40 @@ It depends:
 
 ### News websites
 Pretend they are actual newspapers. 
-*italics & title case for site name(<em>BBC Online, Mainichi Daily </em>)
-*no italics, no title case for video title
+* italics & title case for site name(<em>BBC Online, Mainichi Daily </em>)
+* no italics, no title case for video title
 
 ### Encyclopaedias
 Online encyclopaedias and dictionaries are considered books
-*in theory, italics and Title Case for website title
-*in theory, nothing for entry title
-*in practice <red>DO NOT CITE THESE!</red>
+* in theory, italics and Title Case for website title
+* in theory, nothing for entry title
+* in practice <red>DO NOT CITE THESE!</red>
 
 ### Video collections
 Are collections
-*italics and title case for the website (<em>YouTube, TED Talks</em>)
-*no italics, no title case for article title
+* italics and title case for the website (<em>YouTube, TED Talks</em>)
+* no italics, no title case for article title
 
 ### Normal websites (e.g. the Soka University website)
 Nothing for the website. Ever.
-*Normal websites are considered to be libraries
-*Web pages are just articles in those libraries 
-*so you NEVER cite the website name anyway. 
+* Normal websites are considered to be libraries
+* Web pages are just articles in those libraries 
+* so you NEVER cite the website name anyway. 
 
 For the article title (the page title)
-*Italics but no title case
-*imagine you printed the website __page__ - you hold it, so italics
-*Websites are not collections - they are libraries. No title case. 
+* Italics but no title case
+* imagine you printed the website __page__ - you hold it, so italics
+* Websites are not collections - they are libraries. No title case. 
 
 ### Organisation websites hosting official reports
-*Use the Organisation name as AUTHOR, not title. 
-**So no italics
-**Not a collection but it __IS__ the name of something, 
-***People, Organisation names get Title Case
-***(Soka University, Children in Need, World Health Organisation)
-*For the report name
-**italics yes (you print it and hold it)
-**Title case no (does not contain a collection of similar work by different people)
+* Use the Organisation name as AUTHOR, not title. 
+** So no italics
+** Not a collection but it __IS__ the name of something, 
+*** People, Organisation names get Title Case
+*** (Soka University, Children in Need, World Health Organisation)
+* For the report name
+** italics yes (you print it and hold it)
+** Title case no (does not contain a collection of similar work by different people)
 
 # In summary
 Type						|Title Case for Containers?		|Italics for the thing you hold?	|Example Title
@@ -82,25 +82,25 @@ In the library, there are many magazines, journals, and "kiyou" (university publ
 <a href="http://imgur.com/cJOaEAa"><img src="http://i.imgur.com/cJOaEAa.jpg" title="source: imgur.com" /></a>
 
 They often have an English AND a Japanese cover
-*English journal title is "The Journal of International Law and Diplomacy"
-*This journal's Japanese title is 国際外交雑誌
-*use the English title when writing in English. 
+* English journal title is "The Journal of International Law and Diplomacy"
+* This journal's Japanese title is 国際外交雑誌
+* use the English title when writing in English. 
 <a href="http://imgur.com/zuikN8J"><img src="http://i.imgur.com/zuikN8J.jpg" title="source: imgur.com" /></a>
 
  
-*Look at the volume number (113) 
-**Volume number usually = years
-**This journal started in 1912
-**"113" = 113 years old in 2014
-*Look at the issue number (1). Here:
-**(1)=spring issue
-**(2)=summer issue
-**(3)=fall issue
-**(4)=winter issue
-**For  other journals it depends 
-***1-12 = monthly
-***1-52 = weekly
-***1-2 = every 6 months
+* Look at the volume number (113) 
+** Volume number usually = years
+** This journal started in 1912
+** "113" = 113 years old in 2014
+* Look at the issue number (1). Here:
+** (1)=spring issue
+** (2)=summer issue
+** (3)=fall issue
+** (4)=winter issue
+** For  other journals it depends 
+*** 1-12 = monthly
+*** 1-52 = weekly
+*** 1-2 = every 6 months
  
 The reference for one of the articles on the cover is:
 
@@ -110,9 +110,9 @@ Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of Internati
 
 
 ### Note: volume number "113" in italics. Issue number "(1)" not.
-*Journals can only stay in the front of the library for a while. 
-*Soon they go into the back of the library to be stored. 
-*They will be stored as individual issues for a while:
+* Journals can only stay in the front of the library for a while. 
+* Soon they go into the back of the library to be stored. 
+* They will be stored as individual issues for a while:
 <a href="http://imgur.com/UhXByHl"><img src="http://i.imgur.com/UhXByHl.jpg" title="source: imgur.com" /></a>
 
 Eventually, the library binds them into single books. 
@@ -121,18 +121,18 @@ One book = one volume. The issues are now inside.
 <a href="http://imgur.com/nYzP86V"><img src="http://i.imgur.com/nYzP86V.jpg" title="source: imgur.com" /></a>
 
 For most articles, you go to the library to find (and hold) the BOUND BOOK of the VOLUME, not the issue. 
-*The THING YOU HOLD gets italics 
-**You don't hold the articles - no italics for article titles 
-**You hold the journal - Journal Title gets italics
-**However, also, most issues are BOUND. 
-***You don't hold the issues. No italics for issue number
-***You hold that year's VOLUME book. Italics for volume number
+* The THING YOU HOLD gets italics 
+** You don't hold the articles - no italics for article titles 
+** You hold the journal - Journal Title gets italics
+** However, also, most issues are BOUND. 
+*** You don't hold the issues. No italics for issue number
+*** You hold that year's VOLUME book. Italics for volume number
 
 ### Also
-*COLLECTIONS get title case
-*The journal COLLECTS several works by several author
-**The Journal name is Title Case
-**The article title is not.
+* COLLECTIONS get title case
+* The journal COLLECTS several works by several author
+** The Journal name is Title Case
+** The article title is not.
 
 
 ### In summary
@@ -154,9 +154,9 @@ So:
 Rowling, J.K. (2006). _Harry Potter and the half-blood prince._ London: Bloomsbury. 
 </ref>
 
-*_half-blood prince_ <red>not</red> _Half-Blood Prince_
-*No title case, because only one author. 
-*Italics, because it is the thing you hold. 
+* _half-blood prince_ <red>not</red> _Half-Blood Prince_
+* No title case, because only one author. 
+* Italics, because it is the thing you hold. 
 
 <a href="http://imgur.com/1aPLiAw"><img src="http://i.imgur.com/1aPLiAw.png" title="source: imgur.com" /></a>
 
@@ -164,11 +164,11 @@ Rowling, J.K. (2006). _Harry Potter and the half-blood prince._ London: Bloomsbu
 Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et al. (Eds.), <em>CALL: What’s your Motivation</em> (pp.112-117). Nagoya: JALT CALL SIG.
 </ref>
 
-*This book contains many chapters by different people
-**Book gets title case (it's a collection)
-**Book gets italics (you hold it)
-**Chapter (MALL testing) no italics (you don't hold it)
-**Chapter (MALL testing) no Title Case (not a collection)
+* This book contains many chapters by different people
+** Book gets title case (it's a collection)
+** Book gets italics (you hold it)
+** Chapter (MALL testing) no italics (you don't hold it)
+** Chapter (MALL testing) no Title Case (not a collection)
 
 
 
@@ -183,6 +183,6 @@ Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et 
 <a href="http://imgur.com/QqmoF0j"><img src="http://i.imgur.com/QqmoF0j.jpg" title="source: imgur.com" /></a>
 
 Look how newspapers are stored in the library. 
-*They are not bound together, so the thing you hold is the NEWSPAPER. 
-*Newspaper name gets italics and title case
-*Title of the article no italics and no title case 
+* They are not bound together, so the thing you hold is the NEWSPAPER. 
+* Newspaper name gets italics and title case
+* Title of the article no italics and no title case 

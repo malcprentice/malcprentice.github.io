@@ -1,11 +1,11 @@
 # Safe options: For first year essays
-*just follow the examples in the template
-*be careful with commas and [[Style - use keywords]] properly
+* just follow the examples in the template
+* be careful with commas and [[Style - use keywords]] properly
 
 # Formal, safe, boring options
 Like the essays in this class, you can just use the thesis statement pattern for topic sentences. This works for scientific reports, formal third person essays.
-*it doesn't work for personal essays (e.g. iBT TOEFL independent)
-*it doesn't work if you use it many times
+* it doesn't work for personal essays (e.g. iBT TOEFL independent)
+* it doesn't work if you use it many times
 
 Name your section 		|Main Idea Verb		|Topic phrase				|Keywords
 ------------------------|-----------------	|-----------------			|------------
@@ -29,14 +29,14 @@ This paragraph			|argues			|that the best way to X is 		|for three reasons - 1, 
 ### Follow these rules
 1) It must be the first sentence
 2) It must link to the thesis
-*name the topic
-*use the keyword for the paragraph from your thesis statement
+* name the topic
+* use the keyword for the paragraph from your thesis statement
 3) Link to the other paragraphs (not always, but often)
-*Use "Firstly/Secondly" to show it is part of a series
-*Show it is making a similar point e.g. "Another reason..."
-*Show it is giving the other side
-**"Unlike in the previous paragraph"
-**"While above it was argued that X, some people think Y"
+* Use "Firstly/Secondly" to show it is part of a series
+* Show it is making a similar point e.g. "Another reason..."
+* Show it is giving the other side
+** "Unlike in the previous paragraph"
+** "While above it was argued that X, some people think Y"
 4) Say what you want to say about the topic.
 5) This is still formal academic English - [[Style - follow academic conventions]]
 

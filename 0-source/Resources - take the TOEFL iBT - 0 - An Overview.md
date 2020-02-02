@@ -18,14 +18,14 @@ TOEFLiBT    |TOEFL CBT  |TOEFL PBT      |TOEIC
 
 # Changes to iBT TOEFL in 2019
 1) It's shorter
-*Less reading question  (3-4 readings, 10 questions each, not 12)
-*Less Listenings 
-**(3-4 lectures, not 4-6, same number of questions each)
-**No change to conversations
-*4 speaking tasks (1 independent,  3 integrated), rather than six (2+4)
-**Removed Independent question # 1 (express a personal preference)  - only paired choice  type left
-**Removed old integrated question # 5 (campus situation; problem/solution) - only integrated lecture left
-*No change to writing section
+* Less reading question  (3-4 readings, 10 questions each, not 12)
+* Less Listenings 
+** (3-4 lectures, not 4-6, same number of questions each)
+** No change to conversations
+* 4 speaking tasks (1 independent,  3 integrated), rather than six (2+4)
+** Removed Independent question # 1 (express a personal preference)  - only paired choice  type left
+** Removed old integrated question # 5 (campus situation; problem/solution) - only integrated lecture left
+* No change to writing section
 
 
 # Overview (New format from 2019)
@@ -37,20 +37,20 @@ Integrated Speaking     |90s X 3        |Read-Listen-Speak (Lecture only) & List
 Integrated Writing      |20 mins        |Read-Listen-Write                                 |[[Resources - take the TOEFL iBT - 5 - Integrated writing]]
 Independent Writing     |30 mins        |Write                                             |[[Resources - take the TOEFL iBT - 6 - Independent writing]]
 
-*You may get more (4 readings, or 5 lectures). This is TOEFL checking their materials. 
+* You may get more (4 readings, or 5 lectures). This is TOEFL checking their materials. 
 
 
 
 # General tips
-*Don't forget your ID with signature and name
-*You are expected to take notes. 
-**They will give you paper
-**It will be destroyed after the test. 
-*Do NOT listen to the directions. 
-**You should already know what you are doing. 
-**Click CONTINUE and spend your time on the questions/content.
-*Get some sleep
-*Check your score breakdown, and work on your weakness
+* Don't forget your ID with signature and name
+* You are expected to take notes. 
+** They will give you paper
+** It will be destroyed after the test. 
+* Do NOT listen to the directions. 
+** You should already know what you are doing. 
+** Click CONTINUE and spend your time on the questions/content.
+* Get some sleep
+* Check your score breakdown, and work on your weakness
 
 # What score do I need?
 |Study abroad English program       |0+
@@ -59,9 +59,9 @@ Independent Writing     |30 mins        |Write                                  
 |Average US graduate degree         |83 (But expect 100+ for a good university)
 |UK degrees                         |TOEFL iBT not accepted. Take IELTS http://www.eiken.or.jp/ielts/en/
 
-*Usually, there are also section minimums e.g. "100, with 23 on the speaking section and 21 on other sections"
-*Check the page of the course you want.
-*There is a website for checking what score you need: http//:www.toeflgoanywhere.org
+* Usually, there are also section minimums e.g. "100, with 23 on the speaking section and 21 on other sections"
+* Check the page of the course you want.
+* There is a website for checking what score you need: http//:www.toeflgoanywhere.org
 
 # Practice Materials
 ## ETS materials
@@ -81,6 +81,6 @@ How speaking is graded:     https://www.ets.org/s/toefl/pdf/toefl_speaking_rubri
 Independent Speaking topics: http://jasonrenshaw.typepad.com/ibt_speaking_writing/2008/05/40-new-practice.html
 
 ## Practice on Campus
-*Practice speaking in  EF [[Study Skills - use the Self Access Centre]]
-*Try the "Speaking test preparation centre" which covers iBT and IELTS [[Study Skills - use the Self Access Centre]]
-*Writing Centre is for academic writing, not TOEFL. But they can give general tips. 
+* Practice speaking in  EF [[Study Skills - use the Self Access Centre]]
+* Try the "Speaking test preparation centre" which covers iBT and IELTS [[Study Skills - use the Self Access Centre]]
+* Writing Centre is for academic writing, not TOEFL. But they can give general tips. 

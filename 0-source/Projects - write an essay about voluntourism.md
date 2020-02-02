@@ -5,18 +5,18 @@ Do you want to volunteer?
 Why? Where? When? Who with? Doing what?
 
 ## Listening
-*Listen: https://www.youtube.com/watch?v=oYWl6Wz2NB8
-*Take notes, Cornell style.
-*After the lecture, finish up your notes (Keywords and summary)
-*SHare your notes with a partner. Do you have the same keywords?
+* Listen: https://www.youtube.com/watch?v=oYWl6Wz2NB8
+* Take notes, Cornell style.
+* After the lecture, finish up your notes (Keywords and summary)
+* SHare your notes with a partner. Do you have the same keywords?
 
 ### Quiz for listening
 1) The speaker built a school in Cambodia. Why didn't it work?
 
 2) Daniela mentions three mistakes people can make when doing volunteer travel. Why is each bad?
-*Giving things away
-*Buying things on the street
-*Visiting some orphanages
+* Giving things away
+* Buying things on the street
+* Visiting some orphanages
 
 3) What is "learning service" as opposed to "service learning"?
 
@@ -29,8 +29,8 @@ Why? Where? When? Who with? Doing what?
 
 ## Reading
 In teams, read and do ONE COMBINED outline for all readings
-*use "Template for RR". Remember to use note English, etc.
-*you will present on your readings next class
+* use "Template for RR". Remember to use note English, etc.
+* you will present on your readings next class
 
 ### Team A
 Traits of a responsible Program		         |(1500 words) 	|https://www.gooverseas.com/blog/traits-of-responsible-volunteer-program
@@ -53,24 +53,24 @@ Use the SECTIONAL essay template in the shared materials folder.
 ## 2) Read them
 
 ## 3) Choose ONE volunteer organisation to analyse. 
-*Please choose something outside Japan. 
-*Please choose a specific project a student could volunteer on (i.e not something you need to be a doctor for)
-*For ideas, try:
-**SUJ volunteer website: http://www.soka.ac.jp/sp/international/outbound/program/volunteer/
-**Global Festa: https://www.facebook.com/globalfesta2014
-**Idealist: http://idealist.org
+* Please choose something outside Japan. 
+* Please choose a specific project a student could volunteer on (i.e not something you need to be a doctor for)
+* For ideas, try:
+** SUJ volunteer website: http://www.soka.ac.jp/sp/international/outbound/program/volunteer/
+** Global Festa: https://www.facebook.com/globalfesta2014
+** Idealist: http://idealist.org
 
 
 ###  <red>VERY IMPORTANT</red>
 It is sometimes hard to tell the difference between 
-*actual volunteer organisations
-*travel agencies specialising in volunteering e.g. https://www.lovevolunteers.org or https://www.eliabroad.org
-*search engines specialising in volunteering e.g. https://www.volunteerworld.com
+* actual volunteer organisations
+* travel agencies specialising in volunteering e.g. https://www.lovevolunteers.org or https://www.eliabroad.org
+* search engines specialising in volunteering e.g. https://www.volunteerworld.com
 
 ### For example:
-*1) Travel Agency 1 is offering a project helping animals in Argentina: https://www.eliabroad.org/argentina-volunteer
-*2) Travel Agency 2 is offering a projec helpinng animals in Argentina: https://www.lovevolunteers.org/destinations/volunteer-argentina/animal-rescue-buenos-aires
-*3) Search Engine 1 finds a project helping animals in Argentina: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+Animals
+* 1) Travel Agency 1 is offering a project helping animals in Argentina: https://www.eliabroad.org/argentina-volunteer
+* 2) Travel Agency 2 is offering a projec helpinng animals in Argentina: https://www.lovevolunteers.org/destinations/volunteer-argentina/animal-rescue-buenos-aires
+* 3) Search Engine 1 finds a project helping animals in Argentina: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+Animals
 
 This is the SAME project and it is run by NEITHER of these agencies. They each take a fee ($2-300) for placing volunteers. 
 This is not necessarily a bad thing - small projects do not always have the budget for advertisng, websites, recruitment. 
@@ -83,69 +83,69 @@ This confuses everyone in class when I try to explain it. But just imagine you w
 3) JTB books the ticket for you, but the flight is actually with ANA.
 
 ### Here is how to tell:
-*Does your website have 2000 projects in 54 countries? Probably a travel agency
-*Do they have TWO costs (a "fee" of 2-300 dollars plus a program fee)? Probably a travel agency.
-*Does your website list the name of other groups  and agencies? Probably a search engine
+* Does your website have 2000 projects in 54 countries? Probably a travel agency
+* Do they have TWO costs (a "fee" of 2-300 dollars plus a program fee)? Probably a travel agency.
+* Does your website list the name of other groups  and agencies? Probably a search engine
 
 ### My recommendation
-*Choose an actual project- a organisation with a small number of projects in ONE country or a limited area
-*If it is a large organisation, just choose ONE of their projects
-*DO NOT choose a search engine. Just use it to find projects
+* Choose an actual project- a organisation with a small number of projects in ONE country or a limited area
+* If it is a large organisation, just choose ONE of their projects
+* DO NOT choose a search engine. Just use it to find projects
 
 You CAN choose a travel agency, as there are good ones and bad ones, but your criteria need to change. See below: 
-*Transparency - is it clear that they are a for-profit taking a fee to place people, and what they use their fee on.
-*Travel agencies are not directly responsible for research, sustainability, leading volunteers. 
-*They are only responsible for CHOOSING projects/people responsibly and carefully before allowing them on teir list of projects
-*Travel agencies criteria (what they are responsible for) are for example:
-**Choosing and/or preparing volunteers well 
-***A bad agency has no requirements (anyone can volunteer with no training or qualifications) 
-***A bad agency has no background checks, even if the project works with children.
-***A bad agency has no training or pre-trip education except maybe a pamphlet. 
-**Choosing and monitoring projects well
-***A bad agency has no criteria of their own (transparency, sustaiability, impact) for choosing which projecs they have on their site (e.g. Cambodian orphanages fine)
-***A bad agency has no process for regular checks on the project
-**Own transparency
-***is it clear how they use those fees they collect? 
-***Is the description of each project true and clear? 
-***Is it clear they are a for-profit travel agency? Or are they pretending to be an NGO travel agency. 
+* Transparency - is it clear that they are a for-profit taking a fee to place people, and what they use their fee on.
+* Travel agencies are not directly responsible for research, sustainability, leading volunteers. 
+* They are only responsible for CHOOSING projects/people responsibly and carefully before allowing them on teir list of projects
+* Travel agencies criteria (what they are responsible for) are for example:
+** Choosing and/or preparing volunteers well 
+*** A bad agency has no requirements (anyone can volunteer with no training or qualifications) 
+*** A bad agency has no background checks, even if the project works with children.
+*** A bad agency has no training or pre-trip education except maybe a pamphlet. 
+** Choosing and monitoring projects well
+*** A bad agency has no criteria of their own (transparency, sustaiability, impact) for choosing which projecs they have on their site (e.g. Cambodian orphanages fine)
+*** A bad agency has no process for regular checks on the project
+** Own transparency
+*** is it clear how they use those fees they collect? 
+*** Is the description of each project true and clear? 
+*** Is it clear they are a for-profit travel agency? Or are they pretending to be an NGO travel agency. 
 
 
 ## 4) Choose three important criteria (traits)
-*Look at your notes on the "traits" article (use your own ideas too).
-*What do you need to check before choosing a volunteer opportunity?
-*Criteria need to match your organisation type (education volunteering and health volunteering are different)
-*Make sure your criteria are MEASURABLE. You need to tell me if the group is good or bad and why.
+* Look at your notes on the "traits" article (use your own ideas too).
+* What do you need to check before choosing a volunteer opportunity?
+* Criteria need to match your organisation type (education volunteering and health volunteering are different)
+* Make sure your criteria are MEASURABLE. You need to tell me if the group is good or bad and why.
 
 ### Your essay will ask you to
 1) Define the criteria (e.g. what is sustainability)
 2) WHy is it important? 
-*EITHER A specific example of an organisation that did not meet that criteria sustainability and why that was bad
-*OR a cause-effect sentence "If an organisaton is not sustainable, then X will happen")
+* EITHER A specific example of an organisation that did not meet that criteria sustainability and why that was bad
+* OR a cause-effect sentence "If an organisaton is not sustainable, then X will happen")
 3) How can I check it (Don't just say "check the website" - check WHICH website look WHERE look for WHAT )
 
 
 ## 5) Start research on your organisation.
-*Read their website
-*Google "Review"+their name
-*Read about them on other websites reviewing charities and NGOs.
-*International groups:
-**Check their review on Charity Navigator: http://www.charitynavigator.org/
-**Check for a review on GuideStar: http://www.guidestar.org
+* Read their website
+* Google "Review"+their name
+* Read about them on other websites reviewing charities and NGOs.
+* International groups:
+** Check their review on Charity Navigator: http://www.charitynavigator.org/
+** Check for a review on GuideStar: http://www.guidestar.org
 
 ## 6) Start putting your research into the template outline
 
 # Style
-*Watch the plural - one criterION, two criteriA
-*Be careful of your main vocab word - volunteer
-**A volunteer, two volunteers. Volunteers are people!
-**When talking about the topic, use "this volunteer organisation" or "experience" or "project"
-**Voluntourism is a BAD thing, from the TED video.
-*Your criteria are suggestions and processes (check X, shuold check X. In order to do this fiurst check X then Y.)
-*ANALYSIS DETAILS ARE PAST TENSE RESEARCH FINDINGS ("I found out that they do not show financial info")
-*Some phrases for anlaysis
-**the X was (not) available / very detailed
-**Y could not not be confirmed /
-**their website (did not) show Z
+* Watch the plural - one criterION, two criteriA
+* Be careful of your main vocab word - volunteer
+** A volunteer, two volunteers. Volunteers are people!
+** When talking about the topic, use "this volunteer organisation" or "experience" or "project"
+** Voluntourism is a BAD thing, from the TED video.
+* Your criteria are suggestions and processes (check X, shuold check X. In order to do this fiurst check X then Y.)
+* ANALYSIS DETAILS ARE PAST TENSE RESEARCH FINDINGS ("I found out that they do not show financial info")
+* Some phrases for anlaysis
+** the X was (not) available / very detailed
+** Y could not not be confirmed /
+** their website (did not) show Z
 
 
 # Arrangement for Slides

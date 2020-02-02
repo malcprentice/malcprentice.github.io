@@ -2,20 +2,20 @@
 This course is eight-day, TWO credit, Communication and TOEIC skills course. In the Communication section, students will practice speaking, listening, reading and writing on topics that are useful for everyday situations. Students will give presentations in English at the end of the course. In the TOEIC section of the course, students will learn and practice test-taking strategies to improve their TOEIC scores. Credit for the course is optional, and if chosen, will be awarded in the following semester
 
 ### Notes
-*Lunch every day: 12:15-13:05
-*Class can be taken for credit or for no-credit.
+* Lunch every day: 12:15-13:05
+* Class can be taken for credit or for no-credit.
 
 # Goals and Objectives
 ## TOEIC
 ### Listening: By the end of this course, you will learn to identify
-*main ideas, details, transitions, definitions
-*examples, summaries, examples, imperatives
-*contrasts, outcomes, comparisons, predictions
+* main ideas, details, transitions, definitions
+* examples, summaries, examples, imperatives
+* contrasts, outcomes, comparisons, predictions
 
 ### By the end of this course you will learn to
-*find materials for learning
-*manage your study time
-*discuss what you read and hear
+* find materials for learning
+* manage your study time
+* discuss what you read and hear
 
 
 # Evaluation/Assessment
@@ -40,13 +40,13 @@ See [[Resources - grading system]]
 30m per day (-1% NG point if forgotten or done badly)
 
 ### 1) [[Study Skills - learn vocabulary]]
-*At least 10 words per class
-*Test (no credit) every class
-*Test (credit, 10%) in last TOEIC class
+* At least 10 words per class
+* Test (no credit) every class
+* Test (credit, 10%) in last TOEIC class
 
 ### 2) [[Study Skills - do a quickwrite]] every class
-*Minimum one per class (total 7)
-*Maximum 5 extra (total 12) for <green>OK</green> points
+* Minimum one per class (total 7)
+* Maximum 5 extra (total 12) for <green>OK</green> points
 
 # Schedule (Summer)
 ## First Day, Morning
@@ -54,19 +54,19 @@ Pre-test for everyone
 
 ## Class 1
 ### What we will do in class
-*Introductions, question words
-*Introduction to [[Index - Schedules]]
-*Namecards
-*Overview of course
-*HOw to do well in class
-*How to [[Study Skills - make a name card]]
-*Learn how to [[Study Skills - make small talk]]
-*Learn how to [[Study Skills - ask good questions]]
-*Learn how to [[Study Skills - do a quickwrite]]
-*Write, share, and discuss QW 1
-*Vocab homework
-**How to [[Study Skills - learn vocabulary]]
-**Vocab sheets are in Materials (@soka-u.jp only): https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
+* Introductions, question words
+* Introduction to [[Index - Schedules]]
+* Namecards
+* Overview of course
+* HOw to do well in class
+* How to [[Study Skills - make a name card]]
+* Learn how to [[Study Skills - make small talk]]
+* Learn how to [[Study Skills - ask good questions]]
+* Learn how to [[Study Skills - do a quickwrite]]
+* Write, share, and discuss QW 1
+* Vocab homework
+** How to [[Study Skills - learn vocabulary]]
+** Vocab sheets are in Materials (@soka-u.jp only): https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
 
 
 
@@ -136,9 +136,9 @@ Using Context for Vocabulary questions.
 Check Homework (QW1-7, Vocab 1-60 minimum)
 
 ### Last day, afternoon
-*TOEIC half-test for everyone <red>(20% of grade)</red>!
-*Questionnaire
-*Credit/No credit decision
+* TOEIC half-test for everyone <red>(20% of grade)</red>!
+* Questionnaire
+* Credit/No credit decision
 
 
 

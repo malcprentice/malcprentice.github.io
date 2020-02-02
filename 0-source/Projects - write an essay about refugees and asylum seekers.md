@@ -12,39 +12,39 @@ Take handwritten notes first. Be ready to present your country next class.
 
 ### 1) Get some general background 
 Try  the UNHCR website: http://www.unhcr.org/
-*e.g. how many refugees/asylum seekers in the world. 
-*e.g. how many in Japan? Do you notice anything about the numbers?
+* e.g. how many refugees/asylum seekers in the world. 
+* e.g. how many in Japan? Do you notice anything about the numbers?
 
 ### 2) Choose and research one UNHCR emergency area
 Choose one of these: http://data.unhcr.org/
 Do NOT choose "Mediterranean" (too many countries - makes it impossible to write section 1)
 ### Follow the essay pattern
-*Essay section 1: What happened that your area is producing asyllum seekers and refugees (3 stages OR 3 causes)
-*Essay section 2: Refugees in nearby countries
-**What problems are there in refugees camps near your area? 
-***Common problems include lack of food/water/medicine/education for children/sanitation/overcrowding/disease/recruitment as child soldiers/human trafficking 
-***Here are a some example links: http://www.ted.com/talks/barat_ali_batoor_my_desperate_journey_with_a_human_smuggler http://www.newstatesman.com/politics/2015/05/what-it-s-be-somali-refugee-kenya 
-**What solutions?
-***Think about both UNHCR more permanent solutions http://www.unhcr.org/pages/49c3646cf8.html
-***Also about temporary solutions (mostly NGOs and UN organisations supplying help)
-*Essay section 3: Asylum Seekers in Japan
-**What problems are there for Asylum Seekers in Japan.
-***One set of problems for those in detention center: detention center conditions, violence, lack of access to legal help, communication tools, missing documents
-***Another set of problems for those outside detention centers: lack of language skill, money, permission to work, places to sleep, missing documents
-***Some example links: 
-**** http://www.economist.com/news/asia/21646255-worlds-refugee-problem-grows-japan-pulls-up-drawbridge-no-entry
-**** http://www.thejakartapost.com/news/2015/03/30/japan-sees-sharp-rise-asylum-seekers.html
-**** http://www.reuters.com/article/2015/03/11/us-japan-immigration-idUSKBN0M70JN20150311
-**** http://www.reuters.com/article/2014/12/02/japan-immigration-idUSL3N0TM1PJ20141202
-**** http://www.npr.org/2011/06/01/136864374/asylum-seekers-in-japan-face-difficult-obstacles
-****2011: http://www.japantimes.co.jp/community/2011/11/01/issues/justice-stalled-in-brutal-death-of-deportee/
-****2015: http://www.voanews.com/content/japan-wary-ofoutsiders-keeps-doors-closed-to-refugees/3121229.html
-****2016: http://www.reuters.com/investigates/special-report/japan-kurds/
-****2017: http://www.reuters.com/article/us-japan-detention-death-idUSKBN16X022
-****2017: http://www.japantimes.co.jp/news/2017/05/12/national/foreign-detainees-go-on-hunger-strike-at-tokyo-immigration-bureau/
-**What solutions? 
-***Mostly NGOs helping with language, translation, legal help, education http://www.japantimes.co.jp/news/2015/01/17/national/social-issues/refugees-opportunities-life-everyone-else/
-***Other links: https://www.refugee.or.jp/for_refugees/retrieval_ja.shtml
+* Essay section 1: What happened that your area is producing asyllum seekers and refugees (3 stages OR 3 causes)
+* Essay section 2: Refugees in nearby countries
+** What problems are there in refugees camps near your area? 
+*** Common problems include lack of food/water/medicine/education for children/sanitation/overcrowding/disease/recruitment as child soldiers/human trafficking 
+*** Here are a some example links: http://www.ted.com/talks/barat_ali_batoor_my_desperate_journey_with_a_human_smuggler http://www.newstatesman.com/politics/2015/05/what-it-s-be-somali-refugee-kenya 
+** What solutions?
+*** Think about both UNHCR more permanent solutions http://www.unhcr.org/pages/49c3646cf8.html
+*** Also about temporary solutions (mostly NGOs and UN organisations supplying help)
+* Essay section 3: Asylum Seekers in Japan
+** What problems are there for Asylum Seekers in Japan.
+*** One set of problems for those in detention center: detention center conditions, violence, lack of access to legal help, communication tools, missing documents
+*** Another set of problems for those outside detention centers: lack of language skill, money, permission to work, places to sleep, missing documents
+*** Some example links: 
+****  http://www.economist.com/news/asia/21646255-worlds-refugee-problem-grows-japan-pulls-up-drawbridge-no-entry
+****  http://www.thejakartapost.com/news/2015/03/30/japan-sees-sharp-rise-asylum-seekers.html
+****  http://www.reuters.com/article/2015/03/11/us-japan-immigration-idUSKBN0M70JN20150311
+****  http://www.reuters.com/article/2014/12/02/japan-immigration-idUSL3N0TM1PJ20141202
+****  http://www.npr.org/2011/06/01/136864374/asylum-seekers-in-japan-face-difficult-obstacles
+**** 2011: http://www.japantimes.co.jp/community/2011/11/01/issues/justice-stalled-in-brutal-death-of-deportee/
+**** 2015: http://www.voanews.com/content/japan-wary-ofoutsiders-keeps-doors-closed-to-refugees/3121229.html
+**** 2016: http://www.reuters.com/investigates/special-report/japan-kurds/
+**** 2017: http://www.reuters.com/article/us-japan-detention-death-idUSKBN16X022
+**** 2017: http://www.japantimes.co.jp/news/2017/05/12/national/foreign-detainees-go-on-hunger-strike-at-tokyo-immigration-bureau/
+** What solutions? 
+*** Mostly NGOs helping with language, translation, legal help, education http://www.japantimes.co.jp/news/2015/01/17/national/social-issues/refugees-opportunities-life-everyone-else/
+*** Other links: https://www.refugee.or.jp/for_refugees/retrieval_ja.shtml
 
 ### If the country works, start your essay outline: 
 Use "TEMPLATE for ESSAY OUTLINE - Sectional 7 paragraph Asylum.docx"

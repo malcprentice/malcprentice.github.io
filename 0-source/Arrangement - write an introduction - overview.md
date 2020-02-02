@@ -1,6 +1,6 @@
 ### Introductions have two parts
-*Step 1: [[Arrangement - write an introduction paragraph background]]
-*Step 2: [[Arrangement - write an introduction thesis statement]]
+* Step 1: [[Arrangement - write an introduction paragraph background]]
+* Step 2: [[Arrangement - write an introduction thesis statement]]
 
 Read those sheets, then read these examples:
 

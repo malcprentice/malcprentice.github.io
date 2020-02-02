@@ -2,20 +2,20 @@
 
 # Step 1: Choose an endangered animal
 ## Browse some animals
-*WWF has simple summaries, with description, problems ("threats") and solutions ("WHat WWF is doing"): http://www.worldwildlife.org/species/directory?sort=extinction_status&direction=desc
-*IUCN Red list has a more varied list but be careful - not all of these animals have a good selection of problems or solutions: http://support.iucnredlist.org/species 
+* WWF has simple summaries, with description, problems ("threats") and solutions ("WHat WWF is doing"): http://www.worldwildlife.org/species/directory?sort=extinction_status&direction=desc
+* IUCN Red list has a more varied list but be careful - not all of these animals have a good selection of problems or solutions: http://support.iucnredlist.org/species 
 
 <a href="https://openclipart.org/detail/88249/funny-panda-face-black-and-white"><img src="https://openclipart.org/download/88249/Panda-001-Head-Cartoon.svg" /></a>
 
 ## Choose ONE animal
-*Choose something INTERESTING we DO NOT KNOW (i.e. NOT the Giant Panda)
-*Do NOT choose an animal in the example essay (currently Narwhal).
-*Choose a SPECIFIC species (i.e. not just "tiger", but "Amur Tiger")
-*Choose something with a population in the wild - NOT extinct or extinct in wild. 
-*Choose something with multiple problems (e.g. hunting AND food AND pollution)
-*Choose something with multiple solutions 
-**e.g. trade laws, special nets, and education
-**e.g. 3 different NGOs doing different things
+* Choose something INTERESTING we DO NOT KNOW (i.e. NOT the Giant Panda)
+* Do NOT choose an animal in the example essay (currently Narwhal).
+* Choose a SPECIFIC species (i.e. not just "tiger", but "Amur Tiger")
+* Choose something with a population in the wild - NOT extinct or extinct in wild. 
+* Choose something with multiple problems (e.g. hunting AND food AND pollution)
+* Choose something with multiple solutions 
+** e.g. trade laws, special nets, and education
+** e.g. 3 different NGOs doing different things
 
 # Step 2: Research your animal
 Read 3 articles about your animal. Follow the requirements in your syllabus homework for number and type of reference. Start with the WWF page or the IUCN page. YOu can read the wikipedia page in ENglish or Japanese, but it DOES NOT COUNT for your 3 articles, and you CANNOT cite it. 
@@ -25,99 +25,99 @@ Read 3 articles about your animal. Follow the requirements in your syllabus home
 
 # Step 3: Read the Template and Examples
 Get the materials
-*"TEMPLATE for ESSAY OUTLINE.docx"  
-*"TEMPLATE for ESSAY.docx"  
-*Read this [[Examples - example endangered animals essay]]
+* "TEMPLATE for ESSAY OUTLINE.docx"  
+* "TEMPLATE for ESSAY.docx"  
+* Read this [[Examples - example endangered animals essay]]
 
 # Step 4: Plan your own essay
 ## Five Paragraph Problem-Solution Essay (SSGB, ECE)
 
 ### <green>Paragraph A: CAUSE/EFFECT </green>
 This is the THIRD paragraph of five, but we will write it first because it is easier
-*describe the problems, and what caused them.
-*See [[Arrangement - write a cause-effect]]
+* describe the problems, and what caused them.
+* See [[Arrangement - write a cause-effect]]
 Some common problems include:
-*Threat to Habitat (wetlands, forests, mangroves, coastal areas)
-**by population increase - people move into animals' areas
-**by development of industry/forestry/farms/plantations
-**by development of infrastructure (e.g. roads,
-**by development for tourism (e.g. coastal hotels, artificial beaches)
-**by human usage leading to soil erosion, deforestation, etc
-**by climate change, leading to drought, fires, floods, desertification,
-**by pollution (oil spills, chemical spills, heavy metals in food chain, air pollution, )
-*Other
-**competition with invasive species
-**something that indirectly makes things worse
-***conflict (i.e. wars) stopping assistance reaching the area
-***Unemployment/Poverty (e.g. which makes people turn to poaching)
-***Political Instability
-***Corruption
-***Smaller world leading to diseases spreading more easily
-**hunting
-***for food (Over-fishing, Over-hunting)
-***for pet ndustry
-***for animal parts (fur, souvenirs, medicine)
+* Threat to Habitat (wetlands, forests, mangroves, coastal areas)
+** by population increase - people move into animals' areas
+** by development of industry/forestry/farms/plantations
+** by development of infrastructure (e.g. roads,
+** by development for tourism (e.g. coastal hotels, artificial beaches)
+** by human usage leading to soil erosion, deforestation, etc
+** by climate change, leading to drought, fires, floods, desertification,
+** by pollution (oil spills, chemical spills, heavy metals in food chain, air pollution, )
+* Other
+** competition with invasive species
+** something that indirectly makes things worse
+*** conflict (i.e. wars) stopping assistance reaching the area
+*** Unemployment/Poverty (e.g. which makes people turn to poaching)
+*** Political Instability
+*** Corruption
+*** Smaller world leading to diseases spreading more easily
+** hunting
+*** for food (Over-fishing, Over-hunting)
+*** for pet ndustry
+*** for animal parts (fur, souvenirs, medicine)
 
 
 ### <blue>Paragraph B: SUMMARY/RESPONSE</blue>
 This is the FOURTH paragraph of five, but we will write it second 
-*describe and critically analyse the solutions
-*See [[Arrangement - write a summary-response]]
-*Example solutions from previous essays
-**Ecotourism
-**De-extinction
-**Sustainable Development
-**Consumer pressure / Consumer awareness
-**Zoo breeding programs keeping in zoo
-**Zoo breeding programs returning to wild: http://www.chroniclelive.co.uk/news/north-east-news/return-lynx-kielder-forest-backed-9128738
-*NGO
-**for the specific animal or animal type
-**for the animal type (e.g. saving orangutans)
-**for the habitat (e.g. saving forests, which saves orangutans)
-**for the general problem (e.g. stopping global warming, which saves forest, which saves orangutans)
-*Laws (National or International)
-**e.g. a demand side law by Japanese government banning trade in endangered animals
-**e.g. a supply-side law by the Indonesian government banning trade in endangered animals
-**e.g. an international law, like CITES https://www.cites.org/ banning trade in endangered animals
-*Monitoring Programs
-*Reduce, Reuse, Recycle
-*Refuse (i.e. just stop buying it)
-*Activism
-**Letter writing campaign
-**Boycott
-**Protest
+* describe and critically analyse the solutions
+* See [[Arrangement - write a summary-response]]
+* Example solutions from previous essays
+** Ecotourism
+** De-extinction
+** Sustainable Development
+** Consumer pressure / Consumer awareness
+** Zoo breeding programs keeping in zoo
+** Zoo breeding programs returning to wild: http://www.chroniclelive.co.uk/news/north-east-news/return-lynx-kielder-forest-backed-9128738
+* NGO
+** for the specific animal or animal type
+** for the animal type (e.g. saving orangutans)
+** for the habitat (e.g. saving forests, which saves orangutans)
+** for the general problem (e.g. stopping global warming, which saves forest, which saves orangutans)
+* Laws (National or International)
+** e.g. a demand side law by Japanese government banning trade in endangered animals
+** e.g. a supply-side law by the Indonesian government banning trade in endangered animals
+** e.g. an international law, like CITES https://www.cites.org/ banning trade in endangered animals
+* Monitoring Programs
+* Reduce, Reuse, Recycle
+* Refuse (i.e. just stop buying it)
+* Activism
+** Letter writing campaign
+** Boycott
+** Protest
 
 
 ### Paragraph C: <blue>DESCRIPTION paragraph</blue>
 This is the SECOND paragraph in the essay 
 However, it is difficult so we will write it last
-*Describe the animal in detail
-*See  [[Arrangement - write a description paragraph]]
-*Remember - the animal is _experiencing_ a problem, not _causing_ one
-*Be careful about plurals
-**You can say "the Amur tiger IS" (the species)
-**You can say "Amur tigerS ARE" (all the individuals)
-**You CANNOT say "Amur Tigers is" or "the Amur Tiger are"
-*Be careful about capitals. Only place names get capitals
-**The giant panda (NOT Giant or Panda)
-**The Amur tiger (Amur is a place)
-*Avoid boring definitions. Which of these is boring?
-**e.g. "The Amur tiger is a kind of tiger" 
-**e.g. "The Amur tiger is the only member of the big cat family which lives in Kyushu" 
-*Consider using a partition 
-**(e.g. "there are 2 kinds of panda - giant panda and red panda - of which the most endangered is..."")
-**see [[Style - write a partition sentence]]
-*Define any unknown word or words with special meanings 
-**(e.g. "X is classified as "Critically Endangered" by the WWF, which means that less than......"")
-**see [[Style - write a definition sentence]]
+* Describe the animal in detail
+* See  [[Arrangement - write a description paragraph]]
+* Remember - the animal is _experiencing_ a problem, not _causing_ one
+* Be careful about plurals
+** You can say "the Amur tiger IS" (the species)
+** You can say "Amur tigerS ARE" (all the individuals)
+** You CANNOT say "Amur Tigers is" or "the Amur Tiger are"
+* Be careful about capitals. Only place names get capitals
+** The giant panda (NOT Giant or Panda)
+** The Amur tiger (Amur is a place)
+* Avoid boring definitions. Which of these is boring?
+** e.g. "The Amur tiger is a kind of tiger" 
+** e.g. "The Amur tiger is the only member of the big cat family which lives in Kyushu" 
+* Consider using a partition 
+** (e.g. "there are 2 kinds of panda - giant panda and red panda - of which the most endangered is..."")
+** see [[Style - write a partition sentence]]
+* Define any unknown word or words with special meanings 
+** (e.g. "X is classified as "Critically Endangered" by the WWF, which means that less than......"")
+** see [[Style - write a definition sentence]]
 
 ##  Sectional Essay Version (GCP)
 Read the five paragraph version first. This is a NINE paragraph version of that
-*Intro
-*Description Paragraph
-*THREE problem paragraphs in a section with its own thesis statement
-*THREE solution paragraphs in a section with its own thesis statement
-*Conclusion paragraph in its own section with its own thesis statement
+* Intro
+* Description Paragraph
+* THREE problem paragraphs in a section with its own thesis statement
+* THREE solution paragraphs in a section with its own thesis statement
+* Conclusion paragraph in its own section with its own thesis statement
 
 See [[Arrangement - write a sectional essay]]
 
@@ -131,15 +131,15 @@ BBC Learning English News Extra: http://www.bbc.co.uk/worldservice/learningengli
 3) Ecosystems mentioned: R____F______, Oceans, & D______
 4) Ecosystems are places where forms of life "D____ on e____ o_____"
 5) News reports accept "biodiversity is good" because provides:
-*F________
-*W_______
-*Some m________
-*Quality of a___ and c______
+* F________
+* W_______
+* Some m________
+* Quality of a___ and c______
 6) News usually mention threats to biodiversity, including:
-*"Habitat Loss" - e.g. when too many T______ cut down
-*Industrial A__________
-*G________ W_______
-*P_______
+* "Habitat Loss" - e.g. when too many T______ cut down
+* Industrial A__________
+* G________ W_______
+* P_______
 
 7) THINK: The question at the end was "How can developing countries protect biodiversity at the same time as they pursue economic growth and reduce poverty?"
 Another word for this is "Sustainable Development". For example: Imagine Tokyo needs a new runway at Narita, but to build it you would need to destroy 20 small farms, and an area where a rare frog lives. What would you do?

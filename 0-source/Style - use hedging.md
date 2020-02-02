@@ -1,13 +1,13 @@
 # When should I qualify?
 Sometimes you need to soften what you say. Usually:
-*When you are not sure something is true
-*When it is true, but you are not sure it is 100% important/successful.
+* When you are not sure something is true
+* When it is true, but you are not sure it is 100% important/successful.
 Imagine you need to [[Arrangement - write a summary-response]]
-*Your problem is waribashi. 
-*You summarize a solution (carry your own chopsticks)
-*Now you need to respond. Does your solution actually solve the problem?
-*The answer is probably not "yes" or "no". 
-*The answer is probably "partly" or "maybe". 
+* Your problem is waribashi. 
+* You summarize a solution (carry your own chopsticks)
+* Now you need to respond. Does your solution actually solve the problem?
+* The answer is probably not "yes" or "no". 
+* The answer is probably "partly" or "maybe". 
 
 Qualify uncertain facts ("Despite the lack of evidence, it seems likely that")
 Qualify weak citations ("Based on Smith (1999), it seems that X, however"

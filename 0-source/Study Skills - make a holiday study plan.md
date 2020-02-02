@@ -62,6 +62,6 @@
 
 ## Topic Research for GCP in winter: Second Year topics.
 Prepare for next term - read up on the topic, skim your textbook, review the essay genres. 
-*In Fall Year 1 - see the syllabus. 
-*In Spring year 2, you wil cover Wealth and Poverty, Food, Population from the textbook. There will be Compare contrast, Argumentative, and Time order (or Compare Contrast) essay, and a global issues research paper
-*In Fall year 2, you will cover Environment, Energy, Tech/Future. There will be cause-effect, problem-solution essays and a global issues research paper.
+* In Fall Year 1 - see the syllabus. 
+* In Spring year 2, you wil cover Wealth and Poverty, Food, Population from the textbook. There will be Compare contrast, Argumentative, and Time order (or Compare Contrast) essay, and a global issues research paper
+* In Fall year 2, you will cover Environment, Energy, Tech/Future. There will be cause-effect, problem-solution essays and a global issues research paper.

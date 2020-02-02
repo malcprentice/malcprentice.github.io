@@ -1,8 +1,8 @@
 Situations combine a lot of focuses
 For example, a restaurant situation combines:
-*food vocab and how to pronounce it
-*grammar for the function of requesting
-*"survival" phrases e.g. please, thank you
+* food vocab and how to pronounce it
+* grammar for the function of requesting
+* "survival" phrases e.g. please, thank you
 
 Here is a list of common situations and functions
 

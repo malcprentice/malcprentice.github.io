@@ -1,24 +1,24 @@
 # How to do a combined article
 
-*Start the same as akways
-*However, AFTER you watch the lecture or do the first reading, then:
-**Google the topic
-**find an article (web, news, academic) about the SAME TOPIC
-**Read that too.
+* Start the same as akways
+* However, AFTER you watch the lecture or do the first reading, then:
+** Google the topic
+** find an article (web, news, academic) about the SAME TOPIC
+** Read that too.
 
 # Notes section difference
 Put notes from BOTH lecture AND article into one set of notes.
-*Use the normal template, but
-**put a citation (“Title,” n.d.)
-**on each notes section (Suzuki, 2018, July 3)
-**make it clear which fact came from which source
-**i.e. same as when you do your essay outline.
+* Use the normal template, but
+** put a citation (“Title,” n.d.)
+** on each notes section (Suzuki, 2018, July 3)
+** make it clear which fact came from which source
+** i.e. same as when you do your essay outline.
 
 # In the summary
-*First [[Style - write a summary sentence]] about the first article/lecture (e.g. "In this talk, the speaker”)
-*Then SUMMARISE your second article but make the linke between them CLEAR (support? disagree? disprove?)
-*Don't forget to cite BOTH articles in the summary
-*APA for your Summary is here: [[Invention - use APA format in the text]]
+* First [[Style - write a summary sentence]] about the first article/lecture (e.g. "In this talk, the speaker”)
+* Then SUMMARISE your second article but make the linke between them CLEAR (support? disagree? disprove?)
+* Don't forget to cite BOTH articles in the summary
+* APA for your Summary is here: [[Invention - use APA format in the text]]
 
 
 ## Option 1: Citation only (Safe)
@@ -50,5 +50,5 @@ For more citation words and patterns, see the Invention sheets.
 
 # In the references section
 Don’t forget:
-*put BOTH sources in the References section
-*IN ALPHABETICAL ORDER.
+* put BOTH sources in the References section
+* IN ALPHABETICAL ORDER.

@@ -10,39 +10,39 @@ C.V. or Resume? Which is which?
 
 # Cover letter?
 Usually you don't just send the CV. You send a short letter:
-*introducing yourself
-*saying how your skills/experience match each point in the job advert
-*Any information they asked for which is not on your CV (e.g. interview availability)
-*any other highlights you really don't want them to miss on your cv
+* introducing yourself
+* saying how your skills/experience match each point in the job advert
+* Any information they asked for which is not on your CV (e.g. interview availability)
+* any other highlights you really don't want them to miss on your cv
 
 
 See [[Examples - example cover letter]]
 
 There are many different styles. 
-*UK cover letters tend to be very short (like the example above). 
-*US cover letters tend to add more text, about aims/philosophy. 
+* UK cover letters tend to be very short (like the example above). 
+* US cover letters tend to add more text, about aims/philosophy. 
 Make sure you know what style you need and find more examples. 
 
 
 
 # Analysing a CV/Resume structure
 Look at the examples
-*What are the sections?
-*How are they different?
+* What are the sections?
+* How are they different?
 
-*What is the first line of the address: country or street?
-*What order are jobs/education? Earliest first or latest?
-*What information is given for your job / education?
-*Is it a good idea to use cute or mobile email addresses (I_eat_penguinfeet@ezweb.ne.jp)
+* What is the first line of the address: country or street?
+* What order are jobs/education? Earliest first or latest?
+* What information is given for your job / education?
+* Is it a good idea to use cute or mobile email addresses (I_eat_penguinfeet@ezweb.ne.jp)
 
 # Contents
 ## If you have no work experiences
-*Club/circle/team membership
-*Volunteer experience
-*Driving license
-*Awards (study, sports)
-*Sports , Music, Hobbies
-*First Aid experience
+* Club/circle/team membership
+* Volunteer experience
+* Driving license
+* Awards (study, sports)
+* Sports , Music, Hobbies
+* First Aid experience
 
 What else can you think of?
 

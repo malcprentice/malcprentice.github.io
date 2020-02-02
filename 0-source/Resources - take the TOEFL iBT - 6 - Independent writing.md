@@ -1,38 +1,38 @@
  
 # General tips
-*300 words minimum for a perfect score
-*See tips for all writing questions here: [[Resources - take the TOEFL iBT - 0 - An Overview]]
-*All the TOEFL independent writing topics I have are in the QW topic list: 
-**See [[Resources - quickwrite topics]]
-**Marked "TF"
-*This essay is rated by a human, but also a computer. Computers are good at finding:
-**text you have memorized from the internet. So don't
-**structure phrases such as "Another example". Use these
-**sentence length. Don't give short sentences. 
+* 300 words minimum for a perfect score
+* See tips for all writing questions here: [[Resources - take the TOEFL iBT - 0 - An Overview]]
+* All the TOEFL independent writing topics I have are in the QW topic list: 
+** See [[Resources - quickwrite topics]]
+** Marked "TF"
+* This essay is rated by a human, but also a computer. Computers are good at finding:
+** text you have memorized from the internet. So don't
+** structure phrases such as "Another example". Use these
+** sentence length. Don't give short sentences. 
 
 # Examples
 See [[Examples - TOEFL Independent essay]]
 
 # Suggested timing
-*(~5mins):
-**Read the question carefully: reasons, examples, or details?
-**Brainstorm some ideas
-**Choose your best ideas
-**Write an outline in the typing window 
-*(~15mins)
-**Turn your outline into sentences, in this order
-**your thesis statement
-**your section/paragraph topic sentences 
-**your detail sentences 
-*(~10 mins)
-**Finish off your Intro/conclusion 
-**Check your cohesion ([[Style - use cohesion]])
-**Check spelling/grammar 
+* (~5mins):
+** Read the question carefully: reasons, examples, or details?
+** Brainstorm some ideas
+** Choose your best ideas
+** Write an outline in the typing window 
+* (~15mins)
+** Turn your outline into sentences, in this order
+** your thesis statement
+** your section/paragraph topic sentences 
+** your detail sentences 
+* (~10 mins)
+** Finish off your Intro/conclusion 
+** Check your cohesion ([[Style - use cohesion]])
+** Check spelling/grammar 
 
 
 # Suggested Arrangement/Style
-*Look at [[Style - use cohesion]] for alternatives
-*Collect your own phrases
+* Look at [[Style - use cohesion]] for alternatives
+* Collect your own phrases
 
 ## 5 paragraph example
 +Introduction

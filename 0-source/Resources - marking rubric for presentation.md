@@ -42,13 +42,13 @@ Pronunciation of new words practiced?            |<blue>OK</blue><red> </red>
 
 
 ### Notes
-*Grading sections
-**No mistakes (no NG) in a section, the section is <green>G</green>
-**Only one "NG" per section, the section is <blue>OK</blue>
-**More than one "NG" per section, and the section is <red>NW</red>
+* Grading sections
+** No mistakes (no NG) in a section, the section is <green>G</green>
+** Only one "NG" per section, the section is <blue>OK</blue>
+** More than one "NG" per section, and the section is <red>NW</red>
 
-*Grading the homework
-**Your grade goes up or down from C(6) depending on how many NW or G _sections_ you get.
+* Grading the homework
+** Your grade goes up or down from C(6) depending on how many NW or G _sections_ you get.
 <red>NW</red> 		|"Needs Work" (-1)
 <blue>OK</blue>   	| "OK"
 <green>G</green> 	|"Good" (+1)

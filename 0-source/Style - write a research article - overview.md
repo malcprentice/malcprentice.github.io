@@ -1,14 +1,14 @@
 # Introduction and Literature section
-*Intro basically as with a normal essay. See [[Arrangement - write an introduction - overview]]
-*UP to your style guide how many paragraphs (or chapters!) this splits into.
-*Your General background should include sources (a "Literature Review")
-**This is often a separate paragraph, section, or chapter 
-**Lit Review is basically a Summary-Response. 
-**See [[Arrangement - write a summary-response]]
-*Don't forget definitions
-*DOnt' forget specific background. 
-*Importance background is essential for research. If it's not important in some way, why are you wasting your time researching it?
-*Your thesis statement is your research question, and it shoudl come after the GB
+* Intro basically as with a normal essay. See [[Arrangement - write an introduction - overview]]
+* UP to your style guide how many paragraphs (or chapters!) this splits into.
+* Your General background should include sources (a "Literature Review")
+** This is often a separate paragraph, section, or chapter 
+** Lit Review is basically a Summary-Response. 
+** See [[Arrangement - write a summary-response]]
+* Don't forget definitions
+* DOnt' forget specific background. 
+* Importance background is essential for research. If it's not important in some way, why are you wasting your time researching it?
+* Your thesis statement is your research question, and it shoudl come after the GB
 
 ## Some useful language for research-style lit reviews
 ### Summarizing the trend of multiple sources
@@ -53,9 +53,9 @@ See the Invention sheets
 
 # End matter
 Research reports and dissertations sometimes have extra things after the References.
-*Appendices
-**Raw data
-**extra tables
-**copies of your research materials
-**copies of your data collection materials, if they are text, like a questionnaire
-**Diagrams that didn't fit in the text
+* Appendices
+** Raw data
+** extra tables
+** copies of your research materials
+** copies of your data collection materials, if they are text, like a questionnaire
+** Diagrams that didn't fit in the text

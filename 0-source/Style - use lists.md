@@ -2,7 +2,7 @@
 Getting lists wrong is a common problem
 
 ## 1) Be careful about commas, spaces, and "and"
-*Use "and"/ "or" ONCE, at the end.
+* Use "and"/ "or" ONCE, at the end.
 OK: 1, 2, and 3.          
 OK: 1, 2, 3, and 4.       
 NO: 1, 2, 3, 4.
@@ -54,13 +54,13 @@ I want a cat, specifically either A, B, or C
 ### 4) In the middle of a sentence
 Read this: [[Style - use a parenthetical statement]]
 Two warnings if you use keywords this way:
-*No commas for lists. They are confusing
-**~~The three problems, A, B, and C, are bad~~
-*No brackets for important information or new keywords. 
-**~~The three problems (A, B, and C) are bad~~
+* No commas for lists. They are confusing
+** ~~The three problems, A, B, and C, are bad~~
+* No brackets for important information or new keywords. 
+** ~~The three problems (A, B, and C) are bad~~
 
 Hyphen style is safest:
-*The three problems - A, B, and C - are bad
+* The three problems - A, B, and C - are bad
 
  
 

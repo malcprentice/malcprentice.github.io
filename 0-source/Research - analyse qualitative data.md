@@ -1,14 +1,14 @@
 # Plan your analysis BEFORE data collection
-*What KIND of data will you collect? How can you analyse that kind of data
-*How much data will you collect? Do you have enough time to analyse it?
-**e.g. you have 2 weeks for analysis. Can you do 20 interviews?
-**e.g. you have 500 subjects. Should you do a paper or internet questionnaire?
+* What KIND of data will you collect? How can you analyse that kind of data
+* How much data will you collect? Do you have enough time to analyse it?
+** e.g. you have 2 weeks for analysis. Can you do 20 interviews?
+** e.g. you have 500 subjects. Should you do a paper or internet questionnaire?
 
 # What are you trying to find?
-*Qualitative research doesn't aim at generalisation. 
-*No "everyone does", just "these participants did" 
-*Just be accurate, detailed, and truthful. 
-*The reader decides for themselves what is important.
+* Qualitative research doesn't aim at generalisation. 
+* No "everyone does", just "these participants did" 
+* Just be accurate, detailed, and truthful. 
+* The reader decides for themselves what is important.
 
 # Research Diary
 Don't forget to take notes on problems, ideas, data you should collect next (either for this project, or in future research). These go into your Discussion section, and help the reader decide how accurate, detailed and truthful you are being. 
@@ -26,65 +26,65 @@ Possible Codes: “likes”, "dislikes", "weather"
 
 
 ## How do I find codes?
-*You can find codes by looking for vocabulary
-**Look for high frequency words (in context = KWIC)
-**Look for words that occur together (collocations)
-**Look for things that people repeat – words or topics
-**Look for words used in an unusual way (“indigenous typology”)
-*You can find codes by looking for organisation
-**Look for the way people put things in categories
-**Look for the metaphors people use
-*You can find codes by looking for changes
-**Look for “new topic” markers like “Anyway”, pauses, voice tone
-**Look at the relationship words (since, because, if, even though)
-**Look for connectors like “Another thing”
-**Look for role markers (“As a teacher, I…”)
-**Look for the first mention of a person, place or thing.
-*You can find codes by looking for what is missing
-**Look for what topics people are avoiding
-**You can find codes by looking for specific things
-*Look for themes from the literature you read (“A priori themes”).
-**Don't do this until you have coded for yourself, though.
+* You can find codes by looking for vocabulary
+** Look for high frequency words (in context = KWIC)
+** Look for words that occur together (collocations)
+** Look for things that people repeat – words or topics
+** Look for words used in an unusual way (“indigenous typology”)
+* You can find codes by looking for organisation
+** Look for the way people put things in categories
+** Look for the metaphors people use
+* You can find codes by looking for changes
+** Look for “new topic” markers like “Anyway”, pauses, voice tone
+** Look at the relationship words (since, because, if, even though)
+** Look for connectors like “Another thing”
+** Look for role markers (“As a teacher, I…”)
+** Look for the first mention of a person, place or thing.
+* You can find codes by looking for what is missing
+** Look for what topics people are avoiding
+** You can find codes by looking for specific things
+* Look for themes from the literature you read (“A priori themes”).
+** Don't do this until you have coded for yourself, though.
 
 # Process
 ### A) Make up a theory (optional)
 ### B) Look at your first transcript /diary / field note
 ### C) Code it
-*Print the text
-*Buy a big pack of multicoloured pencils
-*When you see a theme, underline it and write a “code”. 
+* Print the text
+* Buy a big pack of multicoloured pencils
+* When you see a theme, underline it and write a “code”. 
 ### D) Organise the codes
-*For a recommended way to do this, see "Cut and sort" below
-*Look at the codes one by one 	
-*For each code, ask “is this the same or different”? 	
-*Adapt the categories to fit the each new code
+* For a recommended way to do this, see "Cut and sort" below
+* Look at the codes one by one 	
+* For each code, ask “is this the same or different”? 	
+* Adapt the categories to fit the each new code
 ### E) Make a theory that fits the organisation you find.
-*Make more than one theory. 	
-*The one with most confirming and least negative evidence wins.
+* Make more than one theory. 	
+* The one with most confirming and least negative evidence wins.
 ### F) Check it for (“discrepant cases” or “negative evidence)
-*Look deliberately for quotes that do not fit into your model 	
-*Look again at the bits you discarded or did not code. 	
-*You don't have to explain everything. 	
-*A few discrepant cases are expected. 	
-*The aim is to minimize them, not ignore them.
+* Look deliberately for quotes that do not fit into your model 	
+* Look again at the bits you discarded or did not code. 	
+* You don't have to explain everything. 	
+* A few discrepant cases are expected. 	
+* The aim is to minimize them, not ignore them.
 ### G) Repeat with the next the next case/interview/diary
 ### H) When categories stop changing you are finished (“saturated”).
 ### I)  Peer Validation (optional)
-*Get another researcher or two to repeat your analysis. 
-*If they get the same results, then your decisions are probably “valid”.
+* Get another researcher or two to repeat your analysis. 
+* If they get the same results, then your decisions are probably “valid”.
 ### J) Respondent Validity (member check): 
-*Show your subjects your ideas. 
-*Ask them “is this what you meant?” “Do you think tis conclusion is true?”
+* Show your subjects your ideas. 
+* Ask them “is this what you meant?” “Do you think tis conclusion is true?”
 
 
 # Alternatives to the above are 
 1) to use expensive "CAQDAS"  programs (Atlas and Nvivo) if you  have lots of data, money, help, and time. 
 2) Metacoding (limited use)
-*get your themes from the literature ( “a priori). 
-*Split the text into equal size chunks (e.g. 3 lines). 
-*For each unit, ask if the theme present or not. 
-*If it is, add 1 point. 
-*Each text gets a score 
+* get your themes from the literature ( “a priori). 
+* Split the text into equal size chunks (e.g. 3 lines). 
+* For each unit, ask if the theme present or not. 
+* If it is, add 1 point. 
+* Each text gets a score 
 3) Use one of the stricter methods - e.g. “Analytic induction”,  “Constant comparison”
 
 # Cut and sort

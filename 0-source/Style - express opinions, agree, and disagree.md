@@ -1,14 +1,14 @@
 # Giving Opinion
-*In my opinion, coffee is best.
-*Personally, I think coffee is best.
-*In my experience, coffee is best.
-* In my view, coffee is best. 
-*I'd say that coffee is best.
-*I believe that coffee is best.
+* In my opinion, coffee is best.
+* Personally, I think coffee is best.
+* In my experience, coffee is best.
+*  In my view, coffee is best. 
+* I'd say that coffee is best.
+* I believe that coffee is best.
 
 # Give reasons
-*The first/second/third reason is...
-*Another reason is...
+* The first/second/third reason is...
+* Another reason is...
 
 # Give examples
 For example,
@@ -36,9 +36,9 @@ It's true that X, however, Y.
 I don't think so either.
 
 # Clarifying
-*What do you mean by X?
-*Can you explain that again?
-*Can you give an example?
+* What do you mean by X?
+* Can you explain that again?
+* Can you give an example?
 
 # Be careful when agreeing or disagreeing with negative check questions
 __In conversation, sometimes meaning depends on intonation__

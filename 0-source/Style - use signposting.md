@@ -8,18 +8,18 @@ Which way is your problems section?                     |"As the problems sectio
 
 
 # Basic signposting for short essays
-**Firstly, KEYWORD.
-**The second theme/point/problem/solution/reason is KEYWORD.
-**The third theme/point/problem/solution/reason is  KEYWORD.
-**This brings us to the third theme, KEYWORD.
+** Firstly, KEYWORD.
+** The second theme/point/problem/solution/reason is KEYWORD.
+** The third theme/point/problem/solution/reason is  KEYWORD.
+** This brings us to the third theme, KEYWORD.
 
 
 
 # Signposting BACK and FORWARD
 Back and forward uses the same phrases.
-*Change "above" for "below"
-*Change "next" for "previous"
-*Change past tense to present or future
+* Change "above" for "below"
+* Change "next" for "previous"
+* Change past tense to present or future
 
 The                         |previous   |section        |described X.
 The                         |next       |section        |describes/will describe X.
@@ -40,9 +40,9 @@ The next section will describe X.   |First, however, this section will examine
 
 
 # Signposting a section number
-*Longer essays/dissertations have section and chapter numbers you can use
-*A common mistake, though, is to change the number without changing the reference.
-*Be careful!
+* Longer essays/dissertations have section and chapter numbers you can use
+* A common mistake, though, is to change the number without changing the reference.
+* Be careful!
 
 The impact of X on Y is covered     |in section 3.4.
 This will be returned to            |below in section 3.2
@@ -52,7 +52,7 @@ More about X is given               |in section 2.4.   
 Look at [[Arrangement - write a specific genre]] to learn more about the genre options
 [[Schedules - Curriculum for General Academic Skills]] under "organise your ideas clearly (Arrangement)"
 
-*e.g. "While X is A, Y is B"    |useful for compare-contrast
-*e.g. "The following day"       |useful for time order
-*e.g. "The third reason"        |useful for for arguments
-*e.g. "The second difference"   |useful for compare-contrast
+* e.g. "While X is A, Y is B"    |useful for compare-contrast
+* e.g. "The following day"       |useful for time order
+* e.g. "The third reason"        |useful for for arguments
+* e.g. "The second difference"   |useful for compare-contrast

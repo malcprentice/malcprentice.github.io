@@ -1,7 +1,7 @@
 This example is for the THREE THING criteria-analysis. 
 It matches 
-*the Example "EXAMPLE Presentation - Criteria Analysis 3 things - Engineering" (the "fukushima cleanup robot") powerpoint presentation example
-*the "TEMPLATE for Presentation - Criteria-Analysis THREE THINGS ENGINEERING" 
+* the Example "EXAMPLE Presentation - Criteria Analysis 3 things - Engineering" (the "fukushima cleanup robot") powerpoint presentation example
+* the "TEMPLATE for Presentation - Criteria-Analysis THREE THINGS ENGINEERING" 
 
 The examples and templates marked "ONE THING" or talking about choosing a good volunteer experience are DIFFERENT. 
 

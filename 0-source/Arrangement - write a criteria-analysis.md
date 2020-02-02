@@ -9,32 +9,32 @@ Probably, someone was asked to
 
 
 # Invention
-*For topics, think about:
-**Something you need to buy (mobile phone)
-**Something you need to choose (study abroad, company)
-**Something Japan needs to decide (olympic stadium designs)
+* For topics, think about:
+** Something you need to buy (mobile phone)
+** Something you need to choose (study abroad, company)
+** Something Japan needs to decide (olympic stadium designs)
 
-*For criteria:
-**DON'T choose boring criteria (e.g. cost) 
-**choose something that needs research
-**choose something that needs thought
+* For criteria:
+** DON'T choose boring criteria (e.g. cost) 
+** choose something that needs research
+** choose something that needs thought
 
 # Examples
-**make sure you have the correct arrangement
-**one thing = colunteer, three things = robot
+** make sure you have the correct arrangement
+** one thing = colunteer, three things = robot
 
 # Arrangement - Overview
 There are two basic types
-*Analyse ONE thing and give a yes/no recommendation
-*Analyse THREE things and recommend the best choice 
-*The GCP Volunteer example use "ONE thing" arrangement
-*The Engineering Robot example use "THREE things" arrangement
+* Analyse ONE thing and give a yes/no recommendation
+* Analyse THREE things and recommend the best choice 
+* The GCP Volunteer example use "ONE thing" arrangement
+* The Engineering Robot example use "THREE things" arrangement
 
-*FYI: "Figure" = image/map/graph
+* FYI: "Figure" = image/map/graph
 
 # Arrangement for slides
-*There is a Powerpoint TEMPLATE in the template folder 
-*(TEMPLATE for criteria-analysis presentation.pptx)
+* There is a Powerpoint TEMPLATE in the template folder 
+* (TEMPLATE for criteria-analysis presentation.pptx)
 
 ### 12 slide pattern
 +Title Slides
@@ -59,16 +59,16 @@ There are two basic types
 
 
 # Arrangement for Essay
-*There is no outline template
-**Just use your powerpoint as a writing plan. 
-**This is common in academic writing. Let's practice!
-**However, use the arrangement below as a checklist!
-*Use the blank SECTIONAL template when you write 
-**TEMPLATE for ESSAY  - Sectional 8/9 paragraph
-**Careful - covers problem/solution AND criteria/analysis
-**Careful - contains an OPTIONAL 9th Description paragraph.
-***If your Intro/criteria paragraphs are too long, use it
-***If not, delete it!
+* There is no outline template
+** Just use your powerpoint as a writing plan. 
+** This is common in academic writing. Let's practice!
+** However, use the arrangement below as a checklist!
+* Use the blank SECTIONAL template when you write 
+** TEMPLATE for ESSAY  - Sectional 8/9 paragraph
+** Careful - covers problem/solution AND criteria/analysis
+** Careful - contains an OPTIONAL 9th Description paragraph.
+*** If your Intro/criteria paragraphs are too long, use it
+*** If not, delete it!
 
 +Intro
 ++[[Arrangement - write an introduction paragraph background]]
@@ -191,27 +191,27 @@ There is no detail, because there are several options:
 # Style 
 ## Style for criteria
 1) Try using some superlative adjectives
-*"The most important thing to look for in a X is QUALITY"
-*"One of the most essential qualities of a X is that it is Y"
+* "The most important thing to look for in a X is QUALITY"
+* "One of the most essential qualities of a X is that it is Y"
 
 2) use recommendation lanuage
-*A good X should have Y
-*A high quality X must have Y
+* A good X should have Y
+* A high quality X must have Y
 
 3) Try process language
-*In order to check 
+* In order to check 
 
 
 ## Style for analysis
 ### Analysis Keywords
 Keywords for your Analysis paragraphs bend the normal rules. They are __actions.__ 
 This means they should be "to" or "ing" verbs:
-*"One way to check this is to measure Y."
-*"One way to check this is measuring Y."
-*"Another method for checking this criterion is to look at X
-*"Another method for checking this criterion is looking at X
-*"The three best ways to check this are to look at X, to measure Y, and to check X."
-*"The three best ways to check this are to looking X, measuring Y, and checking X."
+* "One way to check this is to measure Y."
+* "One way to check this is measuring Y."
+* "Another method for checking this criterion is to look at X
+* "Another method for checking this criterion is looking at X
+* "The three best ways to check this are to look at X, to measure Y, and to check X."
+* "The three best ways to check this are to looking X, measuring Y, and checking X."
 
 ### Analysis sentence
 Three suggestions. Different paragraphs should have different patterns to avoid boring style
@@ -246,26 +246,26 @@ Things being analysed not mentioned until paragraph 4 	|Thing being analysed men
 
 ## Criteria should stand alone
 I should be able to take your criteria, and use them to assess three completely different choices. 
-*e.g. you used the criteria price, taste, and health to analyse strawberries, bananas and apples using the criteria
-*I should be able to use the SAME criteria paragraphs/slides to analyse pineapples, oranges, and grapes. Without changing them
-*Remember: DO NOT mention the thing/.things you are analysingin your criteria section
+* e.g. you used the criteria price, taste, and health to analyse strawberries, bananas and apples using the criteria
+* I should be able to use the SAME criteria paragraphs/slides to analyse pineapples, oranges, and grapes. Without changing them
+* Remember: DO NOT mention the thing/.things you are analysingin your criteria section
 
 ## Plural is "criteria", singular "criterion"
-*One criterion
-*Two criteria
-*Three criteria
-*etc
+* One criterion
+* Two criteria
+* Three criteria
+* etc
 
 ### Use hedging
 Many of you analyses will not be completely certain
 Try to [[Style - use hedging]]
-*"Is not effective" is usually too strong. Instead try:
-*"not particularly effective"
-*"does not entirely meet the criteria" 
+* "Is not effective" is usually too strong. Instead try:
+* "not particularly effective"
+* "does not entirely meet the criteria" 
 
 # Description paragraph style
 If you do use a description paragraph at the beginning of your analysis:
-*Example section thesis statement/topic sentence: ("This section first describes one TOPIC in detail, and then critically analyses it in terms of the criteria outlined above.")
-*See previous essays for how to write process/definition/partition/comparison sentences
-*Link at end of description paragraph ("Now that X has been described, the following three paragraphs will analyse it in terms of the criteria described above - 1, 2, and 3.")
-*Analysis paragraph topic sentence becomes "The first criterion to be considered is 1."
+* Example section thesis statement/topic sentence: ("This section first describes one TOPIC in detail, and then critically analyses it in terms of the criteria outlined above.")
+* See previous essays for how to write process/definition/partition/comparison sentences
+* Link at end of description paragraph ("Now that X has been described, the following three paragraphs will analyse it in terms of the criteria described above - 1, 2, and 3.")
+* Analysis paragraph topic sentence becomes "The first criterion to be considered is 1."

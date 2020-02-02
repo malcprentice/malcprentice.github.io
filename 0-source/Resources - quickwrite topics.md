@@ -1,10 +1,10 @@
 You do not need to do these QW topics in order!
 Copy-paste the lines below into the "Title" box of your Learning Log.
-*E = easy. Start with these
-*TF are independent TOEFL iBT questions, so they are difficult!
-*AA are more difficult, from Aron et al. (1997): http://psp.sagepub.com/content/23/4/363.
-*MORE QW - random topics I haven't sorted or checked yet.
-*See the bottom if you need more topics
+* E = easy. Start with these
+* TF are independent TOEFL iBT questions, so they are difficult!
+* AA are more difficult, from Aron et al. (1997): http://psp.sagepub.com/content/23/4/363.
+* MORE QW - random topics I haven't sorted or checked yet.
+* See the bottom if you need more topics
 
 E1. 	What did you do in the holidays?
 E2. 	What do you do in your free time?

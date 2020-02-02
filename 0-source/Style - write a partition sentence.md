@@ -35,15 +35,15 @@ X			|consists of 			|three 		|main isotopes			|: U233, U235 and U238
 
 
 # Tips
-*<red>CAREFUL</red>. You can partition "dogs", but not "Shiba" - start at the right level.
-*If your topic has one well-known form (e.g. Gold), normal partition is hard.
-**However, you can always find something: 
-***conflict Gold and conflict-free Gold
-***three main gold-producing areas
-*if you want a comment in the same sentence, don't use colons in Option 1/2. They introduce a list, which must finish. 
-**Use commas or colons (", of which" " - of which")
-**Use a new sentence (". Of these")
-*Your teacher might talk about "classification-partition" in the future
-**a classification is the first half when you [[Style - write a definition sentence]])
-**Careful - it's really hard to write both a partition and a definition/classification
-**If you want to define AND partition, go UP a level for your definition: "Tigers are a kind of big cat. There are seven kinds of tiger"*
+* <red>CAREFUL</red>. You can partition "dogs", but not "Shiba" - start at the right level.
+* If your topic has one well-known form (e.g. Gold), normal partition is hard.
+** However, you can always find something: 
+*** conflict Gold and conflict-free Gold
+*** three main gold-producing areas
+* if you want a comment in the same sentence, don't use colons in Option 1/2. They introduce a list, which must finish. 
+** Use commas or colons (", of which" " - of which")
+** Use a new sentence (". Of these")
+* Your teacher might talk about "classification-partition" in the future
+** a classification is the first half when you [[Style - write a definition sentence]])
+** Careful - it's really hard to write both a partition and a definition/classification
+** If you want to define AND partition, go UP a level for your definition: "Tigers are a kind of big cat. There are seven kinds of tiger"* 

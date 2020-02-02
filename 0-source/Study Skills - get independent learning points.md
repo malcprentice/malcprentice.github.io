@@ -2,8 +2,8 @@ This is the full list of ways to get independent learning points ("OK points").
 Your aim is:
 1) Score 20 points to max your "participation" score
 2) Score a few extra to make up for any points you have LOST
-*e.g. forgetting homework NG point
-*e.g. absences
+* e.g. forgetting homework NG point
+* e.g. absences
 3) Any combination OK. So, if you hate TOEIC for example, just do something else instead.
 4) For some, you only get participation points after you have completed the minimum.
 
@@ -38,7 +38,7 @@ Logs CANCELLED     					|Not an option now         	|0       				|0 			    	|Nop
 
 ### Careful with minimums and needing to have a reason
 <red>See Table - if something is REQUIRED, the points system changes</red>
-*e.g. If WC is required, no extra points available.
-*e.g. If WC is not required, only 1 point available, and you MUST have a question
-*e.g. If EF is required, no participations until over minimum
-*e.g. if EF is not required, 5 points available, and you can just go for fun and points
+* e.g. If WC is required, no extra points available.
+* e.g. If WC is not required, only 1 point available, and you MUST have a question
+* e.g. If EF is required, no participations until over minimum
+* e.g. if EF is not required, 5 points available, and you can just go for fun and points

@@ -14,9 +14,9 @@ This sentence is __three__ words, not eleven
 
 # Target is 15 words
 ## For essays in this class
-*10 words per sentence ABSOLUTE MINIMUM.
-*15 words is OK
-*20 words is good
+* 10 words per sentence ABSOLUTE MINIMUM.
+* 15 words is OK
+* 20 words is good
 
 
 ## For other work
@@ -24,17 +24,17 @@ News articles have shorter sentences than essays. Dissertation sentences can be 
 
 
 # Exceptions
-*Keyword) sentences can be short (although it's better if they're not). THese are OK:
-**The third problem is pollution.
-**The second solution is reducing costs.
-**This paragraph describes three possible solutions
-*Quote sentence can be short.
-**As Martin Luther King said, "I have a dream".
+* Keyword) sentences can be short (although it's better if they're not). THese are OK:
+** The third problem is pollution.
+** The second solution is reducing costs.
+** This paragraph describes three possible solutions
+* Quote sentence can be short.
+** As Martin Luther King said, "I have a dream".
 
 # Solution
-*Join sentences together (but/and/so/because/etc)
-*Give more detail - see [[Arrangement - write a detail sentence]]
-*Also see [[Style - use cohesion]]
+* Join sentences together (but/and/so/because/etc)
+* Give more detail - see [[Arrangement - write a detail sentence]]
+* Also see [[Style - use cohesion]]
 
 
 What is the MINIMUM length of a sentence in an essay for  this class?QQQ2QQQ7 words QQQ10 words QQQ 15 words QQQ20 words

@@ -1,7 +1,7 @@
 See [[Projects - write a country case study]]
-*Remember, this is not a SECTIONAL SEVEN PARAGRAPH essay, so use the correct template. 
-*This can be expanded to 11-15 paragraphs if your Problems or Solutions are longer. 
-*However, points will be deducted for going over word limit
+* Remember, this is not a SECTIONAL SEVEN PARAGRAPH essay, so use the correct template. 
+* This can be expanded to 11-15 paragraphs if your Problems or Solutions are longer. 
+* However, points will be deducted for going over word limit
 
 Thanks to TB in 2016 for Original of Intro, Background, and Refugee sections
 

@@ -50,10 +50,10 @@ predicted levels of X	|halved	 		|from its high in 2015
 
 
 ### For most verbs you can also add an adverb BEFORE the verb
-*the value of X immediately fell
-*the value of X steadily increased
-*the value of X suddenly halved
-*the value of X gradually halved
+* the value of X immediately fell
+* the value of X steadily increased
+* the value of X suddenly halved
+* the value of X gradually halved
 
 
 

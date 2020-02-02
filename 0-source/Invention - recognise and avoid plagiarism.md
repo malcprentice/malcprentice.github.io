@@ -13,10 +13,10 @@ Plagiarism = Stealing someone's words or ideas = FAIL
 ### From the dissertation
 >>"Stem cells have the remarkable potential to develop into many different cell types in the body during early life and growth. In addition, in many tissues they serve as a sort of internal repair system, dividing essentially without limit to replenish other cells as long as the person or animal is still alive." (Obokata, 2011)
 ### Questions
-*Why do you think Waseda University supervisors did not catch this?
-*Waseda has decided not to cancel her PhD. Do you think this is the correct decision?
-*Do you think this is her fault, or the fault of her teachers in university?
-*Why do you think students plagiarize?
+* Why do you think Waseda University supervisors did not catch this?
+* Waseda has decided not to cancel her PhD. Do you think this is the correct decision?
+* Do you think this is her fault, or the fault of her teachers in university?
+* Why do you think students plagiarize?
 ### References
 <ref>
 McCoy, T. (2014, December 19). The shameful final chapter for one of Japan’s most promising stem cell scientists. _The Washington Post._ Retrieved from http://www.washingtonpost.com/news/morning-mix/wp/2014/12/19/the-shameful-final-chapter-for-japans-most-promising-stem-cell-scientist/_
@@ -58,8 +58,8 @@ See [[Invention - quote and paraphrase]] for detail. In short:
 5) Only quote for a reason. Quote ONLY a FEW SHORT and IMPORTANT phrases.
 _Cite once every idea/sentence, not once per paragraph_
 6) Check your essay before you submit, in case some of your raw notes sneaked into your essay:  
-*a: https://www.grammarly.com/plagiarism-checker
-*b: http://www.quetext.com/
+* a: https://www.grammarly.com/plagiarism-checker
+* b: http://www.quetext.com/
 
 
 

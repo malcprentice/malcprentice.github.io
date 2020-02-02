@@ -29,9 +29,9 @@ How: Write two truths and a lie about yourself on the board (recommend you stick
 Aim: TOEIC Photo section practice, present continuous, relative locations, physical descriptions. 
 1) Keep a folder of images where a small number of people (or animals) are doing something. For TOEIC, at least should be office situations, but those get boring so throw in some interesting ones. 
 2) Pre-teach as necessary:
-*"there is/there are"
-*positions "to the left of /on the left" and "The person is doing something" 
-*TOEIC photo style present continuious (The woman on the left is throwing a ball). 
+* "there is/there are"
+* positions "to the left of /on the left" and "The person is doing something" 
+* TOEIC photo style present continuious (The woman on the left is throwing a ball). 
 3) In pairs, students janken. WInner closes their eyes. Show the photo (usually on the projector/screen). Loser gets a count of 10 to remember the photo. Hide the photo. Loser has a few minutes to describe. Reveal the photo. Wait for laughter to stop. Check their attempts. 
 4) Give them the language they were trying to use but didn't know. 
 5) Switch

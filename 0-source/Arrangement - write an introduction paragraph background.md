@@ -1,14 +1,14 @@
 # What is "background"?
 Introductions do not start with the thesis statement.
 Prepare your reader by giving:
-*1) __general background__
-*2) __specific background__
-*3) __importance background__ (sometimes)
+* 1) __general background__
+* 2) __specific background__
+* 3) __importance background__ (sometimes)
 
 ## 1) GB - General Background
-*Don't just suddenly shout "Tantalum!" or "Frogs!"
-**Catch my interest first
-**Name a wider topic I know (iPhones, endangered animals)
+* Don't just suddenly shout "Tantalum!" or "Frogs!"
+** Catch my interest first
+** Name a wider topic I know (iPhones, endangered animals)
 
 ### Recommended GB phrases for academic essays
 Type: 			|Example
@@ -32,13 +32,13 @@ A question 			|"Have you ever wondered where geniuses get their ideas?"	|No talk
 
 
 ## 2) SB - Specific Background
-*NAME your topic, if you haven't already.
-*Give information I need to understand the Thesis
-**e.g. what Tantalum is
-**e.g. what a Saola is
-*Don't give too much detail!
-**One sentence is enough.
-**Especially if you are going to [[Arrangement - write a description paragraph]] later.
+* NAME your topic, if you haven't already.
+* Give information I need to understand the Thesis
+** e.g. what Tantalum is
+** e.g. what a Saola is
+* Don't give too much detail!
+** One sentence is enough.
+** Especially if you are going to [[Arrangement - write a description paragraph]] later.
 
 ### Recommended SB phrases
  Type					| Example
@@ -56,15 +56,15 @@ GB	|IB showing __GB__ is important			|SB
 GB	|SB                                  	|IB showing __SB__ is important.
 
 ### Recommended IB phrases
-*This is a problem because not all X is made/used/recycled/disposed of/mined/obtained in an ethical way
-*This is important because...
-*This is a problem that needs solving because...
-*If X, then Y will also
-*This is an interesting area because
-*Not many people know about X, but they should because
-*While much is known about X, little is known about Y
-*The results/information below should be useful to ...
-*Knowing more about X should help Y (do Z)
+* This is a problem because not all X is made/used/recycled/disposed of/mined/obtained in an ethical way
+* This is important because...
+* This is a problem that needs solving because...
+* If X, then Y will also
+* This is an interesting area because
+* Not many people know about X, but they should because
+* While much is known about X, little is known about Y
+* The results/information below should be useful to ...
+* Knowing more about X should help Y (do Z)
 
 # Examples
 Many people use seasoning every day to make their food taste better. One of the most common seasonings used in Japan is salt. However, not all of this is made in an ethical way, and its production can cause problems. This essay first describes salt production in detail, then looks at some problems it causes and some possible solutions to those problems.

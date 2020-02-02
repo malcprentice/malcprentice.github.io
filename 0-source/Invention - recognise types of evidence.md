@@ -4,12 +4,12 @@ Reason 	|"Loch Ness is very narrow, so where would it hide?"
 Report 	|"My cousin said he saw it" (personal report) /// "It was seen by person X on date Y" (testimony)
 Research|"The BBC used 600 submarines and found nothing": http://news.bbc.co.uk/2/hi/science/nature/3096839.stm
 	
-*Reason/Report without Research is weak
-**"Loch Ness is very narrow"? yes, but also very deep, so it's easy to hide
-**"My cousin said"? OK, but maybe my cousin is lying, or wrong.
-*Research without Reason/Report is boring
-*A good essay uses Research linked by Reasons. 
-*Personal Report is not allowed in academic essays. Cite testimony or it didn't happen.
+* Reason/Report without Research is weak
+** "Loch Ness is very narrow"? yes, but also very deep, so it's easy to hide
+** "My cousin said"? OK, but maybe my cousin is lying, or wrong.
+* Research without Reason/Report is boring
+* A good essay uses Research linked by Reasons. 
+* Personal Report is not allowed in academic essays. Cite testimony or it didn't happen.
 
 	
 # Example Evidence

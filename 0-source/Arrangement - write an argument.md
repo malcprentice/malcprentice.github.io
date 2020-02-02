@@ -1,37 +1,37 @@
 An argumentative ("persuasive") genre text tries to change your mind - to make you think something or do something
 
 It could be:
-*A whole essay/article
-*A paragraph in an essay
-*Part of a paragraph (probably in Discussion)
+* A whole essay/article
+* A paragraph in an essay
+* Part of a paragraph (probably in Discussion)
 
 Arguments are often found as:
-*Research based dissertation
-*University essay competition essay
-*Newspaper Editorial
-*Newspaper Review
+* Research based dissertation
+* University essay competition essay
+* Newspaper Editorial
+* Newspaper Review
 
 # Example topic types
-*X exists
-**Nessie exists
-**Aliens exist
-*X is better than Y
-**Glasses are better than contacts
-**Tokyo is better than Osaka
-*X is the best Y
-**Saizeriya is the best family restaurant
-**Yokohama is the best city in Japan to live in
-*X should Y
-**Malc should give us 4 hours of homework every week
-**Japanese students should learn Chinese in JHS.
-*X should not Y
-**Students should not have part time jobs
-**We should not keep pets.
+* X exists
+** Nessie exists
+** Aliens exist
+* X is better than Y
+** Glasses are better than contacts
+** Tokyo is better than Osaka
+* X is the best Y
+** Saizeriya is the best family restaurant
+** Yokohama is the best city in Japan to live in
+* X should Y
+** Malc should give us 4 hours of homework every week
+** Japanese students should learn Chinese in JHS.
+* X should not Y
+** Students should not have part time jobs
+** We should not keep pets.
 
 ### Think
-*A good topic has points for and against and is difficult to decide. Can you think of 3 reasons for/against the topics above?
-*Obvious topics (e.g. "Elementary school children should not smoke") are boring
-*Write 5 more statements that you think about 50% of the class will disagree with.
+* A good topic has points for and against and is difficult to decide. Can you think of 3 reasons for/against the topics above?
+* Obvious topics (e.g. "Elementary school children should not smoke") are boring
+* Write 5 more statements that you think about 50% of the class will disagree with.
 
 # Arrangement
 ## One paragraph outline

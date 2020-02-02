@@ -1,12 +1,12 @@
 # Overview
-*Before reading this page, read this: [[Invention - recognise and avoid plagiarism]]
-*If you need to use someone else's words, there are two options: Quote or Paraphrase.
+* Before reading this page, read this: [[Invention - recognise and avoid plagiarism]]
+* If you need to use someone else's words, there are two options: Quote or Paraphrase.
  
 # Option 1: Quote
-*"Quote" = Use the writer’s EXACT words in quotemarks ("")
-**After this, he <blue>"</blue>renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton<blue>"</blue> (Nobel Foundation, 1922)
-**Only do this for a FEW important quotes.
-**Usually, you should paraphrase. ALWAYS give a page number if you can
+* "Quote" = Use the writer’s EXACT words in quotemarks ("")
+** After this, he <blue>"</blue>renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton<blue>"</blue> (Nobel Foundation, 1922)
+** Only do this for a FEW important quotes.
+** Usually, you should paraphrase. ALWAYS give a page number if you can
 
 You can make SMALL changes to quotes if they don't change the meaning:
 Original			| "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"
@@ -15,28 +15,28 @@ Fix grammar			| "He doesn't like cats ... [or] dogs"
 Fix pronouns		| "[Bob] doesn't like cats, ... [or] dogs"
 
 # Option 2: Paraphrase
-*Paraphrase - use your own words and grammar
-**Change the words.
-**CHange the word order
-**Fix the grammar for your new version
+* Paraphrase - use your own words and grammar
+** Change the words.
+** CHange the word order
+** Fix the grammar for your new version
 
-*The best way to paraphrase is to 
-**take notes in Japanese (only keywords in English) 
-**then write in English without looking at original
-*The worst way to paraphrase is to:
-**copy paste a chunk
-**Change the words e.g.  using a thesaurus:http://www.wordhippo.com/what-is/another-word-for/
-**Change the word order
-**Why? Because if you do it this way you will probably
-***Break the grammar
-***Use the wrong synonym ("same meaning word")
-***Forget and accidentally plagiarize
-***Fail to learn anything
+* The best way to paraphrase is to 
+** take notes in Japanese (only keywords in English) 
+** then write in English without looking at original
+* The worst way to paraphrase is to:
+** copy paste a chunk
+** Change the words e.g.  using a thesaurus:http://www.wordhippo.com/what-is/another-word-for/
+** Change the word order
+** Why? Because if you do it this way you will probably
+*** Break the grammar
+*** Use the wrong synonym ("same meaning word")
+*** Forget and accidentally plagiarize
+*** Fail to learn anything
 
 
 Sometimes you need to change tense if you remove quotes
-*"Imagination <blue>is</blue> more important than knowledge" (Einstein, 1931, p. 31)
-*Einstein (1931) said that imagination <blue>was</blue> more important than knowledge
+* "Imagination <blue>is</blue> more important than knowledge" (Einstein, 1931, p. 31)
+* Einstein (1931) said that imagination <blue>was</blue> more important than knowledge
 
 
 # Example paraphrases - why are these bad/good?

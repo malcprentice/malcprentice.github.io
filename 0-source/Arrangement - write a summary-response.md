@@ -17,9 +17,9 @@ Save your ideas for the discussion.
 You will need to research how to:
 1) _Summarize_ (with APA citation) a statement or a solution.
 2) _Respond_ (with APA citation) using EVIDENCE. Is the thing you summarized
-*true/effective
-*partly true/effective
-*untrue/ineffective.
+* true/effective
+* partly true/effective
+* untrue/ineffective.
 
 ## Example negative responses.
 You're looking EVIDENCE to PROVE your response. Look for:
@@ -33,16 +33,16 @@ PR                      |However, this small project is funded by a large tobacc
 
 ## Example positive responses
 Just summarize more evidence to show that it IS effective
-*Preferably, a number (17%, 300 children, 1200 pairs of shoes every month)
+* Preferably, a number (17%, 300 children, 1200 pairs of shoes every month)
 
 ## FOr both positive and negative responses, try to use an independent source
-*i.e. NOT an NGO saying they are great using their own data). Instead:
-*e.g. respond to an NGO/volunteer group website using Charity Navigator https://www.charitynavigator.org
-*e.g. search for blogs by ex-volunteers, not comments on the volunteer organisation website.
-*e.g. search for newpaper commentary on government projects, not statements by one political party
-*e.g. search Google Scholar / CiNii (Japanese) for academic articles
-*e.g. blogs by volunteers who actually went on a trip, not the volunteer organisation itself
-*e.g. Google Scholar articles on the idea
+* i.e. NOT an NGO saying they are great using their own data). Instead:
+* e.g. respond to an NGO/volunteer group website using Charity Navigator https://www.charitynavigator.org
+* e.g. search for blogs by ex-volunteers, not comments on the volunteer organisation website.
+* e.g. search for newpaper commentary on government projects, not statements by one political party
+* e.g. search Google Scholar / CiNii (Japanese) for academic articles
+* e.g. blogs by volunteers who actually went on a trip, not the volunteer organisation itself
+* e.g. Google Scholar articles on the idea
 
 
 
@@ -62,13 +62,13 @@ This simple outline is also on the template in the materials folder:
 
 
 ## Key Arrangement tips
-*Minimum 11 sentences
-*You can [[Arrangement - write a detail sentence]] extra for each summary and reponse, for a total of max 17 sentences.
-*Don't go longer than 17, or you will need to split th paragraph and [[Arrangement - write a sectional essay]]
-*No link - next paragraph is conclusion. See [[Arrangement - write a paragraph summary-link]]
-*Remember to [[Style - use cohesion]] properly for details
-*Evidence, not opinion
-*Don't forget your citations
+* Minimum 11 sentences
+* You can [[Arrangement - write a detail sentence]] extra for each summary and reponse, for a total of max 17 sentences.
+* Don't go longer than 17, or you will need to split th paragraph and [[Arrangement - write a sectional essay]]
+* No link - next paragraph is conclusion. See [[Arrangement - write a paragraph summary-link]]
+* Remember to [[Style - use cohesion]] properly for details
+* Evidence, not opinion
+* Don't forget your citations
 
 
 # Examples
@@ -87,29 +87,29 @@ This simple outline is also on the template in the materials folder:
 # Style
 ### Summary
 Who is doing what? Where? Why? When? How?
-*The first solution is X (Suzuki, 2014 June 6). The aim of X is to do Y, by Zing.
-*According to Suzuki (2014, June 6), X is doing Y. For example, Z.
-*Suzuki (1999) suggested/argued/gave/claimed that X is Y. Also, it is Z
-*This solution is not effective because X ("Title of Article," 1999, July 4). In addition, Y.
-*When you [[Arrangement - write a detail sentence]], see [[Invention - quote and paraphrase]] and [[Style - use cohesion]]
+* The first solution is X (Suzuki, 2014 June 6). The aim of X is to do Y, by Zing.
+* According to Suzuki (2014, June 6), X is doing Y. For example, Z.
+* Suzuki (1999) suggested/argued/gave/claimed that X is Y. Also, it is Z
+* This solution is not effective because X ("Title of Article," 1999, July 4). In addition, Y.
+* When you [[Arrangement - write a detail sentence]], see [[Invention - quote and paraphrase]] and [[Style - use cohesion]]
 
 
 
 ### Response
 Please [[Invention - quote and paraphrase]] properly and [[Style - use cohesion]] to clearly say if the solution is good or not:
-*Disagree 	("However,..", "Nevertheless")
-*Agree 		("Indeed,...", "In fact....")
-*See [[Style - use cohesion]] for alternatives to "However" and "In fact"
+* Disagree 	("However,..", "Nevertheless")
+* Agree 		("Indeed,...", "In fact....")
+* See [[Style - use cohesion]] for alternatives to "However" and "In fact"
 
-*See [[Invention - quote and paraphrase]]
+* See [[Invention - quote and paraphrase]]
 
 
 # Common Mistakes
 ### Use the correct tense/conditional
-*X was attempted
-*X has been attempted
-*X is being attempted
-*X will be attempted
+* X was attempted
+* X has been attempted
+* X is being attempted
+* X will be attempted
 
 Remember to [[Invention - quote and paraphrase]] properly
 
@@ -139,9 +139,9 @@ Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also e
 
 
 # Argument Essay Response Quiz
-*Above, we focused on Summary-Response for Solutions.
-*However, it can also be used for other reasons.
-*Here is a summary-response quiz for misunderstandings about problems from Oxfam's "Explore overseas aid" http://www.oxfam.org.uk/education/resources/explore-overseas-aid
+* Above, we focused on Summary-Response for Solutions.
+* However, it can also be used for other reasons.
+* Here is a summary-response quiz for misunderstandings about problems from Oxfam's "Explore overseas aid" http://www.oxfam.org.uk/education/resources/explore-overseas-aid
 
 ### For each RESPONSE, identify what summary it is responding to
 The ambition for the aid budget is 0.7% of government spending – which is less than a penny in every pound the government spends. To pay for one junior nurse in the UK (21k) you would have to take away healthcare from 50,000 people in Malawi (Government of Malawi Ministry of Health, n.d.)QQQ2QQQMost of the international aid money is wasted because of corruption QQQIncreases in the international aid budget mean significant cuts to Government spending in the UK. QQQAid makes countries dependent, and stops economic growth.QQQGiving aid helps Britain’s reputation overseas.

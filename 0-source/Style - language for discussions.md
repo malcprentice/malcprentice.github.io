@@ -26,15 +26,15 @@ I'm not sure I agree 			|, mainly as
 You don't always immediately disagree with what was said, so later you need to refer back.
 
 # To agree
-*Like you/Miku said, X. However,
-*As you/Miku said (earlier)
+* Like you/Miku said, X. However,
+* As you/Miku said (earlier)
 
 ## Neutral or to disagree
-*Going back to what you said (earlier)
+* Going back to what you said (earlier)
 
 ## Disagree
-*I'm not sure about what you said (earlier)
-*I'm not sure about your idea that X is Y, because
+* I'm not sure about what you said (earlier)
+* I'm not sure about your idea that X is Y, because
 
 
 # Leader: Opening the floor
@@ -56,28 +56,28 @@ What do you think about NAME's idea?
 
 
 # Checking what someone said (reflecting)
-*If immediate: Excuse me? / Pardon?
-*Could you repeat that?
-*You mean...
-*Do you mean that...
-*So, you're saying that
-*So, in other words
-*Can I just check that earlier when you said X you meant Y
+* If immediate: Excuse me? / Pardon?
+* Could you repeat that?
+* You mean...
+* Do you mean that...
+* So, you're saying that
+* So, in other words
+* Can I just check that earlier when you said X you meant Y
 
 # CHecking others understand
-*Does that make sense?
-*Was that clear?
+* Does that make sense?
+* Was that clear?
 
 
 # Holding/Getting the floor
-*Can I start?
-*OK, I'll start.
-*Can I just start by asking if/whether/why/what ...
-*If I could just interrupt there
-*Can I ask a question?
-*Can I say something here?
-*Can I take this one?
-*Can I answer that one?
+* Can I start?
+* OK, I'll start.
+* Can I just start by asking if/whether/why/what ...
+* If I could just interrupt there
+* Can I ask a question?
+* Can I say something here?
+* Can I take this one?
+* Can I answer that one?
 
 # Don't forget normal conversation rules
 If you're listening, use aizuchi

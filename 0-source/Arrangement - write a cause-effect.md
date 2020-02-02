@@ -2,14 +2,14 @@
 "Cause-Effect" can be a sentence, a paragraph, an essay or longer.
 This page is about how to plan and organise a cause-effect PARAGRAPH.
 
-*Paragraph 3 of first-year essays are cause-effect
-**the "Problems" paragraph of "ethical consupmtion" and "endangered animal" essays
-**download templates and examples from Shared Materials folder 
-*Cause-effect is not just for your Problems paragraph
-**Past Effect: 	What happened when the UK banned smoking in 2012? What happened as a result of the 2011 Earthquake?
-**Past Cause:		What made the UK ban smoking in 2012? What caused the Fukushima nuclear disaster?
-**Future Effect:	What would happen if we banned smoking? What will happen if we turn the nuclear power stations back on?
-**Future Cause:	How can we get the government to ban smoking?
+* Paragraph 3 of first-year essays are cause-effect
+** the "Problems" paragraph of "ethical consupmtion" and "endangered animal" essays
+** download templates and examples from Shared Materials folder 
+* Cause-effect is not just for your Problems paragraph
+** Past Effect: 	What happened when the UK banned smoking in 2012? What happened as a result of the 2011 Earthquake?
+** Past Cause:		What made the UK ban smoking in 2012? What caused the Fukushima nuclear disaster?
+** Future Effect:	What would happen if we banned smoking? What will happen if we turn the nuclear power stations back on?
+** Future Cause:	How can we get the government to ban smoking?
 
 # Invention - Visual Organisers
 Use these to guide your brainstorm
@@ -34,8 +34,8 @@ The third problem 	|caused by Tantalum mining 				|is pollution in the area arou
 
  
 ### A chain or a cycle of cause and effect
-*poverty causes lack of education causes lack of opportunity causes poverty...
-*global warming causes smaller polar ice caps causes global warming...
+* poverty causes lack of education causes lack of opportunity causes poverty...
+* global warming causes smaller polar ice caps causes global warming...
 <a href="https://openclipart.org/detail/86713/cycle-icon"><img src="https://openclipart.org/download/86713/cycle.svg" /></a>
 
 # Arrangement 
@@ -49,9 +49,9 @@ local-national-world 			|(child labour -> pollution -> global warming)
 
 
 # Style
-*Mostly, you should [[Style - write a cause-effect sentence]]
-*You can also [[Style - write a time-order sentence]] to show cause-effect
-*Don't forget to as usual [[Style - use cohesion]]
+* Mostly, you should [[Style - write a cause-effect sentence]]
+* You can also [[Style - write a time-order sentence]] to show cause-effect
+* Don't forget to as usual [[Style - use cohesion]]
  
 # Examples
 ## Skeleton
@@ -62,7 +62,7 @@ This paragraph describes three problems that __working part-time while in univer
 
 ## First year essay examples
 Read paragraph 3 of:
-* [[Projects - write an essay about endangered animals]]
-* [[Projects - write an essay about ethical consumption]] 
+*  [[Projects - write an essay about endangered animals]]
+*  [[Projects - write an essay about ethical consumption]] 
 
  

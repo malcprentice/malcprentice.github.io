@@ -1,38 +1,38 @@
 # What is "genre"?
 
 ## Genre in fiction
-*Books and movies have genres (e.g. Horror, Romance)
-*Genre tells us what will happen and in what order. 
-*For example:
-** __Horror:__ There will be a ghost/monster/evil person. We will not really know what/who it is until late in the movie. Someone will die. Someone will think they are safe. Then everything will get worse. At the end, most of the characters will be dead.
-** __Romance:__ There will be two main characters. They meet. One or both of them like the other. Something goes wrong. They can't get together or break up. In the end, either everything works out OK (comedy) or someone/everyone dies (tragedy).
+* Books and movies have genres (e.g. Horror, Romance)
+* Genre tells us what will happen and in what order. 
+* For example:
+**  __Horror:__ There will be a ghost/monster/evil person. We will not really know what/who it is until late in the movie. Someone will die. Someone will think they are safe. Then everything will get worse. At the end, most of the characters will be dead.
+**  __Romance:__ There will be two main characters. They meet. One or both of them like the other. Something goes wrong. They can't get together or break up. In the end, either everything works out OK (comedy) or someone/everyone dies (tragedy).
 
 ## Genre in essays
-*Essays also have genre (e.g. Problem-Solution)
-*Genre tells us what will happen and in what order
-*The Genre should be obvious from the thesis statement
-**When you read, knowing genre can help you __understand.__
-**When you write, knowing genre can help you __be understood.__
+* Essays also have genre (e.g. Problem-Solution)
+* Genre tells us what will happen and in what order
+* The Genre should be obvious from the thesis statement
+** When you read, knowing genre can help you __understand.__
+** When you write, knowing genre can help you __be understood.__
 
 
 # Genre Patterns
 ### Genre can be:
-*A sentence
-*A paragraph
-*An essay
-*Longer than an essay
+* A sentence
+* A paragraph
+* An essay
+* Longer than an essay
 
 For example, summary response could be 
-*One sentence in your "Solutions " paragraph
-*A paragraph in the Solutions section of an essay
-*A 4/5 paragraph summary-response essay
-*The literature section of a dissertation
+* One sentence in your "Solutions " paragraph
+* A paragraph in the Solutions section of an essay
+* A 4/5 paragraph summary-response essay
+* The literature section of a dissertation
 
 ### So the ABC patterns below could be:
-*the beginning, middle, and end of a sentence
-*Sentence 2, 3 and 4 of a paragraph
-*Paragraph 2, 3, & 4 of an essay (1=intro, 5 = conclusion)
-*Section 2, 3, & 4 of a longer essay (1=intro, 5 = conclusion)
+* the beginning, middle, and end of a sentence
+* Sentence 2, 3 and 4 of a paragraph
+* Paragraph 2, 3, & 4 of an essay (1=intro, 5 = conclusion)
+* Section 2, 3, & 4 of a longer essay (1=intro, 5 = conclusion)
 
 
 ### Genre Style

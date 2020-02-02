@@ -1,36 +1,36 @@
 # Basic pattern
-*Hello, my name is NAME. 
-*Today, I'm going to tell you about TOPIC.
-*I will talk about KEYWORD 1, KEYWORD 2, and KEYWORD 3.
-*To begin with, KEYWORD1. 50+ words of detail
-*Next, KEYWORD2. 50+ words of detail
-*Finally, KEYWORD3. 50+ words of detail
-*In conclusion I think / you should
-*Thank you for listening. 
-* _Pause for applause!_
-*Any questions?
-*_more applause_
+* Hello, my name is NAME. 
+* Today, I'm going to tell you about TOPIC.
+* I will talk about KEYWORD 1, KEYWORD 2, and KEYWORD 3.
+* To begin with, KEYWORD1. 50+ words of detail
+* Next, KEYWORD2. 50+ words of detail
+* Finally, KEYWORD3. 50+ words of detail
+* In conclusion I think / you should
+* Thank you for listening. 
+*  _Pause for applause!_
+* Any questions?
+* _more applause_
 
 
 ## Remember: 
-*Keywords are best if they are NOUNS - don’t forget the “and”. 
-*If keywords don't work, see alternatives below
-*This style is strict and boring. See  the __Alternatives__ below. 
+* Keywords are best if they are NOUNS - don’t forget the “and”. 
+* If keywords don't work, see alternatives below
+* This style is strict and boring. See  the __Alternatives__ below. 
 
 # Style tips
 ## General Style Tips
-*Present for other students, not Malc: 
-**they didn't read what you did
-**define or avoid words they won’t know
-*Make sure it is INTERESTING
-*Practice pronouncing words you do not know. Or just replace them
-*Use simple sentences you can remember
-*Don’t be too formal (or too informal)
+* Present for other students, not Malc: 
+** they didn't read what you did
+** define or avoid words they won’t know
+* Make sure it is INTERESTING
+* Practice pronouncing words you do not know. Or just replace them
+* Use simple sentences you can remember
+* Don’t be too formal (or too informal)
 
 ## Alternative Beginnings
-*Good morning, my name is John Smith 
-*Hello, I'm John.
-*Hi everyone.
+* Good morning, my name is John Smith 
+* Hello, I'm John.
+* Hi everyone.
 
 ## Alternative Thesis Statements
 ### Alternative Description Thesis statements
@@ -56,11 +56,11 @@ etc                     |describe how to do X.           |I'll be talking about 
   
 
 ## Alternative cohesion
-*First, Second, Third
-*First, Next, Finally.
-*Let’s begin with 1.
-*That was 1, but how about 2?
-*That covers 2, now let’s turn to 3.
+* First, Second, Third
+* First, Next, Finally.
+* Let’s begin with 1.
+* That was 1, but how about 2?
+* That covers 2, now let’s turn to 3.
 
 
 ## Alternative endings
@@ -71,9 +71,9 @@ Conclusion:             In conclusion...    /  As you can see, this means....
 
 
 ## Referring to slides
-*"As this slide shows"
-*"The next slide has"
-*"Here, you can see"
+* "As this slide shows"
+* "The next slide has"
+* "Here, you can see"
 
 
 ## Rhetorical questions

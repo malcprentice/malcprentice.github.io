@@ -1,91 +1,91 @@
 # Overview
 ### Read a passage 
-*(230-300 words, 3 mins)   
-*Look for the Thesis (Paragraph 1)
-*The text comes back, so you can get details later. 
-*Instead, look for the three points (Paragraph 2,3,4) 
-*You will listen and match these points next
+* (230-300 words, 3 mins)   
+* Look for the Thesis (Paragraph 1)
+* The text comes back, so you can get details later. 
+* Instead, look for the three points (Paragraph 2,3,4) 
+* You will listen and match these points next
 
 ### Listen to a lecture on the same topic 
-*(1-2 minutes)  
-*Listen for the Thesis Statement
-*Listen for 3 points that match the 3 points in the reading  
-*Take very careful notes - the lisetning does not come back. 
-*Listen for what the listening is DOING
-*Usually, it “casts doubt” or “challenges” 
-*Sometimes it “adds to”/”supports”
-*Sometimes it “contrasts” or “differs from”
+* (1-2 minutes)  
+* Listen for the Thesis Statement
+* Listen for 3 points that match the 3 points in the reading  
+* Take very careful notes - the lisetning does not come back. 
+* Listen for what the listening is DOING
+* Usually, it “casts doubt” or “challenges” 
+* Sometimes it “adds to”/”supports”
+* Sometimes it “contrasts” or “differs from”
 
 ### 20 mins to type an answer 
-*(2-3 mins planning, 15 mins writing, 2-3 mins checking)
-*Reading passage comes back  
-*For each point in the reading, compare the points made in the listening 
+* (2-3 mins planning, 15 mins writing, 2-3 mins checking)
+* Reading passage comes back  
+* For each point in the reading, compare the points made in the listening 
 
 
 # Examples
 See [[Examples - TOEFL Integrated essay]]
 
 # General Tips
-*Suggested length is 150-225 words, but no penalty for more
-*NO personal opinions, examples etc..
-*DO NOT PLAGIARIZE
-**Do not copy phrases from the reading or quote. 
-**Paraphrase! 
-**See [[Invention - quote and paraphrase]]
+* Suggested length is 150-225 words, but no penalty for more
+* NO personal opinions, examples etc..
+* DO NOT PLAGIARIZE
+** Do not copy phrases from the reading or quote. 
+** Paraphrase! 
+** See [[Invention - quote and paraphrase]]
 
 
 # Scoring
 YOu are scored on
-*Development 
-**Select the IMPORTANT info from the lecture  
-**Always MATCH the 3 listening points to the 3 reading points 
-*Organization
-**Write in paragraphs 
-**Use transitions 
-**Don't repeat points 
-*Language use 
-**Sentence structure   
-**Choosing the right words
-**Spelling and Grammar don’t need to be perfect 
+* Development 
+** Select the IMPORTANT info from the lecture  
+** Always MATCH the 3 listening points to the 3 reading points 
+* Organization
+** Write in paragraphs 
+** Use transitions 
+** Don't repeat points 
+* Language use 
+** Sentence structure   
+** Choosing the right words
+** Spelling and Grammar don’t need to be perfect 
 
 
 # Arrangement and Style
 ## Length
-*If your word count in the time is under 200 words, do one paragraph 
-*If your count is more than 200, do the five paragraph version
+* If your word count in the time is under 200 words, do one paragraph 
+* If your count is more than 200, do the five paragraph version
  
 ## Thesis Statement options without outline
-*The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
-*Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. 
-*Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
-*Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
-*The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
-*The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
+* The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
+* Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. 
+* Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
+* Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
+* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
+* The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
 
 Sometimes you can give a definition before the thesis statement
 
 ## Thesis Statement options with outline (be careful!)
-*Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
-*The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
-*The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
+* Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
+* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
+* The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
 
 ## Keyword sentences 
 These are your paragraph topic sentences if you have more than 1 paragraph.
 
-*Firstly, the reading argues that R, however the lecturer notes that L. 
-*The second argument in the reading is that R. The lecture contradicts this, noting L
-*Contrary to the belief in the passage that R, the professor says that L.
-*The lecture refutes the fact that R. In fact, L.
-*The professor also offers a different reason for R. She says that L.
-*Finally, the reading states R. The lecture on the other hand argues that L.
+* Firstly, the reading argues that R, however the lecturer notes that L. 
+* The second argument in the reading is that R. The lecture contradicts this, noting L
+* Contrary to the belief in the passage that R, the professor says that L.
+* The lecture refutes the fact that R. In fact, L.
+* The professor also offers a different reason for R. She says that L.
+* Finally, the reading states R. The lecture on the other hand argues that L.
 
 
 ## Contrast sentences
 "The reading states X however, the listening notes that Y"
 Great! But don't use it 3 times in the essay. 
-*See [[Style - use cohesion]] "contrast" for alternatives to "however"
-*See [[Invention - use APA format in the text]] for alternative patterns
-*See [[Style - use verbs for citation]] for alternatives to "said"
+* See [[Style - use cohesion]] "contrast" for alternatives to "however"
+* See [[Invention - use APA format in the text]] for alternative patterns
+* See [[Style - use verbs for citation]] for alternatives to "said"
 
 # Templates
 1 and 3 have been checked against ETS "perfect score" responses.
@@ -123,11 +123,11 @@ Great! But don't use it 3 times in the essay.
 ++As such, FUZZY CONCLUSION  (30-40 words)
 
 FUZZY CONCLUSION is 
-*Something I never want to see in your actual essays...
-*..but since here you aren't allowed to come to your own conclusion ...
-*... and a conclusion paragraph looks strange ending with a just a summary, try somethign like:
-**As such, while there are arguments on both sides, it is hard to agree with either of the sources without further research. 
-**This means that neither the reading nor the listening is entirely convincing, and those who are interested should investigate more. 
+* Something I never want to see in your actual essays...
+* ..but since here you aren't allowed to come to your own conclusion ...
+* ... and a conclusion paragraph looks strange ending with a just a summary, try somethign like:
+** As such, while there are arguments on both sides, it is hard to agree with either of the sources without further research. 
+** This means that neither the reading nor the listening is entirely convincing, and those who are interested should investigate more. 
 
 
 # Practice

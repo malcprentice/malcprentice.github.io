@@ -1,10 +1,10 @@
 This example is for this project: [[Projects - write an essay about voluntourism]]
-*Remember, this is a sectional seven paragraph essay essay (with subheadings and section thesis statements). 
-**It is not a problem-solution essay or the essay on asylum seekers. 
-**Start by downloading one of the other SECTIONAL template
-**Adapt it to fit this criteria-analysis pattern below. 
-*This can be expanded to 11-15 paragraphs if your Problems or Solutions are too long. 
-*However, points will be deducted for going over word limit
+* Remember, this is a sectional seven paragraph essay essay (with subheadings and section thesis statements). 
+** It is not a problem-solution essay or the essay on asylum seekers. 
+** Start by downloading one of the other SECTIONAL template
+** Adapt it to fit this criteria-analysis pattern below. 
+* This can be expanded to 11-15 paragraphs if your Problems or Solutions are too long. 
+* However, points will be deducted for going over word limit
 
 Thanks to YH in 2017 for the original version of this essay. 
 

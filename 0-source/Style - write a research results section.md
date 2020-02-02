@@ -1,10 +1,10 @@
 # Overview
-*Describe results using present tense - “This table shows”
-*Describe finished actions using past tense - “50% of students enjoyed reading”
+* Describe results using present tense - “This table shows”
+* Describe finished actions using past tense - “50% of students enjoyed reading”
 
 Results are numbers or words
-*Numbers: graphs / charts / tables /diagrams
-*Words:  categories /summaries / codes / lists / Quotes from interview / diary /transcript
+* Numbers: graphs / charts / tables /diagrams
+* Words:  categories /summaries / codes / lists / Quotes from interview / diary /transcript
 
 DO      |give enough explanation for readers to understand what they are looking at.
 DO      |point out interesting features of hard-to-understand graphs, tables
@@ -12,18 +12,18 @@ DO NOT  |interpret, give theories or discussion. Leave these for Chapter 5 (Disc
 
 
 # Tips
-*Use APA style for numbers
-**One two three four five six seven eight nine ten
-**11 12 13 14 15 ….
-**Do not start a sentence with a number
-* ~~"25% of ....."~~
-*"Around 25% of ....."
-*"Exactly 25% of ....."
+* Use APA style for numbers
+** One two three four five six seven eight nine ten
+** 11 12 13 14 15 ….
+** Do not start a sentence with a number
+*  ~~"25% of ....."~~
+* "Around 25% of ....."
+* "Exactly 25% of ....."
 
 
 # Useful language for survey research
 ## Structure by research question or emerging theme
-*The first question was "" [IF RESULTS ARE SIMPLE AND COUNTABLE]
+* The first question was "" [IF RESULTS ARE SIMPLE AND COUNTABLE]
 "The third question was "". Responses to this open question were analysed. [IF RESULTS WERE OPEN, CODED, AND COMPLICATED]
 "The first theme/area/topic was X. 
 "The second theme.../area/topic was X. 

@@ -6,14 +6,14 @@ The content                     |"I did X, then Y, and finally Z"   |"Someone do
 example topic                   |I learned origami /// the history of origami   |how origami is done                |tell _me_ __how to__ make a paper bird
 example question                |"What is the history of coffee"    |"How do people make coffee?"       |"How do __I__ make coffee?"
 What language is OK?            |Sentences with "I" or passive      |Sentences with "he", titles, or passive        |sentence with "you" or instructions ("Make!")
-What language is NOT OK?        |No instructions!*                  |No instructions!*                              |No passives!
+What language is NOT OK?        |No instructions!*                   |No instructions!*                               |No passives!
 Language example 1              |Next, __I__ made the coffee        |Next, __the farmer__ makes the coffee      |Next, you make the coffee
 Language example 2              |Next, the coffee __was made__      |Next, the rice __is made__                     |Next, make the coffee
 Example Topic Sentence          |This paragraph describes the history of mochi  |This paragraph describes how mochi is made |This paragraph describes how to make mochi
 
 
 
-### What is wrong with instructions in Descriptive Time Order?*
+### What is wrong with instructions in Descriptive Time Order?* 
 ~~First, pick the tea~~             |I don't work in a tea plantation!
 ~~First, you pick the tea~~         |No I don't! I teach English!
 
@@ -84,17 +84,17 @@ Simultaneously,                     |
 
 # Other useful language
 ### See also
-*Also use basic SOBBA   (, so..., or..., but..., because..., and...)
-*Also use "Cause and Effect" language (As a result...This results in...The outcome was) - see [[Arrangement - write a cause-effect]]
-*Also use basic time phrases ("Then in 1956"..."After 30 minutes"..."Three years later")
+* Also use basic SOBBA   (, so..., or..., but..., because..., and...)
+* Also use "Cause and Effect" language (As a result...This results in...The outcome was) - see [[Arrangement - write a cause-effect]]
+* Also use basic time phrases ("Then in 1956"..."After 30 minutes"..."Three years later")
 
 ### Preparation and warnings
 (for Instructional only)
-*Before you start, you need to prepare X
-*"Be careful not to..."
-*"Before you X, remember to Y"
+* Before you start, you need to prepare X
+* "Be careful not to..."
+* "Before you X, remember to Y"
 
 ### Going out of sequence
-*You need to Y, __but before that,__ do X
-*__After having previously Xed,__ do Y
-*__Before__ Y happened, X __had__ happened
+* You need to Y, __but before that,__ do X
+* __After having previously Xed,__ do Y
+* __Before__ Y happened, X __had__ happened

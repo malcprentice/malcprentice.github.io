@@ -1,7 +1,7 @@
 Now that you can do it manually, try these tools. 
 They are useful if 
-*you are managing hundreds of references for your thesis
-*You have to switch a lot between APA, MLA, etc. 
+* you are managing hundreds of references for your thesis
+* You have to switch a lot between APA, MLA, etc. 
 
 However <red>they often make mistakes - check carefully</red> 
 

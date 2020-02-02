@@ -3,12 +3,12 @@ English for Science I and II will help students develop reading, academic writin
 
 # Goals and Objectives
 This course follows the [[Schedules - Curriculum for General Academic Skills]], with the addition of
-*[[Arrangement - write a sectional essay]]
-*[[Projects - outline an academic article]]
+* [[Arrangement - write a sectional essay]]
+* [[Projects - outline an academic article]]
 
 # Required Materials
-*Materials provided by teacher
-*A4 40 pocket plastic folder
+* Materials provided by teacher
+* A4 40 pocket plastic folder
 
 # Evaluation/Assessment
 ## Required items

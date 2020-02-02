@@ -30,11 +30,11 @@ How was it? Then what? What else?
 Where? Who with? When? Why?
 
 # C) Change the topic
-*So…
-*Anyway…
-*Hey, by the way, ...
-*Oh! Did you ...
-*Oh! Did you hear about (+news)
+* So…
+* Anyway…
+* Hey, by the way, ...
+* Oh! Did you ...
+* Oh! Did you hear about (+news)
 
 
 # D) Fill your silence
@@ -48,14 +48,14 @@ Er  	        |See...         |like       |, yknow?
 
 You can also just stretch sounds ("I think you shouuuuuuuuld read more")
 
-*Example:
-**I went to the park
-**"Well, I like uhh just sorta went ummm to theeeEEE park, yknow?"
+* Example:
+** I went to the park
+** "Well, I like uhh just sorta went ummm to theeeEEE park, yknow?"
 
-*"Middle" = before (sometimes after) a verb or adjective
-*This is not good in a formal situation (e.g. presentation, meeting).
-*Even in conversation, too much is strange. But it's
-*better than going completely silent.
+* "Middle" = before (sometimes after) a verb or adjective
+* This is not good in a formal situation (e.g. presentation, meeting).
+* Even in conversation, too much is strange. But it's
+* better than going completely silent.
 
 
 # E) Backchannel
@@ -69,9 +69,9 @@ OK                      |Cool               |Right      |Nah!            |Huh?
 I see                   |Wow                |Sure       |Really?!        |
 Got it.                 |                   |           |
 
-*Use column  1 more when on the phone.
-*BE CAREFUL with tone of voice
-*YOu can also just repeat
+* Use column  1 more when on the phone.
+* BE CAREFUL with tone of voice
+* YOu can also just repeat
 
 # F) Finish
 Finishing a conversation has four parts:

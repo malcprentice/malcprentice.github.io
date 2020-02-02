@@ -14,10 +14,10 @@
 The TOEIC test will change in May 2016.
 The IP test you take at university will change in May 2017
 ### In the new test:
-*Less questions in sections 1 (Photos), 2(Question-Response) and 5(Incomplete Sentences)
-*More questions sections 3(Conversations), 6 (Text Completion), and 7(Passages)
-*Sections 3 and 4 might get a visual image (e.g. a reference table to read)
-*Section 7 used to have "double passages" - now it might have "Multiple" e.g. an advert about a product, a website shopping cart for buying the product, and a letter complaining about a problem the product has
+* Less questions in sections 1 (Photos), 2(Question-Response) and 5(Incomplete Sentences)
+* More questions sections 3(Conversations), 6 (Text Completion), and 7(Passages)
+* Sections 3 and 4 might get a visual image (e.g. a reference table to read)
+* Section 7 used to have "double passages" - now it might have "Multiple" e.g. an advert about a product, a website shopping cart for buying the product, and a letter complaining about a problem the product has
 
 ### More information
 In Japanese: http://www.toeic.or.jp/info/2015/i025/i025_03.html

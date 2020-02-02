@@ -109,12 +109,12 @@ Hiroko
 # Make your own email
 ### 1) Subject Line
 Put your Name, class name, and homework code (or problem keyword) in the subject line
-*Hiroko Sato - SSGB - A2
-*Hiroko Sato - ECB - A3
-*Hiroko Sato - ECB - A essay outline
-*Hiroko Sato - GCP - B3
-*Hiroko Sato - SSGB - Outline 2A
-*Hiroko Sato - SSGB - Question about Thursday homework
+* Hiroko Sato - SSGB - A2
+* Hiroko Sato - ECB - A3
+* Hiroko Sato - ECB - A essay outline
+* Hiroko Sato - GCP - B3
+* Hiroko Sato - SSGB - Outline 2A
+* Hiroko Sato - SSGB - Question about Thursday homework
 
 ### 2) Start with a greeting
 e.g. "Malc,"					| Very informal
@@ -128,9 +128,9 @@ e.g. "Dear All, "				| Informal to a group - maybe
 ### 3) If you haven't emailed someone in a while
 Usually, you should ask a question or tell them something before asking them for something.
 You see me every week, so you don't need this when you email me now.
-*"I hope you are well."
-*"How have you been?"
-*"How are things?"
+* "I hope you are well."
+* "How have you been?"
+* "How are things?"
 
 
 ### 4) Say the main thing
@@ -165,9 +165,9 @@ Hiroko Sato <blue>(20150001)</blue>
 
 # Common mistakes
 ### <red>1) Use the correct attachment name!</red>
-*Class-Name-Code
-*Hyphens
-*No spaces.
+* Class-Name-Code
+* Hyphens
+* No spaces.
 <green>OK</green>: 	Hiroko Sato-SSGB-RR1.docx
 
 <green>OK</green>:	Hiroko Sato-ECB- AOutline.docx

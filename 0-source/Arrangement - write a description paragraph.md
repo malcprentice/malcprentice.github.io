@@ -2,9 +2,9 @@ There are various ways to write an description. Read examples of the kind of wor
 
 # Arrangement
 Follow this pattern
-*Choose your own sections and language.
-*No more than 1-2 sentences of each
-*Don't forget the citations
+* Choose your own sections and language.
+* No more than 1-2 sentences of each
+* Don't forget the citations
 
 +Description paragraph arrangement
 ++[[Arrangement - write a paragraph topic sentence]]
@@ -49,10 +49,10 @@ See the templates and essay examples in the shared materials folder.
 # Tips
 1) Don't give obvious information ("Siberian Tigers are a kind of tiger that lives in Siberia")
 2) Careful with "First/Firstly...Secondly...Thirdly" 
-*It's OK with similar things (three problems, three solutions). 
-*It's NOT OK with different things without keywords (comparison, partition, process)
-*It IS OK inside the time order, though. ("To make X, first")
+* It's OK with similar things (three problems, three solutions). 
+* It's NOT OK with different things without keywords (comparison, partition, process)
+* It IS OK inside the time order, though. ("To make X, first")
 3) Definition and partition don't combine well sometimes. 
-*Be careful if you use both! Define at a HIGHER level. 
-*"The Indian Elephant is a kind of elephant. There is only one kind of Indian elephant"
-*"The Elephant is the largest land mammal in the world. There are three kinds of elephant."
+* Be careful if you use both! Define at a HIGHER level. 
+* "The Indian Elephant is a kind of elephant. There is only one kind of Indian elephant"
+* "The Elephant is the largest land mammal in the world. There are three kinds of elephant."

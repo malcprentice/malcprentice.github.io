@@ -1,12 +1,12 @@
 # Rules for Japanese sources in references list
-*Author names in romaji
-*Article titles in romaji + translation in SQUARE brackets []
-**NO PERIOD between article title and translation
-**No italics for translations
-*Newspaper/Journal title
-**Journal names and websites might have English version. Use them instead.
-**Otherwise, newspaper/journalin romaji, no translation
-*More examples: http://commune.wilmina.ac.jp/content_uportal/studylink/Writing_Center/ReferencesCitationsnov17.pdf
+* Author names in romaji
+* Article titles in romaji + translation in SQUARE brackets []
+** NO PERIOD between article title and translation
+** No italics for translations
+* Newspaper/Journal title
+** Journal names and websites might have English version. Use them instead.
+** Otherwise, newspaper/journalin romaji, no translation
+* More examples: http://commune.wilmina.ac.jp/content_uportal/studylink/Writing_Center/ReferencesCitationsnov17.pdf
 ## Templates
 <ref>
 Author Names in romaji. (date). _Romaji no daimei_ [Title English translation square brackets no italics]. Retrieved from https://fakesite.com
@@ -25,15 +25,15 @@ Suzuki, M. (n.d.). _Neko ga suki_ [I like cats]. Retrieved October 8, 2013, from
 
 # Rules for Japanese sources in references lists.
 Same rules, just adapted to short verison
-*Cats are great (Suzuki, 2010)
-*Cats are great ("Neko ga suki," n.d.)
+* Cats are great (Suzuki, 2010)
+* Cats are great ("Neko ga suki," n.d.)
 
 # Rules for other languages
 Basically, the reference list needs to be in alphabetical order
-*This is necessary to make references easy to find
-*If your language is mostly roman alphabet characters (French, Turkish), use your language
-*If you language is not mostly roman alphabet characters:
-**Any system is OK, but be consistent
-**Chinese: use pinyin
-**Korean: https://en.wikipedia.org/wiki/Romanization_of_Korean
-**Russian: https://en.wikipedia.org/wiki/Romanization_of_Russian# Transliteration_tabl
+* This is necessary to make references easy to find
+* If your language is mostly roman alphabet characters (French, Turkish), use your language
+* If you language is not mostly roman alphabet characters:
+** Any system is OK, but be consistent
+** Chinese: use pinyin
+** Korean: https://en.wikipedia.org/wiki/Romanization_of_Korean
+** Russian: https://en.wikipedia.org/wiki/Romanization_of_Russian# Transliteration_tabl

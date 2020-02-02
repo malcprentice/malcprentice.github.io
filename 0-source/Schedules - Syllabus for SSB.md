@@ -9,21 +9,21 @@ the fall semester.
 This course follows the [[Schedules - Curriculum for General Academic Skills]]
 The aim is to help you study in English at the university and overseas
 
-*By the end of this course, for writing and speaking, you will be able to:
-**collect ideas, take notes, and research effectively (Invention)
-**organise your ideas clearly (Arrangement)
-**express your ideas clearly (Style)
-**present your ideas well (Presentation)
-*You will also work on:
-**vocabulary
-**reading and listening fluency
-**critical thinking
-**goal setting and time management
-**communicating in an academic environment
-**directing your own learning
-**using software and online tools effectively
-**using learning strategies
-**learning vocabulary and handling unknown words
+* By the end of this course, for writing and speaking, you will be able to:
+** collect ideas, take notes, and research effectively (Invention)
+** organise your ideas clearly (Arrangement)
+** express your ideas clearly (Style)
+** present your ideas well (Presentation)
+* You will also work on:
+** vocabulary
+** reading and listening fluency
+** critical thinking
+** goal setting and time management
+** communicating in an academic environment
+** directing your own learning
+** using software and online tools effectively
+** using learning strategies
+** learning vocabulary and handling unknown words
 
 # Required Materials
 A4 40 pocket plastic folder

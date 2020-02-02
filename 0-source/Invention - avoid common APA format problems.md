@@ -1,9 +1,9 @@
 # How do I do "Burasage"
-*Don't use tab!
-*The templates have a "references" style you can use. Just type.
-*If it breaks, use the menu
-**format-paragraph-special-hanging
-**(書式-->段落-->最初の行-->ぶら下げ)
+* Don't use tab!
+* The templates have a "references" style you can use. Just type.
+* If it breaks, use the menu
+** format-paragraph-special-hanging
+** (書式-->段落-->最初の行-->ぶら下げ)
 
 # How do I do burasage if there is a long http address?
 Break it before punctuation (./-) using SHIFT-ENTER
@@ -63,22 +63,22 @@ Author, P. (n.d.). _Title of the Page._ Retrieved October 8, 2013, from http://f
 
 ## What if I used a quote?
 Direct quotes (" ") from a book need the page number
-*"Something something" (Suzuki, 2002, p.23)
-*Suzuki (2002, p.23) says "something something".
-*According to Suzuki (2013, April 16), "something something is something".
+* "Something something" (Suzuki, 2002, p.23)
+* Suzuki (2002, p.23) says "something something".
+* According to Suzuki (2013, April 16), "something something is something".
 
 ## What if I have more than one source for a fact?
 Separate with semicolons 1; 2; 3; 4
-*(Smith, 2003)
-*(Smith, 2003; Ellis & Jones, 2004)
-*(Smith, 2003; Ellis & Jones, 2004; "Title 1," 2003)
-*(Smith, 2003; Ellis & Jones, 2004; "Title 1," 2003; "Title 2," 2004)
+* (Smith, 2003)
+* (Smith, 2003; Ellis & Jones, 2004)
+* (Smith, 2003; Ellis & Jones, 2004; "Title 1," 2003)
+* (Smith, 2003; Ellis & Jones, 2004; "Title 1," 2003; "Title 2," 2004)
 
 # Do I give the page numbers?
 ### In the text
-*DON’T give page numbers when talking about a whole article/book
-*DO give page numbers for a specific fact from a specific page
-*DO give page numbers for any quotes (" ")
+* DON’T give page numbers when talking about a whole article/book
+* DO give page numbers for a specific fact from a specific page
+* DO give page numbers for any quotes (" ")
 Use p for one page 								|Smith (2010, p.  23)
 Use pp for multiple pages 						|Smith (2010, pp. 25-26)
 If no pages, use shortened subheading 			|(Smith, 2010, "Participants")
@@ -113,8 +113,8 @@ First time 		|(United Nations High Commision for Refugees [UNHCR], 2000)
 Second time  	|(UNHCR, 2000)
 
 # What order are the references in?
-*Alphabetical order first, then year order
-*More than one ref by same author, same year? Add a letter (abc)
+* Alphabetical order first, then year order
+* More than one ref by same author, same year? Add a letter (abc)
 <ref>
 Aardvark, A. (2012).
 _Bananas are great._ (2009, April 17).
@@ -148,23 +148,23 @@ If >7 authors, list the FIRST SIX authors, three dots, and the LAST author. No "
  
 
 # What if a book has multiple editions?
-*e.g. First edition published in 1926, Second edition published ain 1952
-*Give the year of the edition you READ. No italics for edition number
+* e.g. First edition published in 1926, Second edition published ain 1952
+* Give the year of the edition you READ. No italics for edition number
 <ref>
 Smith, J. (2013). _Book Title_ (3rd ed.). Oxford: OUP.
 </ref>
 
 # How do volume (issue) numbers work?
-*Often one volume = one year
-**Journal of Writing, 3(2)  	= 	"second issue in the third book"
-*If each issue starts on page 1, 			there are several "page 23"s in one volume
-**please give the issue number so I can find the correct page
-*If each issue continues from the previous, 	there is only one "page 23" in each volume
-**do not give the issue number
-*Use italics for the thing you hold (see "Common Problem 8 below)
-**You hold the Journal volume, not the issue
-**YES	<em>Journal of Writing, 3</em><blue>(2)</blue>, 23-32
-**NO	<em>Journal of Writing, 3<red>(2)</red></em>, 23-32
+* Often one volume = one year
+** Journal of Writing, 3(2)  	= 	"second issue in the third book"
+* If each issue starts on page 1, 			there are several "page 23"s in one volume
+** please give the issue number so I can find the correct page
+* If each issue continues from the previous, 	there is only one "page 23" in each volume
+** do not give the issue number
+* Use italics for the thing you hold (see "Common Problem 8 below)
+** You hold the Journal volume, not the issue
+** YES	<em>Journal of Writing, 3</em><blue>(2)</blue>, 23-32
+** NO	<em>Journal of Writing, 3<red>(2)</red></em>, 23-32
 
 
 
@@ -183,15 +183,15 @@ That way people can use the cache or the wayback machine to access it.
 
 # I can't find the answer here
 There's a lot I don't know how to do. If this answer isn't above, do this:
-*Search Google (e.g. "How to cite software in APA"). I usually find answers in one of these places:
-**Purdue Online: https://owl.english.purdue.edu/owl/resource/560/01/
-**NMU: https://owl.english.purdue.edu/owl/resource/560/01/
-**APA styel blog: http://blog.apastyle.org
-*Copy from another article that uses the same or similar source.
-*Check the actual APA manual
-**I have one
-**The library has several
-** http://www.amazon.com/Publication-American-Psychological-Association-Edition/dp/1433805618
+* Search Google (e.g. "How to cite software in APA"). I usually find answers in one of these places:
+** Purdue Online: https://owl.english.purdue.edu/owl/resource/560/01/
+** NMU: https://owl.english.purdue.edu/owl/resource/560/01/
+** APA styel blog: http://blog.apastyle.org
+* Copy from another article that uses the same or similar source.
+* Check the actual APA manual
+** I have one
+** The library has several
+**  http://www.amazon.com/Publication-American-Psychological-Association-Edition/dp/1433805618
 
 
 

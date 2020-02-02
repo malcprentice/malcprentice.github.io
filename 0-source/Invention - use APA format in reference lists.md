@@ -11,23 +11,23 @@ Medicine 			| (AMA): http://healthlinks.washington.edu/hsl/styleguides/ama.html
 
 # There are TWO DIFFERENT PARTS to citation style
 1) A short code with the name and date
-*you use this in your paragraphs or in your report summary
-*See [[Invention - use APA format in the text]]
-*It is SHORT and points to a longer source in a Reference list at the end of your report/essay
-*In some styles, it is just a number
+* you use this in your paragraphs or in your report summary
+* See [[Invention - use APA format in the text]]
+* It is SHORT and points to a longer source in a Reference list at the end of your report/essay
+* In some styles, it is just a number
 2) Your References section is at the end of your  report/essay (this sheet)
-*This gives FULL information on the source you use.
-*See this page
+* This gives FULL information on the source you use.
+* See this page
 
 # Basic rules
-*The Reference list should be in <red>alphabetical order (ABC).</red>
-*The reference list matches the references used.
-**Nothing in text that isn't in list.
-**Nothing in list that isn't in the text
-*Be careful to [[Style - use title case]]
-*Be careful with capitals
-*Be careful witb commas and periods. 
-*Be careful with spaces. 
+* The Reference list should be in <red>alphabetical order (ABC).</red>
+* The reference list matches the references used.
+** Nothing in text that isn't in list.
+** Nothing in list that isn't in the text
+* Be careful to [[Style - use title case]]
+* Be careful with capitals
+* Be careful witb commas and periods. 
+* Be careful with spaces. 
 
 
 # Books
@@ -68,10 +68,10 @@ Brown, M., & Smith, P. (2010). How to cite an article from a journal or magazine
 </ref>
 ## "Kiyou" (紀要)
 These bulletins of a Japanese university department: https://ja.wikipedia.org/wiki/%E7%B4%80%E8%A6%81
-*Often slightly lower quality than fully peer-reviewed Journals (学術雑誌)
-*However, there might be a difference betweeen 大学等論文誌 and 大学紀要
-*Usually available via "CiNii": http://ci.nii.ac.jp/en
-*Give university name, as there might be more than one journal with that name and it might not be easy to find online.
+* Often slightly lower quality than fully peer-reviewed Journals (学術雑誌)
+* However, there might be a difference betweeen 大学等論文誌 and 大学紀要
+* Usually available via "CiNii": http://ci.nii.ac.jp/en
+* Give university name, as there might be more than one journal with that name and it might not be easy to find online.
 
 <ref>
 Author, Y. (Year). Article title. _University Name + Department Name + Journal Name, volume_ (issue), page.

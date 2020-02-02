@@ -1,20 +1,20 @@
 # What is a thesis statement (TS)?
-*A thesis statement gives the _topic,_ and the _main idea_ of your essay.
-*It helps your reader understand what they are reading.
+* A thesis statement gives the _topic,_ and the _main idea_ of your essay.
+* It helps your reader understand what they are reading.
 
 # Are thesis statements and a topic sentences different?
 You have already written a topic sentence for a paragraph. A Thesis Statement is the topic sentence of your larger essay/section/chapter/
-*<blue>Topic sentences</blue> describe the TOPIC and the MAIN IDEA of a <green>BODY PARAGRAPH</green>, and they usually give one keyword for each of the <red>POINTS</red> you make in the <green>paragraph</green>. A <blue>topic sentence</blue> is the <pink>FIRST</pink> sentence of your <orange>body</orange> paragraphs.
-*<blue>Thesis statements</blue> describe the TOPIC and the MAIN IDEA of your <green>WHOLE ESSAY</green>, and they usually give one keyword for each of the <red>PARAGRAPHS or SECTIONS</red> in the <green>essay</green>. A <blue>thesis statement</blue> is the <pink>LAST</pink> sentence of your <orange>introduction</orange> paragraph.
+* <blue>Topic sentences</blue> describe the TOPIC and the MAIN IDEA of a <green>BODY PARAGRAPH</green>, and they usually give one keyword for each of the <red>POINTS</red> you make in the <green>paragraph</green>. A <blue>topic sentence</blue> is the <pink>FIRST</pink> sentence of your <orange>body</orange> paragraphs.
+* <blue>Thesis statements</blue> describe the TOPIC and the MAIN IDEA of your <green>WHOLE ESSAY</green>, and they usually give one keyword for each of the <red>PARAGRAPHS or SECTIONS</red> in the <green>essay</green>. A <blue>thesis statement</blue> is the <pink>LAST</pink> sentence of your <orange>introduction</orange> paragraph.
 
 
 In formal essays, they use the same patterns
-*Thesis Statement: "This essay argues that X is Y"
-*Topic Sentence: "This paragraph argues that X is Y"."
+* Thesis Statement: "This essay argues that X is Y"
+* Topic Sentence: "This paragraph argues that X is Y"."
 
 If your essay is _over five_ paragraphs:
-*read the rules for how to [[Arrangement - write a sectional essay]]
-*you will need more thesis statements!
+* read the rules for how to [[Arrangement - write a sectional essay]]
+* you will need more thesis statements!
 
 
 # Thesis Statement = "Topic", "Main Idea" and "Keyword"
@@ -36,27 +36,27 @@ Not too vague		| ~~Study abroad is good~~
 Keep it simple. Copy the example.
 
 ### Ethical Consumerism
-*This essay first describes X in detail, then summarizes some problems it/they/its production/their production causes/is causing, and finally outlines some possible solutions to those problems.
-*This essay first describes __Tantalum__ in detail, then looks at some problems __its production__ causes, and then finally outlines some possible solutions to those problems.
+* This essay first describes X in detail, then summarizes some problems it/they/its production/their production causes/is causing, and finally outlines some possible solutions to those problems.
+* This essay first describes __Tantalum__ in detail, then looks at some problems __its production__ causes, and then finally outlines some possible solutions to those problems.
 
-*Be careful about causes and effects
-**is the product itself is dangerous (e.g. mercury/plastic)
-**or is just __"its production"__ dangerous (e.g. diamonds/cotton/paper)
-*Be careful about plurals and countable nouns?
-**Uncountable? Use "its" (Tantalum, cotton)
-**Countable? Use "their" (bananas, tuna)
+* Be careful about causes and effects
+** is the product itself is dangerous (e.g. mercury/plastic)
+** or is just __"its production"__ dangerous (e.g. diamonds/cotton/paper)
+* Be careful about plurals and countable nouns?
+** Uncountable? Use "its" (Tantalum, cotton)
+** Countable? Use "their" (bananas, tuna)
 
 ### Endangered animals
-*This essay first describes the SPECIES NAME in detail, then looks at some problems it faces, and finally some outlines possible solutions to those problems
-*This essay first describes the Saola in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
+* This essay first describes the SPECIES NAME in detail, then looks at some problems it faces, and finally some outlines possible solutions to those problems
+* This essay first describes the Saola in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
 
-*Be careful about species and individuals
-**Talking about a species: use "it" and "the panda"
-**Talking about all individuals : use "they" and "pandas"
-**both OK, but don't mix!
+* Be careful about species and individuals
+** Talking about a species: use "it" and "the panda"
+** Talking about all individuals : use "they" and "pandas"
+** both OK, but don't mix!
 
 ### Voluntourism: Criteria-Analysis
-*This essay first suggests three criteria for a good X, and then analyses one X (name) in terms of those criteria.
+* This essay first suggests three criteria for a good X, and then analyses one X (name) in terms of those criteria.
 
 ## Pattern 1: "This"
 Name your section       |Main Idea Verb	        |Topic phrase				|Keywords
@@ -114,7 +114,7 @@ In this essay/paragraph/	|X is described/clarified/explored/outlined. 	|
 In the current study 		|it is proposed that							|X can be used to identify Y
 
 ## Other Patterns
-*"The aim" - remember to change the verb from describe<red>S</red> to describe
+* "The aim" - remember to change the verb from describe<red>S</red> to describe
 The aim of this essay is to describe/compare/analyse
 
 ## Putting limits on the Thesis Statement
@@ -140,22 +140,22 @@ By Ai
 # Tips
 ### Choose the right genre!
 Which are the examples above?
-*Description
-*Time Order
-*Cause/Effect
-*Problem/Solution
-*Compare/COntrast
-*Argument
+* Description
+* Time Order
+* Cause/Effect
+* Problem/Solution
+* Compare/COntrast
+* Argument
 
 ### Try other tenses
 Copy the style used in examples, though.
-*explores
-*will explore
-*attempts to explore
-*explored
+* explores
+* will explore
+* attempts to explore
+* explored
 
 # Keyword rules apply!
-*Make sure you [[Style - use keywords]] properly
+* Make sure you [[Style - use keywords]] properly
 ### Same sentence OK, Separate sentence also OK.
 If short, use same sentence. If long, use separate sentence
 This essay compares the approach of two car makers to the Chinese market - Mitsubishi and Suzuki.|

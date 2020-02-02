@@ -14,10 +14,10 @@ The word "dreich" |is a 			|Scottish term 			|which describes		|cold, grey, dark
 
 
 # When to use a definition
-*The topic sentence of a description paragraph
-*The general background of an essay
-*If you use terms in a special way
-*If you are using a normal word in a special sense
+* The topic sentence of a description paragraph
+* The general background of an essay
+* If you use terms in a special way
+* If you are using a normal word in a special sense
 Happiness		|is defined here as 	|the emotional state which results from eating chocolate
 Happiness 		|is here used to mean 	|a score of 5 or higher	on the self-assessment Satisfaction scale
 Happiness 		|is operationalised as 	|balance between positive and negative emotion (Ryff, 1989)
@@ -25,14 +25,14 @@ Happiness 		|is operationalised as 	|balance between positive and negative emoti
 
 # Think of it as a reverse quiz question:
 ### A quiz quesion has ONLY ONE possible answer
-* __Bad Question:__ What is a soft drink made with hot water?
-* __Answer:__ Um... Tea? Coffee? Hot lemon? 
-* __Good Question:__ What is a soft drink made from the leaves of Camellia Sinensis?
-* __Answer:__ Tea
+*  __Bad Question:__ What is a soft drink made with hot water?
+*  __Answer:__ Um... Tea? Coffee? Hot lemon? 
+*  __Good Question:__ What is a soft drink made from the leaves of Camellia Sinensis?
+*  __Answer:__ Tea
 
 ### A good definition defines ONLY ONE thing
-* "Tea is a soft drink made with hot water." is not good 
-*"Tea is a soft drink made from the leaves of Camellia Sinensis."
+*  "Tea is a soft drink made with hot water." is not good 
+* "Tea is a soft drink made from the leaves of Camellia Sinensis."
 
 ### Want more examples?
 Look at the first sentence of any Wikipedia article - it is a definition.
@@ -43,8 +43,8 @@ Gold 			|is a 				|chemical element 		|with 					|symbol Au and atomic number 79
 Paper 			|is a 				|thin material 			|produced by 			|pressing together moist fibres of cellulose pulp
 Economics 		|is the 			|social science 		|that 					|describes the factors that determine the production, distribution and consumption of goods and services.
 
-*Not all Wikipedia articles give a category
-*Some give the detail in a separate sentence.
+* Not all Wikipedia articles give a category
+* Some give the detail in a separate sentence.
 
 
 

@@ -3,24 +3,24 @@ Source: http://buzzhootroar.com/whats-the-difference/  (click for more animal co
 
 # Overview
 ## Compare contrast can be:
-*A whole essay
-*A paragraph
-*A sentence or two in a paragraph usually Description or Analysis
+* A whole essay
+* A paragraph
+* A sentence or two in a paragraph usually Description or Analysis
 
 For sentence patterns, see [[Style - write a compare-contrast sentence]]
 This page is about structure for compare-contrast PARAGRAPHS and longer
 
 ## Terms
 Compare= "Same", Contrast= "Different". For example:
-*Tokyo & Osaka
-*Yoshinoya  & McDonalds
-*Squid & Octopus
-*Two World Heritage Sites
+* Tokyo & Osaka
+* Yoshinoya  & McDonalds
+* Squid & Octopus
+* Two World Heritage Sites
 
 # Invention
-*Think about all 5 senses - touch smell taste sight feel
-*Do not choose things that are too big (US & China) or too different (cats & bananas)
-*Try a “same and different” Venn diagram: https://simple.wikipedia.org/wiki/Venn_diagram
+* Think about all 5 senses - touch smell taste sight feel
+* Do not choose things that are too big (US & China) or too different (cats & bananas)
+* Try a “same and different” Venn diagram: https://simple.wikipedia.org/wiki/Venn_diagram
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/evelynsaenz/6948858541/in/photolist-bA3HxT-6Zv18W-b9CD1Z-aUo9c-6yDSbv-ikvETj-71jpQF-6wJ4Pr-d8nRC7-r6nnLy-aeYPjn-8zHXWC-f4kAa6-a3wqqh-6dyuDy-8s36Dz-dZftfq-dZfthu-6Yh9Ka-72QC43-dZ9LPv-dJVEXD-CmDnm5-9jF7zP-8wac6W-8r9bPv-677s1n-72LCYe-7MJawp-7MNary-4nV6fL-egKiwV-6WC5yD-c3NtqC-4SE3va-a8igQW-rrz8N5-8FXC7f-7MNahb-7yJ5bA-pRzn9i-JvTMP-9iVq5Q-9bkCLE-8jn8vW-9T86qN-78TGxj-a7dP1z-6Wh4Vh-oE6Duz" title="Venn Diagram"><img src="https://farm8.staticflickr.com/7189/6948858541_ec995bbbc8_n.jpg" width="320" height="176" alt="Venn Diagram"></a>
 
 # Arrangement
@@ -86,13 +86,13 @@ Compare= "Same", Contrast= "Different". For example:
 
 
 # Thesis statements for compare-contrast
-*Same-different pattern
-**"This paragraph outlines how X and Y have both similarities and differences"
-**"This essay will first look at how X and Y are the same, and then how they are different"
-*Topic pattern
-**"This essay compared and contrasted X and Y, looking at A, B and C"
-**"This essay will compare X with Y, looking at three areas: appearance, behaviour, and diet."
-**"This essay will compare X with Y, in terms of appearance, behaviour, and diet."
+* Same-different pattern
+** "This paragraph outlines how X and Y have both similarities and differences"
+** "This essay will first look at how X and Y are the same, and then how they are different"
+* Topic pattern
+** "This essay compared and contrasted X and Y, looking at A, B and C"
+** "This essay will compare X with Y, looking at three areas: appearance, behaviour, and diet."
+** "This essay will compare X with Y, in terms of appearance, behaviour, and diet."
 
 For more, learn how to [[Arrangement - write an introduction thesis statement]]
 

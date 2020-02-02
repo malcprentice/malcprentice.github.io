@@ -4,7 +4,7 @@ Memrise (app, site, has everything): https://www.memrise.com/
 Duolingo (app site, limited languages): https://www.duolingo.com/
 
 # Reading for various languages
-*List of reading resources: http://www.how-to-learn-any-language.com/forum/forum_posts.asp?TID=19562&PN=1
+* List of reading resources: http://www.how-to-learn-any-language.com/forum/forum_posts.asp?TID=19562&PN=1
 
 # Vocab lists for other languages
 ### Hindi

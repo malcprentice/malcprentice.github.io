@@ -17,9 +17,9 @@ MEDIUM: Improve my English. Learn French. Get overseas volunteer experience
 SHORT: Go to CCC/EF. Go to Global Village. Join a volunteer circle
 
 # Your turn! Ask your partner
-*What is your long term goal (your dream)?
-*What are your medium term goals (to achieve your dream)? 
-*What are your short term goals (tomorrow / next week)?
+* What is your long term goal (your dream)?
+* What are your medium term goals (to achieve your dream)? 
+* What are your short term goals (tomorrow / next week)?
 
 # Regularly review your schedule and goals
 1) Have your dreams changed?

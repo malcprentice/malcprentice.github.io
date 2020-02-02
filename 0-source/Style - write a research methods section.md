@@ -1,45 +1,45 @@
 # Overview
-*Methods is a recipe, just like a recipe for okonomiyaki.
-*I MUST be able to replicate (copy) what you did from the description.
-*If you give me a recipe for okonomiyaki, but forget the cabbage, what happens?)
-*First list your ingredients (20 students, 3 eggs,a questionnaire and some flour)
-*Then describe what you did, step by step
+* Methods is a recipe, just like a recipe for okonomiyaki.
+* I MUST be able to replicate (copy) what you did from the description.
+* If you give me a recipe for okonomiyaki, but forget the cabbage, what happens?)
+* First list your ingredients (20 students, 3 eggs,a questionnaire and some flour)
+* Then describe what you did, step by step
 
 
 # Tips
-*Be careful - not all phrases are useful for presentation AND writing. I've marked them in places. 
-*In many places you will need to  [[Style - write a time-order sentence]]
-*Call them “participants”, not “subjects"
-*Use past tense, unless it is a general statement that is still true
-**“The participants WERE interviewed after class”
-**“The participants WERE University students”
-**“Interviews ARE useful for extracting information”
+* Be careful - not all phrases are useful for presentation AND writing. I've marked them in places. 
+* In many places you will need to  [[Style - write a time-order sentence]]
+* Call them “participants”, not “subjects"
+* Use past tense, unless it is a general statement that is still true
+** “The participants WERE interviewed after class”
+** “The participants WERE University students”
+** “Interviews ARE useful for extracting information”
 
 
 # Sections
 ## 3.1 Research Framework
-*Qualitative? Quantitative? Case study? Action Research
-*Experimental? Descriptive?
-*Exploratory? Confirming?
-*Is the aim generalisation or deep description?
+* Qualitative? Quantitative? Case study? Action Research
+* Experimental? Descriptive?
+* Exploratory? Confirming?
+* Is the aim generalisation or deep description?
 ### Example (OK for both formal speech and writing)
 "This is a piece of qualitative research, aiming to explore what recommendations students make to other students, using a semi-controlled interview")
 
 ## 3.2 Participants and Context
-*If you had subjects, who were the subjects?
-*Age, Gender, Major, Level, Location
-*Give as much detail as possible without breaking anonymity
-*Why did you choose these specific people? (“Sampling”)
-*Did any of the participants drop out?
+* If you had subjects, who were the subjects?
+* Age, Gender, Major, Level, Location
+* Give as much detail as possible without breaking anonymity
+* Why did you choose these specific people? (“Sampling”)
+* Did any of the participants drop out?
 
 ### Example (OK for both speech and writing)
 "Researchers each interviewed one classmate, for a total of X GCP students, of whom X were male and X were female. Participants were all first year students, aged X to X with an average age of X. X were Law majors, X were Economics majors, and there were also X Education and X Literature majors. Participants were selected using a convenience sample, with each member of the research group selecting one friend.")  
 
 
 ### Include any ethical problems:
-**How did you make sure the participants were anonymous
-**How did you avoid embarassing or insulting anyone?
-**Is there a chance your results will harm anyone?
+** How did you make sure the participants were anonymous
+** How did you avoid embarassing or insulting anyone?
+** Is there a chance your results will harm anyone?
 
 ## 3.3 Methods: Materials (for Survey research only)
 What tool did you choose for data collection? 
@@ -52,8 +52,8 @@ Long materials (e.g. a 6 page questionnaire) goes in an appendix.
 
 
 ## 3.4 Procedure
-*How did you USE your materials, step by step?
-*(first then next but then after that finally)
+* How did you USE your materials, step by step?
+* (first then next but then after that finally)
 
 ### USeful language
 "First, an appointment was made...
@@ -72,9 +72,9 @@ First an appointment was made for each interview pair to meet in a quiet place b
 
 
 ## 3.5 Analysis
-*What method did you use?
-*Optional: Why did you analyse it that way?
-*Step by step instructions
+* What method did you use?
+* Optional: Why did you analyse it that way?
+* Step by step instructions
 
 ### Example for survey research
 <example>
