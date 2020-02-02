@@ -48,17 +48,17 @@ Just summarize more evidence to show that it IS effective
 
 # Arrangement
 This simple outline is also on the template in the materials folder:
-+Topic Sentence ("This paragraph looks at")
-+Coherence Signpost ("The first solution/organisation is")
-+Summary of solution 1("This is when"/"This group mostly")
-+Response to solution 1 ("However" or "In fact")
-+Coherence Signpost ("The second solution/organisation is")
-+Summary of solution 2
-+Response to solution 2
-+Coherence Signpost ("The third solution/organisation is")
-+Summary of solution 3
-+Response to solution 3
-+Summary of PARAGRAPH ("In summary, there are three solutions- 1, 2, and 3 - of which all/none/only 2 and 3 are true/effective.").
++ Topic Sentence ("This paragraph looks at")
++ Coherence Signpost ("The first solution/organisation is")
++ Summary of solution 1("This is when"/"This group mostly")
++ Response to solution 1 ("However" or "In fact")
++ Coherence Signpost ("The second solution/organisation is")
++ Summary of solution 2
++ Response to solution 2
++ Coherence Signpost ("The third solution/organisation is")
++ Summary of solution 3
++ Response to solution 3
++ Summary of PARAGRAPH ("In summary, there are three solutions- 1, 2, and 3 - of which all/none/only 2 and 3 are true/effective.").
 
 
 ## Key Arrangement tips

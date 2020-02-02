@@ -57,7 +57,7 @@ __By the end of this course you will be able to:__
 ** [[Arrangement - write a time-order]]
 ** [[Arrangement - write a cause-effect]]
 ** [[Arrangement - write a summary-response]]
-** write a problem-solution essay (cause-effect + summary-response)
+** write a problem-solution essay (cause-effect +  summary-response)
 ** [[Arrangement - write an argument]] (a.k.a. persuasive)
 ** write a criterion-analysis<blue>* <blue>
 ** write a case study<blue>* <blue>

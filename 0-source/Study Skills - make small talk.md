@@ -34,7 +34,7 @@ Where? Who with? When? Why?
 * Anyway…
 * Hey, by the way, ...
 * Oh! Did you ...
-* Oh! Did you hear about (+news)
+* Oh! Did you hear about (+ news)
 
 
 # D) Fill your silence

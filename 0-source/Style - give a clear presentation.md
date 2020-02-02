@@ -2,9 +2,9 @@
 * Hello, my name is NAME. 
 * Today, I'm going to tell you about TOPIC.
 * I will talk about KEYWORD 1, KEYWORD 2, and KEYWORD 3.
-* To begin with, KEYWORD1. 50+ words of detail
-* Next, KEYWORD2. 50+ words of detail
-* Finally, KEYWORD3. 50+ words of detail
+* To begin with, KEYWORD1. 50+  words of detail
+* Next, KEYWORD2. 50+  words of detail
+* Finally, KEYWORD3. 50+  words of detail
 * In conclusion I think / you should
 * Thank you for listening. 
 *  _Pause for applause!_

@@ -41,7 +41,7 @@ Total is 50% from Communication (Malc), including:
 * One each day in class (total 8).
 * One each day for homework (total 7) starting day 2
 * Forget this HW = lose participation points
-* 10% is for submitting all (8+7=15) in last class. 
+* 10% is for submitting all (8+ 7=15) in last class. 
 ** Less than 15 QW on day 8? Lose 1% per missing QW
 * If you are absent Day 8, your score is 0 unless you:
 ** finish your work by day 7 and ask Malc to check it
@@ -56,7 +56,7 @@ Total is 50% from Communication (Malc), including:
 *** speak too much Japanese
 *** sleep in class
 *** etc
-** extra QW = +1 per 3 QW (100 words minimum)
+** extra QW = + 1 per 3 QW (100 words minimum)
 *** So to get the max 10/10 for participation, either:
 *** Don't be absent, late, and don't forget anything, or....
 *** Lose one points and do 3 extra quickwrites (Total 18)
@@ -82,7 +82,7 @@ Absences/Lateness also reduce your participation score, but:
 
 
 # Schedule
-## Class 1+2
+## Class 1+ 2
 ### What we will do in class
 * Introductions, question words
 * Introduction to [[Index - Schedules]]
@@ -97,7 +97,7 @@ Absences/Lateness also reduce your participation score, but:
 * Learn how to [[Study Skills - learn vocabulary]]
 * Introduction to Presentations project
 
-## Class 3+4
+## Class 3+ 4
 ### What to prepare for this class:
 * Vocab (1-10)
 * Quickwrite (HW-QW-1)
@@ -113,7 +113,7 @@ Absences/Lateness also reduce your participation score, but:
 * Learn how to [[Style - give good feedback]]
 
 
-## Class 5+6
+## Class 5+ 6
 ### What to prepare for this class:
 * Vocab (11-20)
 * Quickwrite (HW-QW-2)
@@ -127,7 +127,7 @@ Absences/Lateness also reduce your participation score, but:
 * Present HW quickwrite
 * Picture Description
 
-## Class 7+8
+## Class 7+ 8
 ### What to prepare for this class:
 * Vocab (21-30)
 * Quickwrite (HW-QW-3)
@@ -143,7 +143,7 @@ Absences/Lateness also reduce your participation score, but:
 * Short presentations <red>(10% of grade) </red>!
 * Intro to presentation 2
 
-## Class 9+10
+## Class 9+ 10
 ### What to prepare for this class:
 * Vocab (31-40)
 * Quickwrite (HW-QW-4)
@@ -158,7 +158,7 @@ Absences/Lateness also reduce your participation score, but:
 * Check and practice presentations
 
 
-## Class 11+12
+## Class 11+ 12
 ### What to prepare for this class:
 * Vocab (41-50)
 * Quickwrite (HW-QW-5)
@@ -172,7 +172,7 @@ Absences/Lateness also reduce your participation score, but:
 * Picture Description
 * Check and practice presentations
 
-## Class 13+14  
+## Class 13+ 14  
 ### What to prepare for this class:
 * Vocab (51-60)
 * Quickwrite (HW-QW-6)
@@ -188,7 +188,7 @@ Absences/Lateness also reduce your participation score, but:
 * Check progress on QW and vocab. 
 * For anyone who is absent tomorrow: collect HW, do presentations, do vocab test.
 
-## Class 15+16
+## Class 15+ 16
 ### What to prepare for this class:
 * Vocab (61-70)
 * Study all vocab (1-70)
@@ -201,7 +201,7 @@ Absences/Lateness also reduce your participation score, but:
 * Final Vocab Test (1-70) <red>(10% of grade!) </red>
 * Short presentations <red>(10% of grade) </red>
 * Collect all QW 
-** (8 in class+ 7HW = 15 minimum
+** (8 in class+  7HW = 15 minimum
 **  plus any extra QW for participation points
 * Assign Communication Grade
 * Questionnaire

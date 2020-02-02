@@ -31,7 +31,7 @@
 	"We are staying near here, so we will meet X times a week to talk in English"
 ## Timed Reading practice
 	In summer, do not do book 2 - we will use that in Fall
-	But Book 3+ OK.
+	But Book 3+  OK.
 
 ## Study for an exam
 	e.g. TOEIC listening practice, TOEFL writing practice, online practice tests

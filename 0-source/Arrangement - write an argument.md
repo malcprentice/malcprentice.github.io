@@ -35,17 +35,17 @@ Arguments are often found as:
 
 # Arrangement
 ## One paragraph outline
-+[[Arrangement - write a paragraph topic sentence]] with keyword A, B, and C
-+Reason A
-++Details about A
-++Detail about A
-+Reason B
-++Details about B
-++Detail about B
-+Reason C.
-++Detail about C
-++Detail about C
-+[[Arrangement - write a paragraph summary-link]]
++ [[Arrangement - write a paragraph topic sentence]] with keyword A, B, and C
++ Reason A
+++ Details about A
+++ Detail about A
++ Reason B
+++ Details about B
+++ Detail about B
++ Reason C.
+++ Detail about C
+++ Detail about C
++ [[Arrangement - write a paragraph summary-link]]
 
 # Style (not finished)
 ## Disagreeing

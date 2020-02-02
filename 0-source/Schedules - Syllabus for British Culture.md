@@ -253,7 +253,7 @@ DO: any leftover presentations
 LEARN: About commonwealth and crown territories (video link on website) HW: Choose a territory
 Choose topic
 Places (What/where it is, what happened & what we can do now if we go.)
-Stories ( A legend, myth, famous Author + Story)
+Stories ( A legend, myth, famous Author +  Story)
 Society (Religion, Education, Gender etc. Choose three topics)
     Research your topic
 

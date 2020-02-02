@@ -52,66 +52,66 @@ Use "TEMPLATE for ESSAY OUTLINE - Sectional 7 paragraph Asylum.docx"
 # Arrangement
 Remember this is a SECTIONAL essay with subheadings 
 
-+Introduction (one paragraph)
-++No subheading
-++General Background (e.g. a recent global number of refugees) 
-++Specific Background:  NAME your country and give ONE detail (e.g. _"One of the countries from which large numbers of refugees come is X, which is experiencing/due to the recent/as a result of ongoing conflict/famine/civil war"_ )
-++Importance Background 
-++Thesis  Statement for __Essay__: e.g. _"Therefore this essay first gives some background on the situation in COUNTRY, then looks at the problems faced by refugees in neighbouring countries, and then those faced by people who come to Japan as asylum seekers"_
-+Section 1 (1 paragraph. If too long, split) 
-++Subheading __Background__ (12pt bold)
-++Topic Sentence ("This section looks at how the current crisis in COUNTRY came about.")
-++Keyword sentence
-+++EITHER [[Arrangement - write a time-order]]: "There are three main stages that led to the current crisis - TIME1, TIME2, and TIME3"
-+++OR [[Arrangement - write a cause-effect]]: "There are three main causes of the current crisis - KEY1, KEY2, and KEY3"
-+++OR "There are three main groups fighting the conflict causing the current crisis"
-++_"The first stage was /cause is/group is KEY1"_
-++_"The second stage was /cause is/group is KEY2"_
-++_"The final stage was /cause is/group is KEY3"_
-++ Summary not recommended. Link to next section (e.g. _“The next section focuses on three problems facing refugees who are internally displaced or seeking refuge in nearby countries, using the example of COUNTRY."_ )
-+Section 2 (2 paragraph PROBLEM-SOLUTION)  
-++Subheading __Problems faced by refugees in nearby countries__  (12pt bold)
-++Paragraph 1 (Thesis statement + Problems)
-+++Thesis statement for __section__ - ("Many refugees from ORIGIN COUNTRY flee to to other places in their country, or across the border into nearby countries. This section describes the kinds of problems faced by refugees in these areas, focusing on the example of RECEIVING COUNTRY, and some solutions being attempted there. ")
-+++Topic sentence ("There are three main problems facing refugees in COUNTRY - 1, 2, and 3. ")
-++++Problem 1 + Details e.g. _"The first problem is"_ 
-++++Problem 2 + Details e.g. _"The second problem is"_ 
-++++Problem 3 + Details e.g. _"The third problem is"_
-++++Summary for problems paragraph ("In summary there are three problems - 1, 2, and 3 - of which the most serious is 2.")
-++++Link to solutions paragraph ("The next paragraph...")
-+++Paragraph 2 (Solutions+Summary+Link)
-++++Topic sentence (e.g. "This paragraph describes three possible solutions to the issues outlined above")
-++++Solution 1 + Details (e.g. _"The first solution is 1"_ )
-++++Solution 2 + Details (e.g. _"The second solution is 2"_ )
-++++Solution 3 + Details (e.g. _"The third solution is 3"_ )
-++++Summary of Solutions (e.g. _"In summary there are three possible solutions - 1, 2, and 3 - of which only 2 is currently effective"_ )
-++++Summary for __Section__ optional: ("This section looked at problems and solutions" is boring). Drop it or be creative.
-++++Link to next section (e.g. _"The next section outlines issues faced by asylum seekers in developed countries, using the example of Japan"_ )
-+Section 3: Asylum Seekers in Japan (2 paragraph PROBLEM-SOLUTION) 
-++Subheading __Problems faced by Asylum Seekers in Japan__ (12pt bold)
-++Paragraph 1 (Thesis statement + Problems)
-+++Thesis statement for __Section__ - (e.g. _"Due to the problems described in the previous section, many refugees choose to continue onwards and seek asylum in developed countries, including Japan. While at the moment, few / none /only 3 of the refugees from COUNTRY have applied for asylum in Japan, this may change. In addition, Japan is a developed country, and can offer an example of the kinds of problems asylum seekers face in such countries. Therefore, this section describes the problems faced by asylum seekers in Japan, and some solutions being attempted for those problems"_ )
-+++Topic Sentence ( _"There are three main problems - 1, 2, and 3."_ ) 
-++++Problem 1 + Details (e.g. _"The first problem is"_ )
-++++Problem 2 + Details (e.g. _"The second problem is"_ )
-++++Problem 3 + Details (e.g. _"The third problem is"_ )
-++++Summary for problems paragraph
-++++Link to solutions paragraph
-+++Paragraph 2 (Solutions+Summary+Link)
-++++Topic Sentence ("This paragraph outlines ....")
-++++Solution 1 + Details (e.g. _"The first solution is 1"_ )
-++++Solution 2 + Details (e.g. _"The second solution is 2"_ )
-++++Solution 3 + Details (e.g. _"The third solution is 3"_ )
-++++Summary of Solutions 1+2+3 (e.g. _"In summary there are three possible solutions - 1, 2, and 3 - of which only 2 is currently effective"_ )
-++++Summary for __Section__ optional: ("This section looked at problems and solutions" is boring). Drop it or be creative. No link either 
-+Section 5: Conclusion ( 1 paragraph)
-++Subheading: Conclusion (12pt bold)
-++Topic Sentence (Essay Thesis Statement, in new words)
-++Summary. 
-+++DO NOT write a summary like your previous essays ("In summary there are three... of which...three... of which...three.. of which...three...of which...") it will sound terrible. 
-+++Be creative. Try to summarize your whole essay in one sentence. You can drop the solutions for now, and use them in your final comment instead. 
-+++e.g. "In sumary, while many refugees are experiencing SECTION 2 THEME,  the problems experienced by asylum seekers in Japan have more to do with SECTION 3 THEME."
-++[[Style - write a final comment sentence]] One for neighbouring countries, one for Japan e.g. _"People who want to help should do two things. To help refugees in camps in NEIGHBOURING COUTRY NAME, they should... At the same time, to improve conditions for asylum seekers in Japan, they should"_
++ Introduction (one paragraph)
+++ No subheading
+++ General Background (e.g. a recent global number of refugees) 
+++ Specific Background:  NAME your country and give ONE detail (e.g. _"One of the countries from which large numbers of refugees come is X, which is experiencing/due to the recent/as a result of ongoing conflict/famine/civil war"_ )
+++ Importance Background 
+++ Thesis  Statement for __Essay__: e.g. _"Therefore this essay first gives some background on the situation in COUNTRY, then looks at the problems faced by refugees in neighbouring countries, and then those faced by people who come to Japan as asylum seekers"_
++ Section 1 (1 paragraph. If too long, split) 
+++ Subheading __Background__ (12pt bold)
+++ Topic Sentence ("This section looks at how the current crisis in COUNTRY came about.")
+++ Keyword sentence
++++ EITHER [[Arrangement - write a time-order]]: "There are three main stages that led to the current crisis - TIME1, TIME2, and TIME3"
++++ OR [[Arrangement - write a cause-effect]]: "There are three main causes of the current crisis - KEY1, KEY2, and KEY3"
++++ OR "There are three main groups fighting the conflict causing the current crisis"
+++ _"The first stage was /cause is/group is KEY1"_
+++ _"The second stage was /cause is/group is KEY2"_
+++ _"The final stage was /cause is/group is KEY3"_
+++  Summary not recommended. Link to next section (e.g. _“The next section focuses on three problems facing refugees who are internally displaced or seeking refuge in nearby countries, using the example of COUNTRY."_ )
++ Section 2 (2 paragraph PROBLEM-SOLUTION)  
+++ Subheading __Problems faced by refugees in nearby countries__  (12pt bold)
+++ Paragraph 1 (Thesis statement +  Problems)
++++ Thesis statement for __section__ - ("Many refugees from ORIGIN COUNTRY flee to to other places in their country, or across the border into nearby countries. This section describes the kinds of problems faced by refugees in these areas, focusing on the example of RECEIVING COUNTRY, and some solutions being attempted there. ")
++++ Topic sentence ("There are three main problems facing refugees in COUNTRY - 1, 2, and 3. ")
+++++ Problem 1 +  Details e.g. _"The first problem is"_ 
+++++ Problem 2 +  Details e.g. _"The second problem is"_ 
+++++ Problem 3 +  Details e.g. _"The third problem is"_
+++++ Summary for problems paragraph ("In summary there are three problems - 1, 2, and 3 - of which the most serious is 2.")
+++++ Link to solutions paragraph ("The next paragraph...")
++++ Paragraph 2 (Solutions+ Summary+ Link)
+++++ Topic sentence (e.g. "This paragraph describes three possible solutions to the issues outlined above")
+++++ Solution 1 +  Details (e.g. _"The first solution is 1"_ )
+++++ Solution 2 +  Details (e.g. _"The second solution is 2"_ )
+++++ Solution 3 +  Details (e.g. _"The third solution is 3"_ )
+++++ Summary of Solutions (e.g. _"In summary there are three possible solutions - 1, 2, and 3 - of which only 2 is currently effective"_ )
+++++ Summary for __Section__ optional: ("This section looked at problems and solutions" is boring). Drop it or be creative.
+++++ Link to next section (e.g. _"The next section outlines issues faced by asylum seekers in developed countries, using the example of Japan"_ )
++ Section 3: Asylum Seekers in Japan (2 paragraph PROBLEM-SOLUTION) 
+++ Subheading __Problems faced by Asylum Seekers in Japan__ (12pt bold)
+++ Paragraph 1 (Thesis statement +  Problems)
++++ Thesis statement for __Section__ - (e.g. _"Due to the problems described in the previous section, many refugees choose to continue onwards and seek asylum in developed countries, including Japan. While at the moment, few / none /only 3 of the refugees from COUNTRY have applied for asylum in Japan, this may change. In addition, Japan is a developed country, and can offer an example of the kinds of problems asylum seekers face in such countries. Therefore, this section describes the problems faced by asylum seekers in Japan, and some solutions being attempted for those problems"_ )
++++ Topic Sentence ( _"There are three main problems - 1, 2, and 3."_ ) 
+++++ Problem 1 +  Details (e.g. _"The first problem is"_ )
+++++ Problem 2 +  Details (e.g. _"The second problem is"_ )
+++++ Problem 3 +  Details (e.g. _"The third problem is"_ )
+++++ Summary for problems paragraph
+++++ Link to solutions paragraph
++++ Paragraph 2 (Solutions+ Summary+ Link)
+++++ Topic Sentence ("This paragraph outlines ....")
+++++ Solution 1 +  Details (e.g. _"The first solution is 1"_ )
+++++ Solution 2 +  Details (e.g. _"The second solution is 2"_ )
+++++ Solution 3 +  Details (e.g. _"The third solution is 3"_ )
+++++ Summary of Solutions 1+ 2+ 3 (e.g. _"In summary there are three possible solutions - 1, 2, and 3 - of which only 2 is currently effective"_ )
+++++ Summary for __Section__ optional: ("This section looked at problems and solutions" is boring). Drop it or be creative. No link either 
++ Section 5: Conclusion ( 1 paragraph)
+++ Subheading: Conclusion (12pt bold)
+++ Topic Sentence (Essay Thesis Statement, in new words)
+++ Summary. 
++++ DO NOT write a summary like your previous essays ("In summary there are three... of which...three... of which...three.. of which...three...of which...") it will sound terrible. 
++++ Be creative. Try to summarize your whole essay in one sentence. You can drop the solutions for now, and use them in your final comment instead. 
++++ e.g. "In sumary, while many refugees are experiencing SECTION 2 THEME,  the problems experienced by asylum seekers in Japan have more to do with SECTION 3 THEME."
+++ [[Style - write a final comment sentence]] One for neighbouring countries, one for Japan e.g. _"People who want to help should do two things. To help refugees in camps in NEIGHBOURING COUTRY NAME, they should... At the same time, to improve conditions for asylum seekers in Japan, they should"_
 
 # Style
 See the sheets from previous essays. 

@@ -76,11 +76,11 @@ EXAMPLE ANSWER: In this set of materials, the reading passage describes a body o
 
 
 ## Your turn
-### Q2 Example 3 (Homework) Old purple Longman p216 + CD3:52
+### Q2 Example 3 (Homework) Old purple Longman p216 +  CD3:52
 READING TOPIC: Polynesian migration in Pacific
 * 20,000 square miles of Pacific 
 * start 4000y ago - spread through triangle - Hawaii-NZ-Easter Island
-* outrigger canoes (2 tree trunks+platform)  - humans animals
+* outrigger canoes (2 tree trunks+ platform)  - humans animals
 
 LISTENING TOPIC: special point Polynesians got as far as S. America
 * surprising on outrigger canoes 
@@ -103,7 +103,7 @@ In this set of materials, the reading passage describes a migration by one cultu
 ## Overview
 * Listen to a 60-90 second conversation  about a student problem, with 2 solutions
 * Take notes on PROBLEMS, SOLUTIONS, and key words. 
-* 20s to prepare + 60s to speak 
+* 20s to prepare +  60s to speak 
 * Choose a solution and give reasons WHY that is the BEST choice
 * <red>Use only newer books for this one. Older (e.g. purple Longman) follow old pattern </red> 
 
@@ -111,8 +111,8 @@ In this set of materials, the reading passage describes a migration by one cultu
 # Arrangement/Style
 * In this listening passage, the problem described is that SUMMARY. There are 2 possibilities: either A  (Summary A) or B (Summary B).  (20-30s)
 * I think this A/B is the best choice.
-** My first reason is  REASON1+DETAILS (15-20s)
-** My second reason is REASON2+DETAILS (15-20s)
+** My first reason is  REASON1+ DETAILS (15-20s)
+** My second reason is REASON2+ DETAILS (15-20s)
  
 
  
@@ -120,7 +120,7 @@ In this set of materials, the reading passage describes a migration by one cultu
 ## Overview and General Tips
 * Listen to 90-120s lecture defining of term/concept/issue, with examples)
 * Instruction: "Using points and examples from the talk, describe the two Xs
-* 20s to prepare + 60s - a straight summary 
+* 20s to prepare +  60s - a straight summary 
 * Practice by listening to TED talks!
 * Again, use newer textbooks for this one (ETS or white longman, not purple Longman). 
 

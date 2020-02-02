@@ -17,7 +17,7 @@ Item								|% 				|Minimum///(NG points if missing) |OK points if extra?							
 ------------------------------------|---------------|-------------------------------|------------------------------------------     |---------------------------------
 Referenced Essays					|30%			|(A 15%, B 15%)      			|No  	 										|see weekly schedule
 Final Presentation                  |10% (Delivery)	|10%		        x            |No   											|see weekly schedule
-Participation 						|20% 			|=OK-absences-NG+curve		    |Participation IS OK points 					|see your Participation Point plan
+Participation 						|20% 			|=OK-absences-NG+ curve		    |Participation IS OK points 					|see your Participation Point plan
 Vocabulary Project (V)				|10% (test)		|15 words per class (420 total) |No 	                                        |see [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)			|10% 			|28 minimum 				  	|max 5 OK points for 15 extra (total 43)		|see [[Study Skills - do a quickwrite]]
 Speed Reading (SR)           		|10% 			|1 book (20 readings) minimum 	|max 5 OK points for 20 extra (total 40)		|see [[Study Skills - do a speed reading]]

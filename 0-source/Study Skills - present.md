@@ -44,7 +44,7 @@ If you are using Powerpoint:
 # Arrangement
 * RR based: 
 ** follow the RR templates. 
-** Just start "I read/listened to + TITLE"
+** Just start "I read/listened to +  TITLE"
 * Project based
 ** see the example PPT templates
 ** Your thesis statement becomes sections

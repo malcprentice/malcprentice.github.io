@@ -1,10 +1,10 @@
 # Overview
-+DIscussion
-++Topic Sentence 
-++Summary
-++Implications/Recommendations
-++Weaknesses and Future research
-++Final COmment
++ DIscussion
+++ Topic Sentence 
+++ Summary
+++ Implications/Recommendations
+++ Weaknesses and Future research
+++ Final COmment
 
 There are some extra sections, but still the same as normal disucssion
 Read how to [[Arrangement - write a conclusion paragraph]] first

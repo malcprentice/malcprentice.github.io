@@ -19,7 +19,7 @@
 3) Read the text.
 * Don't take notes.
 * Don't use a dictionary
-* Read as fast as you can while still understanding 80%+
+* Read as fast as you can while still understanding 80%+ 
 4) Answer the quiz without looking at the text
 5) Check your answers: [[Resources - Speed Reading answers]]
 * If your score is < 6, read slower next time

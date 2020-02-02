@@ -15,23 +15,23 @@ If yoy plagiarise multiple times after warning, your final grade will also autom
 # Students starting 2019 and later
 Grade 	|GPA   	|Score	 |Meaning and Limits
 -----	|-------|------- |----------
-A+		|4.0    |95-100% |"Excellent"- in top 5% of class
+A+ 		|4.0    |95-100% |"Excellent"- in top 5% of class
 A 		|4.0    |90-94%  |"Good" - in top 25% of class
 A- 		|3.7    |85-89%  |"Good"- in top 25% of class
-B+		|3.3    |80-84%	 |"Satisfactory"
+B+ 		|3.3    |80-84%	 |"Satisfactory"
 B 		|3.0    |75-79%  |Satisfactory
 B-		|2.7    |70-74%  |Satisfactory
-C+ 		|2.3    |65-69%  |Meets standard
+C+  		|2.3    |65-69%  |Meets standard
 C 		|2      |60-64%  |Meets standard
-D+      |1.7	|55-59%  |Does not meet standard, but pass
+D+       |1.7	|55-59%  |Does not meet standard, but pass
 D       |1.3	|50-54%  |Does not meet standard, but pass
-E+	    |1  	|45-49%  |Does not meet standard, fail
+E+ 	    |1  	|45-49%  |Does not meet standard, fail
 E       |0		|0-44% 	 |Does not meet standard, fail
 N       |0		| 	 	 |Fail on absences, or missing assignments
 I       |    	| 		 |Incomplete. See note below
 
 ## Limits
-Limits of 5% A+and 25% total A+/A/A-
+Limits of 5% A+ and 25% total A+ /A/A-
 Except for those approved by the Faculty Council or by SEED.
 SSB and GCP are approved
 

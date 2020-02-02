@@ -44,15 +44,15 @@ interrupting a conversation
 re-stating what has been said
 
 ## Requesting, Offering, Suggesting, Refusing, Accepting
-asking for  permission              |(+ saying yes/no politely)
-making requests                     |(+ saying yes/no politely)
-asking/telling people to do something|      (+ saying yes/no politely)
+asking for  permission              |(+  saying yes/no politely)
+making requests                     |(+  saying yes/no politely)
+asking/telling people to do something|      (+  saying yes/no politely)
 talking about obligation            |(have to, must, should, need to )
-expressing needs and wants          |(+ saying yes/no politely)
-saying thanks                        |(+you're welcome)
-giving invitations                   |(+ saying yes/no politely)
-making apologies                      |(+ saying "It's OK")
-making offers                         |(+ saying yes/no politely)
+expressing needs and wants          |(+  saying yes/no politely)
+saying thanks                        |(+ you're welcome)
+giving invitations                   |(+  saying yes/no politely)
+making apologies                      |(+  saying "It's OK")
+making offers                         |(+  saying yes/no politely)
 making suggestions
 
 ## Giving instructions and Advice

@@ -22,15 +22,15 @@ There are a lot more.
 What kinds of questions are best for our project?
 
 # Why are these bad questions?
-+Do you enjoy dyadic interaction in your ESP class?     
-+In which ways have you and which ways have you not changed the way you teach based on your experience as a learner and as someone who lives in a foreign country?
-+What would be the best way to learn Japanese for a Canadian student?
-+What wouldn’t you avoid doing if you were not in Japan?
-+How much do you weigh?
-+How much homework do you do every night?
-+When did you stop stealing bicycles?                                               
-+Do you agree that punishing students, when done by a good teacher, is a good thing?
-+How much time do you spend on the internet: 5-10 hours per week, 2-5 hours per week, 0-2 hours per week
++ Do you enjoy dyadic interaction in your ESP class?     
++ In which ways have you and which ways have you not changed the way you teach based on your experience as a learner and as someone who lives in a foreign country?
++ What would be the best way to learn Japanese for a Canadian student?
++ What wouldn’t you avoid doing if you were not in Japan?
++ How much do you weigh?
++ How much homework do you do every night?
++ When did you stop stealing bicycles?                                               
++ Do you agree that punishing students, when done by a good teacher, is a good thing?
++ How much time do you spend on the internet: 5-10 hours per week, 2-5 hours per week, 0-2 hours per week
 
 # Principles of Question Writing
 Can you match any of the above questions to the problems below?
@@ -55,4 +55,4 @@ Can you match any of the above questions to the problems below?
 * CLOSED questions
 ** (when it is yes/no, or a small range of choice)
 ** e.g. Do you prefer salmon or tuna?
-** How many/how often/where/when + abcd choice
+** How many/how often/where/when +  abcd choice

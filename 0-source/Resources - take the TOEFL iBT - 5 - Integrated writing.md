@@ -96,31 +96,31 @@ Great! But don't use it 3 times in the essay.
 >>Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
 
 ## 3 paragraph
-+The reading passage talked about READINGTHESIS. It said that READING1. However, the listening said that LISTENING1.
-+Another reason why READINGTHESIS is READING2. LISTENING2.
-+Finally, the reading said that READING3. LISTENING3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING. (30-40 words)
++ The reading passage talked about READINGTHESIS. It said that READING1. However, the listening said that LISTENING1.
++ Another reason why READINGTHESIS is READING2. LISTENING2.
++ Finally, the reading said that READING3. LISTENING3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING. (30-40 words)
 
 ## 5 paragraph template
 
-+Intro (30-40 words)
-++General Background
-++Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. However, the lecture disagreed. 
-+Body Paragraph (50-80 words)
-++Topic sentence - "This paragraph looks at the first point, KEYWORD"
-++Summary of reading - "The article said/claimed that SUMMARY"
-++SUmmary of listening - "However, the lecture disagreed, and instead suggested that.  
-+Body Paragraph (50-80 words)
-++Topic sentence - "The second point covered in these materials, KEYWORD"
-++Summary of reading - "The reading passage noted that SUMMARY"
-++SUmmary of listening - "However, the lecture suggested instead that. 
-+Body Paragraph (50-80 words)
-++Topic sentence - "The last point of disareement was KEYWORD"
-++Summary of reading - "The author of the article described SUMMARY"
-++SUmmary of listening - "However, the lecture was dubious about this, instead pointing out that. (50-80 words)
-+Conclusion
-++In summary, this set of materials presented contradictory points of view on TOPIC. 
-++Overall, the reading was OVERALL KEYWORDS SUMMARY while the listening was OVERALL KEYWORD SUMMARY
-++As such, FUZZY CONCLUSION  (30-40 words)
++ Intro (30-40 words)
+++ General Background
+++ Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. However, the lecture disagreed. 
++ Body Paragraph (50-80 words)
+++ Topic sentence - "This paragraph looks at the first point, KEYWORD"
+++ Summary of reading - "The article said/claimed that SUMMARY"
+++ SUmmary of listening - "However, the lecture disagreed, and instead suggested that.  
++ Body Paragraph (50-80 words)
+++ Topic sentence - "The second point covered in these materials, KEYWORD"
+++ Summary of reading - "The reading passage noted that SUMMARY"
+++ SUmmary of listening - "However, the lecture suggested instead that. 
++ Body Paragraph (50-80 words)
+++ Topic sentence - "The last point of disareement was KEYWORD"
+++ Summary of reading - "The author of the article described SUMMARY"
+++ SUmmary of listening - "However, the lecture was dubious about this, instead pointing out that. (50-80 words)
++ Conclusion
+++ In summary, this set of materials presented contradictory points of view on TOPIC. 
+++ Overall, the reading was OVERALL KEYWORDS SUMMARY while the listening was OVERALL KEYWORD SUMMARY
+++ As such, FUZZY CONCLUSION  (30-40 words)
 
 FUZZY CONCLUSION is 
 * Something I never want to see in your actual essays...
@@ -138,29 +138,29 @@ The following is an example from Longman - the Homeschooling listening is on pag
 4) I will check it and give you a "perfect score" example to look at.  
 
 ### Reading Notes 
-+BACKGROUND: Homeschooling becoming more popular. 
-+DEFINITION: Homeschooling is:
-++keep children out of traditional classes
-++(traditional = 1 teacher-20/30 children)
-++parents educate kids at home
-+TS: Homeschooling not good
-++Reason 1-  not learn as much
-+++trad. schools - must learn huge amount of material
-+++home = no requirement to master X before moving to new level
-++Reason 2 - Less social interaction
-+++parents and a few brothers/sisters only
-++Reason 3 - Less broad curriculum. Trad. sch have:
-+++more established curriculum
-+++more variety of subjects
++ BACKGROUND: Homeschooling becoming more popular. 
++ DEFINITION: Homeschooling is:
+++ keep children out of traditional classes
+++ (traditional = 1 teacher-20/30 children)
+++ parents educate kids at home
++ TS: Homeschooling not good
+++ Reason 1-  not learn as much
++++ trad. schools - must learn huge amount of material
++++ home = no requirement to master X before moving to new level
+++ Reason 2 - Less social interaction
++++ parents and a few brothers/sisters only
+++ Reason 3 - Less broad curriculum. Trad. sch have:
++++ more established curriculum
++++ more variety of subjects
 
 ### Listening Notes 
-+TS: not true - part of panel - disagree
-+IDEA 1 not proven that learn less
-++many studies proved learn far more
-+IDEA 2 lots of interaction - 
-++parents arrange it with other homeschooled children
-++could be MORE interaction, as can happen any time
-+IDEA 3 Variety of curriculum MORE 
-++because not limited by school boards, can teach anything
-++e.g. astronomy, medicine, Chinese
++ TS: not true - part of panel - disagree
++ IDEA 1 not proven that learn less
+++ many studies proved learn far more
++ IDEA 2 lots of interaction - 
+++ parents arrange it with other homeschooled children
+++ could be MORE interaction, as can happen any time
++ IDEA 3 Variety of curriculum MORE 
+++ because not limited by school boards, can teach anything
+++ e.g. astronomy, medicine, Chinese
   

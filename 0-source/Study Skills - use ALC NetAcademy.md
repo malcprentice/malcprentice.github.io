@@ -37,7 +37,7 @@ See syllabus for minimum and maximum ALC points available
 ** Choose "Tests"
 ** Click the Green clock under "履歴 / Learning Records"
 ** Screenshot and/or print that WHOLE page. It should show a) your name b) Every test you took with c) "time needed" and d) "accuracy". You will need one of these for each level.
-** See the "Examples" folder for "Example ALC screenshot.jpg" ** If your time needed is too short or your score is suspiciously low, you get no point. For example, a half size test is usually 35-45 minutes. If you are a D level student (TOEIC 490+) and you did it in 20 minutes with a score of 35%, you weren't trying. No point. Decisions on this will be made depending on the class. Take your time and do the test properly.
+** See the "Examples" folder for "Example ALC screenshot.jpg" ** If your time needed is too short or your score is suspiciously low, you get no point. For example, a half size test is usually 35-45 minutes. If you are a D level student (TOEIC 490+ ) and you did it in 20 minutes with a score of 35%, you weren't trying. No point. Decisions on this will be made depending on the class. Take your time and do the test properly.
 
 
 

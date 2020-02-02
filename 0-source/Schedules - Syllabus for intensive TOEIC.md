@@ -30,7 +30,7 @@ Participation |10% -|attendance, NG points, OK points
 So try not to be absent on first day, last day, TOEIC class 4 and TOEIC class 7
 
 ## What are OK and NG points
-OK points (+1) for doing extra QW homework (max 5)
+OK points (+ 1) for doing extra QW homework (max 5)
 NG points (-1) for sleeping, forgetting work, not participating.
 
 
@@ -76,7 +76,7 @@ Nouns and Verbs, Predicting, Describing Movement
 
 ## Class 2
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 ### What we will do in class
 Unit 2) Listening - Question Response
 Requests. Tag Questions.
@@ -85,7 +85,7 @@ TOEIC Tip: Speed reading
 
 ## Class 3
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 
 ### What we will do in class
 Unit 3) Listening - Conversations
@@ -95,7 +95,7 @@ TOEIC Tip: Reading Sprints
 
 ##  Class4
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 
 ### What we will do in class
 Unit 4) Listening - Talks
@@ -104,7 +104,7 @@ Announcements. Who and Where
 
 ## Class 5
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 
 ### What we will do in class
 Unit 5) Reading - Incomplete Sentences
@@ -113,7 +113,7 @@ Talking about the Past
 
 ## Class 6
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 
 ### What we will do in class
 Unit 6) Reading - Text Completion
@@ -122,7 +122,7 @@ Identifying Parts of Speech
 
 ## Class 7
 ### What to prepare for this class:
-HW: Vocab + Extra QW
+HW: Vocab +  Extra QW
 Practice for your vocab tesrt
 Catch up on all missing work
 Bring ALL your QW and vocab sheets!
@@ -155,35 +155,35 @@ How to study Vocab (Text and Lists)
 Quick-write 1
 Unit 8) Listening - Photographs
 Present tense, avoiding common distractors
-HW: QW2+Vocab1
+HW: QW2+ Vocab1
 
 ### 2
 Unit 9) Listening - Question Response
 Indirect answers, Listening for question words and tenses. Yes/No questions
 TOEIC Tip: Speed Reading
-HW: QW3+Vocab2
+HW: QW3+ Vocab2
 
 ### 3
 Unit 10) Listening - Conversations
 Answering quickly, answer what questions
 TOEIC Tip: Reading Sprints
-HW: QW4+Vocab3
+HW: QW4+ Vocab3
 
 ### 4
 Unit 11) Listening - Talks
 Recorded messages, Listening for details, WHen/Why/How questions
 <red>Listening Review Test </red>
-HW: QW5+Vocab4
+HW: QW5+ Vocab4
 
 ### 5
 Unit 12) Reading - Incomplete Sentences
 Infinitives and Gerunds. Guessing meaning from prefixes. Prepositions.
-HW: QW6+Vocab5
+HW: QW6+ Vocab5
 
 ### 6
 Unit 13) Reading - Text Completion
 Connecting content questions. Pronouns and Possessives
-HW: QW7+Vocab6
+HW: QW7+ Vocab6
 
 ### 7
 Unit 14) Reading - Reading Comprehension

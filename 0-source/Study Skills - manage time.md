@@ -17,7 +17,7 @@ TIme management is the main reason students fail courses
 # Option 1: Weekly schedule with EVERYTHING
 <a href="https://openclipart.org/detail/33829/calendrier-semaine-weekly-calendar"><img src="https://openclipart.org/download/33829/agenda%20ouvert.svg" /></a>
 * I made a blank one and left it in the templates folder (TEMPLATE for WEEKLY SCHEDULE.docx)
-* Alternatively, make your own or search: https://www.google.co.jp/search?q=weekly+timetable&newwindow=1&biw=1068&bih=1297&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj2pPmQyOnKAhXJE5QKHXyHC-EQsAQIGg# newwindow=1&tbm=isch&q=weekly+hourly+timetable
+* Alternatively, make your own or search: https://www.google.co.jp/search?q=weekly+ timetable&newwindow=1&biw=1068&bih=1297&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj2pPmQyOnKAhXJE5QKHXyHC-EQsAQIGg# newwindow=1&tbm=isch&q=weekly+ hourly+ timetable
 
 * Remember to schedule EVERYTHING: classes, clubs, sleep, play, relaxation time.
 * Try to allow some spare time for unexpected issues like late trains.

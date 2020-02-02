@@ -40,11 +40,11 @@ Be careful with commas and "and"
 ## In an essay
 Link your thesis statement, your paragraphs, and your conclusion with keywords
 See [[Style - use cohesion]]
-+"This essay first looks at X in terms of  A, B, and C"
-+"This paragraph describes A"
-+"This paragraph outlines B"
-+"This paragraph covers C"
-+"This essay looked at X. In summary A, B, C."
++ "This essay first looks at X in terms of  A, B, and C"
++ "This paragraph describes A"
++ "This paragraph outlines B"
++ "This paragraph covers C"
++ "This essay looked at X. In summary A, B, C."
 
 
 

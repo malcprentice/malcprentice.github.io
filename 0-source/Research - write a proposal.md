@@ -18,7 +18,7 @@ Before you begin, start your research diary. INclude
 
 ## Research Proposal Sections
 ### Introduction
-This dissertation project looks at (general topic)...This topic is important because...The research question(s) is/are...The target audience are teachers/students...+ Tell me how is the answer going to be useful, interesting or new?
+This dissertation project looks at (general topic)...This topic is important because...The research question(s) is/are...The target audience are teachers/students...+  Tell me how is the answer going to be useful, interesting or new?
 ### Literature Review
 * What have you read? ("According to Smith (1999)...etc")
 * What do you plan to read?

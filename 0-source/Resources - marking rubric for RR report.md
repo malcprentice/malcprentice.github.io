@@ -37,4 +37,4 @@ Your grade goes up or down from C(6) depending on how many NW or G _sections_ yo
 
 <red>NW</red> 		|"Needs Work" (-1)
 <blue>OK</blue>   	| "OK"
-<green>G</green> 	|"Good" (+1)
+<green>G</green> 	|"Good" (+ 1)

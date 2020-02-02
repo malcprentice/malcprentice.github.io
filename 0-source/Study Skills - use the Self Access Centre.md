@@ -16,7 +16,7 @@ Speaking Test Preparation Center |10:45 - 16:40
 
 # Sessions with instructors you need to book
 ## Chit Chat Club (CCC) and English Forum (EF)
-* EF (TOEIC 400+) 60 mins
+* EF (TOEIC 400+ ) 60 mins
 * CCC (TOEIC < 395) 45 mins
 * Only 1 signature per day.No stamp/signature = no points
 ### Video introduction

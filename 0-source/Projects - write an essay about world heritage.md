@@ -39,11 +39,11 @@ This essay COULD follow the same pattern as endangered animals, so look at:
 
 # Step 4: Plan your own essay
 I recommend:
-+Introduction
-+Description
-+Three problems threatening the site
-+Three solutions to those problems
-+Conclusion
++ Introduction
++ Description
++ Three problems threatening the site
++ Three solutions to those problems
++ Conclusion
 
 This is very similar to "endangered animals", and can use the same templates, examples, and language
 
@@ -129,7 +129,7 @@ World heritage is an IDEA, like "history", not a place.
 When talking about the IDEA, "world heritage" on its own is OK
 ** World heritage is important.
 ** This organisation focuses on world heritage. 
-HOWEVER, when talking about a specific place, you should say "World heritage + NOUN" 
+HOWEVER, when talking about a specific place, you should say "World heritage +  NOUN" 
 ** World heritage site
 ** world heritage area
 ** world heritage organisation
@@ -150,7 +150,7 @@ See [[Arrangement - write a sectional essay]]
 * minimum 200 words per paragraph,
 * minimum five lines per paragraph
 * minimum 150 words for the intro and conclusion
-* minimum 900 words for the whole essay (200* 3+150+150=900 words)
+* minimum 900 words for the whole essay (200* 3+ 150+ 150=900 words)
 * maximum 1500 words
 * minimum two references per body paragraph (total 6 references minimum)
 * (at least 50% in English)

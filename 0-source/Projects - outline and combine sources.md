@@ -31,7 +31,7 @@ For example, 	|Suzuki (2018, February 1) 	|describes
 
 ## Option 2: describe source (trickier)
 
-Link 				|SOURCE TYPE 			|source  					|citation word+ reading summary 		|Citation
+Link 				|SOURCE TYPE 			|source  					|citation word+  reading summary 		|Citation
 --------------------|---------------		|---------------------------|---------------------------------------|---------------
 However 			|, an article 			|in the Washington Post 	|notes that this is not true because X	|(Smith, 2019, January 1)
 Despite this 		|, a law 				|passed by the US congress 	|has banned X 							|(Yamada, n.d.)

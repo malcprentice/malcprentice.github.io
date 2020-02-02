@@ -47,7 +47,7 @@ Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somew
 ** ordering/asking for the bill
 * Getting food at a stall
 * Ingredients
-** Names of basic ingredients ("What is in this?" + answers
+** Names of basic ingredients ("What is in this?" +  answers
 ** Talking about dietary restrictions, and how likely these are to be met.
 *** (e.g. "Are there any peanuts in this" / "Is there meat in this? I'm a vegetarian")
 * Phrases to start and end a meal in a home/restaurant, if any (e.g. "Bon Appetit"..."That was delicious"..."Gochisosama")

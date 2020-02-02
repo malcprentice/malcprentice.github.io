@@ -10,7 +10,7 @@
 ** Don't steal images! Use these [[Resources - sources of free images and clipart]]
 * Use bullet points to make the arrangement clear
 ** Follow outline rules
-** e.g. no lonely points - each level must have 2+ points
+** e.g. no lonely points - each level must have 2+  points
 * Put references on the slide, but don't let them get in the way
 ** Put them on a different line
 ** Put them at the bottom

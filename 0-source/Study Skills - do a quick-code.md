@@ -25,7 +25,7 @@ We will use one coding website to solve some easy problems in English. Why?
 * Advanced: Click "Competition" and try the Euler problems
 3) Choose and solve some problems.
 4) If you can't do it
-* Google the topic ("How to use a C++ dictionary")
+* Google the topic ("How to use a C++  dictionary")
 * Ask a friend
 * Read the discussions
 5) Choose one interesting problem. How did it go? Make a sentence for your log

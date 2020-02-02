@@ -138,7 +138,7 @@ If >7 authors, list the FIRST SIX authors, three dots, and the LAST author. No "
 2 authors 		|cite both EVERY TIME 							|(First & Second, 2013)
 3-5 authors 	|cite in normal way the FIRST TIME 				|(First, Second, Third, Fourth, & Fifth, 2013)
 3-5 authors 	|use short "et al." version SECOND TIME ONWARDS |(First et al., 2013)
-6+ authors 		|use short version EVERY TIME  					|(First et al., 2013)
+6+  authors 		|use short version EVERY TIME  					|(First et al., 2013)
 
 
 <red>Careful!</red> ("et al<red>.</red>", not "et al")
@@ -174,7 +174,7 @@ Imagine you wanted to cite the front page of this website: http://www.qub.ac.uk/
 However, the web page is down, or gone, or changed (which happens a lot with the front page of websites). If you give the date, then
 
 1) Waybackmachine has an archive: https://web.archive.org/web/20160602044625/http://www.qub.ac.uk/
-2)  Google Cache also has a version: http://webcache.googleusercontent.com/search?q=cache:YG-g-gATZgsJ:www.qub.ac.uk/+&cd=1&hl=en&ct=clnk&gl=jp
+2)  Google Cache also has a version: http://webcache.googleusercontent.com/search?q=cache:YG-g-gATZgsJ:www.qub.ac.uk/+ &cd=1&hl=en&ct=clnk&gl=jp
 
 That way people can use the cache or the wayback machine to access it.
 

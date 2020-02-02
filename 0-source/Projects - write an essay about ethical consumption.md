@@ -12,7 +12,7 @@
 ### Ask your partner these questions.
 How often is the answer "I don't know"?
 * Were your clothes made by children?
-* Do the eggs you eat come from a happy chicken? https://www.google.co.jp/search?q=free+range+chicken&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjn_9yU4JzMAhVhxqYKHfcVBPAQ_AUIBygB&biw=1366&bih=669
+* Do the eggs you eat come from a happy chicken? https://www.google.co.jp/search?q=free+ range+ chicken&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjn_9yU4JzMAhVhxqYKHfcVBPAQ_AUIBygB&biw=1366&bih=669
 * Was your phone made in a safe factory?
 * Were your cosmetics tested on animals?
 * Is there palm oil in your toothpaste?

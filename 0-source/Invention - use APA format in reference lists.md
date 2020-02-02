@@ -74,7 +74,7 @@ These bulletins of a Japanese university department: https://ja.wikipedia.org/wi
 * Give university name, as there might be more than one journal with that name and it might not be easy to find online.
 
 <ref>
-Author, Y. (Year). Article title. _University Name + Department Name + Journal Name, volume_ (issue), page.
+Author, Y. (Year). Article title. _University Name +  Department Name +  Journal Name, volume_ (issue), page.
 
 Brown, M., & Smith, P. (2010). How to cite an article from a journal or magazine in your reference list. <em>Soka University Department of English Journal of Writing, 3</em>(4), 221-256.
 </ref>

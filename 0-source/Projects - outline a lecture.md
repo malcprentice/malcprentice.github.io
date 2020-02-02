@@ -97,7 +97,7 @@ You do not usually quote lectures, so you do not need to copy every word.
 	"is not"	|	≠
 	"causes"	|	--->
 	"number"	|	# 
-	"and"		|	+
+	"and"		|	+ 
 
 ## Mind maps or Outlines?
 Outlines are better for reading.	|Maps are better for lectures,
@@ -110,7 +110,7 @@ Outlines are also for PLANNING essays.	|Maps are also good for GETTING IDEAS for
 2) Take notes in the right hand box
 3) After class/lecture, write keywords to the left
 4) After class lecture, write a summary in the middle
-5) For my class, dont forget questions + APA (add them to the summary box.
+5) For my class, dont forget questions +  APA (add them to the summary box.
 6) Review: cover the middle and try to remember using the left column
 7) For more info, see http://lsc.sas.cornell.edu/Sidebars/Study_Skills_Resources/cornellsystem.pdf
 

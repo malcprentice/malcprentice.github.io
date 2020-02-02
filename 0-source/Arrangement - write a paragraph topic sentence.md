@@ -21,7 +21,7 @@ This paragraph			|looks at		|some problems caused by X 		|
 This paragraph			|argues			|that the best way to X is 		|for three reasons - 1, 2, and 3.
 						|proposes		|that the best X is Y			|
 						|suggests		|that X is better than Y 		|
-						|VERB+ why		|X should Y						|
+						|VERB+  why		|X should Y						|
 						|compares		|X and Y						|
 						|contrasts		|X with Y						|
 

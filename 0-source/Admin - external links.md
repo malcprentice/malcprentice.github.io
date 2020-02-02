@@ -85,7 +85,7 @@ toeflpractice.ets.org: http://toeflpractice.ets.org/
 typingclub.com: http://typingclub.com/
 unhabitat.org: http://unhabitat.org/about-us/un-habitat-at-a-glance/
 video.nationalgeographic.com: http://video.nationalgeographic.com/video/travel
-ebcache.googleusercontent.com: http://webcache.googleusercontent.com/search?q=cache:YG-g-gATZgsJ:www.qub.ac.uk/+&cd=1&hl=en&ct=clnk&gl=jp
+ebcache.googleusercontent.com: http://webcache.googleusercontent.com/search?q=cache:YG-g-gATZgsJ:www.qub.ac.uk/+
 hatjapanthinks.com: http://whatjapanthinks.com
 hc.unesco.org: http://whc.unesco.org/en/criteria/
 hc.unesco.org: http://whc.unesco.org/en/statesparties/g
@@ -356,6 +356,7 @@ quizlet.com: https://quizlet.com/
 scholar.google.co.jp: https://scholar.google.co.jp/
 scholar.google.com: https://scholar.google.com/
 scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+penguin+warming+ocean&btnG=
+scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+
 simple.wikipedia.org: https://simple.wikipedia.org/wiki/Venn_diagram
 thenounproject.com: https://thenounproject.com/
 traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/delay_certificate/
@@ -386,14 +387,14 @@ flixbus.com: https://www.flixbus.com/
 futurelearn.com: https://www.futurelearn.com/courses/corpus-linguistics
 google.co.jp: https://www.google.co.jp/flights/#
 google.co.jp: https://www.google.co.jp/ime/furikku/
-google.co.jp: https://www.google.co.jp/search?q=free+range+chicken&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjn_9yU4JzMAhVhxqYKHfcVBPAQ_AUIBygB&biw=1366&bih=669
-google.co.jp: https://www.google.co.jp/search?q=weekly+timetable&newwindow=1&biw=1068&bih=1297&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj2pPmQyOnKAhXJE5QKHXyHC-EQsAQIGg#
+google.co.jp: https://www.google.co.jp/search?q=free+
+google.co.jp: https://www.google.co.jp/search?q=weekly+
 google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiHv96Gm5XNAhVCIqYKHZhtBLwQFggcMAA&url=https%3A%2F%2Fumanitoba.ca%2Ffaculties%2Fengineering%2Fdepartments%2Fmechanical%2Fpdf%2FNEW-Citing-IEEE-2013.pdf&usg=AFQjCNEFqzDZcGGWW9nEH5csVl1S4QoH_A&sig2=Kw4siqtjAM86WPOJn54FGA
 google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj28cOdv8_WAhWHG5QKHcVnAYMQjBAIMzAB&url=https%3A%2F%2Fowl.english.purdue.edu%2Fowl%2Fresource%2F560%2F18%2F&usg=AOvVaw3oP7lRnREgxXz0iMnZZTZG
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=book&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fc
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=volunteering&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=flickr.com&safe=images&tbs=sur:fc
-google.com: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+ngo%22+japan&oq=%22amazon+ngo%22+japan
-google.com: https://www.google.com/search?client=safari&rls=en&q=amazon+%22ngo+japan%22
+google.com: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+
+google.com: https://www.google.com/search?client=safari&rls=en&q=amazon+
 gov.uk: https://www.gov.uk/foreign-travel-advice
 grammarly.com: https://www.grammarly.com/plagiarism-checker
 hackerearth.com: https://www.hackerearth.com/
@@ -431,7 +432,7 @@ tripadvisor.com: https://www.tripadvisor.com/
 udacity.com: https://www.udacity.com/
 verbling.com: https://www.verbling.com/
 volunteerworld.com: https://www.volunteerworld.com
-volunteerworld.com: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+Animals
+volunteerworld.com: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+
 worldnomads.com: https://www.worldnomads.com/
 youtube.com: https://www.youtube.com/user/CGPGrey
 youtube.com: https://www.youtube.com/user/crashcourse

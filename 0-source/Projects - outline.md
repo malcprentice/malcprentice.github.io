@@ -178,7 +178,7 @@ Outlines should be FAST to write and FAST to read:
  < 	|less than
  n/a |Not applicable
  wo |without
- + 	|and/plus
+ +  	|and/plus
  ~ 	|about
  / 	|or
 

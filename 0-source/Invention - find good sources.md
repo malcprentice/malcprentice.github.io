@@ -28,7 +28,7 @@ Are mostly:
 Are different and more difficult. 
 I don't expect your to read these for your essay, but use them if you have read something useful (even in Japanese) for other courses:
 * Academic articles
-** Try Google Scholar (English or Japanese): https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+penguin+warming+ocean&btnG=
+** Try Google Scholar (English or Japanese): https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+ penguin+ warming+ ocean&btnG=
 ** Try a normal Google search for the topic, but add "site:.ac.jp" "site:.ac.uk" or "site:.edu"
 ** Try CiNii (mostly Japanese): http://ci.nii.ac.jp/ja
 * Academic books
@@ -72,8 +72,8 @@ Normal Google web search is full of rubbish. Narrow it down:
 ** Galapagos penguin warming ocean
 ** Syrian Refugee destruction of hospitals
 * Use quotes to get an exact phrase search: - it can be different: 
-** amazon "ngo japan": https://www.google.com/search?client=safari&rls=en&q=amazon+%22ngo+japan%22
-** "amazon ngo" japan: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+ngo%22+japan&oq=%22amazon+ngo%22+japan
+** amazon "ngo japan": https://www.google.com/search?client=safari&rls=en&q=amazon+ %22ngo+ japan%22
+** "amazon ngo" japan: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+ ngo%22+ japan&oq=%22amazon+ ngo%22+ japan
 * Use dates under "Search Tools" to find recent news/articles
 * Click “News” and choose a good recent news article
 * Use Google Scholar instead (Japanese OK): https://scholar.google.com/

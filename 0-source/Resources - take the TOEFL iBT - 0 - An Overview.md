@@ -22,7 +22,7 @@ TOEFLiBT    |TOEFL CBT  |TOEFL PBT      |TOEIC
 * Less Listenings 
 ** (3-4 lectures, not 4-6, same number of questions each)
 ** No change to conversations
-* 4 speaking tasks (1 independent,  3 integrated), rather than six (2+4)
+* 4 speaking tasks (1 independent,  3 integrated), rather than six (2+ 4)
 ** Removed Independent question # 1 (express a personal preference)  - only paired choice  type left
 ** Removed old integrated question # 5 (campus situation; problem/solution) - only integrated lecture left
 * No change to writing section
@@ -53,10 +53,10 @@ Independent Writing     |30 mins        |Write                                  
 * Check your score breakdown, and work on your weakness
 
 # What score do I need?
-|Study abroad English program       |0+
+|Study abroad English program       |0+ 
 |Soka University Exchange program   |79
 |Average US undergraduate degree    |74 (60-100 depending on University)
-|Average US graduate degree         |83 (But expect 100+ for a good university)
+|Average US graduate degree         |83 (But expect 100+  for a good university)
 |UK degrees                         |TOEFL iBT not accepted. Take IELTS http://www.eiken.or.jp/ielts/en/
 
 * Usually, there are also section minimums e.g. "100, with 23 on the speaking section and 21 on other sections"

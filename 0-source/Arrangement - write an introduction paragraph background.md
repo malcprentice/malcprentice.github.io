@@ -19,7 +19,7 @@ Type: 			|Example
 "Most":			|Most people use X every day.
 Number:			|Three million tons of X are used every day (Smith, 1999).
 Quote:			|According to the WWF (2013) the world today is "addicted to oil".
-List:           |1, 2, 3, and 4 are all products commonly use in Japan. (+SB "All of these")
+List:           |1, 2, 3, and 4 are all products commonly use in Japan. (+ SB "All of these")
 
 
 
@@ -43,11 +43,11 @@ A question 			|"Have you ever wondered where geniuses get their ideas?"	|No talk
 ### Recommended SB phrases
  Type					| Example
 ------------------------|-------------------
-One of the most + ADJ	|One of the most endangered animals is the Harp Seal, which
+One of the most +  ADJ	|One of the most endangered animals is the Harp Seal, which
 The most 				|The most common type of Tuna is Bluefin, which...
 particularly			|Plastic bags are a particularly harmful kind of waste.
 especially 				|Harp Seals, which live in Tokyo, are especially endangered.
-FOllowing a list        |(GB 1, 2, 3 and 4 are ")+ "All of these are ..."
+FOllowing a list        |(GB 1, 2, 3 and 4 are ")+  "All of these are ..."
 Use a partition 		| [[Style - write a partition sentence]]
 
 ## 3) IB - Importance background

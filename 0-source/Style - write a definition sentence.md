@@ -1,7 +1,7 @@
 # What is a definition?
 The category of your topic (a "classification"), and one unique feature.
 
-TOPIC+BE+CATEGORY+UNIQUE DETAIL
+TOPIC+ BE+ CATEGORY+ UNIQUE DETAIL
 TERM			|is/are				|CATEGORY				|LINK  					|are more or less unique in some way
 ----------------|-------------------|-----------------------|-----------------------|---------
 Crabs			|are 				|large crustaceans		|which					|walk sideways
@@ -37,7 +37,7 @@ Happiness 		|is operationalised as 	|balance between positive and negative emoti
 ### Want more examples?
 Look at the first sentence of any Wikipedia article - it is a definition.
 
-topic 			|+BE 				|CATEGORY 				|CONNECT 				|UNIQUE POINT
+topic 			|+ BE 				|CATEGORY 				|CONNECT 				|UNIQUE POINT
 ----------------|-------------------|-----------------------|-----------------------|-------------------------
 Gold 			|is a 				|chemical element 		|with 					|symbol Au and atomic number 79.
 Paper 			|is a 				|thin material 			|produced by 			|pressing together moist fibres of cellulose pulp

@@ -37,25 +37,25 @@ There are two basic types
 * (TEMPLATE for criteria-analysis presentation.pptx)
 
 ### 12 slide pattern
-+Title Slides
-+Overview slide
-++This is equivalent to your Intro paragraph
-++SPEAK your GB, SB, IB 
-++SPEAK your thesis statement, don't write it
-++Bullet points for your three criteria and your analysis target(s)
-++A good figure
-+Optional slide: Description 
-++(if you need more space for description)
-++general topic only: definition, partition, comparison, process
-+Criterion 1 (3 bulleted keywords and a figure)
-+Criterion 2 (3 bulleted keywords and a figure) 
-+Criterion 3 (3 bulleted keywords and a figure)
-+Analysis 1 (3 bulleted keywords and a figure)
-+Analysis 2 (3 bulleted keywords and a figure)
-+Analysis 3 (3 bulleted keywords and a figure)
-+"Conclusion"
-+Optional slide "Discussion questions"
-+"References"
++ Title Slides
++ Overview slide
+++ This is equivalent to your Intro paragraph
+++ SPEAK your GB, SB, IB 
+++ SPEAK your thesis statement, don't write it
+++ Bullet points for your three criteria and your analysis target(s)
+++ A good figure
++ Optional slide: Description 
+++ (if you need more space for description)
+++ general topic only: definition, partition, comparison, process
++ Criterion 1 (3 bulleted keywords and a figure)
++ Criterion 2 (3 bulleted keywords and a figure) 
++ Criterion 3 (3 bulleted keywords and a figure)
++ Analysis 1 (3 bulleted keywords and a figure)
++ Analysis 2 (3 bulleted keywords and a figure)
++ Analysis 3 (3 bulleted keywords and a figure)
++ "Conclusion"
++ Optional slide "Discussion questions"
++ "References"
 
 
 # Arrangement for Essay
@@ -70,123 +70,123 @@ There are two basic types
 *** If your Intro/criteria paragraphs are too long, use it
 *** If not, delete it!
 
-+Intro
-++[[Arrangement - write an introduction paragraph background]]
-+++General background (e.g. Fukushima disaster)
-+++Specific background (e.g. robots to enter radioactive areas)
-+++Importance background (e.g. Can't waste time/money/lives)
-++Any other description needed to understand topic
-+++e.g. partition, definition, comparison, process
-+++see previous essays for how to write these sentences
-+++DO NOT NAME YOUR ANALYSIS TARGET(s) YET!  
-++[[Arrangement - write an introduction thesis statement]] 
-+++THREE things version: "This essay first outlines the three most important criteria for choosing an X, then critically analyses three TOPICS in terms of those criteria."
-+++ONE thing version: "This essay first outlines the three most important criteria for choosing an X, then describes and critically analyses one specific TOPIC in terms of those criteria."
-+__Criteria__ (Subheading)
-++Paragraph 1
-+++Thesis statement for section (e.g. "There are three criteria which are important to consider when choosing a robot/volunteer experience - 1, 2, and 3.")
-+++Topic sentence for paragraph ("The first criterion is") 
-+++Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) orWhat good/bad thing happens when it is/is not there? (Cause/Effect)
-+++Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis"
-++Paragraph 2
-+++Thesis statement for section (e.g. "There are three criteria which are important to consider when Xing - 1, 2, and 3.")
-+++Topic sentence for paragraph ("The second criterion is") 
-+++Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) or What good/bad thing happens when it is/is not there? (Cause/Effect)
-+++Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis" 
-++Paragraph 3
-+++Thesis statement for section (e.g. "There are three criteria which are important to consider when Xing - 1, 2, and 3.")
-+++Topic sentence for paragraph ("The final criterion is") 
-+++Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) or What good/bad thing happens when it is/is not there? (Cause/Effect)
-+++Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis" 
-++SUMMARY of criteria 1, 2, and 3 ("In summary, there are three criteria, of which the most important is KEYWORD")
-++LINK to Section 2 
-+++ONE THING VERSION: "The next paragraph describes and then analyses one X in using these three criteria." (Volunteer)
-+++THREE THINGS VERSION: "The next paragraph describes and then analyses three Xs in using these three criteria." (Robot)
-+__Analysis__ (Subheading)
-++Paragraph 1 - Section Thesis statement + Analysis of 1
-++Paragraph 2 - Analysis of 2
-++Paragraph 3 - Analysis of 3 + Section Summary
-+__Conclusion__ (Subheading)
-++Topic sentence for conclusion
-+++ONE THING VERSION: "This essay first outlined three criteria to keep in mind when choosing an X, then analysed one X - NAME -  in terms of those criteria.) 
-+++THREE THINGS VERSION "This essay first outlined three criteria to keep in mind when choosing an X, then analysed three Xs in terms of those criteria.) 
-++Summary of criteria ("There were three criteria - 1, 2, and 3 – of which the most important was 2.")
-++Summary of analysis = final comment 1
-+++EITHER yes/no recommendation (In conclusion students should not Y)
-+++OR choice "In conclusion the best X is Y" / "there is no good X") 
-++Final Comment 2
-+++Be more general - you've already given a specific recommendation
-+++e.g. in general, what is most important when choosing an organisation/robot
-+++e.g. even more generally, should we be volunteering/using this thing at all? IS there something we need to think about before we even start looking at criteria?
++ Intro
+++ [[Arrangement - write an introduction paragraph background]]
++++ General background (e.g. Fukushima disaster)
++++ Specific background (e.g. robots to enter radioactive areas)
++++ Importance background (e.g. Can't waste time/money/lives)
+++ Any other description needed to understand topic
++++ e.g. partition, definition, comparison, process
++++ see previous essays for how to write these sentences
++++ DO NOT NAME YOUR ANALYSIS TARGET(s) YET!  
+++ [[Arrangement - write an introduction thesis statement]] 
++++ THREE things version: "This essay first outlines the three most important criteria for choosing an X, then critically analyses three TOPICS in terms of those criteria."
++++ ONE thing version: "This essay first outlines the three most important criteria for choosing an X, then describes and critically analyses one specific TOPIC in terms of those criteria."
++ __Criteria__ (Subheading)
+++ Paragraph 1
++++ Thesis statement for section (e.g. "There are three criteria which are important to consider when choosing a robot/volunteer experience - 1, 2, and 3.")
++++ Topic sentence for paragraph ("The first criterion is") 
++++ Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) orWhat good/bad thing happens when it is/is not there? (Cause/Effect)
++++ Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis"
+++ Paragraph 2
++++ Thesis statement for section (e.g. "There are three criteria which are important to consider when Xing - 1, 2, and 3.")
++++ Topic sentence for paragraph ("The second criterion is") 
++++ Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) or What good/bad thing happens when it is/is not there? (Cause/Effect)
++++ Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis" 
+++ Paragraph 3
++++ Thesis statement for section (e.g. "There are three criteria which are important to consider when Xing - 1, 2, and 3.")
++++ Topic sentence for paragraph ("The final criterion is") 
++++ Detail on criterion (2-3 sentence Description) e.g. Why is this criterion important? (Argument) or What good/bad thing happens when it is/is not there? (Cause/Effect)
++++ Practical Measurement:  How can it be measured? (e.g. check website, read report, search blogs) - See "Style for analysis" 
+++ SUMMARY of criteria 1, 2, and 3 ("In summary, there are three criteria, of which the most important is KEYWORD")
+++ LINK to Section 2 
++++ ONE THING VERSION: "The next paragraph describes and then analyses one X in using these three criteria." (Volunteer)
++++ THREE THINGS VERSION: "The next paragraph describes and then analyses three Xs in using these three criteria." (Robot)
++ __Analysis__ (Subheading)
+++ Paragraph 1 - Section Thesis statement +  Analysis of 1
+++ Paragraph 2 - Analysis of 2
+++ Paragraph 3 - Analysis of 3 +  Section Summary
++ __Conclusion__ (Subheading)
+++ Topic sentence for conclusion
++++ ONE THING VERSION: "This essay first outlined three criteria to keep in mind when choosing an X, then analysed one X - NAME -  in terms of those criteria.) 
++++ THREE THINGS VERSION "This essay first outlined three criteria to keep in mind when choosing an X, then analysed three Xs in terms of those criteria.) 
+++ Summary of criteria ("There were three criteria - 1, 2, and 3 – of which the most important was 2.")
+++ Summary of analysis = final comment 1
++++ EITHER yes/no recommendation (In conclusion students should not Y)
++++ OR choice "In conclusion the best X is Y" / "there is no good X") 
+++ Final Comment 2
++++ Be more general - you've already given a specific recommendation
++++ e.g. in general, what is most important when choosing an organisation/robot
++++ e.g. even more generally, should we be volunteering/using this thing at all? IS there something we need to think about before we even start looking at criteria?
 
   
 # Arrangement for Analysis - options
 Above, you can see 
-+__Analysis__ (Subheading)
-++Paragraph 1 - Section Thesis statement + Analysis of 1
-++Paragraph 2 - Analysis of 2
-++Paragraph 3 - Analysis of 3 + Section Summary
++ __Analysis__ (Subheading)
+++ Paragraph 1 - Section Thesis statement +  Analysis of 1
+++ Paragraph 2 - Analysis of 2
+++ Paragraph 3 - Analysis of 3 +  Section Summary
 
 There is no detail, because there are several options:
 
 ## Option 1: three things, organised by thing
-++Paragraph 1 - Analysis of 1
-+++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
-+++Topic sentence for paragraph ("The first X is  1")
-+++Quick description of thing 1 (optional)
-+++Analysis of thing 1 in terms of criterion 1
-+++Analysis of thing 1 in terms of criterion 2
-+++Analysis of thing 1 in terms of criterion 3
-++Paragraph 2 - Analysis of 2
-+++Topic sentence for paragraph ("The second X is  2")
-+++Quick description of thing 2 (optional)
-+++Analysis of thing 2 in terms of criterion 1
-+++Analysis of thing 2 in terms of criterion 2
-+++Analysis of thing 2 in terms of criterion 3
-++Paragraph 3 - Analysis of 3
-+++Topic sentence for paragraph ("The final X is 3")
-+++Quick description of thing 3 (optional)
-+++Analysis of thing 3 in terms of criterion 1
-+++Analysis of thing 3 in terms of criterion 2
-+++Analysis of thing 3 in terms of criterion 3
+++ Paragraph 1 - Analysis of 1
++++ THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
++++ Topic sentence for paragraph ("The first X is  1")
++++ Quick description of thing 1 (optional)
++++ Analysis of thing 1 in terms of criterion 1
++++ Analysis of thing 1 in terms of criterion 2
++++ Analysis of thing 1 in terms of criterion 3
+++ Paragraph 2 - Analysis of 2
++++ Topic sentence for paragraph ("The second X is  2")
++++ Quick description of thing 2 (optional)
++++ Analysis of thing 2 in terms of criterion 1
++++ Analysis of thing 2 in terms of criterion 2
++++ Analysis of thing 2 in terms of criterion 3
+++ Paragraph 3 - Analysis of 3
++++ Topic sentence for paragraph ("The final X is 3")
++++ Quick description of thing 3 (optional)
++++ Analysis of thing 3 in terms of criterion 1
++++ Analysis of thing 3 in terms of criterion 2
++++ Analysis of thing 3 in terms of criterion 3
 
 ## Option 2: three things, organised by criteria
-++Paragraph 1 - Analysis of 1
-+++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
-+++Quick description of three things
-+++Topic sentence for paragraph ("The first criterion is  1")
-+++Analysis of thing 1 in terms of criterion 1
-+++Analysis of thing 2 in terms of criterion 1
-+++Analysis of thing 3 in terms of criterion 1
-++Paragraph 2 - Analysis of 2
-+++Topic sentence for paragraph ("The second criterion is  2")
-+++Analysis of thing 1 in terms of criterion 2
-+++Analysis of thing 2 in terms of criterion 2
-+++Analysis of thing 3 in terms of criterion 2
-++Paragraph 3 - Analysis of 3
-+++Topic sentence for paragraph ("The final criterion is 3")
-+++Analysis of thing 1 in terms of criterion 3
-+++Analysis of thing 2 in terms of criterion 3
-+++Analysis of thing 3 in terms of criterion 3
+++ Paragraph 1 - Analysis of 1
++++ THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
++++ Quick description of three things
++++ Topic sentence for paragraph ("The first criterion is  1")
++++ Analysis of thing 1 in terms of criterion 1
++++ Analysis of thing 2 in terms of criterion 1
++++ Analysis of thing 3 in terms of criterion 1
+++ Paragraph 2 - Analysis of 2
++++ Topic sentence for paragraph ("The second criterion is  2")
++++ Analysis of thing 1 in terms of criterion 2
++++ Analysis of thing 2 in terms of criterion 2
++++ Analysis of thing 3 in terms of criterion 2
+++ Paragraph 3 - Analysis of 3
++++ Topic sentence for paragraph ("The final criterion is 3")
++++ Analysis of thing 1 in terms of criterion 3
++++ Analysis of thing 2 in terms of criterion 3
++++ Analysis of thing 3 in terms of criterion 3
  
 ## Option 3: one thing, organised by criteria
-++Paragraph 1 - Analysis by criterion 1
-+++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
-+++Quick description of three things
-+++Topic sentence for paragraph ("The first criterion is  1")
-+++Analysis of thing 1 in terms of criterion 1
-+++More Analysis of thing 1 in terms of criterion 1
-+++More Analysis of thing 1 in terms of criterion 1
-++Paragraph 2 - Analysis by criterion 2
-+++Topic sentence for paragraph ("The second criterion is  2")
-+++Analysis of thing 2 in terms of criterion 2
-+++More Analysis of thing 2 in terms of criterion 2
-+++More Analysis of thing 2 in terms of criterion 2
-++Paragraph 3 - Analysis by criterion 3
-+++Topic sentence for paragraph ("The final criterion is 3")
-+++Analysis of thing 3 in terms of criterion 3
-+++More Analysis of thing 3 in terms of criterion 3
-+++More Analysis of thing 3 in terms of criterion 3
+++ Paragraph 1 - Analysis by criterion 1
++++ THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
++++ Quick description of three things
++++ Topic sentence for paragraph ("The first criterion is  1")
++++ Analysis of thing 1 in terms of criterion 1
++++ More Analysis of thing 1 in terms of criterion 1
++++ More Analysis of thing 1 in terms of criterion 1
+++ Paragraph 2 - Analysis by criterion 2
++++ Topic sentence for paragraph ("The second criterion is  2")
++++ Analysis of thing 2 in terms of criterion 2
++++ More Analysis of thing 2 in terms of criterion 2
++++ More Analysis of thing 2 in terms of criterion 2
+++ Paragraph 3 - Analysis by criterion 3
++++ Topic sentence for paragraph ("The final criterion is 3")
++++ Analysis of thing 3 in terms of criterion 3
++++ More Analysis of thing 3 in terms of criterion 3
++++ More Analysis of thing 3 in terms of criterion 3
 
 # Style 
 ## Style for criteria
@@ -241,7 +241,7 @@ This is NOT like when you [[Arrangement - write a compare-contrast]]
 criteria-analysis 										|Compare contrast
 ---------------------------------------------------------|-----------------------
 1-3 items analysed										|2 items compares
-8 paragraph sectional essay///Intro+3 criterion+3 analysis+conclusion |4-5 paragraphs:///Intro-thing1-thing2-conclusion///OR///Intro-topic1-topic2-topic3-conclusion
+8 paragraph sectional essay///Intro+ 3 criterion+ 3 analysis+ conclusion |4-5 paragraphs:///Intro-thing1-thing2-conclusion///OR///Intro-topic1-topic2-topic3-conclusion
 Things being analysed not mentioned until paragraph 4 	|Thing being analysed mentioned in paragraph 1, and maybe topic of paragraph 2
 
 ## Criteria should stand alone

@@ -6,7 +6,7 @@ Areas 						|THere are two main cotton producing areas - Shikoku and Kazakhstan 
 
 # Style: Useful patterns
 ### Option 1: "There are"
-There are 	|NUMBER kinds of 	|TOPIC 					|COMMA/HYPHEN/COLON + LIST    	|Optional Comment
+There are 	|NUMBER kinds of 	|TOPIC 					|COMMA/HYPHEN/COLON +  LIST    	|Optional Comment
 ------------|-------------------|---------------		|------------------------------	|
 There are  	|many kinds of 		|Japanese dog 			|, including Shiba and Akita 	|. (no comment) 
 There are	|hundreds of 		|crab species			|, including rock and spider 	|. This topic was chosen because
@@ -17,7 +17,7 @@ There are  	|two main kinds of 	|Japanese dog			|- Shiba and Akita 				|- of whi
 There are 	|hundreds of types of |Beetle 				|, including Stag and kuwagata,   	|but this essay concentrates on the dung beetle.
 
 ### Option 2: "The"	
-There are 	|NUMBER kinds of 	|TOPIC 			|COMMA/HYPHEN/COLON + LIST 				|Optional Comment
+There are 	|NUMBER kinds of 	|TOPIC 			|COMMA/HYPHEN/COLON +  LIST 				|Optional Comment
 ------------|-------------------|---------------|---------------------------------------|-----------------------
 The   		|two main kinds of 	|Japanese dog	|are Shiba and Akita 					|, and of these the most common is the Akita.
 The  		|most common 		|Japanese dogs 	|are the Shiba and the Akita 			|of which X is the most Y, and the topic of this essay.
@@ -26,7 +26,7 @@ The  		|two kinds of 		|diamond 		|discussed are conflict free, and blood diamon
 The 		|three main 		|conflict minerals |described here are Nickel, Cadmium, and Tantalum. |Of these, Tantalum is the worst, and so was chosen...
 
 ### Option 3: For longer lists or special types of category
-division	|verb					|number		|split type				|COMMA/HYPHEN/COLON + LIST
+division	|verb					|number		|split type				|COMMA/HYPHEN/COLON +  LIST
 ------------|-----------------------|-----------|-----------------------|------
 X 			|can be divided into 	|7 			|types					|- 1, 2, 3, 4, 5, 6 and 7.
 X			|can be split into		|four 		|kinds based on colour	|- red, green, blue, and pink

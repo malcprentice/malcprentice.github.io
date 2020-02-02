@@ -6,23 +6,23 @@ Follow this pattern
 * No more than 1-2 sentences of each
 * Don't forget the citations
 
-+Description paragraph arrangement
-++[[Arrangement - write a paragraph topic sentence]]
-++Definition OR Partition (not both) (one sentence)
-+++[[Style - write a definition sentence]]
-+++[[Style - write a partition sentence]] 
-++Comparison OR Time Order (not both) (one or two sentences)
-+++[[Style - write a compare-contrast sentence]] 
-+++[[Style - write a time-order sentence]]
-++[[Arrangement - write a detail sentence]] 
-+++unrelated to "problems" is OK
-+++just an interesting fact is OK
-+++if you haven't already used them, compare contrast or time order are OK. 
-++[[Arrangement - write a detail sentence]] with a number
-+++related to the topic. Give a number.
-+++e.g. how many of endangered animal left
-+++e.g. how many tonnes of unethical product is produced
-++[[Arrangement - write a paragraph summary-link]]. Link only! No summary. 
++ Description paragraph arrangement
+++ [[Arrangement - write a paragraph topic sentence]]
+++ Definition OR Partition (not both) (one sentence)
++++ [[Style - write a definition sentence]]
++++ [[Style - write a partition sentence]] 
+++ Comparison OR Time Order (not both) (one or two sentences)
++++ [[Style - write a compare-contrast sentence]] 
++++ [[Style - write a time-order sentence]]
+++ [[Arrangement - write a detail sentence]] 
++++ unrelated to "problems" is OK
++++ just an interesting fact is OK
++++ if you haven't already used them, compare contrast or time order are OK. 
+++ [[Arrangement - write a detail sentence]] with a number
++++ related to the topic. Give a number.
++++ e.g. how many of endangered animal left
++++ e.g. how many tonnes of unethical product is produced
+++ [[Arrangement - write a paragraph summary-link]]. Link only! No summary. 
 
 
 # Examples

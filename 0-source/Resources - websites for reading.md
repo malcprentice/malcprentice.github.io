@@ -18,5 +18,5 @@ List of free graded readers: http://www.how-to-learn-any-language.com/forum/foru
 * Readsy: http://www.readsy.com
 # Mobile Apps
 * Duolingo: https://www.duolingo.com/ (Web/iPhone/Android) - Spanish/French/Italian/German/Portuguese
-* Memrise: http://www.memrise.com/ (iOS+Web) - Various Languages
+* Memrise: http://www.memrise.com/ (iOS+ Web) - Various Languages
 * Busuu: https://busuu.com/enc/ (Web/iPhone/Android) - Various Languages

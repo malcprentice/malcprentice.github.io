@@ -28,7 +28,7 @@ It's safer just to avoid "we" and "you" completely. Use passive, third person, "
 
 # Do not use digits under 10
 * Use words for 1-9  ("one two three")
-* Use numbers for 10+ ("10, 11, 12")
+* Use numbers for 10+  ("10, 11, 12")
 
 However
 * If the number starts a sentence, use "Twelve" or "Around 12"

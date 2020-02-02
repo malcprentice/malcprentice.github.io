@@ -58,7 +58,7 @@ Long materials (e.g. a 6 page questionnaire) goes in an appendix.
 ### USeful language
 "First, an appointment was made...
 "At the beginning of the interview,"
-"Next, "+ ethics, purpose, etc. 
+"Next, "+  ethics, purpose, etc. 
 "Then" 
 "After that."
 "After the interview"

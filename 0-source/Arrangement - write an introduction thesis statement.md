@@ -20,7 +20,7 @@ If your essay is _over five_ paragraphs:
 # Thesis Statement = "Topic", "Main Idea" and "Keyword"
 Topic 		|NAME the topic of your essay 			|(Giant Pandas, Paper, an NGO name)
 Main Idea 	|What are you trying to say about it. 	        |comparing it to something? Arguing it is the best? Describing problems?)
-keywords 	|one word/phrase per paragraphs 		|food+air+water, step 1+step2+step3, reason+reason2+reason3
+keywords 	|one word/phrase per paragraphs 		|food+ air+ water, step 1+ step2+ step3, reason+ reason2+ reason3
 
 Keywords are tricky - see [[Style - use keywords]]
 

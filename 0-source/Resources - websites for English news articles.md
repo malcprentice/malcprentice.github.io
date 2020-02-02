@@ -8,7 +8,7 @@
 * News in Levels: http://www.newsinlevels.com/
 ** Level 1 = Vocab list 1-3
 ** Level 2 = Vocab list 1-6
-** Level 3 = All lists+
+** Level 3 = All lists+ 
 
 # Japanese
 * NHK World http://www3.nhk.or.jp/nhkworld/

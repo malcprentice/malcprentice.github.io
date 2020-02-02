@@ -1,6 +1,6 @@
 # Rules for Japanese sources in references list
 * Author names in romaji
-* Article titles in romaji + translation in SQUARE brackets []
+* Article titles in romaji +  translation in SQUARE brackets []
 ** NO PERIOD between article title and translation
 ** No italics for translations
 * Newspaper/Journal title

@@ -10,13 +10,13 @@ Example						|Key idea 					|COmmon language
 7|I'm playing football		|100% future, "friend future" |definitely
 
 # Question patterns
-1|What 		|NOUN (optional)|are you		|doing  	|+
-2|Where		|				|do you			|do 		|+
-3|When		|				|did you		|do 		|+
-4|Who		|				|have you 		|done		|+
-5|Why		| 				|are you 	 	|doing 		|+
-6|Which		|NOUN (optional)|will you		|do			|+
-7|How		|many///much///often///adjective |are you gonna |do	|+	|+
+1|What 		|NOUN (optional)|are you		|doing  	|+ 
+2|Where		|				|do you			|do 		|+ 
+3|When		|				|did you		|do 		|+ 
+4|Who		|				|have you 		|done		|+ 
+5|Why		| 				|are you 	 	|doing 		|+ 
+6|Which		|NOUN (optional)|will you		|do			|+ 
+7|How		|many///much///often///adjective |are you gonna |do	|+ 	|+ 
 
 # Names
 1) Can you name the tenses in Japanese (think back to JHS)
