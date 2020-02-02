@@ -64,10 +64,9 @@
 
 
 ## Alternative endings
-Summary:                And so, once more.... / To sum up
-                        Don’t forget / Please remember / I hope you
-Prediction:             And so, in the future, we will/should...
-Conclusion:             In conclusion...    /  As you can see, this means....
+|Summary:                And so, once more.... / To sum up  / Don’t forget / Please remember / I hope you
+|Prediction:             And so, in the future, we will/should...
+|Conclusion:             In conclusion...    /  As you can see, this means....
 
 
 ## Referring to slides

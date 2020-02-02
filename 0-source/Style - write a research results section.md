@@ -36,7 +36,6 @@ Results are numbers or words
 |Of the 200,                         |50                         |said they also studied Korean   
 |                                    |. One quarter              |said they also studied Korean
 |                                    |. Around 25%               |said they also studied Korean
-          
 
 ## Give example quotes
 |One student mentioned X, and                            |said that either X or Y. 

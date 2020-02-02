@@ -24,15 +24,14 @@ Bored of "said", "found" and "noted"? Choose another!
 |made the case that      |indicated      |estimated      |asserted   |presented evidence that
 
 ### These verbs have more specific meaning:
-__Two authors agree:__     agreed   confirmed
-__Two authors disagree:__    disagreed  rejected    replied     contradicted
-                                responded   questioned  challenged  answered
-__Author's questions:__     asked, wondered ,questioned whether
-__Author's Suggestions:__   suggested ,advised, proposed ,recommended
-__Author's Predictions:__   predicted, speculated, warned that X will Y
-__Author admitted problems:__    admitted, acknowledged
+|Two authors agree:     |     agreed   confirmed
+|Two authors disagree:  |    disagreed  rejected    replied     contradicted responded   questioned  challenged  answered
+|Author's questions:    |     asked, wondered ,questioned whether
+|Author's Suggestions:  |    suggested ,advised, proposed ,recommended
+|Author's Predictions:  |   predicted, speculated, warned that X will Y
+|Author admits:         |    admitted, acknowledged
 
 ## 3) Do NOT choose these
-__Verbs of opinion:__  e.g. guessed, thought
-__Phrasal verbs:__      e.g. came up with, worked out, found out
-__Slang verbs:__        e.g. reckoned, figured
+|Verbs of opinion:|  e.g. guessed, thought
+|Phrasal verbs:|      e.g. came up with, worked out, found out
+|Slang verbs:|        e.g. reckoned, figured

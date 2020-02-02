@@ -32,6 +32,7 @@ I'm sorry to disagree with you, but...
 I'm afraid I have to disagree. 
 I see what you mean, but...
 It's true that X, however, Y. 
+
 # Agreeing with a negative (I don't think)
 I don't think so either.
 
@@ -41,18 +42,20 @@ I don't think so either.
 * Can you give an example?
 
 # Be careful when agreeing or disagreeing with negative check questions
-__In conversation, sometimes meaning depends on intonation__
+###In conversation, sometimes meaning depends on intonation
+
 We haven’t done quickwrites yet, have we?
 |    No.             |OK                      |AGREE (we haven't)     
 |    No, we haven’t  |OK                      |AGREE (we haven't)
 |    Yes.            |Confusing. Only works with careful intonation    |DISAGREE (we have)
 |    Yes, we have!   |This is only correct with careful intonation    |DISAGREE (we have)
 
-__IN TOEIC tests, it will not be this unclear. __
-Usually they will add more to be clear
-    No, not yet.
-    Yes, we finished them earlier.
-Or they will change the tense or verb to make wrong answers
-    No, we can’t.       (wrong verb)
-    No, we hadn’t.      (wrong tense)   
-    No, they haven’t.   (wrong pronoun)
+##IN TOEIC tests, it will not be this unclear
+*Usually they will add more to be clear
+*No, not yet.
+*Yes, we finished them earlier.
+
+##Or they will change the tense or verb to make wrong answers
+*No, we can’t.       (wrong verb)
+*No, we hadn’t.      (wrong tense)   
+*No, they haven’t.   (wrong pronoun)

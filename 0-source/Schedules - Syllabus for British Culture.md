@@ -255,11 +255,11 @@ Choose topic
 Places (What/where it is, what happened & what we can do now if we go.)
 Stories ( A legend, myth, famous Author +  Story)
 Society (Religion, Education, Gender etc. Choose three topics)
-    Research your topic
+Research your topic
 
-  Essays: check
-    Posters: Practice
-    HW: Rewrite and practice more
+Essays: check
+Posters: Practice
+HW: Rewrite and practice more
 
 ## Class 13. Influence: Introduction to the final project
 Introduction to the Commonwealth, Territories & Dependencies
@@ -271,19 +271,19 @@ e.g. famous tourist sites, stories, social issues, music, food, how to get there
 
 
 ## Class 14. Influence: Share research, practice and check your presentations in small groups.
-  DO: Tell your group about your country
-    Choose Poster Presentation or Essay
-    HW: Do your poster or essay
+DO: Tell your group about your country
+Choose Poster Presentation or Essay
+HW: Do your poster or essay
 ## Class 15. Influence: Present/Submit final project to whole class.
-  Hand in essays.
-    Do last poster presentations
-    Vocab test
-    Notebook Check
-    HW: Research one small area of the UK
+Hand in essays.
+Do last poster presentations
+Vocab test
+Notebook Check
+HW: Research one small area of the UK
 
 
-      Last class.
-    TELL your group about your research on Counties and cities of the UK.
+Last class.
+TELL your group about your research on Counties and cities of the UK.
 
 
 

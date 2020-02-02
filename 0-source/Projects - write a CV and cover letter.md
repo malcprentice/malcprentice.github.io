@@ -1,7 +1,7 @@
 # Warmer Discussion
-    Are you doing job hunting? How is it going?
-    What part time jobs have you had?
-    What job do you want after you graduate?
+Are you doing job hunting? How is it going?
+What part time jobs have you had?
+What job do you want after you graduate?
 
 # Terms
 C.V. or Resume? Which is which?

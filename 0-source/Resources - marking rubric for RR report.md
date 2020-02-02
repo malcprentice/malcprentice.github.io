@@ -11,9 +11,9 @@ Your grade is:
 
 | __Arrangement__ 													|<green>G </green>
 |Correct Topic/Points covered?										|<blue>OK</blue>
-|Enough points to speak for 3-5 minutes?								|<blue>OK</blue>
+|Enough points to speak for 3-5 minutes?							|<blue>OK</blue>
 |Sensible organisation of ideas? 									|<blue>OK</blue>
-|[[Style - write a summary sentence]] which is clear                 |<blue>OK</blue>
+|[[Style - write a summary sentence]] which is clear                |<blue>OK</blue>
 |[[Style - write a response]] which is clear </red>(new)</red>       |<blue>OK</blue>
 
 | __Style__ 															|<green>G </green>

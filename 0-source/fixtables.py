@@ -16,13 +16,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 from os import listdir
 fullpathlist = list()
-txtfolderpath = "/Users/mp/Library/Mobile Documents/com~apple~CloudDocs/malcprentice.github.io/0-source/"
-filelist = listdir(txtfolderpath)
+MDfolderpath = "/Users/mp/Library/Mobile Documents/com~apple~CloudDocs/malcprentice.github.io/0-source/"
+filelist = listdir(MDfolderpath)
 for item in filelist:
-    if item.endswith(".txt") or item.endswith("md"):
-        fullpath = txtfolderpath+item
+    if item.endswith("md"):
+        fullpath = MDfolderpath+item
         fullpathlist.append(fullpath)
-
+#FIX ALL TABLES WITHOUT LEADING |
+"""
 for item in fullpathlist:
     tablefucked = 0
     linelist = list()
@@ -41,6 +42,11 @@ for item in fullpathlist:
         with open(item, "w") as f:
             for line in linelist:
                 f.write(line)
+"""
 
-
+for item in fullpathlist:
+    with open(item, "r") as f:
+        for line in f:
+            if line.startswith("    "):
+                print(item)
 

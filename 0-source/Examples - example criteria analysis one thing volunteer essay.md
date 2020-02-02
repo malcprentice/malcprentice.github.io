@@ -34,8 +34,8 @@ The third criterion is financial responsibility. According to the annual report 
   
 <strong>Conclusion</strong>
 This essay first outlined three possible criteria to keep in mind when choosing a volunteer opportunity and then described one organization – Musasabi Volunteer Association - in terms of those criteria. There were three criteria – sustainability of the organization, impact of the organization, and financial responsibility - all of which the organisation met. Therefore it is recommended as a good one to volunteer with. A more general recommendation is that when students choose a volunteer organizations, they should analyze their opinions in the same way in order to find reliable organization and avoid doing more harm than good.
-      
-                                                      Word Count: 1276
+
+Word Count: 1276
 <strong>Reference</strong>
 </example>
 

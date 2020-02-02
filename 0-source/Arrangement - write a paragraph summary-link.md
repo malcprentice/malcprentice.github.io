@@ -14,7 +14,6 @@ The last sentence of every paragraph should be either:
 |Conclusion paragraph                                            |Neither - [[Style - write a final comment sentence]]
 |Paragraph X of a longer essay                                   |Up to you///Does the reader need a summary yet? ///Is the topic about to change?
 
-    
 ## Examples for first-year essays
 ### 1) Link at end of Description (A)
 * The next paragraph looks at some problems production of Tantalum is causing
@@ -45,7 +44,6 @@ The last three sentences of the last paragraph in the section:
 ** link to the next SECTION, not the next paragraph
 ** don't link into the conclusion section</blue>
 * e.g. <red>"In summary, the problem of heavy metal pollution is serious, both for miners and people living near the mine.</red> <green>Overall, __this section__ has shown that production of X causes a number of issues - A, B, and C - of which the most effective is C.</green> <blue>However, the next paragraph examines some possible solutions to these issues"</blue>
-
 
 ## If you DO use a section conclusion paragraph
 Body paragraphs are normal
