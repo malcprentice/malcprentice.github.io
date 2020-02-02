@@ -16,7 +16,7 @@ Sometimes you have an paragraph organisation like this
 *Its order is "Firstly, secondly, firstly secondly thirdly thirdly"
 *This is very confusing.
 
-### SOlution - use other words instead
+### Solution - use other words instead
 
 *THe first problem is
 *The second problem is
