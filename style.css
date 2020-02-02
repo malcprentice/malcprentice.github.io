@@ -184,27 +184,28 @@ ref {
     padding: 0 0 0 2vw;
     text-indent: -2vw;
 }
+
 ref p {
     margin: 0 0 0 2vw;
 }
+
 blockquote {
     margin: 2vw 3vw 2vw 3vw;
     padding: 0;
+    font-family: "Times New Roman", serif;
+    font-size: 2.5vw;
+    text-indent: 2vw;
+    color: #000000;
+    line-height: 5vw;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;  
+    user-select: none;       
+
 }
 
-example p{
-  font-family: "Times New Roman", serif;
-  font-size: 2.5vw;
-  text-indent: 2vw;
-  color: #000000;
-  line-height: 5vw;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;  
-  user-select: none;        
-}
 
-example h2{
+blockquote h2{
   font-family: "Times New Roman", serif;
   font-weight: bold;
   text-align: center;
@@ -224,7 +225,7 @@ example h2{
   user-select: none;        
 }
 
-example h3{
+blockquote h3{
   font-family: "Times New Roman", serif;
   font-weight: bold;
   font-size: 2.5vw;

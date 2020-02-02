@@ -65,9 +65,7 @@ Long materials (e.g. a 6 page questionnaire) goes in an appendix.
 Finally
 
 ### Example for survey research (OK for both speech and writing)
-<example>
-First an appointment was made for each interview pair to meet in a quiet place before the interview. At the beginning of the interview some small talk was done for a short time to relax them. Next they were informed about the length of the interview, the purpose of research, how anonymous they would be, how they would receive  the data, and who would see the data. Then they were asked for permission to start and recording bigan using two recorders. Then, the interview schedule above was followed. After the interview was over, they were told ‘‘OK, before we finish is there anything else? Thanks. Do you have any questions? OK, I will send you a copy of the transcript by <date>. Thank you.”."
-</example>
+>First an appointment was made for each interview pair to meet in a quiet place before the interview. At the beginning of the interview some small talk was done for a short time to relax them. Next they were informed about the length of the interview, the purpose of research, how anonymous they would be, how they would receive  the data, and who would see the data. Then they were asked for permission to start and recording bigan using two recorders. Then, the interview schedule above was followed. After the interview was over, they were told ‘‘OK, before we finish is there anything else? Thanks. Do you have any questions? OK, I will send you a copy of the transcript by <date>. Thank you.”."
 
 
 
@@ -77,7 +75,5 @@ First an appointment was made for each interview pair to meet in a quiet place b
 * Step by step instructions
 
 ### Example for survey research
-<example>
-A"Cut and Sort" qualitative analysis was performed. The first step was that make sure  each line had the speaker and line number, and then the transcript was printed. The students read it once and highlighted the important sections. Next, a code was written next to each highlight, and the transcript were cut into strips. If one strip had more than one code, it was copied. After that, the strips were shuffled. Then the researchers started making piles and asked "Is this the same or different" for each pile. Then, they kept adding new strips and splitting or combining the piles until it made sense. If it was necessary, each pile was split into sub-piles. Finally, the piles and sub-piles were named, and these were the themes.
+>A"Cut and Sort" qualitative analysis was performed. The first step was that make sure  each line had the speaker and line number, and then the transcript was printed. The students read it once and highlighted the important sections. Next, a code was written next to each highlight, and the transcript were cut into strips. If one strip had more than one code, it was copied. After that, the strips were shuffled. Then the researchers started making piles and asked "Is this the same or different" for each pile. Then, they kept adding new strips and splitting or combining the piles until it made sense. If it was necessary, each pile was split into sub-piles. Finally, the piles and sub-piles were named, and these were the themes.
 Results - if any themes are longer than one paragraph, use sectional pattern 
-</example
