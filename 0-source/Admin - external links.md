@@ -355,7 +355,6 @@ owl.english.purdue.edu: https://owl.english.purdue.edu/owl/resource/560/01/
 quizlet.com: https://quizlet.com/
 scholar.google.co.jp: https://scholar.google.co.jp/
 scholar.google.com: https://scholar.google.com/
-scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+penguin+warming+ocean&btnG=
 scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+
 simple.wikipedia.org: https://simple.wikipedia.org/wiki/Venn_diagram
 thenounproject.com: https://thenounproject.com/
