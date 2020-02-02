@@ -43,10 +43,10 @@ I don't think so either.
 # Be careful when agreeing or disagreeing with negative check questions
 __In conversation, sometimes meaning depends on intonation__
 We haven’t done quickwrites yet, have we?
-    No.             |OK                      |AGREE (we haven't)     
-    No, we haven’t  |OK                      |AGREE (we haven't)
-    Yes.            |Confusing. Only works with careful intonation    |DISAGREE (we have)
-    Yes, we have!   |This is only correct with careful intonation    |DISAGREE (we have)
+|    No.             |OK                      |AGREE (we haven't)     
+|    No, we haven’t  |OK                      |AGREE (we haven't)
+|    Yes.            |Confusing. Only works with careful intonation    |DISAGREE (we have)
+|    Yes, we have!   |This is only correct with careful intonation    |DISAGREE (we have)
 
 __IN TOEIC tests, it will not be this unclear. __
 Usually they will add more to be clear

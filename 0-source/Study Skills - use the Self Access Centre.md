@@ -5,13 +5,13 @@ SPACe (2nd floor of the West Tower in Global Square
 Overview video: https://www.youtube.com/watch?v=Dff_MfrRiCw
 
 # When?
-Centre | Open
-------|------
-English Consultation Room 	|11:45 - 18:00
-Chit Chat Club (C3)	 		|10:45 - 18:05
-English Forum 	|13:30 - 18:00
-Global Village	|16:35 - 18:05
-Speaking Test Preparation Center |10:45 - 16:40
+|Centre | Open
+|------|------
+|English Consultation Room 	|11:45 - 18:00
+|Chit Chat Club (C3)	 		|10:45 - 18:05
+|English Forum 	|13:30 - 18:00
+|Global Village	|16:35 - 18:05
+|Speaking Test Preparation Center |10:45 - 16:40
 
 
 # Sessions with instructors you need to book

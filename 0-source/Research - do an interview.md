@@ -120,23 +120,23 @@ This is called "transcription"
 ### What should I type?
 Transcribe = “to write down exactly what people say”, including:
 
-Repetitions     |I like like dogs better than cats
-Fillers         |I um like dogs better than uhh cats
-Contractions    |I like dogs better’n cats
-Mistakes        |I likes dogs more better than cats
-Restarts        |I like dogs/I like dogs better than cats
-Truncations     |I li- like dogs better than cats
-Pauses          |I like … cats better than …dogs
-Missing bits    |I like [inaudible] better than cats
-Uncertain bits  |I like [?]
-Other bits      |I like [loud noise from kitchen] …uh hold on
-Emphasis        |I like __cats__ but not dogs
+|Repetitions     |I like like dogs better than cats
+|Fillers         |I um like dogs better than uhh cats
+|Contractions    |I like dogs better’n cats
+|Mistakes        |I likes dogs more better than cats
+|Restarts        |I like dogs/I like dogs better than cats
+|Truncations     |I li- like dogs better than cats
+|Pauses          |I like … cats better than …dogs
+|Missing bits    |I like [inaudible] better than cats
+|Uncertain bits  |I like [?]
+|Other bits      |I like [loud noise from kitchen] …uh hold on
+|Emphasis        |I like __cats__ but not dogs
 
 Some research types (Discourse analysis, conversation analysis) also mark:
-Pause length    |I like  [:5] cats better than dog
-Non-verbal      |I like [scratches nose] cats better than dog
-Overlaps        |A: I like dogs.     [And I like cats]///
-                |B:-_________________[How about cats.] Oh you do? Me too
+|Pause length    |I like  [:5] cats better than dog
+|Non-verbal      |I like [scratches nose] cats better than dog
+|Overlaps        |A: I like dogs.     [And I like cats]///
+|                |B:-_________________[How about cats.] Oh you do? Me too
 
 ### Pseudonyms
 * Ask each subject to choose pseudonym (a fake name to protect their identity but which is nicer than calling them “S1”).

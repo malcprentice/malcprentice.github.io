@@ -9,14 +9,14 @@ This page is about style -  the language you use in the text when you __refer__ 
 
 
 # Naming phrases
-Name the Fig/Table			|verbs 			|Optional Time phrase for change 	| situation/change phrase
-----------------------------|-------		|-----------						|_______________
-As Figure 1 above 	  		|shows			|over the last 5 years				|X was Y.
-As shown in Figure 1, 		|illustrates	|, in the last two days				|X has become Y.
-As the chart above,			|describes		|recently 							|X is increasing.
-As Table 3    				|indicates 		|between 2007 and 2009				|X increased.
-As the graph below  		|suggests 		|in 2008							|X was increasing.
-As seen in Table 2			|, 				|
+|Name the Fig/Table			|verbs 			|Optional Time phrase for change 	| situation/change phrase
+|----------------------------|-------		|-----------						|_______________
+|As Figure 1 above 	  		|shows			|over the last 5 years				|X was Y.
+|As shown in Figure 1, 		|illustrates	|, in the last two days				|X has become Y.
+|As the chart above,			|describes		|recently 							|X is increasing.
+|As Table 3    				|indicates 		|between 2007 and 2009				|X increased.
+|As the graph below  		|suggests 		|in 2008							|X was increasing.
+|As seen in Table 2			|, 				|
 
 # Description phrases
 * For more "change" phrases, see [[Style - describing change]]

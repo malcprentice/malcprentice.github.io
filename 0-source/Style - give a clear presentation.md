@@ -34,24 +34,24 @@
 
 ## Alternative Thesis Statements
 ### Alternative Description Thesis statements
-Today, I'd like to     |tell you about X.    |I have three points - A, B, and C.
-In this speech, I'll   |talk about X         |There are three areas to look at: A, B and C.
-Today, I'll            |look at X            |...in terms of A, B, and C.
-I'm going to           |describe X           |First we'll focus on A, then review B and finally look at C
-                       |be talking about X.  |We'll look at A, B, and C.
+|Today, I'd like to     |tell you about X.    |I have three points - A, B, and C.
+|In this speech, I'll   |talk about X         |There are three areas to look at: A, B and C.
+|Today, I'll            |look at X            |...in terms of A, B, and C.
+|I'm going to           |describe X           |First we'll focus on A, then review B and finally look at C
+|                       |be talking about X.  |We'll look at A, B, and C.
 
 ## Alternative Argument Thesis
-Today, I'd like to      |tell you why you should do X.  |I have three reasons - A, B, and C.
-etc                     |talk about why you should X.   |I'll be talking about A, B and C
-                        |discuss why you should X.      |There are three reasons: A, B and C.
+|Today, I'd like to      |tell you why you should do X.  |I have three reasons - A, B, and C.
+|etc                     |talk about why you should X.   |I'll be talking about A, B and C
+|                        |discuss why you should X.      |There are three reasons: A, B and C.
 
 ### Alternative Time Order Thesis
-Today, I'd like to      |tell you how to do X.           |There are three steps: A, B and C.
-etc                     |describe how to do X.           |I'll be talking about A, B and C
-                        |look at how to X.               |I’m going to look at Aing, Bing, and Cing.
-                        |tell you how X happens.         |There are three steps: A, B and C.
-                        |describe how X happened.        |I'll be talking about A, B and C
-                                                         |I’m going to look at A, B, and C
+|Today, I'd like to      |tell you how to do X.           |There are three steps: A, B and C.
+|etc                     |describe how to do X.           |I'll be talking about A, B and C
+|                        |look at how to X.               |I’m going to look at Aing, Bing, and Cing.
+|                        |tell you how X happens.         |There are three steps: A, B and C.
+|                        |describe how X happened.        |I'll be talking about A, B and C
+|                                                         |I’m going to look at A, B, and C
 
   
 

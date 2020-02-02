@@ -1,8 +1,8 @@
 # Types of evidence
 “Is the Loch Ness Monster real or not”
-Reason 	|"Loch Ness is very narrow, so where would it hide?"
-Report 	|"My cousin said he saw it" (personal report) /// "It was seen by person X on date Y" (testimony)
-Research|"The BBC used 600 submarines and found nothing": http://news.bbc.co.uk/2/hi/science/nature/3096839.stm
+|Reason 	|"Loch Ness is very narrow, so where would it hide?"
+|Report 	|"My cousin said he saw it" (personal report) /// "It was seen by person X on date Y" (testimony)
+|Research|"The BBC used 600 submarines and found nothing": http://news.bbc.co.uk/2/hi/science/nature/3096839.stm
 	
 * Reason/Report without Research is weak
 ** "Loch Ness is very narrow"? yes, but also very deep, so it's easy to hide

@@ -33,11 +33,11 @@ In teams, read and do ONE COMBINED outline for all readings
 * you will present on your readings next class
 
 ### Team A
-Traits of a responsible Program		         |(1500 words) 	|https://www.gooverseas.com/blog/traits-of-responsible-volunteer-program
+|Traits of a responsible Program		         |(1500 words) 	|https://www.gooverseas.com/blog/traits-of-responsible-volunteer-program
 
 ### Team B
-News Story: The white tourists's burden.    |1000 words 	|http://america.aljazeera.com/opinions/2014/4/volunter-tourismwhitevoluntouristsafricaaidsorphans.html
-News: Cambodia orphans                      |(500 words)    |http://www.dw.de/unicef-cambodias-orphans-not-really-orphans/a-6481673
+|News Story: The white tourists's burden.    |1000 words 	|http://america.aljazeera.com/opinions/2014/4/volunter-tourismwhitevoluntouristsafricaaidsorphans.html
+|News: Cambodia orphans                      |(500 words)    |http://www.dw.de/unicef-cambodias-orphans-not-really-orphans/a-6481673
 
 ### Bonus materials
 Reading: UN report about orphange tourism mentioned in the TED talk: http://www.unicef.org/cambodia/Fact_sheet_-_residential_care_Cambodia.pdf

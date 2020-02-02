@@ -1,13 +1,13 @@
 # What style are we using?
 We use "APA" style in this class. Not everyone does. Other common styles are:
-APA					| Psychology, Business, Education, Engineering
-MLA					| Languages, Literature
-Chicago				| History, Economics, Politics
-Biology 			| (CSE/CBE): http://writing.wisc.edu/Handbook/DocCSE.html
-Chemistry 			| ACS: xhttp://pubs.acs.org/books/references.shtml
-Engineering  		| (ASCE): http://pubs.asce.org/authors/journal/
-Law 				| (Bluebook): http://www.legalbluebook.com/
-Medicine 			| (AMA): http://healthlinks.washington.edu/hsl/styleguides/ama.html
+|APA					| Psychology, Business, Education, Engineering
+|MLA					| Languages, Literature
+|Chicago				| History, Economics, Politics
+|Biology 			| (CSE/CBE): http://writing.wisc.edu/Handbook/DocCSE.html
+|Chemistry 			| ACS: xhttp://pubs.acs.org/books/references.shtml
+|Engineering  		| (ASCE): http://pubs.asce.org/authors/journal/
+|Law 				| (Bluebook): http://www.legalbluebook.com/
+|Medicine 			| (AMA): http://healthlinks.washington.edu/hsl/styleguides/ama.html
 
 # There are TWO DIFFERENT PARTS to citation style
 1) A short code with the name and date
@@ -53,12 +53,12 @@ Brown, M., & Smith, P. (2010). Book chapter with two authors. In M. Baker (Ed.) 
  </ref>
 
 ## Common problem: naming book publishers
-Problem					|OK									|<red>Not OK</red>
-------------------------|-----------------------------------|---------------------
-City first				|London: Bloomsbury.				|Bloomsbury: London.
-CITY! Not country!		|Tokyo: Kodansha.					|Japan: Kodansha.
-Space before company	|Tokyo: Kodansha.					|Tokyo:Kodansha.
-Remember period 		|Tokyo: Kodansha.					|Tokyo: Kodansha
+|Problem					|OK									|<red>Not OK</red>
+|------------------------|-----------------------------------|---------------------
+|City first				|London: Bloomsbury.				|Bloomsbury: London.
+|CITY! Not country!		|Tokyo: Kodansha.					|Japan: Kodansha.
+|Space before company	|Tokyo: Kodansha.					|Tokyo:Kodansha.
+|Remember period 		|Tokyo: Kodansha.					|Tokyo: Kodansha
 
 # Academic Articles
 ## Journal (学術雑誌/論文誌) articles

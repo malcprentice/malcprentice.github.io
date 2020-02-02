@@ -4,23 +4,23 @@ In the text, follow the title case rules but do use italics for your title citat
 * Bad: ("<em>Title of an article,</em>" n.d.)
 
 # Italics = the thing you hold 
-What do you hold?							|What do you NOT hold?
---------------------------------------------|------------------------------
-The book title 								|not the chapter title - you don't rip it out
-The magazine/journal						|not the article title - you don't rip it out
-The newspaper								|not the article title - you don't rip it out 
- 											|not software. CDs are not software
-The volume number of a journal 				|4-6 issues are bound together by the library ///you don't rip the issue out again
+|What do you hold?							|What do you NOT hold?
+|--------------------------------------------|------------------------------
+|The book title 								|not the chapter title - you don't rip it out
+|The magazine/journal						|not the article title - you don't rip it out
+|The newspaper								|not the article title - you don't rip it out 
+| 											|not software. CDs are not software
+|The volume number of a journal 				|4-6 issues are bound together by the library ///you don't rip the issue out again
 
 # Title Case = a collection of similar work by different people
 Things that CONTAIN similar texts written by many people get Title Case:
 
-Type			|Collection Title - Title Case 					|Item Title - No title case
-------			|------											|------
-News 			|Newspaper Title 								|Newspaper article title
-Book 			|Edited Book (Chapters by many Authors) 	 	|Book by one author
-Journal 		|Journal Title 									|Journal article title
-Video Collection |YouTube, TED Talks  							|Video title
+|Type			|Collection Title - Title Case 					|Item Title - No title case
+|------			|------											|------
+|News 			|Newspaper Title 								|Newspaper article title
+|Book 			|Edited Book (Chapters by many Authors) 	 	|Book by one author
+|Journal 		|Journal Title 									|Journal article title
+|Video Collection |YouTube, TED Talks  							|Video title
 
 
 # What about website?
@@ -64,17 +64,17 @@ For the article title (the page title)
 ** Title case no (does not contain a collection of similar work by different people)
 
 # In summary
-Type						|Title Case for Containers?		|Italics for the thing you hold?	|Example Title
-----------------------------|-------------------------------|-------------------------------- 	|------
-Book Name 					|no 							|Yes 								|<em>Harry Potter and the philosopher's stone</em>
-Edited book name 			|yes 							|yes 								|<em>A Book with Chapters by Different Authors</em>
-Website article title 		|no 							|Yes  								|
-Journal name 				|Yes 							|Yes 								|<em>The Journal of Media Communication, 6</em>(2), 23-34
-Journal article title 		|no 							|no  								|Co-operative development in language learning
-Newspaper title 			|Yes 							|Yes 								|<em>The Japan Times</em>
-News website title 			|Yes (we pretend it's a newspaper) |Yes (we pretend it's a newspaper |<em>BBC News Online</em>
-Magazine title				|Yes 							|yes 								|<em>The Economist</em>
-News/Magazine article title	|no 							|no   								|
+|Type						|Title Case for Containers?		|Italics for the thing you hold?	|Example Title
+|----------------------------|-------------------------------|-------------------------------- 	|------
+|Book Name 					|no 							|Yes 								|<em>Harry Potter and the philosopher's stone</em>
+|Edited book name 			|yes 							|yes 								|<em>A Book with Chapters by Different Authors</em>
+|Website article title 		|no 							|Yes  								|
+|Journal name 				|Yes 							|Yes 								|<em>The Journal of Media Communication, 6</em>(2), 23-34
+|Journal article title 		|no 							|no  								|Co-operative development in language learning
+|Newspaper title 			|Yes 							|Yes 								|<em>The Japan Times</em>
+|News website title 			|Yes (we pretend it's a newspaper) |Yes (we pretend it's a newspaper |<em>BBC News Online</em>
+|Magazine title				|Yes 							|yes 								|<em>The Economist</em>
+|News/Magazine article title	|no 							|no   								|
 
 
 # Academic Journal numbers - more details
@@ -142,10 +142,10 @@ Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of Internati
 (Don't forget the page number)
 
 # What about edited books?
-Books with many chapters by different people are collections. 	|Title Case.
-Books by one author are not collections. 						|No title case
-You hold books 													|_italics_
-You don't hold chapters  										|no italics
+|Books with many chapters by different people are collections. 	|Title Case.
+|Books by one author are not collections. 						|No title case
+|You hold books 													|_italics_
+|You don't hold chapters  										|no italics
 So:
 
 <a href="http://imgur.com/gxCNX8l"><img src="http://i.imgur.com/gxCNX8ll.jpg" title="source: imgur.com" /></a>

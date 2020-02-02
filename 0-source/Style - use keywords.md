@@ -8,13 +8,13 @@ Adjectives don't work: ~~"Secondly, happy."~~
 Normal verbs don't work: ~~"Secondly, run."~~
 
 ### These are best:
-Nouns 				|"Secondly, pollution"
-Noun phrases 		|"Secondly, lack of pollution"
+|Nouns 				|"Secondly, pollution"
+|Noun phrases 		|"Secondly, lack of pollution"
 
 ### These usually work:
-ING verbs	 			|"Secondly, participating"
-ING verb phrases		|"Secondly, increasing participation"
-question word phrases 	|"Secondly, how to increase participation"
+|ING verbs	 			|"Secondly, participating"
+|ING verb phrases		|"Secondly, increasing participation"
+|question word phrases 	|"Secondly, how to increase participation"
 
 
 ### If in doubt:

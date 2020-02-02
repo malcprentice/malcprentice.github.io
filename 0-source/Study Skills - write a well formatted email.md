@@ -117,13 +117,13 @@ Put your Name, class name, and homework code (or problem keyword) in the subject
 * Hiroko Sato - SSGB - Question about Thursday homework
 
 ### 2) Start with a greeting
-e.g. "Malc,"					| Very informal
-e.g. "Hi Malc,"					| Informal <blue>use this one</blue>
-e.g. "Dear Mr Prentice," 		| Formal <red>if you use this one I will think you are in trouble :-)</red>
-e.g. "To Whom it May Concern:" 	| Try not to use this. ///Try to find out who you are emailing
-e.g. "Dear Sir/Madam," 			| Try not to use this. ///Try to find out who you are emailing
-e.g. "Hi, Everyone"				| Informal, emailing a group of friends
-e.g. "Dear All, "				| Informal to a group - maybe
+|e.g. "Malc,"					| Very informal
+|e.g. "Hi Malc,"					| Informal <blue>use this one</blue>
+|e.g. "Dear Mr Prentice," 		| Formal <red>if you use this one I will think you are in trouble :-)</red>
+|e.g. "To Whom it May Concern:" 	| Try not to use this. ///Try to find out who you are emailing
+|e.g. "Dear Sir/Madam," 			| Try not to use this. ///Try to find out who you are emailing
+|e.g. "Hi, Everyone"				| Informal, emailing a group of friends
+|e.g. "Dear All, "				| Informal to a group - maybe
 
 ### 3) If you haven't emailed someone in a while
 Usually, you should ask a question or tell them something before asking them for something.
@@ -141,20 +141,20 @@ You see me every week, so you don't need this when you email me now.
 "I was sick last week. Can I have an extension on A3"
 
 ### 5) Add a thanks/hope phrase (optional for informal emails)
- <blue>Thanks in advance.</blue> 	|if it's something normal like marking an essay or sending info
-I hope you can help. 				|if it's something less common, like a reference
-I hope to hear from you.			|if you're expecting a reply - quite formal
-Let me know							|informal - if there's a chance they'll say "no"
+| <blue>Thanks in advance.</blue> 	|if it's something normal like marking an essay or sending info
+|I hope you can help. 				|if it's something less common, like a reference
+|I hope to hear from you.			|if you're expecting a reply - quite formal
+|Let me know							|informal - if there's a chance they'll say "no"
 
 ### 6) Add a polite written goodbye phrase
 Be careful - most have __commas__ not periods
-Cheers,			 		| people you know well
-Best,					| people you know well
-<blue>Regards,</blue> 	| people you know well
-Best Regards,			| people you know well
-Yours,					| people you know
-Your sincerely, 		| formal - you started "Dear Mr. Smith,"
-Yours faithfully,		| formal - you started "Dear Sir/Madam"
+|Cheers,			 		| people you know well
+|Best,					| people you know well
+|<blue>Regards,</blue> 	| people you know well
+|Best Regards,			| people you know well
+|Yours,					| people you know
+|Your sincerely, 		| formal - you started "Dear Mr. Smith,"
+|Yours faithfully,		| formal - you started "Dear Sir/Madam"
 
 ### 7) Your name
 For this class, also give your student number in brackets

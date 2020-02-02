@@ -12,15 +12,15 @@ This course follows the [[Schedules - Curriculum for General Academic Skills]], 
 
 # Evaluation/Assessment
 ## Required items
-Item                                |%      |Minimum                    |OK points for extra?       |Instructions
-------------------------------------|-------|---------------------------|-------------------------- |-----------------------------------
-Projects and Presentations          |10%    |Project A (Poster)         |No                         |see weekly schedule
-Projects and Presentations          |20%    |Project B (Research Paper) |No                         |see weekly schedule
-Projects and Presentations          |10%    |Project C (TBC)           	|No                         |see weekly schedule
-Vocabulary Project (V)              |10%    |280 minimum, 5% mid-term, 5% final |No        			|see [[Study Skills - learn vocabulary]]
-RR  								|20%    |3 per term (Powerpoint)    |See planning sheet    		|see [[Projects - outline]]
-Quickwrite Activities (QW)          |10%    |13 (Every Wednesday)       |See planning sheet 		|see [[Study Skills - do a quickwrite]]
-Participation                       |20%    |(NG/OK points - absences)  |This _is_ OK points        |See [[Study Skills - get independent learning points]]
+|Item                                |%      |Minimum                    |OK points for extra?       |Instructions
+|------------------------------------|-------|---------------------------|-------------------------- |-----------------------------------
+|Projects and Presentations          |10%    |Project A (Poster)         |No                         |see weekly schedule
+|Projects and Presentations          |20%    |Project B (Research Paper) |No                         |see weekly schedule
+|Projects and Presentations          |10%    |Project C (TBC)           	|No                         |see weekly schedule
+|Vocabulary Project (V)              |10%    |280 minimum, 5% mid-term, 5% final |No        			|see [[Study Skills - learn vocabulary]]
+|RR  								|20%    |3 per term (Powerpoint)    |See planning sheet    		|see [[Projects - outline]]
+|Quickwrite Activities (QW)          |10%    |13 (Every Wednesday)       |See planning sheet 		|see [[Study Skills - do a quickwrite]]
+|Participation                       |20%    |(NG/OK points - absences)  |This _is_ OK points        |See [[Study Skills - get independent learning points]]
 
 ## Grading system
 See [[Resources - grading system]]

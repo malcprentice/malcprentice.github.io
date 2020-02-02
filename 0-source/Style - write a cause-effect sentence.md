@@ -2,45 +2,45 @@
 
 Useful language for cause-effect
 ###  Verb outcomes
-X                   |, so                           |Y.
-X happens           |, and so                       |Y happens.
-                    |. Therefore,                   |Y increases.
-                    |, and therefore                |Y is getting worse
-                    |. Because of this,             |Y gets worse
-                    |, and because of this          |there is a change in Y
-                    |. Hence,                       |there is an increase in Y
-                    |, and hence,                   |
-                    |. As a result,                 |
-                    |, and as a result,             |
-                    |. The result is that           |
-                    |, and the result is that       |
-                    |. One result of this is that   |
-                    |. As a consequence,            |
-                    |, and consequently,            |
-                    |, and as a consequence,        |
-                    |. Consequently                 |
-                    |. For this reason,             |
-                    |, and for this reason,         |
-                    |. Accordingly,                 |
-                    |Thus,                          |
-                    |, and thus,                    |
-                    |As such,                       |
+|X                   |, so                           |Y.
+|X happens           |, and so                       |Y happens.
+|                    |. Therefore,                   |Y increases.
+|                    |, and therefore                |Y is getting worse
+|                    |. Because of this,             |Y gets worse
+|                    |, and because of this          |there is a change in Y
+|                    |. Hence,                       |there is an increase in Y
+|                    |, and hence,                   |
+|                    |. As a result,                 |
+|                    |, and as a result,             |
+|                    |. The result is that           |
+|                    |, and the result is that       |
+|                    |. One result of this is that   |
+|                    |. As a consequence,            |
+|                    |, and consequently,            |
+|                    |, and as a consequence,        |
+|                    |. Consequently                 |
+|                    |. For this reason,             |
+|                    |, and for this reason,         |
+|                    |. Accordingly,                 |
+|                    |Thus,                          |
+|                    |, and thus,                    |
+|                    |As such,                       |
 ### Noun/ING outcomes
-X                   |. This leads to                |Y
-X happens           |. The outcome is               |Y happening
-                    |. This results in              |Y increasing
-                    |, and this results in          |Y getting worse
-                    |, which results in             |a change in Y
-                    |. The result is that           |an increase in Y
-                    |. The results is               |etc
-                    |This leads to                  |
-                    |, and this leads to            |
+|X                   |. This leads to                |Y
+|X happens           |. The outcome is               |Y happening
+|                    |. This results in              |Y increasing
+|                    |, and this results in          |Y getting worse
+|                    |, which results in             |a change in Y
+|                    |. The result is that           |an increase in Y
+|                    |. The results is               |etc
+|                    |This leads to                  |
+|                    |, and this leads to            |
 
 ### Cause
-X                   |causes                         |Y
-                    |. This causes                  |Y to get worse
-                    |leads to                       |a change in Y
-                    |results in                     |an increase in Y
+|X                   |causes                         |Y
+|                    |. This causes                  |Y to get worse
+|                    |leads to                       |a change in Y
+|                    |results in                     |an increase in Y
 
 
 

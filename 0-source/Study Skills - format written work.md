@@ -43,9 +43,9 @@ Copy it carefully! Check it still follows these rules:
 # Correct Alignment (Right, left, center, never justified)
 (ホーム-->段落)
 
-Align how?		|Align what?
-----------------|-----------------
-Right align		|Info & Word Count
-Left align 		|Paragraphs
-Center align 	|Title
-Justify			|NOTHING! (spaces stretches in a strange way)
+|Align how?		|Align what?
+|----------------|-----------------
+|Right align		|Info & Word Count
+|Left align 		|Paragraphs
+|Center align 	|Title
+|Justify			|NOTHING! (spaces stretches in a strange way)

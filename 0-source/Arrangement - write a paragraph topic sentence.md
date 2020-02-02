@@ -7,23 +7,23 @@ Like the essays in this class, you can just use the thesis statement pattern for
 * it doesn't work for personal essays (e.g. iBT TOEFL independent)
 * it doesn't work if you use it many times
 
-Name your section 		|Main Idea Verb		|Topic phrase				|Keywords
-------------------------|-----------------	|-----------------			|------------
-This paragraph	 		|clarifies		|what X means for Y				|, in terms of 1, 2, and 3
-This paragraph			|explores		|X in detail					|, in terms of 1, 2, and 3
-This paragraph			|describes		|the link between X and Y		|
-This paragraph	 		|outlines 		|how X works					|
-This paragraph			|investigates	|how X is made 					|in three stages - 1, 2, and 3.
-This paragraph			|examines		|the process of Xing your		|
-This paragraph			|summarizes		|the impact of X on Y			|
-This paragraph			|reviews		|how X can cause Y				|
-This paragraph			|looks at		|some problems caused by X 		|
-This paragraph			|argues			|that the best way to X is 		|for three reasons - 1, 2, and 3.
-						|proposes		|that the best X is Y			|
-						|suggests		|that X is better than Y 		|
-						|VERB+  why		|X should Y						|
-						|compares		|X and Y						|
-						|contrasts		|X with Y						|
+|Name your section 		|Main Idea Verb		|Topic phrase				|Keywords
+|------------------------|-----------------	|-----------------			|------------
+|This paragraph	 		|clarifies		|what X means for Y				|, in terms of 1, 2, and 3
+|This paragraph			|explores		|X in detail					|, in terms of 1, 2, and 3
+|This paragraph			|describes		|the link between X and Y		|
+|This paragraph	 		|outlines 		|how X works					|
+|This paragraph			|investigates	|how X is made 					|in three stages - 1, 2, and 3.
+|This paragraph			|examines		|the process of Xing your		|
+|This paragraph			|summarizes		|the impact of X on Y			|
+|This paragraph			|reviews		|how X can cause Y				|
+|This paragraph			|looks at		|some problems caused by X 		|
+|This paragraph			|argues			|that the best way to X is 		|for three reasons - 1, 2, and 3.
+|						|proposes		|that the best X is Y			|
+|						|suggests		|that X is better than Y 		|
+|						|VERB+  why		|X should Y						|
+|						|compares		|X and Y						|
+|						|contrasts		|X with Y						|
 
 # Formal, difficult, but less boring options
 ### Follow these rules

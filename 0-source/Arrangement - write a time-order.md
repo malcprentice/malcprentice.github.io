@@ -35,11 +35,11 @@ Instructional
 * Detail in new sentence OK: "Secondly, mix it well. You should use a spoon."
 
 ### Final comment options for an instructional essay
-Now you have            |"Now you have some tasty mochi"
-Do not forget           |"Do not forget to chew your mochi carefully"
-Options                 |"You can add cream or eat it plain"
-Recommendation          |"You should eat it with cream"
-Decision (not academic) |"I will make some next week for my friend’s party"
-Link to next paragraph: |"That was how it is made. In the next section...."
-Other options:          | [[Arrangement - write a paragraph summary-link]]
+|Now you have            |"Now you have some tasty mochi"
+|Do not forget           |"Do not forget to chew your mochi carefully"
+|Options                 |"You can add cream or eat it plain"
+|Recommendation          |"You should eat it with cream"
+|Decision (not academic) |"I will make some next week for my friend’s party"
+|Link to next paragraph: |"That was how it is made. In the next section...."
+|Other options:          | [[Arrangement - write a paragraph summary-link]]
 

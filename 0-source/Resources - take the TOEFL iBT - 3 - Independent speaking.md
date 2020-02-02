@@ -68,18 +68,18 @@ Start collecting your own list!
 * This is important to me because X
 
 ### Signal “but”:
-However.            |But in reality |Although X, Y
-On the other hand   |whereas        |Still,
-Yet                 |Despite that   |Otherwise
+|However.            |But in reality |Although X, Y
+|On the other hand   |whereas        |Still,
+|Yet                 |Despite that   |Otherwise
 
 ### Signal additional point
-I also want to mention. |Also,  |Besides
-Another reason is        |Similarly
+|I also want to mention. |Also,  |Besides
+|Another reason is        |Similarly
 
 ### Signal conclusion
-In the future, I        |Next, I hope to            |What this means is
-All in all              |From this you can see that  |In the end 
-In brief                |On the whole 
+|In the future, I        |Next, I hope to            |What this means is
+|All in all              |From this you can see that  |In the end 
+|In brief                |On the whole 
 
 # Practice Questions
 “In this question, you will be asked to give your opinion about a familiar topic. After you hear the question, you will have 15 seconds to prepare your response and 45 seconds to speak.”

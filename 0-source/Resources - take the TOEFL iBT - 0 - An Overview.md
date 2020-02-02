@@ -1,20 +1,20 @@
 # TOEFL Score comparison
 30 points per section, total maximum score 120
 
-TOEFLiBT    |TOEFL CBT  |TOEFL PBT      |TOEIC          
-------------|-----------|---------------|-----
-120         |300        |677            |990
-110         |270        |637            |
-100         |250        |600            |800ish
-90          |233        |577            |               
-80          |213        |550            |
-70          |193        |523            |630ish
-60          |170        |497            |
-50          |143        |463            |
-40          |120        |433            |400ish
-30          |93         |397            |
-20          |63         |347            |250ish
-17          |57         |333            |               
+|TOEFLiBT    |TOEFL CBT  |TOEFL PBT      |TOEIC          
+|------------|-----------|---------------|-----
+|120         |300        |677            |990
+|110         |270        |637            |
+|100         |250        |600            |800ish
+|90          |233        |577            |               
+|80          |213        |550            |
+|70          |193        |523            |630ish
+|60          |170        |497            |
+|50          |143        |463            |
+|40          |120        |433            |400ish
+|30          |93         |397            |
+|20          |63         |347            |250ish
+|17          |57         |333            |               
 
 # Changes to iBT TOEFL in 2019
 1) It's shorter
@@ -29,13 +29,13 @@ TOEFLiBT    |TOEFL CBT  |TOEFL PBT      |TOEIC
 
 
 # Overview (New format from 2019)
-Reading                 |54-72 mins     |3-4 academic texts (10 Q each)                    |[[Resources - take the TOEFL iBT - 1 - Reading]]           
-Listening               |41-57 mins     |3-4 lectures, 2-3 conversations                   |[[Resources - take the TOEFL iBT - 2 - Listening]]
-10m break               |               |                                                  |
-Independent Speaking    |1min           |Paired Choice only, no free choice                |[[Resources - take the TOEFL iBT - 3 - Independent speaking]]
-Integrated Speaking     |90s X 3        |Read-Listen-Speak (Lecture only) & Listen-Speak (Campus/Lecture) |[[Resources - take the TOEFL iBT - 4 - Integrated speaking]]
-Integrated Writing      |20 mins        |Read-Listen-Write                                 |[[Resources - take the TOEFL iBT - 5 - Integrated writing]]
-Independent Writing     |30 mins        |Write                                             |[[Resources - take the TOEFL iBT - 6 - Independent writing]]
+|Reading                 |54-72 mins     |3-4 academic texts (10 Q each)                    |[[Resources - take the TOEFL iBT - 1 - Reading]]           
+|Listening               |41-57 mins     |3-4 lectures, 2-3 conversations                   |[[Resources - take the TOEFL iBT - 2 - Listening]]
+|10m break               |               |                                                  |
+|Independent Speaking    |1min           |Paired Choice only, no free choice                |[[Resources - take the TOEFL iBT - 3 - Independent speaking]]
+|Integrated Speaking     |90s X 3        |Read-Listen-Speak (Lecture only) & Listen-Speak (Campus/Lecture) |[[Resources - take the TOEFL iBT - 4 - Integrated speaking]]
+|Integrated Writing      |20 mins        |Read-Listen-Write                                 |[[Resources - take the TOEFL iBT - 5 - Integrated writing]]
+|Independent Writing     |30 mins        |Write                                             |[[Resources - take the TOEFL iBT - 6 - Independent writing]]
 
 * You may get more (4 readings, or 5 lectures). This is TOEFL checking their materials. 
 

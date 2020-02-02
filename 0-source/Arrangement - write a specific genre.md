@@ -37,38 +37,38 @@ For example, summary response could be
 
 ### Genre Style
 This page is about arrangement, but genres usually also come with their own special language. Example sbelow, but most of these have their own page. See [[Index - Style]]
-Classification 	|It is a kind of X
-Partition	 	|There are three kinds of X
-Process		 	|Firstly, secondly, then, next, after that, finally
-Compare/Contrast |X, on the other hand, is more expensive
-Cause/Effect  	|so/because/therefore/for that reason
-Summary-Response|X is Y (Smith, 1999). However, this is not effective, because
-Argument		|For these three reasons, it is clear that X should Y
+|Classification 	|It is a kind of X
+|Partition	 	|There are three kinds of X
+|Process		 	|Firstly, secondly, then, next, after that, finally
+|Compare/Contrast |X, on the other hand, is more expensive
+|Cause/Effect  	|so/because/therefore/for that reason
+|Summary-Response|X is Y (Smith, 1999). However, this is not effective, because
+|Argument		|For these three reasons, it is clear that X should Y
 
 # Table of common patterns
-Type						|A	   				|B 						|C
-----------------------------|-------------------|-----------------------|----------------
-Compare-Contrast			|Same/Diff way 1	|Same/Diff way2 		|Same/Diff way 3
-Compare-Contrast			|Similarities 		|Differences
-Time Order - PPF	  		|Past (High School) |Present (University) 	|Future(work)
-Time Order - Narrative  	|First I, .... 		|Then .... 				|Finally, .
-Time Order - Historical		|Edo 				|Meiji  				|Heisei
-Time Order - Personal 		|Elementary 		|JHS 					|HS
-Time Order - Process		|Preparation		|Action					|Review
-Time Order - Process		|Step 1				|Step 2					|Step 3
-Time Order - Future 		|In 1 year			|in 5 years				|In 10 years
-Summary Response 1			|Author said		|Author right/wrong because X
-Summary Response 2			|topic 1/response1	|topic 2/response2 		|topic 3/response3
-Cause/Effect 1				|Cause of A			|Effects of A
-Cause/Effect 2				|Cause 1			|Cause2					|Cause3
-Cause/Effect 3				|Effect 1			|Effect 2				|Effect3
-Argument					|Reason 1  			|Reason 2 X is better	|Reason 3 X is better
-Argument					|For/against 1 		|For/against option2
-Problem/Solution			|Problem1/2/3		|Solution1/2/3
-Problem/Solution			|Problem/Solution1 	|Problem/Solution2 		|Problem/Solution3
-Mixed 1						|Description		|Problem				|Solution
-Case Study					|Case 1				|Case 2					|Case 3
-News 5 "W" style intro		|Who What Where When Why
+|Type						|A	   				|B 						|C
+|----------------------------|-------------------|-----------------------|----------------
+|Compare-Contrast			|Same/Diff way 1	|Same/Diff way2 		|Same/Diff way 3
+|Compare-Contrast			|Similarities 		|Differences
+|Time Order - PPF	  		|Past (High School) |Present (University) 	|Future(work)
+|Time Order - Narrative  	|First I, .... 		|Then .... 				|Finally, .
+|Time Order - Historical		|Edo 				|Meiji  				|Heisei
+|Time Order - Personal 		|Elementary 		|JHS 					|HS
+|Time Order - Process		|Preparation		|Action					|Review
+|Time Order - Process		|Step 1				|Step 2					|Step 3
+|Time Order - Future 		|In 1 year			|in 5 years				|In 10 years
+|Summary Response 1			|Author said		|Author right/wrong because X
+|Summary Response 2			|topic 1/response1	|topic 2/response2 		|topic 3/response3
+|Cause/Effect 1				|Cause of A			|Effects of A
+|Cause/Effect 2				|Cause 1			|Cause2					|Cause3
+|Cause/Effect 3				|Effect 1			|Effect 2				|Effect3
+|Argument					|Reason 1  			|Reason 2 X is better	|Reason 3 X is better
+|Argument					|For/against 1 		|For/against option2
+|Problem/Solution			|Problem1/2/3		|Solution1/2/3
+|Problem/Solution			|Problem/Solution1 	|Problem/Solution2 		|Problem/Solution3
+|Mixed 1						|Description		|Problem				|Solution
+|Case Study					|Case 1				|Case 2					|Case 3
+|News 5 "W" style intro		|Who What Where When Why
 
 
 What genre of essay is this a thesis statement for? "This essay looks at whether students should do a study abroad in the US or in The Phillipines. QQQ3QQQProcess QQQCompare-Contrast QQQArgumentQQQProblem-Solution

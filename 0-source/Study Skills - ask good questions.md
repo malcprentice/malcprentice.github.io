@@ -38,10 +38,10 @@ __Would you ever__ become vegetarian?
 
 # At the end of class, sometimes we have time
 This is your chance to:
-Ask me a question about learning English                |"What's the best way to improve pronunciation"
-Ask me a question about the UK                          |"What food do you eat when you go out?"
-Ask me a question about the homework/course/schedule    |"How many sentences do I need in this section?"
-Ask me a quiz question                                  |"What isthe biggest lake in Japan?" 
-Announce a club or SAC event                            |"Please come to the my concert - it/'s..."
-Give an opinion                                         |"I think the best onigiri is tuna"
-Give a suggestion for the class                         |"I think we should do more SR"
+|Ask me a question about learning English                |"What's the best way to improve pronunciation"
+|Ask me a question about the UK                          |"What food do you eat when you go out?"
+|Ask me a question about the homework/course/schedule    |"How many sentences do I need in this section?"
+|Ask me a quiz question                                  |"What isthe biggest lake in Japan?" 
+|Announce a club or SAC event                            |"Please come to the my concert - it/'s..."
+|Give an opinion                                         |"I think the best onigiri is tuna"
+|Give a suggestion for the class                         |"I think we should do more SR"

@@ -23,25 +23,25 @@ I recommend you stick to things you or people you know can do
 
 
 # Two part final comments
-Transition phrase                                   | Recommendation, prediction, decision, plan or implication
-----------------------------------------------------|-----------------------------------------
-In conclusion,                                      |we should
-To conclude,                                        |the United Nations needs to
-The conclusion that can be drawn is that            |
-THe principle conclusion is that                    |
-For these reasons,                                  |the Japanese government should
-For these three reason,                             |X needs to be done immediately.
-As a result                                         |
-Because of this,                                    |we have to
-Because of these issues,                            |the most likely next step is to X
-This data indicates that,                           |
-IN light of the above,                              |
+|Transition phrase                                   | Recommendation, prediction, decision, plan or implication
+|----------------------------------------------------|-----------------------------------------
+|In conclusion,                                      |we should
+|To conclude,                                        |the United Nations needs to
+|The conclusion that can be drawn is that            |
+|THe principle conclusion is that                    |
+|For these reasons,                                  |the Japanese government should
+|For these three reason,                             |X needs to be done immediately.
+|As a result                                         |
+|Because of this,                                    |we have to
+|Because of these issues,                            |the most likely next step is to X
+|This data indicates that,                           |
+|IN light of the above,                              |
 All this lends support to the notion that
-All in all, this suggests that                      |X is the most appropriate choice.
-What this means is that,                            |X is the most important.
-As a consequence,                                   |the following steps are suggested: 1,2,3
-As such, the balance of evidence suggests that      |it is likely that X will happen
-This implies that if we do nothing about the problems outlined above,  |then X will happen.
+|All in all, this suggests that                      |X is the most appropriate choice.
+|What this means is that,                            |X is the most important.
+|As a consequence,                                   |the following steps are suggested: 1,2,3
+|As such, the balance of evidence suggests that      |it is likely that X will happen
+|This implies that if we do nothing about the problems outlined above,  |then X will happen.
 
 
 ### CAUSE EFFECT signals

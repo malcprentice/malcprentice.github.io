@@ -22,10 +22,10 @@ This course is eight-day, TWO credit, Communication and TOEIC skills course. In 
 20% for Final Exam (first and last day)
 40% from Commmunication (other teacher)
 40% from this class, as follows:
-Homework |10% |(Vocab test in last TOEIC class)
-Quiz 1      |10% |(TOEIC listening, class 4)
-Quiz 2 |10% |(TOEIC Reading, class 7
-Participation |10% -|attendance, NG points, OK points
+|Homework |10% |(Vocab test in last TOEIC class)
+|Quiz 1      |10% |(TOEIC listening, class 4)
+|Quiz 2 |10% |(TOEIC Reading, class 7
+|Participation |10% -|attendance, NG points, OK points
 
 So try not to be absent on first day, last day, TOEIC class 4 and TOEIC class 7
 

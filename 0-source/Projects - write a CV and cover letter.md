@@ -53,22 +53,22 @@ Make your job sound better (without lying)
 __Instead of:__ Waiter, XYZ Ramen, Shinjuku. I took money, took orders, cleaned toilet.
 __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash handling, customer service and hygiene inspection.
 
-I...        |Responsible for...
--------------|------------
-took money  |cash handling
-talked to customers |customer service
-wrote signs |publicity
-locked the door | security
-fixed the door|  maintenance
-cooked | food preparation
-cleaned (the kitchen) |   (food) hygiene
-put up Halloween decorations |  décor
-told new staff what to do |   staff training
-organised shift swaps |   scheduling
-did some paperwork |  administration
-filled the shelves|  stock control
-giving free stuff away | promotions
-checked something |   quality control
+|I...        |Responsible for...
+|-------------|------------
+|took money  |cash handling
+|talked to customers |customer service
+|wrote signs |publicity
+|locked the door | security
+|fixed the door|  maintenance
+|cooked | food preparation
+|cleaned (the kitchen) |   (food) hygiene
+|put up Halloween decorations |  décor
+|told new staff what to do |   staff training
+|organised shift swaps |   scheduling
+|did some paperwork |  administration
+|filled the shelves|  stock control
+|giving free stuff away | promotions
+|checked something |   quality control
 
 
 

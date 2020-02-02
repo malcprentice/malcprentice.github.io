@@ -93,17 +93,17 @@ You do not usually quote lectures, so you do not need to copy every word.
 ** For your RR outline, type up your notes IN ENGLISH
 ** For reading log, handwritten Japanese/English notes are OK, but you will present IN ENGLISH, so take a note of any English words you will need
 * Lectures are fast - use short-cuts when writing common words. For example
-	"is" 		|	=
-	"is not"	|	≠
-	"causes"	|	--->
-	"number"	|	# 
-	"and"		|	+ 
+|	"is" 		|	=
+|	"is not"	|	≠
+|	"causes"	|	--->
+|	"number"	|	# 
+|	"and"		|	+ 
 
 ## Mind maps or Outlines?
-Outlines are better for reading.	|Maps are better for lectures,
-Outlines are easy when you type.	|Maps are easier when you hand-write
-Outlines are good for organised information ///lectures are usually not organised |Maps are better with disorganised informtion ///e.g. if the speaker keeps switching topics
-Outlines are also for PLANNING essays.	|Maps are also good for GETTING IDEAS for essays
+|Outlines are better for reading.	|Maps are better for lectures,
+|Outlines are easy when you type.	|Maps are easier when you hand-write
+|Outlines are good for organised information ///lectures are usually not organised |Maps are better with disorganised informtion ///e.g. if the speaker keeps switching topics
+|Outlines are also for PLANNING essays.	|Maps are also good for GETTING IDEAS for essays
 
 ## OPTION: Try "Cornell" style
 1) Draw the lines as shown (You can buy Cornell notebooks in Loft, there is a template in my folder)

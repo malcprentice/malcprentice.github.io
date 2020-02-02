@@ -14,26 +14,26 @@ Qualify weak citations ("Based on Smith (1999), it seems that X, however"
 Qualify when no evidence is available
 
 # How to qualify
-Absolute phrase 	|qualified version
---------------------|-----------------
-X will happen 		|X may/might/could/could ///X possibly/may well happen
-is 					|may be / might be / is probably 
-was 				|may have been / might have been / was probably
-every x	///all x   	|most x / many x /some x ///a large proportion of x ///a significant number of x///the majority of x
-none ///no x 		|a few x / not much x / not many x ///a small proportion of x///a minority of x
-X always happens 	|X often, usually, frequently, regularly, repeatedly, sometimes happens
-X never happens 	|X seldom, occasionally happens ///X happens only rarely /// happens relatively seldom
-definitely go 		|probably, possibly go  ///most likely go ///almost certainly go ///tend to go
-X is/ causes Y 		|it appears/seems/is probable that X tends to cause Y
-X did not happen 	|It is unlikely / doubtful / improbable that x is possible
-X, therefore Y 		|X suggestsY ///X, which suggests Y ///X, which would seem to suggest that Y
-is effective 		|is effective to some extent,  / is somewhat effective
-it is true 			|It is possible that X is true
-it is always true 	|It is generally true
-In every case 		|Generally, 
-X means Y is Z 		|X suggests Y is Z / X indicates that Y is probably Z
-very 				|relatively / fairly / somewhat / quite
-X leads to Y 		|it tends to be the case that X leads to Y
+|Absolute phrase 	|qualified version
+|--------------------|-----------------
+|X will happen 		|X may/might/could/could ///X possibly/may well happen
+|is 					|may be / might be / is probably 
+|was 				|may have been / might have been / was probably
+|every x	///all x   	|most x / many x /some x ///a large proportion of x ///a significant number of x///the majority of x
+|none ///no x 		|a few x / not much x / not many x ///a small proportion of x///a minority of x
+|X always happens 	|X often, usually, frequently, regularly, repeatedly, sometimes happens
+|X never happens 	|X seldom, occasionally happens ///X happens only rarely /// happens relatively seldom
+|definitely go 		|probably, possibly go  ///most likely go ///almost certainly go ///tend to go
+|X is/ causes Y 		|it appears/seems/is probable that X tends to cause Y
+|X did not happen 	|It is unlikely / doubtful / improbable that x is possible
+|X, therefore Y 		|X suggestsY ///X, which suggests Y ///X, which would seem to suggest that Y
+|is effective 		|is effective to some extent,  / is somewhat effective
+|it is true 			|It is possible that X is true
+|it is always true 	|It is generally true
+|In every case 		|Generally, 
+|X means Y is Z 		|X suggests Y is Z / X indicates that Y is probably Z
+|very 				|relatively / fairly / somewhat / quite
+|X leads to Y 		|it tends to be the case that X leads to Y
 
 
   
@@ -43,34 +43,34 @@ X leads to Y 		|it tends to be the case that X leads to Y
 
 Weasel words means qualifying evidence to hide the fact it is missing.  
 
-Question				| Honest answer 					|Weasel words
-------------------------|-----------------------------------|---------------
-Who said that?			|I don't know 						|Some people say
-What is the evidence?	|There isn't any // I didn't look 	|A growing body of evidence says that
-"Is the evidence strong? |I'm not sure 						|It is obvious that
-Does anyone disagree 	|I didn't look 						|Critics claim that
+|Question				| Honest answer 					|Weasel words
+|------------------------|-----------------------------------|---------------
+|Who said that?			|I don't know 						|Some people say
+|What is the evidence?	|There isn't any // I didn't look 	|A growing body of evidence says that
+|"Is the evidence strong? |I'm not sure 						|It is obvious that
+|Does anyone disagree 	|I didn't look 						|Critics claim that
 
 Always yourself these questions about your research and results. It is better to say no evidence was found than hide the fact you didn't find any. Here are some more questions to ask when you read these phrases in your research:
 
-If you read... 						|Ask...
-------------------------------------|------------------
-"A growing body of evidence" 		|By who?
-"It has been claimed that..." 		|By who?
-"It has been noted that..." 		|By who?
-"Many people" 						|How many people? Who are they?
-"Critics claim..."  				|Who claims?
-"Clearly/Obviously/Evidently" 		|It's not clear or obvious or evident. ///Can you explain why you think it is?
-"There is evidence that..."  		|What evidence?
-"There is strong evidence that..." 	|Can you explain WHY it is strong
+|If you read... 						|Ask...
+|------------------------------------|------------------
+|"A growing body of evidence" 		|By who?
+|"It has been claimed that..." 		|By who?
+|"It has been noted that..." 		|By who?
+|"Many people" 						|How many people? Who are they?
+|"Critics claim..."  				|Who claims?
+|"Clearly/Obviously/Evidently" 		|It's not clear or obvious or evident. ///Can you explain why you think it is?
+|"There is evidence that..."  		|What evidence?
+|"There is strong evidence that..." 	|Can you explain WHY it is strong
 
 ## Avoid qualifying numbers
 If you know the exact number, give it. 
 If you do not know it, find out.
-If you read... 				|Ask...
-----------------------------|------------------
-"Over 75%"					|How far over? 76? 99?
-"Very few"					|How few? 1? 2? 77?
-"The vast majority..." 		|Is this 77% or 99%?
+|If you read... 				|Ask...
+|----------------------------|------------------
+|"Over 75%"					|How far over? 76? 99?
+|"Very few"					|How few? 1? 2? 77?
+|"The vast majority..." 		|Is this 77% or 99%?
 
 "A majority" means "I don't know how much, because it is impossible to tell, but based on my research so far, most say X" __NOT__ "I don't know how much, because I don't have time to research" 
 

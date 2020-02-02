@@ -1,15 +1,15 @@
 # Overview of Test (2015 version)
 ### Listening (45 minutes, 100 questions)
 
-1) |	Photographs			|	10 questions
-2) |	Question-Response	|	30 questions
-3) |	Conversations 		|	30 questions about 10 conversations
-4) | 	Talks 				|	30 questions about 10 talks
+|1) |	Photographs			|	10 questions
+|2) |	Question-Response	|	30 questions
+|3) |	Conversations 		|	30 questions about 10 conversations
+|4) | 	Talks 				|	30 questions about 10 talks
 
 ### Reading (75 minutes, 100 questions)
-5) |	Incomplete Sentences 	|	40 questions
-6) |	Text Completion 		|	12 questions
-7) |	Reading Comprehension 	|	7-10 texts with 2-5 questions each<br>4 pairs of texts, 5 questions each
+|5) |	Incomplete Sentences 	|	40 questions
+|6) |	Text Completion 		|	12 questions
+|7) |	Reading Comprehension 	|	7-10 texts with 2-5 questions each<br>4 pairs of texts, 5 questions each
 # Changes to the TOEIC test in 2017
 The TOEIC test will change in May 2016.
 The IP test you take at university will change in May 2017

@@ -4,22 +4,22 @@ Do __all 6__ every time you change partners
 # A) Say Hello
 Hi/Hey/Morning/Afternoon/Evening
 
-How's it going? /// How are things? /// How’ve you been? |Good. You?
-What’s new? /// What's up? 					|Not much. You?
-Alright? 									|Alright. You?
+|How's it going? /// How are things? /// How’ve you been? |Good. You?
+|What’s new? /// What's up? 					|Not much. You?
+|Alright? 									|Alright. You?
 
 # B) Make small talk
 ### For people you just met:
-What’s your name?	|Where are you from? 	                    |Where do you live
-What's your major?  |What other classes are you taking?			|What circles are you in?
+|What’s your name?	|Where are you from? 	                    |Where do you live
+|What's your major?  |What other classes are you taking?			|What circles are you in?
 
 
 ### For people you see every week.
-Past 	|How was the weekend? 		|Get up to anything last night? |How was the holiday?
-Plans 	|Any plans tonight? 		|Are you doing anything this weekend? |Any plans for the holiday?
-School 	|How are classes going? 	|Have you chosen your seminar?
-Work	|How's work going? 			|How's job hunting going?
-Weather |Hot, isn't it?
+|Past 	|How was the weekend? 		|Get up to anything last night? |How was the holiday?
+|Plans 	|Any plans tonight? 		|Are you doing anything this weekend? |Any plans for the holiday?
+|School 	|How are classes going? 	|Have you chosen your seminar?
+|Work	|How's work going? 			|How's job hunting going?
+|Weather |Hot, isn't it?
 
 ### For when those questions get boring
 See [[Study Skills - ask good questions]]
@@ -39,12 +39,12 @@ Where? Who with? When? Why?
 
 # D) Fill your silence
 While you are speaking, use words like this to fill silences
-Any time        |Beginning      |Middle     |End
-----------------|----------------|----------|
-Ummmmm			|It’s like...   |sorta      |, right?
-Uh              |Well...        |kinda      |, ok?
-Er  	        |See...         |like       |, yknow?
-	            |I mean, ...    |maybe        |, yeah?
+|Any time        |Beginning      |Middle     |End
+|----------------|----------------|----------|
+|Ummmmm			|It’s like...   |sorta      |, right?
+|Uh              |Well...        |kinda      |, ok?
+|Er  	        |See...         |like       |, yknow?
+|	            |I mean, ...    |maybe        |, yeah?
 
 You can also just stretch sounds ("I think you shouuuuuuuuld read more")
 
@@ -60,14 +60,14 @@ You can also just stretch sounds ("I think you shouuuuuuuuld read more")
 
 # E) Backchannel
 ### While you are listening, use backchannels (相槌)
-Anytime///I'm listening |I'm happy for you  |I agree    |I'm surprised  |Other meanings
-------------------------|-------------------|-----------|-------------- |-----------
-Mm-Hmm                  |Good               |Exactly    |Woah!           |Ugh
-Uh-huh                  |Great              |Definitely |What!           |Oh no!
-yeah/yep                |Excellent          |True       |You’re kidding! |Oops!
-OK                      |Cool               |Right      |Nah!            |Huh?
-I see                   |Wow                |Sure       |Really?!        |
-Got it.                 |                   |           |
+|Anytime///I'm listening |I'm happy for you  |I agree    |I'm surprised  |Other meanings
+|------------------------|-------------------|-----------|-------------- |-----------
+|Mm-Hmm                  |Good               |Exactly    |Woah!           |Ugh
+|Uh-huh                  |Great              |Definitely |What!           |Oh no!
+|yeah/yep                |Excellent          |True       |You’re kidding! |Oops!
+|OK                      |Cool               |Right      |Nah!            |Huh?
+|I see                   |Wow                |Sure       |Really?!        |
+|Got it.                 |                   |           |
 
 * Use column  1 more when on the phone.
 * BE CAREFUL with tone of voice
@@ -76,11 +76,11 @@ Got it.                 |                   |           |
 # F) Finish
 Finishing a conversation has four parts:
 
-1) Start to say goodbye	|2) Give a reason		|3) Promise to contact	|4) Actual goodbye
-------------------------|-----------------------|-----------------------|---------------
-Oh, look at the time	|My bus is coming.		|See you next week 		|Cheerio (UK)
-Sorry, I have to go.	|Class is starting.		|Send me an email		|Bye
-Got to run.				|Someone’s at the door	|I'll call you/Call me.	|Bye then
+|1) Start to say goodbye	|2) Give a reason		|3) Promise to contact	|4) Actual goodbye
+|------------------------|-----------------------|-----------------------|---------------
+|Oh, look at the time	|My bus is coming.		|See you next week 		|Cheerio (UK)
+|Sorry, I have to go.	|Class is starting.		|Send me an email		|Bye
+|Got to run.				|Someone’s at the door	|I'll call you/Call me.	|Bye then
 
 
 # Full example

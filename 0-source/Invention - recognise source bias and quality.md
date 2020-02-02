@@ -67,11 +67,11 @@ Here are five sources (journal, newspaper)
 * Score them for bias and quality
 
 
-Bias                        |Quality
-____________________________|______________________
-Unbiased  = 5               |High Quality   = A
-Maybe a bit biased = 3      |Medium Quality     = B
-Totally Biased  = 1         |Low Quality    = C
+|Bias                        |Quality
+|____________________________|______________________
+|Unbiased  = 5               |High Quality   = A
+|Maybe a bit biased = 3      |Medium Quality     = B
+|Totally Biased  = 1         |Low Quality    = C
 
 
 

@@ -16,20 +16,20 @@ Use these to guide your brainstorm
 
 ### An effect with several causes
 For example, when you  [[Projects - write an essay about endangered animals]],
-					|Single Effect 				            |Multiple Causes
---------------------|---------------------------------------|---------------------
-The first reason 	|the Orangutan is becoming endangered 	|is poaching								
-The second reason 	|the Orangutan is becoming endangered 	|is fires caused by global warming
-The third reason 	|the Orangutan is becoming endangered 	|is the spread of palm oil plantations 
+|					|Single Effect 				            |Multiple Causes
+|--------------------|---------------------------------------|---------------------
+|The first reason 	|the Orangutan is becoming endangered 	|is poaching								
+|The second reason 	|the Orangutan is becoming endangered 	|is fires caused by global warming
+|The third reason 	|the Orangutan is becoming endangered 	|is the spread of palm oil plantations 
 <a href="https://openclipart.org/detail/29161/funnel-entonnoir"><img src="https://openclipart.org/download/29161/lmproulx-Funnel-Entonnoir.svg" /></a>
 
 ### A cause with several effects
 For example, when you [[Projects - write an essay about ethical consumption]] 
-					|Single cause 							|Multiple effects
---------------------|---------------------------------------|---------------------
-The first problem 	|caused by Tantalum mining 				|is child labour
-The second problem 	|caused by Tantalum mining 				|is the funding of armed groups who use child soldiers
-The third problem 	|caused by Tantalum mining 				|is pollution in the area around the mines
+|					    |Single cause 							|Multiple effects
+|--------------------   |---------------------------------------|---------------------
+|The first problem 	    |caused by Tantalum mining 				|is child labour
+|The second problem 	|caused by Tantalum mining 				|is the funding of armed groups who use child soldiers
+|The third problem 	    |caused by Tantalum mining 				|is pollution in the area around the mines
 <a href="https://openclipart.org/detail/131869/divergent"><img src="https://openclipart.org/download/131869/divergent.svg" /></a>
 
  
@@ -43,9 +43,9 @@ The third problem 	|caused by Tantalum mining 				|is pollution in the area arou
 Download the examples and templates. Follow them carefully
 
 ### Tip: Put your causes/effects in a meaningful order.
-first cause -> last cause 		|(lack of education -> poverty -> child labour)
-least serious -> most serious 	|(noise pollution -> water pollution -> child soldiers)
-local-national-world 			|(child labour -> pollution -> global warming)
+|first cause -> last cause 		|(lack of education -> poverty -> child labour)
+|least serious -> most serious 	|(noise pollution -> water pollution -> child soldiers)
+|local-national-world 			|(child labour -> pollution -> global warming)
 
 
 # Style

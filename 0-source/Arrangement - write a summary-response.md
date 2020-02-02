@@ -23,12 +23,12 @@ You will need to research how to:
 
 ## Example negative responses.
 You're looking EVIDENCE to PROVE your response. Look for:
-bad research            |However, the data supporting this is very old"///"However the research was funded by the company who makes it.
-bad assumptions         |However, this solution assumes that poor children all live in cities.
-missing data            |However, the NGO offers no data on hyow many children are actually using the schools.
-not fully effective     |However, only 7% of the product sold is Fair Trade, leaving 90% which might involve child labour.
-not ready yet           |However, the project will not start until 2019, so it is unclear if it is effective."
-PR                      |However, this small project is funded by a large tobacco company, which is known for employing child labour - as such it is likely this is an attempt at improving their image rather than an honest attempt to solve the issue, as shown by the fact that they make profits of 5 billion USD each year but only spent 100,000 of that on this project ("Tobacco," n.d.)
+|bad research            |However, the data supporting this is very old"///"However the research was funded by the company who makes it.
+|bad assumptions         |However, this solution assumes that poor children all live in cities.
+|missing data            |However, the NGO offers no data on hyow many children are actually using the schools.
+|not fully effective     |However, only 7% of the product sold is Fair Trade, leaving 90% which might involve child labour.
+|not ready yet           |However, the project will not start until 2019, so it is unclear if it is effective."
+|PR                      |However, this small project is funded by a large tobacco company, which is known for employing child labour - as such it is likely this is an attempt at improving their image rather than an honest attempt to solve the issue, as shown by the fact that they make profits of 5 billion USD each year but only spent 100,000 of that on this project ("Tobacco," n.d.)
 
 
 ## Example positive responses
@@ -117,25 +117,25 @@ Remember to [[Invention - quote and paraphrase]] properly
 
 # Argument Essay responses.
 ### There are four basic types of argument response
-1) Agree, 		|and add new details to the points.
-2) Agree		|and add new points to the thesis.
-3) Disagree,	|and attack with new details
-4) Disagree,	|and attack with new points
+|1) Agree, 		|and add new details to the points.
+|2) Agree		|and add new points to the thesis.
+|3) Disagree,	|and attack with new details
+|4) Disagree,	|and attack with new points
 
 ### For example
 Thesis: Cats are the best pets
-Summary/Argument 					|Response type 				|Response
-------------------------------------|---------------------------|-----------------
-Small - can live in an apartment 	|1 (Agree and add detail)	|The average cat weighs only 3-4kg.
-Small - can live in an apartment 	|3 (Disagree, attack point) |Some cats weigh 11kg - more than dogs
-Cute								|1 (Agree aand add detail)	|For example, my friend's cat:
-Cute								|3 (Disagree, attack point) |Not all. For example, hairless cats. Ugh.
-Friendly							|1 (Agree and add detail)	|Indeed, my friend’s cat likes me
-Friendly							|3 (Disagree, attack point) |Not all. My friend’s cat bites.
-Any true point  					|3 (Agree, add points) 		|This is true, and they are also clean
-Any true point 						|3 (Agree, add points) 		|In fact, they are also self-reliant
-Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also smelly
-Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also expensive
+|Summary/Argument 					|Response type 				|Response
+|------------------------------------|---------------------------|-----------------
+|Small - can live in an apartment 	|1 (Agree and add detail)	|The average cat weighs only 3-4kg.
+|Small - can live in an apartment 	|3 (Disagree, attack point) |Some cats weigh 11kg - more than dogs
+|Cute								|1 (Agree aand add detail)	|For example, my friend's cat:
+|Cute								|3 (Disagree, attack point) |Not all. For example, hairless cats. Ugh.
+|Friendly							|1 (Agree and add detail)	|Indeed, my friend’s cat likes me
+|Friendly							|3 (Disagree, attack point) |Not all. My friend’s cat bites.
+|Any true point  					|3 (Agree, add points) 		|This is true, and they are also clean
+|Any true point 						|3 (Agree, add points) 		|In fact, they are also self-reliant
+|Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also smelly
+|Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also expensive
 
 
 # Argument Essay Response Quiz

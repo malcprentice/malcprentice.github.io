@@ -30,16 +30,16 @@ See [[Style - use verbs for citation]]
 
 # What if there is no author?
 ### In the text
-Anonymous Articles/Chapters/Web 	|short title in quotes		|("How to park," 2013, April 1)
-Anonymous Books/Reports (rare) 		|short title in italics		|(<em>How to park</em>, 2013)
-Organisation is author? Use that. 	|(JAF, 2013)
+|Anonymous Articles/Chapters/Web 	|short title in quotes		|("How to park," 2013, April 1)
+|Anonymous Books/Reports (rare) 		|short title in italics		|(<em>How to park</em>, 2013)
+|Organisation is author? Use that. 	|(JAF, 2013)
 
 <red>Organisations are only authors for official reports, not for website pages. </red>
 
 ### In the References
-Anonymous Articles/Chapters/Web |full title in italics
-Anonymous Books/Reports (rare) 	|full title in italics
-Organisation is author? 		|Organisation name, plus full title in italics
+|Anonymous Articles/Chapters/Web |full title in italics
+|Anonymous Books/Reports (rare) 	|full title in italics
+|Organisation is author? 		|Organisation name, plus full title in italics
 
 
 <ref>
@@ -79,17 +79,17 @@ Separate with semicolons 1; 2; 3; 4
 * DON’T give page numbers when talking about a whole article/book
 * DO give page numbers for a specific fact from a specific page
 * DO give page numbers for any quotes (" ")
-Use p for one page 								|Smith (2010, p.  23)
-Use pp for multiple pages 						|Smith (2010, pp. 25-26)
-If no pages, use shortened subheading 			|(Smith, 2010, "Participants")
-If no pages or subheading, use paragraph number |(Smith, 2010, para. 5)
+|Use p for one page 								|Smith (2010, p.  23)
+|Use pp for multiple pages 						|Smith (2010, pp. 25-26)
+|If no pages, use shortened subheading 			|(Smith, 2010, "Participants")
+|If no pages or subheading, use paragraph number |(Smith, 2010, para. 5)
 
 ### In the references
-Journal articles 		|yes - beginning and end of article
-News Online 			|No
-Newspaper articles  	|yes - page(s) and section if needed
-Books 			  		|No
-Edited book chapter 	|yes - beginning and end of chapter
+|Journal articles 		|yes - beginning and end of article
+|News Online 			|No
+|Newspaper articles  	|yes - page(s) and section if needed
+|Books 			  		|No
+|Edited book chapter 	|yes - beginning and end of chapter
 
 <ref>
 Smith, M. (2015, May 5). Article title. <em>Journal of Something in Title Case and Italics, 23</em>(3), 221-256.
@@ -99,18 +99,18 @@ Smith, M. (2015, May 5). Chapter title. In A. Editor and B. Editor (Eds.), <em>T
 
 # When do I use "&" or "and"?
 ### In text
-Use "&"  INSIDE brackets.  	|English is great (Smith, Suzuki, & Jones, 2010).
-Use "and" OUTSIDE brackets 	|Smith, Suzuki, and Jones (2010) say that English is great.
+|Use "&"  INSIDE brackets.  	|English is great (Smith, Suzuki, & Jones, 2010).
+|Use "and" OUTSIDE brackets 	|Smith, Suzuki, and Jones (2010) say that English is great.
 
 ### In references
-Always use "&"  			|<ref>Smith, M., Suzuki, K., & Jones. P. (2010). _English._ Tokyo: Kodansha.</ref>
+|Always use "&"  			|<ref>Smith, M., Suzuki, K., & Jones. P. (2010). _English._ Tokyo: Kodansha.</ref>
 
 <red>Don't forget the last comma</red>: _1, 2, & 3_  not _1, 2 & 3_
  
 
 # How do I cite Acronyms like "UNESCO" or "SUA"?
-First time 		|(United Nations High Commision for Refugees [UNHCR], 2000)
-Second time  	|(UNHCR, 2000)
+|First time 		|(United Nations High Commision for Refugees [UNHCR], 2000)
+|Second time  	|(UNHCR, 2000)
 
 # What order are the references in?
 * Alphabetical order first, then year order
@@ -135,10 +135,10 @@ If >7 authors, list the FIRST SIX authors, three dots, and the LAST author. No "
 <ref>First, F., Second, S., Third, T, Fourth, F., Fifth, F., Sixth, S., ... Last, L. (2013). </ref>
 
 ## In Text
-2 authors 		|cite both EVERY TIME 							|(First & Second, 2013)
-3-5 authors 	|cite in normal way the FIRST TIME 				|(First, Second, Third, Fourth, & Fifth, 2013)
-3-5 authors 	|use short "et al." version SECOND TIME ONWARDS |(First et al., 2013)
-6+  authors 		|use short version EVERY TIME  					|(First et al., 2013)
+|2 authors 		|cite both EVERY TIME 							|(First & Second, 2013)
+|3-5 authors 	|cite in normal way the FIRST TIME 				|(First, Second, Third, Fourth, & Fifth, 2013)
+|3-5 authors 	|use short "et al." version SECOND TIME ONWARDS |(First et al., 2013)
+|6+  authors 		|use short version EVERY TIME  					|(First et al., 2013)
 
 
 <red>Careful!</red> ("et al<red>.</red>", not "et al")

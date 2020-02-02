@@ -1,3 +1,4 @@
 Under construction. Just collecting links for now.
 
-[[Invention - avoid getting onioned]]
+[[Invention - avoid fallacies]]
+[[Invention - recognise source bias and quality]]

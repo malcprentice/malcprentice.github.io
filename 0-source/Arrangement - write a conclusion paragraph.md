@@ -17,14 +17,14 @@ The last paragraph of an essay often has the pattern:
 ** (e.g. "will outline some solutions" in intro becomes "looked at some answers" in the conclusion. 
 
 ### Some useful patterns
-Genre				| Example Topic Sentence
---------------------|-------------------------------------------------------------
-Formal 				|This essay described X (your thesis statement in different words)
-COMPARE CONTRAST	|In summary, X and Y are different in terms of A, B and C. A is
-ARGUMENT 			|In conclusion, there are arguments both for and against X.
-PROCESS 			|In brief, there are three stages to TOPIC - these three stages are...
-PROBLEM-SOLUTION 	|This essay examined some issues caused by X and some possible solutions to those issues
-Informal			|All in all, it seems that X  /// On the whole, /// In the end,
+|Genre				| Example Topic Sentence
+|--------------------|-------------------------------------------------------------
+|Formal 				|This essay described X (your thesis statement in different words)
+|COMPARE CONTRAST	|In summary, X and Y are different in terms of A, B and C. A is
+|ARGUMENT 			|In conclusion, there are arguments both for and against X.
+|PROCESS 			|In brief, there are three stages to TOPIC - these three stages are...
+|PROBLEM-SOLUTION 	|This essay examined some issues caused by X and some possible solutions to those issues
+|Informal			|All in all, it seems that X  /// On the whole, /// In the end,
 
 ## B) Summary of body paragraphs
 * e.g. "In summary there are three main problems caused by X - 1, 2, and 3 - of which"

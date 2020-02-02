@@ -29,14 +29,14 @@ There are three reasons for X  A, B, and C.
  
 ### CAREFULLY follow one of these patterns
 ### 1) Hyphen
-There are three main cities 	|-| A, B, and C. 
-There are three reasons why X 	|-| A, B, and C. 
-Three serious problems 			|-| A, B, and C.
+|There are three main cities 	|-| A, B, and C. 
+|There are three reasons why X 	|-| A, B, and C. 
+|Three serious problems 			|-| A, B, and C.
 
 ### 2) Colon
-... three cities|:| A, B, and C. 
-There are three reasons why X|:|  A, B, and C. 
-three problems|:| A, B, and C.
+|... three cities|:| A, B, and C. 
+|There are three reasons why X|:|  A, B, and C. 
+|three problems|:| A, B, and C.
 
 ### 3) Full sentence
 No colon or hyphen (more difficult to get right, but better style)

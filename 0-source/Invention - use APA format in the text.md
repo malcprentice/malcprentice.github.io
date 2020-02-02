@@ -2,15 +2,15 @@ Use this format in your essay paragraphs, and in your report summary
 Don't forget to also [[Invention - use APA format in reference lists]]
 
 # Pattern 1: APA brackets style (recommended)
-A book 							|name and year	 			|(Smith, 2015)
-A newspaper 					|name, year, month+ date 	|(Smith, 2015, April 2)
-No date?	 					|use n.d. 					|(Smith, n.d.)
-No author? 						|use the title in quotes///comma goes __inside__ the quotes  	|("Title," 2015, April 2)
-No author or date? 				|Title +  n.d. 				|("Title," n.d.)
-2 authors? 						|use "&" 					|(Smith & Jones, 2015)
-3-4 authors? 					|use commas +  &  			|(Smith, Jones, & Suzuki, 2015) 
-want to give a page number? 	|use p.						|(Smith, 2008, p. 56)
-2+  sources?         			|use semicolon (;)				|(Smith, 2003; Ellis, 2004)
+|A book 							|name and year	 			|(Smith, 2015)
+|A newspaper 					|name, year, month+ date 	|(Smith, 2015, April 2)
+|No date?	 					|use n.d. 					|(Smith, n.d.)
+|No author? 						|use the title in quotes///comma goes __inside__ the quotes  	|("Title," 2015, April 2)
+|No author or date? 				|Title +  n.d. 				|("Title," n.d.)
+|2 authors? 						|use "&" 					|(Smith & Jones, 2015)
+|3-4 authors? 					|use commas +  &  			|(Smith, Jones, & Suzuki, 2015) 
+|want to give a page number? 	|use p.						|(Smith, 2008, p. 56)
+|2+  sources?         			|use semicolon (;)				|(Smith, 2003; Ellis, 2004)
 
 # Other patterns
 Pattern 1 above (brackets) is easiest
@@ -26,43 +26,43 @@ Remember, though:
 
 
 ## Pattern 2: NVF (Name-Verb-Finding)
-Name 					|Verb 			|Finding
+|Name 					|Verb 			|Finding
 |-----------------------|---------------|---------------
-Smith (1999)			|stated (that)	|X is Y
-Smith (1999, p. 31)		|found (that)	|not all X are Y
-Smith and Jones (2001)	|noted (that)	|"QUOTE"
+|Smith (1999)			|stated (that)	|X is Y
+|Smith (1999, p. 31)		|found (that)	|not all X are Y
+|Smith and Jones (2001)	|noted (that)	|"QUOTE"
 
 
 ## Pattern 3: PNVCF (Preposition-Name-Verb-Comma-Finding)
-Preposition		|Name						|Verb		|Finding
+|Preposition		|Name						|Verb		|Finding
 |---------------|---------------------------|-----------|--------
-As				|Smith (1999)				|stated 	|, X is Y
-				|Smith (1999, p. 31)		|found 		|, not all X are Y
-				|Smith and Jones (2001)		|noted		|, "QUOTE"
+|As				|Smith (1999)				|stated 	|, X is Y
+|				|Smith (1999, p. 31)		|found 		|, not all X are Y
+|				|Smith and Jones (2001)		|noted		|, "QUOTE"
 
 ## Pattern4: INCF (Intro-Name-Comma-Finding)
-Intro			|Name WITH COMMA			|Finding
----------------	|---------------------------|--------
-According to	|Smith (1999),				| X is Y
-In the words of	|Smith (1999, p. 31),		| not all X are Y
-To quote		|Smith and Jones (2001),	| "QUOTE"
+|Intro			|Name WITH COMMA			|Finding
+|---------------	|---------------------------|--------
+|According to	|Smith (1999),				| X is Y
+|In the words of	|Smith (1999, p. 31),		| not all X are Y
+|To quote		|Smith and Jones (2001),	| "QUOTE"
 
 ## Pattern 5: SNVF (Source Type - Name - Verb - Finding)
-Source Type				|Name						|Verb (that) 	|Finding
------------------------	|---------------------------|---------------|--------
-An article by			|Smith (1999)				|stated (that)	| X is Y
-A report by				|Smith (1999, p. 31)		|found (that)	| not all X are Y
-A survey conducted by	|Smith and Jones (2001)		|noted (that)	| "QUOTE"
-An interview study by 	|
+|Source Type				|Name						|Verb (that) 	|Finding
+|-----------------------	|---------------------------|---------------|--------
+|An article by			|Smith (1999)				|stated (that)	| X is Y
+|A report by				|Smith (1999, p. 31)		|found (that)	| not all X are Y
+|A survey conducted by	|Smith and Jones (2001)		|noted (that)	| "QUOTE"
+|An interview study by 	|
 
 
 
 ## Pattern 6: NMVF (Name - Method - Verb - Finding)
-Source Type				|Method											|Verb +  that 	|Finding
------------------------	|-----------------------------------------------|---------------|--------
-Smith (1999)			|, having interviewed 12 university students, 	|said that		| X is Y
-Smith (1999, p. 31)		|, in a review of the literature on  dyslexia, 	|found that 	| not all X are Y
-Smith and Jones (2001)	|, using a survey of 134 High school students, 	|noted that		| "QUOTE"
+|Source Type				|Method											|Verb +  that 	|Finding
+|-----------------------	|-----------------------------------------------|---------------|--------
+|Smith (1999)			|, having interviewed 12 university students, 	|said that		| X is Y
+|Smith (1999, p. 31)		|, in a review of the literature on  dyslexia, 	|found that 	| not all X are Y
+|Smith and Jones (2001)	|, using a survey of 134 High school students, 	|noted that		| "QUOTE"
 
 ## Pattern 7: Inserted method
 You can also insert methods into other sentences. See [[Style - use a parenthetical statement]]

@@ -36,14 +36,14 @@ However, QW1 in class is by hand. For homework, most classes type.
 # Minimum Word Count
 If you do less than the following, you have NOT done your homework.
 
-Time            		|Typed C/D			|Typed GCP
---------------------	|------------------ |---------
-QW 1-10         		|100 words minimum	|100
-QW 11-20        		|150 words minimum	|150
-QW 21-43        		|200 words minimum	|200
-QW 1-10 (Fall)  		|200 words minimum	|200
-QW 11-20        		|225 words minimum	|250
-QW 21-43        		|250 words minimum	|300
+|Time            		|Typed C/D			|Typed GCP
+|--------------------	|------------------ |---------
+|QW 1-10         		|100 words minimum	|100
+|QW 11-20        		|150 words minimum	|150
+|QW 21-43        		|200 words minimum	|200
+|QW 1-10 (Fall)  		|200 words minimum	|200
+|QW 11-20        		|225 words minimum	|250
+|QW 21-43        		|250 words minimum	|300
 
 
 

@@ -5,10 +5,10 @@
 
 ### Ask in class
 <img src="https://openclipart.org/download/50287/eleve-posant-une-question.svg" />
-Excuse me?                      |Once more please.              |Please speak slowly.
-What does "dog" mean?           |How can I say "犬"?            |How do you spell "dog"?
-I don't know.                   |I don't understand.            |I can't find.... 
-Could you give an example?      |Could you explain that again?  |Teacher, the screen is off!   
+|Excuse me?                      |Once more please.              |Please speak slowly.
+|What does "dog" mean?           |How can I say "犬"?            |How do you spell "dog"?
+|I don't know.                   |I don't understand.            |I can't find.... 
+|Could you give an example?      |Could you explain that again?  |Teacher, the screen is off!   
 
 ### Ask outside class, if you have bigger problem or a longer question:
 * <blue> __Come to my office!__ </blue> Schedule here: [[Schedules - Malc's schedule]]
@@ -16,19 +16,19 @@ Could you give an example?      |Could you explain that again?  |Teacher, the sc
 * Ask your seniors or classmates
 
 # 2) I will come to class, and be on time.
-1m after bell	 		|= late          |(if I have to pick up your namecard)
-> 15 mins after bell	|= absent        |(unless you have a train slip, etc)
-2 x late				|= 1 x absent    |
-> 6 absences            |= fail          |(unless you have a kouketsu, doctor's note, etc)
+|1m after bell	 		|= late          |(if I have to pick up your namecard)
+|> 15 mins after bell	|= absent        |(unless you have a train slip, etc)
+|2 x late				|= 1 x absent    |
+|> 6 absences            |= fail          |(unless you have a kouketsu, doctor's note, etc)
 
 In some classes, you can be absent up to 1/3 of the course
 <red>In THIS class</red>, you will fail if you miss __7__ 
 
 # 3) I will do all the homework
 90 minute class = 90 minutes of homework. No excuses! 
-"I didn’t know the homework"    |Ask a friend, check the syllabus, email me, or come in office hours!
-"I left my homework at home"	|Use Dropbox, Google Drive, etc
-"The printer broke"			    |Printers always break. Print at least 1hr before class!
+|"I didn’t know the homework"    |Ask a friend, check the syllabus, email me, or come in office hours!
+|"I left my homework at home"	|Use Dropbox, Google Drive, etc
+|"The printer broke"			    |Printers always break. Print at least 1hr before class!
 
 # 4) I know participation points are important. I will avoid <red>NG</red> points and get <green>OK</green> points for extra work.  
 ### You must earn <green>OK</green> points to get a high grade

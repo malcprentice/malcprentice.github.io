@@ -20,8 +20,8 @@ Probably, someone was asked to
 ** choose something that needs thought
 
 # Examples
-** make sure you have the correct arrangement
-** one thing = colunteer, three things = robot
+* make sure you have the correct arrangement
+* one thing = colunteer, three things = robot
 
 # Arrangement - Overview
 There are two basic types
@@ -238,11 +238,11 @@ Three suggestions. Different paragraphs should have different patterns to avoid 
 # Common Mistakes
 ## Not a compare contrast
 This is NOT like when you [[Arrangement - write a compare-contrast]]
-criteria-analysis 										|Compare contrast
----------------------------------------------------------|-----------------------
-1-3 items analysed										|2 items compares
-8 paragraph sectional essay///Intro+ 3 criterion+ 3 analysis+ conclusion |4-5 paragraphs:///Intro-thing1-thing2-conclusion///OR///Intro-topic1-topic2-topic3-conclusion
-Things being analysed not mentioned until paragraph 4 	|Thing being analysed mentioned in paragraph 1, and maybe topic of paragraph 2
+|criteria-analysis 										|Compare contrast
+|---------------------------------------------------------|-----------------------
+|1-3 items analysed										|2 items compares
+|8 paragraph sectional essay///Intro+ 3 criterion+ 3 analysis+ conclusion |4-5 paragraphs:///Intro-thing1-thing2-conclusion///OR///Intro-topic1-topic2-topic3-conclusion
+|Things being analysed not mentioned until paragraph 4 	|Thing being analysed mentioned in paragraph 1, and maybe topic of paragraph 2
 
 ## Criteria should stand alone
 I should be able to take your criteria, and use them to assess three completely different choices. 

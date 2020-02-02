@@ -30,35 +30,35 @@ A4 40 pocket plastic folder
 No text. Materials supplied by teacher
 
 # Evaluation/Assessment
-Item								|% 				|Minimum///(NG points if not)   |OK points for extra?///see [[Study Skills - get independent learning points]] |Instructions
-------------------------------------|---------------|-------------------------------|-----------------------------------------------|-----------------------------------
-Homework (Powerpoint RR) 			|25%			|5 presentations				|5 OK points for written RR on Powerpoint topic |see weekly schedule
-Paragraphs							|30%			|3 paragraphs (ABC) (10% each) 	|No  	 										|Spring: [[Projects - write an essay about ethical consumption]]///Fall: [[Projects - write an essay about endangered animals]]
-Participation 						|20% 			|=NG-Attendance+ OK              |Participation _is_ OK points					|see [[Study Skills - get independent learning points]]
-English Forum						|5% 	        |5% for 5 visits 				|max 5 OK points for 5 more (total 10)			|see [[Study Skills - use the Self Access Centre]]
-Quickwrite Activities (QW)			|5% 	        |28 minimum 				  	|max 5 OK points for 15 extra (total 43)		|see [[Study Skills - do a quickwrite]]
-Speed Reading (SR)           		|5% 			|1 book (20 readings) minimum 	|max 5 OK points for 20 extra (total 40)		|see [[Study Skills - do a speed reading]]
-Vocabulary Project (V)				|10% (test)		|10 words per class (280 total) |No                                             |see [[Study Skills - learn vocabulary]]
+|Item								|% 				|Minimum///(NG points if not)   |OK points for extra?///see [[Study Skills - get independent learning points]] |Instructions
+|------------------------------------|---------------|-------------------------------|-----------------------------------------------|-----------------------------------
+|Homework (Powerpoint RR) 			|25%			|5 presentations				|5 OK points for written RR on Powerpoint topic |see weekly schedule
+|Paragraphs							|30%			|3 paragraphs (ABC) (10% each) 	|No  	 										|Spring: [[Projects - write an essay about ethical consumption]]///Fall: [[Projects - write an essay about endangered animals]]
+|Participation 						|20% 			|=NG-Attendance+ OK              |Participation _is_ OK points					|see [[Study Skills - get independent learning points]]
+|English Forum						|5% 	        |5% for 5 visits 				|max 5 OK points for 5 more (total 10)			|see [[Study Skills - use the Self Access Centre]]
+|Quickwrite Activities (QW)			|5% 	        |28 minimum 				  	|max 5 OK points for 15 extra (total 43)		|see [[Study Skills - do a quickwrite]]
+|Speed Reading (SR)           		|5% 			|1 book (20 readings) minimum 	|max 5 OK points for 20 extra (total 40)		|see [[Study Skills - do a speed reading]]
+|Vocabulary Project (V)				|10% (test)		|10 words per class (280 total) |No                                             |see [[Study Skills - learn vocabulary]]
 
 
 Read this: [[Resources - grading system]]
 
 ## Report Content
 ### Report List Spring
-RR1 = [[Projects - outline]]					|Practice - not graded 	|Print only
-RR2 = [[Projects - outline]]					|10%					|Print and email
-RR3 = [[Projects - outline a lecture]] 			|Practice - not Graded 	|Print only
-RR4 = [[Projects - outline a lecture]]			|10%					|Print and email
-RR5 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|Practice - not Graded 	|Print only
-RR6 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|10%					|Print and email
+|RR1 = [[Projects - outline]]					|Practice - not graded 	|Print only
+|RR2 = [[Projects - outline]]					|10%					|Print and email
+|RR3 = [[Projects - outline a lecture]] 			|Practice - not Graded 	|Print only
+|RR4 = [[Projects - outline a lecture]]			|10%					|Print and email
+|RR5 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|Practice - not Graded 	|Print only
+|RR6 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|10%					|Print and email
 
 ### Report List Fall
-RR1 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|Practice - not Graded 	|Print only
-RR2 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|10%					|Print and email
-RR3 = [[Projects - outline an academic article]] 				|Practice - not Graded 	|Print only
-RR4 = [[Projects - outline an academic article]] 				|10%					|Print and email
-RR5 = [[Projects - outline and combine sources]] (i.e. lecture+ academic article	|Practice - not Graded 	|Print only
-RR6 = [[Projects - outline and combine sources]] (i.e. lecture+ academic article	|10%					|Print and email
+|RR1 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|Practice - not Graded 	|Print only
+|RR2 = [[Projects - outline and combine sources]] (i.e. RR3+ RR1	|10%					|Print and email
+|RR3 = [[Projects - outline an academic article]] 				|Practice - not Graded 	|Print only
+|RR4 = [[Projects - outline an academic article]] 				|10%					|Print and email
+|RR5 = [[Projects - outline and combine sources]] (i.e. lecture+ academic article	|Practice - not Graded 	|Print only
+|RR6 = [[Projects - outline and combine sources]] (i.e. lecture+ academic article	|10%					|Print and email
 
 # Weekly schedule for Fall 2019
 Small class, so schedule changes every week.

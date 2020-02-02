@@ -171,16 +171,16 @@ Outlines should be FAST to write and FAST to read:
 ** "2/3 growth @ Pepsi = better foods"
 
 ## Common codes
- = 	|is/is same as/leads to
- # 	|number
- X 	|times
- > 	|more than
- < 	|less than
- n/a |Not applicable
- wo |without
- +  	|and/plus
- ~ 	|about
- / 	|or
+| = 	|is/is same as/leads to
+| # 	|number
+| X 	|times
+| > 	|more than
+| < 	|less than
+| n/a |Not applicable
+| wo |without
+| +  	|and/plus
+| ~ 	|about
+| / 	|or
 
 
 # 5)Write a one sentence summary

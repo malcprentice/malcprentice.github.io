@@ -20,12 +20,12 @@ Capitalize important words:
 See [[Invention - avoid common APA format problems]] under "When do I use Title Case and Italics in the references?"
 But basically: if you open a source, and it contains work by many people, use title case for the thing you open:
 
-Type		|Title Case 			|No title case
-------		|------					|------
-News 		|Newspaper title 		|Newspaper article title
-Book 		|Book by one author	 	|Edited book, with chapters by many authors
-Journal 	|Journal title 			|Journal article title
-Website		|Nothing 				|Nothing
+|Type		|Title Case 			|No title case
+|------		|------					|------
+|News 		|Newspaper title 		|Newspaper article title
+|Book 		|Book by one author	 	|Edited book, with chapters by many authors
+|Journal 	|Journal title 			|Journal article title
+|Website		|Nothing 				|Nothing
 
 ### Even if title is _not_ in Title Case, follow the normal capital letter rules:
 * Names, cities, etc still get capital letters

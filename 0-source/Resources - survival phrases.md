@@ -12,11 +12,11 @@ Download a zip file with 18 languages here: http://www.victoria.ac.nz/lals/about
 * Self introduction
 
 # 2. Buying and bargaining
-Do you have a/any ...?              |Is there a/any...?
-This (one), That (one)              |One of these/those
-How much (quantity)?                |half    all (one) more  (one) less
-How much ($)                    	|It's $3.99.
-Do you have something cheaper?      |It's too expensive  Can you lower the price?
+|Do you have a/any ...?              |Is there a/any...?
+|This (one), That (one)              |One of these/those
+|How much (quantity)?                |half    all (one) more  (one) less
+|How much ($)                    	|It's $3.99.
+|Do you have something cheaper?      |It's too expensive  Can you lower the price?
 
 Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somewhere)
 
@@ -53,9 +53,9 @@ Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somew
 * Phrases to start and end a meal in a home/restaurant, if any (e.g. "Bon Appetit"..."That was delicious"..."Gochisosama")
 
 # 5. Answering questions about yourself
-What do you do?                     	|I am a (teacher)/tourist
-Do you speak English/Chinese            |A little
-How long have you lived/been here       |For X days/weeks/months
+|What do you do?                     	|I am a (teacher)/tourist
+|Do you speak English/Chinese            |A little
+|How long have you lived/been here       |For X days/weeks/months
 
 # 6. Common situations
 * Asking for help if you are in trouble (sick, lost, lost property, etc)
@@ -67,13 +67,13 @@ How long have you lived/been here       |For X days/weeks/months
 * What questions will you need to ask/answer?
 
 Common small talk topics
-Daily life                 		|Entertainment and Media
-Family and friends              |Food and drink
-Hobbies, leisure and Sports     |House and home
-Jobs and work               	|Medicine, exercise, body and health
-Places and buildings            |School and study
-Shopping, money and Clothes     |The natural world and weather
-Travel, Holidays and transport 	| ...
+|Daily life                 		|Entertainment and Media
+|Family and friends              |Food and drink
+|Hobbies, leisure and Sports     |House and home
+|Jobs and work               	|Medicine, exercise, body and health
+|Places and buildings            |School and study
+|Shopping, money and Clothes     |The natural world and weather
+|Travel, Holidays and transport 	| ...
 
 
 

@@ -1,5 +1,5 @@
 |Symbol |Meaning            |I’m studying English now.
---------|-------------------|--------------------------
+|--------|-------------------|--------------------------
 |^      |Missing            |I studying English now.
 |X      |eXtra word         |I’m studying the English at now.
 |P      |Punctuation        |Im studying English now

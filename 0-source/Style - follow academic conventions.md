@@ -13,10 +13,10 @@ For example, Engineering is usually stricter on using "I" than Education.
 
 # Do not use "you" or "we"
 Unless you mean EVERYONE:
-"We did a survey"                |bad, because "we" = your research team |
-"We must protect the planet"     |OK, because "we" = all humans
-"After that, you should look at" |bad, because "you" means the reader
-"When you study English, you also learn culture" |OK, because "you" means all students
+|"We did a survey"                |bad, because "we" = your research team |
+|"We must protect the planet"     |OK, because "we" = all humans
+|"After that, you should look at" |bad, because "you" means the reader
+|"When you study English, you also learn culture" |OK, because "you" means all students
 
 It's safer just to avoid "we" and "you" completely. Use passive, third person, "it is"
 * "A survey was done"

@@ -10,17 +10,17 @@ My view on this is that
 I (don't) believe
 
 # Agreeing and disagreeing
-Give your level of agreement 	|say why and/or disagree
---------------------------------|------------------------
-I agree that X  				|, however
-I agree up to a point			|, but
-I agree with you/Miku 			|, since
-I mostly agree with you/Miku 	|, because
-I see your point	 			|, partly since
-I'm not sure I agree 			|, mainly as
-								|, for two reasons. First
-								|. One reason is that
-								|. The main reason is
+|Give your level of agreement 	|say why and/or disagree
+|--------------------------------|------------------------
+|I agree that X  				|, however
+|I agree up to a point			|, but
+|I agree with you/Miku 			|, since
+|I mostly agree with you/Miku 	|, because
+|I see your point	 			|, partly since
+|I'm not sure I agree 			|, mainly as
+|								|, for two reasons. First
+|								|. One reason is that
+|								|. The main reason is
 
 # Signposting back to something said earlier
 You don't always immediately disagree with what was said, so later you need to refer back.
@@ -89,13 +89,13 @@ OK, so I think we're finished with this topic. Who's next?
 
 
 # Follow up: Challenge facts and get details
-Specifically?       		|Specifically,
-How come?                   |Because
-Why?                        |Mainly since
-What makes you think that?  |I saw/heard/read
-For example?                |For example,
-For instance?               |For instance
-Can you give an example?    |Well, one would be (that/when/where)
+|Specifically?       		|Specifically,
+|How come?                   |Because
+|Why?                        |Mainly since
+|What makes you think that?  |I saw/heard/read
+|For example?                |For example,
+|For instance?               |For instance
+|Can you give an example?    |Well, one would be (that/when/where)
 
 
 # Giving details/reasons/examples

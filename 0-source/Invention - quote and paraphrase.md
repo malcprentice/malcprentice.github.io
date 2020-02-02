@@ -9,10 +9,10 @@
 ** Usually, you should paraphrase. ALWAYS give a page number if you can
 
 You can make SMALL changes to quotes if they don't change the meaning:
-Original			| "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"
-Shorter				| "He doesn’t like cats ... he doesn’t like dogs either"
-Fix grammar			| "He doesn't like cats ... [or] dogs"
-Fix pronouns		| "[Bob] doesn't like cats, ... [or] dogs"
+|Original			| "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"
+|Shorter				| "He doesn’t like cats ... he doesn’t like dogs either"
+|Fix grammar			| "He doesn't like cats ... [or] dogs"
+|Fix pronouns		| "[Bob] doesn't like cats, ... [or] dogs"
 
 # Option 2: Paraphrase
 * Paraphrase - use your own words and grammar

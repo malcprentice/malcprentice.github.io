@@ -3,8 +3,8 @@ NEW - the old "Campus RLS" was removed in 2019
 
 # Overview
 There are two basic types of integrated speaking
-Read, Listen, Speak     |(RLS, Q2) (used to be Q3)      |Lecture only
-Listen and Speak        |(LS, Q3&4) (Used to be 5&6     |Lecture and Campus
+|Read, Listen, Speak     |(RLS, Q2) (used to be Q3)      |Lecture only
+|Listen and Speak        |(LS, Q3&4) (Used to be 5&6     |Lecture and Campus
 ¥
 
 # General tips
@@ -149,19 +149,19 @@ In this set of materials, the reading passage describes a migration by one cultu
 >>In this set of materials, the reading passage is __a__ notice (message, announcement, etc) and the listening passage shows two students’ reaction to (the message, the announcement, it).
 
 ### 2) "The reading passage is..."
-a notice about X        |from the campus administration |It states/lists (that) X  
-a message about X       |from the university president  |It reminds students to X
-an announcement about X  |from a teacher                |(Additionally,) it notes X
-a part of a syllabus    |about X / from Y               | It warns that  X
+|a notice about X        |from the campus administration |It states/lists (that) X  
+|a message about X       |from the university president  |It reminds students to X
+|an announcement about X  |from a teacher                |(Additionally,) it notes X
+|a part of a syllabus    |about X / from Y               | It warns that  X
 
 
 ### 3) "In the listening passage, two students"   
 
-discuss                         |the notice.    |The woman  X, while the man Y
-discuss how they feel about     |the message.   |Neither.... Also
-express surprise about          |the part of the syllabus.   |Both... Additionally, they
-express disappointment about     |  |
-have a conversation about       |     |
+|discuss                         |the notice.    |The woman  X, while the man Y
+|discuss how they feel about     |the message.   |Neither.... Also
+|express surprise about          |the part of the syllabus.   |Both... Additionally, they
+|express disappointment about     |  |
+|have a conversation about       |     |
 
 
 ## RLS CampusExamples

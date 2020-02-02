@@ -7,14 +7,14 @@ Read those sheets, then read these examples:
 ### Example 1
 >><red>These days, it is hard to see animals in the wild.</red> <purple>One place you can see animals is the zoo, but it is important to choose a zoo that takes good care of animals, </purple> <green>because if we give money to a bad zoo we are paying for animals to be badly treated.</green> This essay <pink>argues</pink> <orange>that Ueno Zoo</orange> is the best in the world, for three reasons: <blue>they have lots of animals, the animals have nice homes, and it is easy to access.</blue>
 
-Section							|content
---------------------------------|-----------------------------------
-General Background: 			|<red>seeing animals</red>
-Specific Background: 			|<purple>zoos to see animals - good or bad</purple>
-Importance background:			|<green>don't pay for cruelty</green>
-Thesis statement Topic: 		|<orange>Ueno Zoo</orange>
-Thesis statement Main idea: 	|<pink>argue</pink>
-Keyword outline:				|<blue>lots of animals / nice homes / easy access</blue>
+|Section							|content
+|--------------------------------|-----------------------------------
+|General Background: 			|<red>seeing animals</red>
+|Specific Background: 			|<purple>zoos to see animals - good or bad</purple>
+|Importance background:			|<green>don't pay for cruelty</green>
+|Thesis statement Topic: 		|<orange>Ueno Zoo</orange>
+|Thesis statement Main idea: 	|<pink>argue</pink>
+|Keyword outline:				|<blue>lots of animals / nice homes / easy access</blue>
 
 ### Example 2 - can you name the parts?
 >><red>As Prime Minister Abe noted recently, the Japanese economy is "improving rapidly".</red> This is largely due to <purple>increased car exports to China.</purple> <green>Since the Japanese economy relies heavily on car exports, this is an important topic for our future.</green> This essay <pink>compares</pink> <orange>the approach of two car makers</orange> to this expanding market - <blue>Mitsubishi and Suzuki.</blue>

@@ -6,14 +6,14 @@ _Cohesion_ is when you use special English phrases to tell me:
 * What each sentence does ("Signalling")
 
 ### This page is about signalling:
-This an example sentence            |"For example, ..."
-This is another example             |"A second example of this would be..."
-This an effect                      |"This is because..."
-This a disagreeing response         |"However, ..."
-THis is an agreeing response        |"In fact, ..."
-This a another supporting point     |"Additionally, ..."
-This is a summary                   |"In summary, ..."
-This is a new reason on same topic  |"Another reason X is a problem  is that"
+|This an example sentence            |"For example, ..."
+|This is another example             |"A second example of this would be..."
+|This an effect                      |"This is because..."
+|This a disagreeing response         |"However, ..."
+|THis is an agreeing response        |"In fact, ..."
+|This a another supporting point     |"Additionally, ..."
+|This is a summary                   |"In summary, ..."
+|This is a new reason on same topic  |"Another reason X is a problem  is that"
 
 
 # Basics: So, Or, But, Because, And
@@ -80,11 +80,11 @@ Because works both ways, but be careful of the order
 * See also [[Arrangement - write an argument]]
 
 # Numbers
-Around          |10%        |of Y are Z.
-More than       |7000       |of Y are not Z.
-Less than       |five       |of those Y are Z.
-Approximately   |half       |Ys are Z.
-Up to           |one third  |of Y could be Z.
+|Around          |10%        |of Y are Z.
+|More than       |7000       |of Y are not Z.
+|Less than       |five       |of those Y are Z.
+|Approximately   |half       |Ys are Z.
+|Up to           |one third  |of Y could be Z.
 
 # Signal quote/research
 * See [[Invention - quote and paraphrase]]

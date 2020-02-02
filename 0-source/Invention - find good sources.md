@@ -50,11 +50,11 @@ I don't expect your to read these for your essay, but use them if you have read 
 ## 2) Choose the best keywords
 ### You should have collected something like this:
 
-Essay               |Problem keywords                                       |Solution keywords                          
---------------------|-------------------                                    |------------------- 
-Endangered animals  |Pollution, hunting, poaching, global warming, bycatch  |RRR, boycott, product labelling,                                  
-Ethical Consumption |Air/Water/Soil pollution                               |Wildlife preserves, farmer compensation, CITES, ban on hunting                              
-Criteria-Analysis   |Cost, weight, size, durability, battery time, sustainability, screen size, safety,                         
+|Essay               |Problem keywords                                       |Solution keywords                          
+|--------------------|-------------------                                    |------------------- 
+|Endangered animals  |Pollution, hunting, poaching, global warming, bycatch  |RRR, boycott, product labelling,                                  
+|Ethical Consumption |Air/Water/Soil pollution                               |Wildlife preserves, farmer compensation, CITES, ban on hunting                              
+|Criteria-Analysis   |Cost, weight, size, durability, battery time, sustainability, screen size, safety,                         
 
 ### Side note:  Keywords for problems-solutions essays
 * Solution keywords do not need to be the same as problem keywords. A general solution to the problem is OK. 

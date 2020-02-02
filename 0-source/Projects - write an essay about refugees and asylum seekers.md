@@ -3,9 +3,9 @@
 
 >>The terms asylum-seeker and refugee are often confused: an asylum-seeker is someone who says he or she is a refugee, but whose claim has not yet been definitively evaluated...Those judged through proper procedures not to be refugees, nor to be in need of any other form of international protection, can be sent back to their home countries. Source: http://www.unhcr.org/pages/49c3646c137.html
 
-"Internally displaced people" 	|in a different part of their own country 			 
-"Asylum Seekers" 				|in another country, __applying for__ official status 
-"Refugees" 						|in another country, with official status 
+|"Internally displaced people" 	|in a different part of their own country 			 
+|"Asylum Seekers" 				|in another country, __applying for__ official status 
+|"Refugees" 						|in another country, with official status 
 
 # Invention
 Take handwritten notes first. Be ready to present your country next class.

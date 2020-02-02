@@ -11,24 +11,24 @@ Prepare your reader by giving:
 ** Name a wider topic I know (iPhones, endangered animals)
 
 ### Recommended GB phrases for academic essays
-Type: 			|Example
-----------------|---------------------------
-"Many":			|Many people regularly use/drink/buy/wear X without thinking.
-"In Japan,":	|In Japan, it's taken for granted that X, . However...
-"Every day":	|Every day, many/most students use/drink/buy/wear X
-"Most":			|Most people use X every day.
-Number:			|Three million tons of X are used every day (Smith, 1999).
-Quote:			|According to the WWF (2013) the world today is "addicted to oil".
-List:           |1, 2, 3, and 4 are all products commonly use in Japan. (+ SB "All of these")
+|Type: 			|Example
+|----------------|---------------------------
+|"Many":			|Many people regularly use/drink/buy/wear X without thinking.
+|"In Japan,":	|In Japan, it's taken for granted that X, . However...
+|"Every day":	|Every day, many/most students use/drink/buy/wear X
+|"Most":			|Most people use X every day.
+|Number:			|Three million tons of X are used every day (Smith, 1999).
+|Quote:			|According to the WWF (2013) the world today is "addicted to oil".
+|List:           |1, 2, 3, and 4 are all products commonly use in Japan. (+ SB "All of these")
 
 
 
 ### GB phrases to avoid in academic essays
-Type				|Example													|Why not academic?
---------------------|-----------------------------------------------------------|-------------------------
-Personal statement 	|"I..." /// "When I was young" 								|No "I". /// Good for iBT TOEFL independent, though
-A definition 		|"The Oxford dictionary defines imagination as....".		|Overused and a little lazy. /// Many teachers hate this.
-A question 			|"Have you ever wondered where geniuses get their ideas?"	|No talking to readers in academic essays. ///Hard to write.
+|Type				|Example													|Why not academic?
+|--------------------|-----------------------------------------------------------|-------------------------
+|Personal statement 	|"I..." /// "When I was young" 								|No "I". /// Good for iBT TOEFL independent, though
+|A definition 		|"The Oxford dictionary defines imagination as....".		|Overused and a little lazy. /// Many teachers hate this.
+|A question 			|"Have you ever wondered where geniuses get their ideas?"	|No talking to readers in academic essays. ///Hard to write.
 
 
 ## 2) SB - Specific Background
@@ -41,19 +41,19 @@ A question 			|"Have you ever wondered where geniuses get their ideas?"	|No talk
 ** Especially if you are going to [[Arrangement - write a description paragraph]] later.
 
 ### Recommended SB phrases
- Type					| Example
-------------------------|-------------------
-One of the most +  ADJ	|One of the most endangered animals is the Harp Seal, which
-The most 				|The most common type of Tuna is Bluefin, which...
-particularly			|Plastic bags are a particularly harmful kind of waste.
-especially 				|Harp Seals, which live in Tokyo, are especially endangered.
-FOllowing a list        |(GB 1, 2, 3 and 4 are ")+  "All of these are ..."
-Use a partition 		| [[Style - write a partition sentence]]
+| Type					| Example
+|------------------------|-------------------
+|One of the most +  ADJ	|One of the most endangered animals is the Harp Seal, which
+|The most 				|The most common type of Tuna is Bluefin, which...
+|particularly			|Plastic bags are a particularly harmful kind of waste.
+|especially 				|Harp Seals, which live in Tokyo, are especially endangered.
+|FOllowing a list        |(GB 1, 2, 3 and 4 are ")+  "All of these are ..."
+|Use a partition 		| [[Style - write a partition sentence]]
 
 ## 3) IB - Importance background
 Sometimes IB comes after GB, not after SB. It depends on what you're saying is important.
-GB	|IB showing __GB__ is important			|SB 
-GB	|SB                                  	|IB showing __SB__ is important.
+|GB	|IB showing __GB__ is important			|SB 
+|GB	|SB                                  	|IB showing __SB__ is important.
 
 ### Recommended IB phrases
 * This is a problem because not all X is made/used/recycled/disposed of/mined/obtained in an ethical way

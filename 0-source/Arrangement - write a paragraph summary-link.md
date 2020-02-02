@@ -6,13 +6,13 @@ The last sentence of every paragraph should be either:
 ** if you have 10 paragraphs in one section of one chapter of your dissertation, don't summarise every paragraph! 
 ** That isn't true in this class though. Let's practice summaries and links!
 
-Paragraph                                                       |Link, summary, both,or neither ?
-Introduction                                                    |Neither - [[Arrangement - write an introduction thesis statement]]
-Description paragraph                                           |Link only///Description sentences are all different, hard to summarise
-Problems paragraphs (normal body paragraph                      |Both
-Solutions paragraph (last body paragraph)                       |Summary only///Next paragraph is last =  obviously conclusion = no need to link
-Conclusion paragraph                                            |Neither - [[Style - write a final comment sentence]]
-Paragraph X of a longer essay                                   |Up to you///Does the reader need a summary yet? ///Is the topic about to change?
+|Paragraph                                                       |Link, summary, both,or neither ?
+|Introduction                                                    |Neither - [[Arrangement - write an introduction thesis statement]]
+|Description paragraph                                           |Link only///Description sentences are all different, hard to summarise
+|Problems paragraphs (normal body paragraph                      |Both
+|Solutions paragraph (last body paragraph)                       |Summary only///Next paragraph is last =  obviously conclusion = no need to link
+|Conclusion paragraph                                            |Neither - [[Style - write a final comment sentence]]
+|Paragraph X of a longer essay                                   |Up to you///Does the reader need a summary yet? ///Is the topic about to change?
 
     
 ## Examples for first-year essays

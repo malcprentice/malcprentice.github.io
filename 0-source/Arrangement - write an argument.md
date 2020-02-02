@@ -58,9 +58,9 @@ Arguments of contain summaries of opposing arguments and responses
 See [[Arrangement - write a summary-response]] for useful language.
 
 ## Explanation of the other side
-Though 	|opponents of X |insist that Y 	|, however Z.
-		|Advocates of X |claim that Y 	|, however Z.
-Though 	|exponents of Y |argue that X is bad, |Z shows this is false.
+|Though 	|opponents of X |insist that Y 	|, however Z.
+|		|Advocates of X |claim that Y 	|, however Z.
+|Though 	|exponents of Y |argue that X is bad, |Z shows this is false.
 
 Many of those in favor of Y claim…
 Many of those against this claim…
