@@ -39,7 +39,7 @@ References in alphabetical order                                            |<bl
 minimum number of sources used 												|<blue>OK</blue><red> </red>
 find good sources (avoid bad sources)										|<blue>OK</blue><red> </red>
 
-###Notes
+### Notes
 *Grading sections (Presentation, Arrangement, Style, Invention)
 **No problems in a section, the section is <green>G</green>
 **Only one problem per section, the section is <blue>OK</blue>

@@ -5,7 +5,7 @@
 *For all other essays, use APA!
 *Exampel available: download "TEMPLATE for ESSAY - Engineering Research Summary.docx" 
 
-#In-text citation rules
+# In-text citation rules
 1) Use SQUARE BRACKETS with a number inside [1].
 2) Number them in order of use.
 3) If you use a citation twice, use the original number
@@ -25,25 +25,25 @@
 *[3, Fig. 3]
 *([3, Sec. 1.2])
 
-#In-text style and examples
-###Option 1: Just give the fact and a number
+# In-text style and examples
+### Option 1: Just give the fact and a number
 *The snow leopard became endangered in 1967 [1].
 *Only 4% of computers produced are ever recycled [1].
 
-###Option 2: Give the citation type
+### Option 2: Give the citation type
 *Several recent studies [3, 4, 15, 16] have shown that
 *Most research [3, 4, 15, 16] suggests that
 
-###Option 3: Use the number directly
+### Option 3: Use the number directly
 *For example, see [7]...
 *Studies such as [3] show that...
 
-###Option 4: Give the name
+### Option 4: Give the name
 DO NOT DO THIS unless the author name is somehow important.
 *Even Einstein [2] has argued that.......
 *According to Gandhi [3]
 
-#References section rules
+# References section rules
 *Here's a guide: http://kildekompasset.no/references/ieee.aspx
 *Here's another: http://libguides.murdoch.edu.au/IEEE/entries
 *Here's a PDF guide: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiHv96Gm5XNAhVCIqYKHZhtBLwQFggcMAA&url=https%3A%2F%2Fumanitoba.ca%2Ffaculties%2Fengineering%2Fdepartments%2Fmechanical%2Fpdf%2FNEW-Citing-IEEE-2013.pdf&usg=AFQjCNEFqzDZcGGWW9nEH5csVl1S4QoH_A&sig2=Kw4siqtjAM86WPOJn54FGA
@@ -61,14 +61,14 @@ consumers.ofcom.org.uk [May 28, 2016]. 
 
 </ref>
 
-#Common Questions
+# Common Questions
 See the examples above for answers:
 *What if there are two authors? See [3]
 *What if there are more than two authors? See [2]
 *What if there is no author? See [5]
 *What if there is no date? See [6]
 
-#Suggestion for the future
+# Suggestion for the future
 Numbered systems are really fiddly in long documents. If you delete your first citation, you have to change ALL your numbers. Also, it's easy to use the wrong number and difficult to spot mistakes. If you have to use IEEE for your disseration, use automatic reference management software. I recommend Zotero with a Microsoft Word plugin.
 
 

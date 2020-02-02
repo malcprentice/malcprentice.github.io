@@ -1,34 +1,34 @@
-#Interviews
-###Types
+# Interviews
+### Types
 *structured (basically like reading out a questionnaire)
 *semi-structured (a basic list of questions, but you can ask others).
 *unstructured (anything goes)
 
-###Data type
+### Data type
 *You can video, audio record or take notes.
 *Keep it short - 5 minutes interview is at least 10 minutes typing
 
 
-#Materials
+# Materials
 *Write the questions, roughly
 *Pilot it (try it out) with a partners or a small group
 *Keep a note of HOW you made these questions.
 *This goes in your "Materials" sub-section of your "Methods" section
 
-#Procedure
+# Procedure
 A summary of the below needs to go in the "Procedure" section of your "Methods" section
 
-##Before the interview
+## Before the interview
 *Make an appointment to meet someone in a quiet place.
 *If you are asking about something they do, do the interview soon after.
 *Get two recorders. Phones are OK unless they save a strange format (e.g. 3GP). If yours does, ask to borrow my MP3 recorder.
 *Test them before you start. Can you hear clearly enough to type it up later?
 
-##At the beginning of the interview
+## At the beginning of the interview
 *Offer them a coffee / tea
 *Chat for a bit to relax them (SMall Talk!)
 
-###Tell them
+### Tell them
 *Length of the interview
 **("This interview will last 5 minutes")
 **このインタビューは5分かかります
@@ -51,7 +51,7 @@ A summary of the below needs to go in the "Procedure" section of your "Methods" 
 **("Is it OK to start recording?")
 **録音を始めてもいいですか？
 
-#Start the interview
+# Start the interview
 *There are several types of interview:
 **Write the exact questions (a structured interview)
 **Write a list of broad questions (a semi-structured interview) ****
@@ -63,7 +63,7 @@ A summary of the below needs to go in the "Procedure" section of your "Methods" 
 *For structured interviews, just start reading your main questions
 
 
-#Useful language for while you are listening
+# Useful language for while you are listening
 *Backchannel
 **はい、ええ、うん (yes)
 **そうですか (is that so?)
@@ -82,7 +82,7 @@ A summary of the below needs to go in the "Procedure" section of your "Methods" 
 *REFER BACK to a previous answer
 **Earlier, you said there were two reasons. What was the second?
 
-#FINISH the interview
+# FINISH the interview
 OK, before we finish is there anything else?
 質問は以上です。最後に何か言い残したことはありませんか？
 Thanks. Do you have any questions? Any comments?
@@ -92,8 +92,8 @@ OK, I will send you a copy of the transcript by 〇〇. Thank you for your kindn
 ご協力ありがとうございました。
 
 
-#Tips
-###DO NOT
+# Tips
+### DO NOT
 *give your own opinion
 *Interrupt
 *Let them drift off topic
@@ -102,7 +102,7 @@ OK, I will send you a copy of the transcript by 〇〇. Thank you for your kindn
 *Look bored
 
 
-#After the interview
+# After the interview
 *Start transcribing and analysing immediately!
 *Make notes after the interview on any hunches or problems.
 *Send them a thank-you email
@@ -113,11 +113,11 @@ OK, I will send you a copy of the transcript by 〇〇. Thank you for your kindn
 *Ask a friend to check you transcript for interview skills
 *Do a follow-up interview if you have any more questions
 
-#Transcription
+# Transcription
 Interviews must be converted to text before you can analyse them.
 This is called "transcription"
 
-###What should I type?
+### What should I type?
 Transcribe = “to write down exactly what people say”, including:
 
 Repetitions     |I like like dogs better than cats
@@ -138,17 +138,17 @@ Non-verbal      |I like [scratches nose] cats better than dog
 Overlaps        |A: I like dogs.     [And I like cats]///
                 |B:-_________________[How about cats.] Oh you do? Me too
 
-###Pseudonyms
+### Pseudonyms
 *Ask each subject to choose pseudonym (a fake name to protect their identity but which is nicer than calling them “S1”).
 *Try to keep it in the same gender and ethnic group (Hiroko should choose something like "Miyuki", not "George")
 
-###Numbering
+### Numbering
 Each line needs to have the student's pseudonym ("Bob") and a line number (1,2,3), because otherwise when you do a cut and sort analysis you won't know what comes from where.
 Check the Shared Materials Folder for the transcription blank
 
 
 
-###Tips
+### Tips
 *Use a computer, notyour phone
 *Learn keyboard shortcuts for pausing your audio and switching from player to Word
 *Keep backups and don’t lose private data.

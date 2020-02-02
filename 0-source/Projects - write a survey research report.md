@@ -8,7 +8,7 @@
 *It must be recommendable
 *It must be interesting or useful
 
-#Example previous ideas
+# Example previous ideas
 *What do you wish you had known when you started 1st year
 *What strategies do you use for staying motivated>
 *What do students think GLobal Citizenship is?

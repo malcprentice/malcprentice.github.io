@@ -1,14 +1,14 @@
 These phrases were originally written to help [[Style - describe figures and tables]] when they refer to change. However, they can be used to describe any change.
 
 
-##Verb based phrases
+## Verb based phrases
 X has become		|less			|common
 X became			|somewhat		|frequent
 X is				|quite			|rapid
  					|more			|serious
 	 				|increasingly	|large
 
-##Noun options
+## Noun options
 
 There has been a				|large		|increase in X
 There was a						|small		|rise in X
@@ -28,7 +28,7 @@ There is a						|slight		|decrease in X
 
 
 
-##Verb options
+## Verb options
 the X					|leveled off	|slightly
 the percentage of X		|plateaued	 	|slowly
 the amount of X			|went flat	 	|immediately
@@ -49,7 +49,7 @@ predicted levels of X	|halved	 		|from its high in 2015
 						|stayed steady 	|at 120
 
 
-###For most verbs you can also add an adverb BEFORE the verb
+### For most verbs you can also add an adverb BEFORE the verb
 *the value of X immediately fell
 *the value of X steadily increased
 *the value of X suddenly halved
@@ -57,7 +57,7 @@ predicted levels of X	|halved	 		|from its high in 2015
 
 
 
-##Optional - describe the change in detail
+## Optional - describe the change in detail
 has increased 	|to 			|33%
 has increased 	|from 			|22% to 33%
 has increased 	|from around 	|20% to 33%

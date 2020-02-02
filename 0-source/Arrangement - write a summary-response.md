@@ -1,16 +1,16 @@
-#There are two kinds of response
+# There are two kinds of response
 1) Response in the _solutions_ paragraph of the first year essay ("However, this solution is not effective because"
 2) Personal response to something you read, which somes after your summary
 
 This page is about _arrangement_ for _essay paragraph_ summaries
 For report responses, see [[Style - write a response]]
 
-#How to do it
+# How to do it
 Summary-Response can be a sentence, a paragraph or a whole essay.
 This sheet is mostly about _sentences_ for use in the summary-response _solutions_ paragraph of your essays.
 
 
-#Invention
+# Invention
 You _cannot_ do this without research.
 This paragraph is about what solutions _other people and groups_ have tried, not your ideas.
 Save your ideas for the discussion.
@@ -21,7 +21,7 @@ You will need to research how to:
 *partly true/effective
 *untrue/ineffective.
 
-##Example negative responses.
+## Example negative responses.
 You're looking EVIDENCE to PROVE your response. Look for:
 bad research            |However, the data supporting this is very old"///"However the research was funded by the company who makes it.
 bad assumptions         |However, this solution assumes that poor children all live in cities.
@@ -31,11 +31,11 @@ not ready yet           |However, the project will not start until 2019, so it i
 PR                      |However, this small project is funded by a large tobacco company, which is known for employing child labour - as such it is likely this is an attempt at improving their image rather than an honest attempt to solve the issue, as shown by the fact that they make profits of 5 billion USD each year but only spent 100,000 of that on this project ("Tobacco," n.d.)
 
 
-##Example positive responses
+## Example positive responses
 Just summarize more evidence to show that it IS effective
 *Preferably, a number (17%, 300 children, 1200 pairs of shoes every month)
 
-##FOr both positive and negative responses, try to use an independent source
+## FOr both positive and negative responses, try to use an independent source
 *i.e. NOT an NGO saying they are great using their own data). Instead:
 *e.g. respond to an NGO/volunteer group website using Charity Navigator https://www.charitynavigator.org
 *e.g. search for blogs by ex-volunteers, not comments on the volunteer organisation website.
@@ -46,7 +46,7 @@ Just summarize more evidence to show that it IS effective
 
 
 
-#Arrangement
+# Arrangement
 This simple outline is also on the template in the materials folder:
 +Topic Sentence ("This paragraph looks at")
 +Coherence Signpost ("The first solution/organisation is")
@@ -61,7 +61,7 @@ This simple outline is also on the template in the materials folder:
 +Summary of PARAGRAPH ("In summary, there are three solutions- 1, 2, and 3 - of which all/none/only 2 and 3 are true/effective.").
 
 
-##Key Arrangement tips
+## Key Arrangement tips
 *Minimum 11 sentences
 *You can [[Arrangement - write a detail sentence]] extra for each summary and reponse, for a total of max 17 sentences.
 *Don't go longer than 17, or you will need to split th paragraph and [[Arrangement - write a sectional essay]]
@@ -71,21 +71,21 @@ This simple outline is also on the template in the materials folder:
 *Don't forget your citations
 
 
-#Examples
-## (One summary-response pair)
+# Examples
+##  (One summary-response pair)
 >>The second solution is KEYWORD1. Summary of the solution or statement for KEYWORD 1. More detail on KEYWORD 1. Transition to response using a sentence that starts "However" or "In fact" which says whether or not you think it is effective/true or not. Supporting evidence for the previous sentence. More detail or more evidence.
 
-##Endangered Animals example (One summary-response pair)
+## Endangered Animals example (One summary-response pair)
 >>The second solution is deterrance. One group is painting Rhinos horns with pink poison which is safe for rhinos, but makes people who eat rhino horn as medicine sick ("Poisoning rhino horns," n.d.). However, this does not always work as the colour can be removed, and the poachers do not really care that the customers get sick ("Poisoning rhino horns," 2013, April 4).  http://www.theguardian.com/environment/2013/apr/04/rhino-horns-poisoned-poachers-protect https://www.savetherhino.org/rhino_info/thorny_issues/poisoning_rhino_horns
 
-##Ethical consumption example (One summary-response pair)
+## Ethical consumption example (One summary-response pair)
 >>The first solution is donating shoes. One donates a pair of shoes to children in the third world for every pair of shoes they sell in the first world ("Giving partner," n.d.). However, this project has exprienced problems with giving the wrong size shoes, and not supporting the delivery of shoes to the countryside. http://www.toms.com/stories/giving/giving-partner-interview-with-coprodeli-in-peru http://www.whydev.org/give-one-what-happens-after-you-buy-a-pair-of-toms/
 
-##Full Paragraph example
+## Full Paragraph example
 >>This paragraph describes three solutions to the problems of shrimp described above. Firstly, people could just stop eating shrimp, however this is <blue>unlikely unless there are more health scares like the one in 2014 ("Shrimp cause 7 deaths", 2014).</blue> Secondly, there is one Dutch company that sells free-trade shrimp, which guarantees the workers fair pay ("Free Trade Shrimp," 2014, July 2). <blue>However, research shows that only 5% of shrimp are currently fair trade ("Problems in Fair Trade", 2014, July 3).</blue> Finally, we could buy only Indian shrimp, as their industry is better regulated ("Indian Shrimp," n.d.), <blue>however this could stress their industry and possibly cause more problems.</blue> In conclusion, there are a number of possible solutions but each could cause more problems - the best option is perhaps to insist on Free Trade Shrimp at supermarkets and restaurants and hope the percentage goes up.
 
-#Style
-###Summary
+# Style
+### Summary
 Who is doing what? Where? Why? When? How?
 *The first solution is X (Suzuki, 2014 June 6). The aim of X is to do Y, by Zing.
 *According to Suzuki (2014, June 6), X is doing Y. For example, Z.
@@ -95,7 +95,7 @@ Who is doing what? Where? Why? When? How?
 
 
 
-###Response
+### Response
 Please [[Invention - quote and paraphrase]] properly and [[Style - use cohesion]] to clearly say if the solution is good or not:
 *Disagree 	("However,..", "Nevertheless")
 *Agree 		("Indeed,...", "In fact....")
@@ -104,8 +104,8 @@ Please [[Invention - quote and paraphrase]] properly and [[Style - use cohesion]
 *See [[Invention - quote and paraphrase]]
 
 
-#Common Mistakes
-###Use the correct tense/conditional
+# Common Mistakes
+### Use the correct tense/conditional
 *X was attempted
 *X has been attempted
 *X is being attempted
@@ -115,14 +115,14 @@ Remember to [[Invention - quote and paraphrase]] properly
 
 <RED>This section below is NOT for the Solutions paragraph. If you are writing that, then stop reading here!</red>
 
-#Argument Essay responses.
-###There are four basic types of argument response
+# Argument Essay responses.
+### There are four basic types of argument response
 1) Agree, 		|and add new details to the points.
 2) Agree		|and add new points to the thesis.
 3) Disagree,	|and attack with new details
 4) Disagree,	|and attack with new points
 
-###For example
+### For example
 Thesis: Cats are the best pets
 Summary/Argument 					|Response type 				|Response
 ------------------------------------|---------------------------|-----------------
@@ -138,12 +138,12 @@ Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also s
 Any true point 						|4 (Disagree, add new point) |Perhaps true, but they also expensive
 
 
-#Argument Essay Response Quiz
+# Argument Essay Response Quiz
 *Above, we focused on Summary-Response for Solutions.
 *However, it can also be used for other reasons.
 *Here is a summary-response quiz for misunderstandings about problems from Oxfam's "Explore overseas aid" http://www.oxfam.org.uk/education/resources/explore-overseas-aid
 
-###For each RESPONSE, identify what summary it is responding to
+### For each RESPONSE, identify what summary it is responding to
 The ambition for the aid budget is 0.7% of government spending – which is less than a penny in every pound the government spends. To pay for one junior nurse in the UK (21k) you would have to take away healthcare from 50,000 people in Malawi (Government of Malawi Ministry of Health, n.d.)QQQ2QQQMost of the international aid money is wasted because of corruption QQQIncreases in the international aid budget mean significant cuts to Government spending in the UK. QQQAid makes countries dependent, and stops economic growth.QQQGiving aid helps Britain’s reputation overseas.
 
 

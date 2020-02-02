@@ -1,8 +1,8 @@
-#DISCUSSION
+# DISCUSSION
 	Have you ever read a poem? Have you ever written a poem?
 	How many poets can you name?
 	How many kinds of Japanese poems do you know? What are their rules?
-#RULES
+# RULES
 Poems in English have different rules – can you spot them in this poem by Robert Frost?
 
 Whose woods these are I think I know.
@@ -22,7 +22,7 @@ But I have promises to keep,
 And miles to go before I sleep,
 And miles to go before I sleep.
 
-#POEM1:  A CINQUAIN
+# POEM1:  A CINQUAIN
 1 noun subject.
 2 adjective description.
 3 “ing” verbs
@@ -38,7 +38,7 @@ nature</p>
 				
 Write a Cinquain about a PLACE. Note that it is CENTRE aligned.
 
-#POEM 2: AN ACROSTIC POEM
+# POEM 2: AN ACROSTIC POEM
 Four pairs of beady eyes?
 Eight hairy legs?
 Aaaarggghh! It’s a spider

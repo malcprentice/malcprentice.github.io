@@ -1,4 +1,4 @@
-#Students starting 2018 and earlier
+# Students starting 2018 and earlier
 Grade   |Small classes  (<20 students)      |C/D level classes          |B level classes
 --------|-----------------------------------|----------------------     |----------------
 S       |Anyone 90-100%                     |Top 10% of class AND >90%  |Top 5% of class AND >90%
@@ -12,7 +12,7 @@ N       |too many absences///most assignments missing
 For individual assignments, you will get a D for ignoring feedback and an E for plagiarism on final draft.
 If yoy plagiarise multiple times after warning, your final grade will also automatically be E.
 
-#Students starting 2019 and later
+# Students starting 2019 and later
 Grade 	|GPA   	|Score	 |Meaning and Limits
 -----	|-------|------- |----------
 A+		|4.0    |95-100% |"Excellent"- in top 5% of class
@@ -30,13 +30,13 @@ E       |0		|0-44% 	 |Does not meet standard, fail
 N       |0		| 	 	 |Fail on absences, or missing assignments
 I       |    	| 		 |Incomplete. See note below
 
-##Limits
+## Limits
 Limits of 5% A+and 25% total A+/A/A-
 Except for those approved by the Faculty Council or by SEED.
 SSB and GCP are approved
 
 
-##What is "Incomplete"?
+## What is "Incomplete"?
 I can't give "I" without an official certificate and form.
 It's not for when you miss the vocab test because you slept in. Set two alarms!
 It's not for when you haven't finished your QW on the last day. Do your QW earlier in term!
@@ -49,5 +49,5 @@ Disaster                |Certificate of disaster.
 University-approved Study abroad |Documents to certify studying abroad
 Other                   |Note from your Dean
 
-##Absences
+## Absences
 Tell me if you have a [[Resources - good reason for absence]]]

@@ -3,7 +3,7 @@ In the text, follow the title case rules but do use italics for your title citat
 *Good: ("Title of an article," n.d.)
 *Bad: ("<em>Title of an article,</em>" n.d.)
 
-#Italics = the thing you hold 
+# Italics = the thing you hold 
 What do you hold?							|What do you NOT hold?
 --------------------------------------------|------------------------------
 The book title 								|not the chapter title - you don't rip it out
@@ -12,7 +12,7 @@ The newspaper								|not the article title - you don't rip it out
  											|not software. CDs are not software
 The volume number of a journal 				|4-6 issues are bound together by the library ///you don't rip the issue out again
 
-#Title Case = a collection of similar work by different people
+# Title Case = a collection of similar work by different people
 Things that CONTAIN similar texts written by many people get Title Case:
 
 Type			|Collection Title - Title Case 					|Item Title - No title case
@@ -23,26 +23,26 @@ Journal 		|Journal Title 									|Journal article title
 Video Collection |YouTube, TED Talks  							|Video title
 
 
-#What about website?
+# What about website?
 It depends:
 
-###News websites
+### News websites
 Pretend they are actual newspapers. 
 *italics & title case for site name(<em>BBC Online, Mainichi Daily </em>)
 *no italics, no title case for video title
 
-###Encyclopaedias
+### Encyclopaedias
 Online encyclopaedias and dictionaries are considered books
 *in theory, italics and Title Case for website title
 *in theory, nothing for entry title
 *in practice <red>DO NOT CITE THESE!</red>
 
-###Video collections
+### Video collections
 Are collections
 *italics and title case for the website (<em>YouTube, TED Talks</em>)
 *no italics, no title case for article title
 
-###Normal websites (e.g. the Soka University website)
+### Normal websites (e.g. the Soka University website)
 Nothing for the website. Ever.
 *Normal websites are considered to be libraries
 *Web pages are just articles in those libraries 
@@ -53,7 +53,7 @@ For the article title (the page title)
 *imagine you printed the website __page__ - you hold it, so italics
 *Websites are not collections - they are libraries. No title case. 
 
-###Organisation websites hosting official reports
+### Organisation websites hosting official reports
 *Use the Organisation name as AUTHOR, not title. 
 **So no italics
 **Not a collection but it __IS__ the name of something, 
@@ -63,7 +63,7 @@ For the article title (the page title)
 **italics yes (you print it and hold it)
 **Title case no (does not contain a collection of similar work by different people)
 
-#In summary
+# In summary
 Type						|Title Case for Containers?		|Italics for the thing you hold?	|Example Title
 ----------------------------|-------------------------------|-------------------------------- 	|------
 Book Name 					|no 							|Yes 								|<em>Harry Potter and the philosopher's stone</em>
@@ -77,7 +77,7 @@ Magazine title				|Yes 							|yes 								|<em>The Economist</em>
 News/Magazine article title	|no 							|no   								|
 
 
-#Academic Journal numbers - more details
+# Academic Journal numbers - more details
 In the library, there are many magazines, journals, and "kiyou" (university published journals). 
 <a href="http://imgur.com/cJOaEAa"><img src="http://i.imgur.com/cJOaEAa.jpg" title="source: imgur.com" /></a>
 
@@ -109,7 +109,7 @@ Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of Internati
 </ref>
 
 
-###Note: volume number "113" in italics. Issue number "(1)" not.
+### Note: volume number "113" in italics. Issue number "(1)" not.
 *Journals can only stay in the front of the library for a while. 
 *Soon they go into the back of the library to be stored. 
 *They will be stored as individual issues for a while:
@@ -128,20 +128,20 @@ For most articles, you go to the library to find (and hold) the BOUND BOOK of th
 ***You don't hold the issues. No italics for issue number
 ***You hold that year's VOLUME book. Italics for volume number
 
-###Also
+### Also
 *COLLECTIONS get title case
 *The journal COLLECTS several works by several author
 **The Journal name is Title Case
 **The article title is not.
 
 
-###In summary
+### In summary
 <ref>
 Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of International Law and Diplomacy, 113</em>(1), 30-53. 
 </ref>
 (Don't forget the page number)
 
-#What about edited books?
+# What about edited books?
 Books with many chapters by different people are collections. 	|Title Case.
 Books by one author are not collections. 						|No title case
 You hold books 													|_italics_
@@ -179,7 +179,7 @@ Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et 
 
 
 
-#Newspapers
+# Newspapers
 <a href="http://imgur.com/QqmoF0j"><img src="http://i.imgur.com/QqmoF0j.jpg" title="source: imgur.com" /></a>
 
 Look how newspapers are stored in the library. 

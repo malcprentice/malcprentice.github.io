@@ -41,7 +41,7 @@ Any miming?                                      |<blue>OK</blue><red> </red>
 Pronunciation of new words practiced?            |<blue>OK</blue><red> </red>
 
 
-###Notes
+### Notes
 *Grading sections
 **No mistakes (no NG) in a section, the section is <green>G</green>
 **Only one "NG" per section, the section is <blue>OK</blue>

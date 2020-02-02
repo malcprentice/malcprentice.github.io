@@ -29,6 +29,6 @@ WebCorp                                            |http://www.webcorp.org.uk/
 WordNet Search - 3.1                               |http://wordnetweb.princeton.edu/perl/webwn
 WordSmith Tools home page                          |http://www.lexically.net/wordsmith/
 
-#Stats resources
+# Stats resources
 statistics textbook                                |http://www.textbooknova.com/?q=statistics
 Stats power                                        |https://www.dssresearch.com/KnowledgeCenter/toolkitcalculators/statisticalpowercalculators.aspx

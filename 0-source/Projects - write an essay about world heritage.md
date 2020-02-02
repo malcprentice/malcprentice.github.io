@@ -1,6 +1,6 @@
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/132033298@N04/24266744033/in/photolist-6ByPJY-nrWfju-hHvzaw-CYnpyv-6hw5Qm-8XKAoA-8FjMEq-rohCMs-bhwYUZ-3EJe7D-AqUWBD-npxmd1-4iuCYG-CBf8fb-jeEh2h-4jNZ8d-64q368-e2bh2N-owRfxW-ayn6Sx-8M7kMt-bsozc6-rG9Sof-qNY3Dv-6txAnH-vphQjW-4YtQe-oxnK7j-8FjNc7-h3M7NV-jbRcfY-n22sCP-9prGMa-9D3HK5-8ak2zG-7XvWZ5-nxRsGo-8FgANg-aVBLVt-bhwYBc-bhwYNV-sX4t6G-r5wkjb-8M7iBc-qqkLHp-ayn78Z-tm5x9k-8Zpq58-8MVKpC-73yPF1" title="Lowland Gorilla"><img src="https://farm2.staticflickr.com/1465/24266744033_376c38cb0d_n.jpg" alt="Lowland Gorilla"></a>
 
-#Overview
+# Overview
 Do you know how world heritage sites are chosen? http://whc.unesco.org/en/criteria/
 Do you think world heritage sites are a good idea? http://www.bbc.com/news/uk-england-cumbria-25682571
 
@@ -12,7 +12,7 @@ World Heritage sites in Japan are often cared for very carefully, but this is no
 
 In this essay, lets look at some sites that are in danger. 
 
-#Step 1: Choose a World Heritage site
+# Step 1: Choose a World Heritage site
 *List of sites in danger: https://whc.unesco.org/en/danger/
 *Choose something INTERESTING we DO NOT KNOW that is IN DANGER in ANOTHER COUNTRY (i.e. NOT Kyoto)
 *Post it to Line. First come first served.
@@ -22,7 +22,7 @@ In this essay, lets look at some sites that are in danger.
 **(seperate, or three organisations
 **prefereably at different levels e.g. International, national, and local NGOs)
 
-#Step 2: Research your site
+# Step 2: Research your site
 Read 3 articles about your site. 
 Follow the requirements in your syllabus homework for number and type of reference. 
 English or Japanese OK
@@ -30,14 +30,14 @@ Wikipedia OK, but it DOES NOT COUNT for your 3 articles, and you CANNOT cite it.
 <red>Don't forget to take a note of the references!</red>
 Decide if it is a good essay if not. If not, choose another site and start again. 
 
-#Step 3: Read the Template and Examples if they apply
+# Step 3: Read the Template and Examples if they apply
 This essay COULD follow the same pattern as endangered animals, so look at:
 *[[Examples - example endangered animals essay]]
 *If we are doing powerpoint first, check that template
 *Standard planning outline
 *Standard formatting template
 
-#Step 4: Plan your own essay
+# Step 4: Plan your own essay
 I recommend:
 +Introduction
 +Description
@@ -47,10 +47,10 @@ I recommend:
 
 This is very similar to "endangered animals", and can use the same templates, examples, and language
 
-#Step 5: Research more. 
+# Step 5: Research more. 
 Stuck? Here are some ideas:
 
-##Common description points
+## Common description points
 I recommend you :
 *DEFINITELY Define the site type ("Angkor Wat is a Buddhist temple complex in Cambodia, the largest in the world")
 *MAYBE Partition the site into areas ("There are two main areas in Angkor Wat - outer and inner - of which...")
@@ -61,7 +61,7 @@ I recommend you :
 **A number showing the size of the problem (things lost, area destroyed, tourist numbers, etc)
 *Link (for essay)
 
-##Common problems
+## Common problems
 *pollution
 *tourists
 **garbage
@@ -92,7 +92,7 @@ I recommend you :
 **direct bombing damage
 
 
-##Common solutions
+## Common solutions
 Think about BOTH prevention, and restoration
 *Organisations
 **NGOs
@@ -123,7 +123,7 @@ Think about BOTH prevention, and restoration
 
 
 
-#Style tips - common mistakes
+# Style tips - common mistakes
 A common mistake is to say "This essay describes a world heritage."
 World heritage is an IDEA, like "history", not a place.
 When talking about the IDEA, "world heritage" on its own is OK
@@ -135,7 +135,7 @@ HOWEVER, when talking about a specific place, you should say "World heritage + N
 **world heritage organisation
 
 
-## Sectional Essay Version (GCP)
+##  Sectional Essay Version (GCP)
 Read the five paragraph version first. This is a NINE paragraph version of that
 *Intro
 *Description Paragraph
@@ -145,8 +145,8 @@ Read the five paragraph version first. This is a NINE paragraph version of that
 
 See [[Arrangement - write a sectional essay]]
 
-#Requirements for Essay
-###For 5 paragraph version
+# Requirements for Essay
+### For 5 paragraph version
 *minimum 200 words per paragraph,
 *minimum five lines per paragraph
 *minimum 150 words for the intro and conclusion
@@ -155,5 +155,5 @@ See [[Arrangement - write a sectional essay]]
 *minimum two references per body paragraph (total 6 references minimum)
 *(at least 50% in English)
 
-###For 9 paragraph sectional verrsion (GCP)
+### For 9 paragraph sectional verrsion (GCP)
 See the syllabus.

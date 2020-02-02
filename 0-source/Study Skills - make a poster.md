@@ -3,13 +3,13 @@ Here is an example: https://blogit.itu.dk/ethos/wp-content/uploads/sites/14/2016
 
 
 
-#Preparation
-###Decide what kind of template you need
+# Preparation
+### Decide what kind of template you need
 **A0 or A1? Landscape or Portrait?
 **Research, Descriptive, or Artistic?
 **How many columns?
 
-###Decide if it is a STAND-BESIDE or a STAND-ALONE poster
+### Decide if it is a STAND-BESIDE or a STAND-ALONE poster
 *STAND-BESIDE
 **Posters stay up for about an hour (lunchtime, break, special session)
 **You stand near it all that time, then take it down
@@ -30,27 +30,27 @@ Here is an example: https://blogit.itu.dk/ethos/wp-content/uploads/sites/14/2016
 **Often arranged in a "rombun" pattern (Intro, Background, Methods, Results, Discussion, Reference)
  
 
-#Delivery
-###Professional Examples
+# Delivery
+### Professional Examples
 *http://www.t.soka.ac.jp/index/news_list/news/news_2011/20111124.html
 *https://www.soka.ac.jp/news/student/2015/07/10708/
 *http://rikou.soka.ac.jp/news/2015/10/29/
 *http://www.soka.ac.jp/news/information/2016/07/15354/
 *http://www.t.soka.ac.jp/6f/index.php?id=57
 
-###Professional Templates here: http://www.craftofscientificposters.com/
+### Professional Templates here: http://www.craftofscientificposters.com/
 *Use a scientific format, or be more creative (as long as it is clear)
 
-###Classroom examples and templates
+### Classroom examples and templates
 See materials folder
 
-###General rules. 
+### General rules. 
 *Sizes
 **The normal size is A0 or A1
 **Check before you make it "landscape" - not all conferences have wide boards
 
-#Delivery
-##Fonts for posters
+# Delivery
+## Fonts for posters
 *Sans-serif (e.g. Arial) only. No Times New Roman.
 *Title should be 90-200pt
 **You should be able to read the section headings from about 2 meters away (36-54pt)
@@ -60,7 +60,7 @@ See materials folder
 **Formal Section headings: use __Bold Title Case__
 
 
-##Software for posters
+## Software for posters
 *Powerpoint is standard for templates
 *Pages (Mac), Keynote(Mac), and Google Slides work in a pinch
 *Pros use Adobe Illustrator, InDesign, or Photoshop, but only if you want to spend an hour googling "CMYK mode" and "bleeds"
@@ -75,7 +75,7 @@ See materials folder
 **Keep figures simple - no shadows, 3D, grids
 **Make sure the labels in tables/figures are also big enough to read
  
-##Printing posters
+## Printing posters
 *Only PDFs are font-safe and universally accepted
 **"Export" to a high-quality PDF for printing
 **Don't worry if the PDF preview images look blurry - they might be too good for your preview software.
@@ -88,7 +88,7 @@ See materials folder
 **No need for fancy poster tubes - print shops have cheap/free tubes
 
 
-##Extras
+## Extras
 Make it easy to go beyond the poster
 *QR codes: emails and website addresses
 *Goo.gl: shorten long links for those without QR scanners
@@ -96,7 +96,7 @@ Make it easy to go beyond the poster
 
 
 
-#Style and Arrangement: Language for posters
+# Style and Arrangement: Language for posters
 *Note ENglish: keywords, not sentences. 
 *People usually spend a maximum 1 minute reading a poster. Then they ask a question or walk on. 
 **For stand-beside posters: Title, headings, bullet points, and figures only (anything else is wasted) 
@@ -108,7 +108,7 @@ Make it easy to go beyond the poster
 *Otherwise, follow the style guide in the other sheet
 
 
-#Other tips
+# Other tips
 *Have a friend proof-read it. 
 *If it's a professional poster, print a full size draft on cheap paper to check images
 *Are you going to be carrying your poster? Get a tube or poster holder
@@ -119,7 +119,7 @@ Make it easy to go beyond the poster
 **For classroom posters, I will bring magnets
 **For conferences, take tape. Blu-tack, pins, magnets may not work.
 
-#Classroom posters
+# Classroom posters
 *Print A4 Powerpoint slides
 *Slide count 9 or 12 is best
 **grids will look better (3x3, 3x4)
@@ -132,5 +132,5 @@ Make it easy to go beyond the poster
 *Don’t forget tape/magnets
 *Don’t forget a “NOTES” copy with your extra information, answers to questions
 
-##Grading and Delivery
+## Grading and Delivery
 See [[Study Skills - give a poster presentation]]

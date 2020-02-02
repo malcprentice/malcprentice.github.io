@@ -1,6 +1,6 @@
-##404
+## 404
 [[404]]
-##Arrangement
+## Arrangement
 [[Arrangement - write a cause-effect]]
 [[Arrangement - write a compare-contrast]]
 [[Arrangement - write a conclusion paragraph]]
@@ -18,7 +18,7 @@
 [[Arrangement - write an introduction - overview]]
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
-##Examples
+## Examples
 [[Examples - TOEFL Independent essay]]
 [[Examples - TOEFL Integrated essay]]
 [[Examples - example argumentative essay]]
@@ -29,7 +29,7 @@
 [[Examples - example endangered animals essay]]
 [[Examples - example ethical consumption essay]]
 [[Examples - example refugees and asylum seekers essay]]
-##Invention
+## Invention
 [[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
 [[Invention - find good sources]]
@@ -44,7 +44,7 @@
 [[Invention - use APA title case and italics]]
 [[Invention - use IEEE format for sources]]
 [[Invention - use tools for managing and formatting references]]
-##Projects
+## Projects
 [[Projects - outline a lecture]]
 [[Projects - outline a plan for going abroad]]
 [[Projects - outline an academic article]]
@@ -61,9 +61,9 @@
 [[Projects - write an essay about refugees and asylum seekers]]
 [[Projects - write an essay about voluntourism]]
 [[Projects - write an essay about world heritage]]
-##README
+## README
 [[README]]
-##Research
+## Research
 [[Research - analyse qualitative data]]
 [[Research - analyse quantitative data using R - intro]]
 [[Research - do a survey]]
@@ -71,9 +71,10 @@
 [[Research - make a questionnaire]]
 [[Research - write a proposal]]
 [[Research - write good survey questions]]
-##Resources
+## Resources
 [[Resources - Discussions with a point]]
 [[Resources - Speed Reading answers]]
+[[Resources - Training - Activities]]
 [[Resources - Training - choose a learning focus]]
 [[Resources - Training - handle mixed level classes]]
 [[Resources - can do]]
@@ -108,7 +109,7 @@
 [[Resources - websites for listening]]
 [[Resources - websites for other things]]
 [[Resources - websites for reading]]
-##Schedules
+## Schedules
 [[Schedules - Curriculum for Communication]]
 [[Schedules - Curriculum for General Academic Skills]]
 [[Schedules - Malc's schedule]]
@@ -119,7 +120,7 @@
 [[Schedules - Syllabus for SSB]]
 [[Schedules - Syllabus for intensive Communication]]
 [[Schedules - Syllabus for intensive TOEIC]]
-##Study Skills
+## Study Skills
 [[Study Skills - apply critical thinking]]
 [[Study Skills - ask good questions]]
 [[Study Skills - basics 1]]
@@ -150,7 +151,7 @@
 [[Study Skills - use Microsoft Office]]
 [[Study Skills - use the Self Access Centre]]
 [[Study Skills - write a well formatted email]]
-##Style
+## Style
 [[Style - avoid repeating words]]
 [[Style - avoid short sentences]]
 [[Style - describe figures and tables]]
@@ -187,5 +188,5 @@
 [[Style - write a summary sentence]]
 [[Style - write a time-order sentence]]
 [[Style - write your thesis front matter]]
-##index
+## index
 [[index]]

@@ -1,14 +1,14 @@
-#Why do a quickwrite?
+# Why do a quickwrite?
 You need practice writing and thinking quickly in English.
 It helps you change English you know (but can't use) into English you can use. Typed quickwrites can also help you do better on typed exams like the iBT TOEFL (a 300 word independent task in 30 minutes needs at least 20 words per minute typing if you want time to think).
 
 
-#How to do a quickwrite
+# How to do a quickwrite
 <img src="https://openclipart.org/download/104017/chronometre.svg" />
 
 However, QW1 in class is by hand. For homework, most classes type.
 
-###1)Get ready
+### 1)Get ready
 *If handwriting, use B5 loose leaf paper or a notepad. Nothing smaller.
 *If typing, download the template from "Shared Materials"
 *Choose a topic: [[Resources - quickwrite topics]]
@@ -16,7 +16,7 @@ However, QW1 in class is by hand. For homework, most classes type.
 *Add the title of your chosen topic in the middle.
 *Set your phone timer for 10 minutes
 
-###2)Write!
+### 2)Write!
 *Start your timer
 *Start writing
 *No stopping! No dictionaries!
@@ -24,7 +24,7 @@ However, QW1 in class is by hand. For homework, most classes type.
 *Do try to follow [[Resources - paragraph basics]] though
 *Change the topic if you need to (for example if the topic is "last holiday", you can change it to "holiday in JHS" or "next holiday" if you have no ideas. But stay in basic topic.)
 
-###3)After 10 minutes, STOP and count your words
+### 3)After 10 minutes, STOP and count your words
 *Use "Word Count"
 *Do not count name/title!
 *Later, write your word count on your namecard in class
@@ -33,7 +33,7 @@ However, QW1 in class is by hand. For homework, most classes type.
 **Record both numbers:
 **e.g. "103 words (88 words in 10 minutes)"
 
-#Minimum Word Count
+# Minimum Word Count
 If you do less than the following, you have NOT done your homework.
 
 Time            		|Typed C/D			|Typed GCP
@@ -48,21 +48,21 @@ QW 21-43        		|250 words minimum	|300
 
 
 
-###4) If typed
+### 4) If typed
 *Submit your QW online
 *I will tell you how to do this in a later class
 
-###5) In class we will:
+### 5) In class we will:
 *Switch and read your partners QW. Discuss
 *I will check you met the minimum length
 *Under the minimum word count: <red>NG</red> stamp
 
-###)At the end of the course - assessment
+### )At the end of the course - assessment
 *I will check your QW
 *Under the minimum for the term: <red>NG</red> stamp
 *More than the minimum for the term: <green>OK</green> stamps
 
-#Having problems?
+# Having problems?
 If your QW is too short, or you're taking a long time to hit the minimum, then:
 *A) Plan your quickwrite more carefully before you start. Take an extra minute to get your ideas ready
 *B) Relax!

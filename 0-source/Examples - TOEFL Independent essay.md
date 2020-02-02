@@ -1,7 +1,7 @@
-#Official ETS high scoring examples
+# Official ETS high scoring examples
 Here: https://www.ets.org/Media/Tests/TOEFL/pdf/SampleQuestions.pdf
 
-#A good example from a previous student
+# A good example from a previous student
 _In answer to "What famous place would you like to visit? Use details and reasons to support your response."_
 
 <example>

@@ -1,7 +1,7 @@
 academicearth.org: http://academicearth.org/
 alba-english.org: http://alba-english.org
-alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20for%20reference%20lists.html#Newspaper
-alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20in%20reference%20lists.html#Graded
+alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20for%20reference%20lists.html# Newspaper
+alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20in%20reference%20lists.html# Graded
 archive.catholicherald.co.uk: http://archive.catholicherald.co.uk/article/20th-february-2009/12/dont-bully-the-faithful-into-buying-fairtrade
 azlyrics.com: http://azlyrics.com
 bigthink.com: http://bigthink.com/topics
@@ -331,7 +331,7 @@ drive.google.com: https://drive.google.com/drive/folders/0BzKt6sceTvHRdV9ZZUJLRW
 drive.google.com: https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
 drive.google.com: https://drive.google.com/drive/u/2/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE
 en.wikipedia.org: https://en.wikipedia.org/wiki/Romanization_of_Korean
-en.wikipedia.org: https://en.wikipedia.org/wiki/Romanization_of_Russian#Transliteration_tabl
+en.wikipedia.org: https://en.wikipedia.org/wiki/Romanization_of_Russian# Transliteration_tabl
 en.wikipedia.org: https://en.wikipedia.org/wiki/Vaquita
 en.wikipedia.org: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch
 en.wiktionary.org: https://en.wiktionary.org/wiki/Appendix:Common_Hindi_words
@@ -384,10 +384,10 @@ facebook.com: https://www.facebook.com/globalfesta2014
 flickr.com: https://www.flickr.com/creativecommons/by-nc-sa-2.0/
 flixbus.com: https://www.flixbus.com/
 futurelearn.com: https://www.futurelearn.com/courses/corpus-linguistics
-google.co.jp: https://www.google.co.jp/flights/#flt=/m/07s8_ct..2019-05-22*./m/07s8_ct.2019-05-26;c:JPY;e:1;ls:1w;sd:0;t:h
+google.co.jp: https://www.google.co.jp/flights/# flt=/m/07s8_ct..2019-05-22*./m/07s8_ct.2019-05-26;c:JPY;e:1;ls:1w;sd:0;t:h
 google.co.jp: https://www.google.co.jp/ime/furikku/
 google.co.jp: https://www.google.co.jp/search?q=free+range+chicken&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjn_9yU4JzMAhVhxqYKHfcVBPAQ_AUIBygB&biw=1366&bih=669
-google.co.jp: https://www.google.co.jp/search?q=weekly+timetable&newwindow=1&biw=1068&bih=1297&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj2pPmQyOnKAhXJE5QKHXyHC-EQsAQIGg#newwindow=1&tbm=isch&q=weekly+hourly+timetable
+google.co.jp: https://www.google.co.jp/search?q=weekly+timetable&newwindow=1&biw=1068&bih=1297&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj2pPmQyOnKAhXJE5QKHXyHC-EQsAQIGg# newwindow=1&tbm=isch&q=weekly+hourly+timetable
 google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiHv96Gm5XNAhVCIqYKHZhtBLwQFggcMAA&url=https%3A%2F%2Fumanitoba.ca%2Ffaculties%2Fengineering%2Fdepartments%2Fmechanical%2Fpdf%2FNEW-Citing-IEEE-2013.pdf&usg=AFQjCNEFqzDZcGGWW9nEH5csVl1S4QoH_A&sig2=Kw4siqtjAM86WPOJn54FGA
 google.co.jp: https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwj28cOdv8_WAhWHG5QKHcVnAYMQjBAIMzAB&url=https%3A%2F%2Fowl.english.purdue.edu%2Fowl%2Fresource%2F560%2F18%2F&usg=AOvVaw3oP7lRnREgxXz0iMnZZTZG
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=book&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fc

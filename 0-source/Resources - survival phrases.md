@@ -1,17 +1,17 @@
 Some example contents you could cover in a "Survival" GV class
-#Source (20 languages)
+# Source (20 languages)
 <ref>
 Nation, P. (1991). A survival language learning syllabus for foreign travel. System, 19(3), 1991, 191-201. </ref>
 </ref>
 
 Download a zip file with 18 languages here: http://www.victoria.ac.nz/lals/about/staff/publications/paul-nation/Vocabulary-resources.zip
 
-#1. Basics
+# 1. Basics
 *Numbers (for money, distance, amount, etc)
 *Times (Yesterday, Today, Tomorrow, next week, April 17th, 7pm, etc)
 *Self introduction
 
-#2. Buying and bargaining
+# 2. Buying and bargaining
 Do you have a/any ...?              |Is there a/any...?
 This (one), That (one)              |One of these/those
 How much (quantity)?                |half    all (one) more  (one) less
@@ -20,7 +20,7 @@ Do you have something cheaper?      |It's too expensive  Can you lower the price
 
 Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somewhere)
 
-#3. Getting to places
+# 3. Getting to places
 *Can you help me?    How do I get to.....
 *Where is ...?
 *How far is it?/Is it near?
@@ -36,7 +36,7 @@ Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somew
 **Underground
 **Airport
 
-#4. Ordering food
+# 4. Ordering food
 *Names of supermarket foods
 **How to read the labels
 **how to find them
@@ -52,17 +52,17 @@ Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somew
 ***(e.g. "Are there any peanuts in this" / "Is there meat in this? I'm a vegetarian")
 *Phrases to start and end a meal in a home/restaurant, if any (e.g. "Bon Appetit"..."That was delicious"..."Gochisosama")
 
-#5. Answering questions about yourself
+# 5. Answering questions about yourself
 What do you do?                     	|I am a (teacher)/tourist
 Do you speak English/Chinese            |A little
 How long have you lived/been here       |For X days/weeks/months
 
-#6. Common situations
+# 6. Common situations
 *Asking for help if you are in trouble (sick, lost, lost property, etc)
 *Exchanging money (bank, exchange)
 *Asking/offering photos (Can I (take your photo)? Can you (take our photo)? Of course)
 
-#7. Small Talk and Conversation
+# 7. Small Talk and Conversation
 *What are you likely to end up talking about if you go to another country?
 *What questions will you need to ask/answer?
 

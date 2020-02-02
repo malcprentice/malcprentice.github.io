@@ -1,4 +1,4 @@
-#Aim
+# Aim
 This activity helps you practice:
 *understanding coding tasks in English
 *solving problems
@@ -8,7 +8,7 @@ This activity helps you practice:
 *giving advice
 *understanding advice given by others
 
-###What will we do?
+### What will we do?
 We will use one coding website to solve some easy problems in English. Why?
 *For Information Systems: Competitive coding is becoming more popular as a part of the hiring process for Engineers.
 *For Biology/Environment stream: You will be handling messy data sets - you can "mung" these more easily with a language like Python
@@ -17,7 +17,7 @@ We will use one coding website to solve some easy problems in English. Why?
 
 
 
-###Instructions
+### Instructions
 1) Sign up for an HackerRank account: https://www.hackerrank.com
 2) Choose your "domain"
 *Beginner: Click Java/Python and learn the basics
@@ -37,7 +37,7 @@ We will use one coding website to solve some easy problems in English. Why?
 *I couldn't solve this problem. The error kept saying "" and I couldn't find the answer. I'm going to ...
 
 
-###How to submit
+### How to submit
 *Be ready to show it in class
 **Screenshot or print the problem
 **Screenshot or print your solution
@@ -50,7 +50,7 @@ We will use one coding website to solve some easy problems in English. Why?
 **Give he name of the problem
 **Give your "How did it go?" sentence from above.
 
-#Don't like HackerRank? Other choices include:
+# Don't like HackerRank? Other choices include:
 *HackerEarth (tutorials only in C, otherwise similar): https://www.hackerearth.com/
 *CodeForces (less learning, more competition: http://codeforces.com/
 *Topcoder (less learning, more competition/work): https://www.topcoder.com/

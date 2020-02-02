@@ -2,7 +2,7 @@ See [[Projects - write an essay about endangered animals]]
  
 
 
-###Corrected example
+### Corrected example
 <example>
 In the world today, seven percent of all species are in danger of going extinct ("Life at the edge," n.d.). This is a problem, because every animal that dies reduces biodiversity, without which the whole food chain might collapse and everything could die ("Biodiversity," n.d.). One of the most endangered animals is the narwhal, which is a kind of whale that lives near the North Pole and Canada. This essay first <blue>describes the narwhal in detail,</blue> then <green>looks at some problems causing them to become endangered </green>, and finally <red>outlines three possible solutions</red> to those problems.  
 

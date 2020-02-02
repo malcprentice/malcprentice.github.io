@@ -1,11 +1,11 @@
-#Things you can partition
+# Things you can partition
 A product (essay 1)			|There are three main types of tea - green black, and oolong - of which black is the most difficult to consume ethically, and is the topic of this essay
 An animal (essay 2)			|There are seven types of tiger, including Siberian and Bengal, of which the most endangered is the Shikoku Tiger. 
 A process 					|There are three main steps in making X - 1,2, and 3 - of which the most difficult is 2. 
 Areas 						|THere are two main cotton producing areas - Shikoku and Kazakhstan - of which Shikoki is the most famous.	 						
 
-#Style: Useful patterns
-###Option 1: "There are"
+# Style: Useful patterns
+### Option 1: "There are"
 There are 	|NUMBER kinds of 	|TOPIC 					|COMMA/HYPHEN/COLON + LIST    	|Optional Comment
 ------------|-------------------|---------------		|------------------------------	|
 There are  	|many kinds of 		|Japanese dog 			|, including Shiba and Akita 	|. (no comment) 
@@ -16,7 +16,7 @@ There are 	|three main steps 	|in the product's life 	|- making, using, and recy
 There are  	|two main kinds of 	|Japanese dog			|- Shiba and Akita 				|- of which Shiba is the cutest. 
 There are 	|hundreds of types of |Beetle 				|, including Stag and kuwagata,   	|but this essay concentrates on the dung beetle.
 
-###Option 2: "The"	
+### Option 2: "The"	
 There are 	|NUMBER kinds of 	|TOPIC 			|COMMA/HYPHEN/COLON + LIST 				|Optional Comment
 ------------|-------------------|---------------|---------------------------------------|-----------------------
 The   		|two main kinds of 	|Japanese dog	|are Shiba and Akita 					|, and of these the most common is the Akita.
@@ -25,7 +25,7 @@ The 		|most endangered	|large cats		|are the Bengal and the Siberian		|. (no com
 The  		|two kinds of 		|diamond 		|discussed are conflict free, and blood diamonds. |BLood diamonds were chosen as the topic because...
 The 		|three main 		|conflict minerals |described here are Nickel, Cadmium, and Tantalum. |Of these, Tantalum is the worst, and so was chosen...
 
-###Option 3: For longer lists or special types of category
+### Option 3: For longer lists or special types of category
 division	|verb					|number		|split type				|COMMA/HYPHEN/COLON + LIST
 ------------|-----------------------|-----------|-----------------------|------
 X 			|can be divided into 	|7 			|types					|- 1, 2, 3, 4, 5, 6 and 7.
@@ -34,7 +34,7 @@ X			|consists of 			|three 		|main isotopes			|: U233, U235 and U238
  
 
 
-#Tips
+# Tips
 *<red>CAREFUL</red>. You can partition "dogs", but not "Shiba" - start at the right level.
 *If your topic has one well-known form (e.g. Gold), normal partition is hard.
 **However, you can always find something: 

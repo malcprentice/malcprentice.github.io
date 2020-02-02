@@ -1,6 +1,6 @@
 Print this page, cut it into strips, and pull a strip out of a hat
 
-#Talk for one minute about
+# Talk for one minute about
 *Talk for one minute about Tokyo. Talk for one minute about your last day off. Talk for one minute about things that make you happy.
 *Talk for one minute about things that make you angry.
 *Talk for one minute about things that make you sad.
@@ -23,7 +23,7 @@ Print this page, cut it into strips, and pull a strip out of a hat
 *Talk for one minute about scary things.
 *Talk for one minute about work.
 
-#"VS""discussions
+# "VS""discussions
 *Discussion: AU vs DOCOMO
 *Discussion: Japan vs. other countries
 *Discussion: Living in the Countryside vs. Living in the City
@@ -51,7 +51,7 @@ Print this page, cut it into strips, and pull a strip out of a hat
 *Discussion: love vs money
 *Discussion: dvd vs cinema
 
-#Have you ever
+# Have you ever
 *HAVE YOU EVER: been to a museum or art gallery?
 *HAVE YOU EVER: played a team sport?
 *HAVE YOU EVER: met someone famous?

@@ -1,5 +1,5 @@
  
-#General tips
+# General tips
 *300 words minimum for a perfect score
 *See tips for all writing questions here: [[Resources - take the TOEFL iBT - 0 - An Overview]]
 *All the TOEFL independent writing topics I have are in the QW topic list: 
@@ -10,10 +10,10 @@
 **structure phrases such as "Another example". Use these
 **sentence length. Don't give short sentences. 
 
-#Examples
+# Examples
 See [[Examples - TOEFL Independent essay]]
 
-#Suggested timing
+# Suggested timing
 *(~5mins):
 **Read the question carefully: reasons, examples, or details?
 **Brainstorm some ideas
@@ -30,11 +30,11 @@ See [[Examples - TOEFL Independent essay]]
 **Check spelling/grammar 
 
 
-#Suggested Arrangement/Style
+# Suggested Arrangement/Style
 *Look at [[Style - use cohesion]] for alternatives
 *Collect your own phrases
 
-##5 paragraph example
+## 5 paragraph example
 +Introduction
 ++PERSONAL CONNECTION TO TOPIC
 +++e.g. "When I was a child, I"
@@ -67,7 +67,7 @@ See [[Examples - TOEFL Independent essay]]
 ++Give your choice e.g. “For these reasons, I prefer X”
 ++Final Comment (Your personal concrete plan)
 
-##1 paragraph example
+## 1 paragraph example
 It's possible to get a perfect score with one 300 word paragraph - check the ETS example answers in the official textbook.
 That might look like this:
 
@@ -86,21 +86,21 @@ That might look like this:
  
 
 
-#EXAMPLES
-##1
-###Some people like to live in the mountains, while others would prefer to live near the sea. Which would you prefer? Give reasons to support your response
+# EXAMPLES
+## 1
+### Some people like to live in the mountains, while others would prefer to live near the sea. Which would you prefer? Give reasons to support your response
 >>When I was young, my family lived near the sea, however we always used to spend some time each summer with my grandmother, and her home was in the mountains. Each place - mountains and sea - has its advantages, but I would prefer to live near the mountain for three reasons - the mountain herbs, the seasons, and the quiet. Firstly, in the mountains, we can enjoy a lot of mountain herbs such as warabi, udo, takenoko, kinoko, and so on. We can pick, cook, and eat them all the time if we live near the mountains. These herbs are very good for health, which also makes living near the mountains healthier than living near the sea. Secondly, if you live near the mountains, you can enjoy the seasons changing more. In spring, you can see some beautiful flowers or cherry trees, while in summer time, you can enjoy a lot of great green trees and not only these, insects such as beetles, cicada, and dragonflies appear. In fall, the green leaves change to red, yellow, and orange - you can see these process happening every day if you live in the mountains. Then in Fall, you can try hiking. If you go, you can take these scenery, and some delicious foods. In Winter, the beautiful leaves are all gone, but the snow-covered trees are very beautiful. The third reason I want to live in the mountains is that it is very quiet there, so you relax and unwind. When I was visiting my grandmother in summer, I often just sat for hours listening to the wind in the trees, with no cars or trains or noises of people. I can understand why some people would prefer to live in the sea - it does have good sports and I do like eating fish - but for the reasons above, I would prefer to live in the mountains. Next holidays I will be taking my driving test in Yamagata, and I hope I can take some time to visit the mountains there. (338 words- Thanks to MY for original) 
 
-###Another Example Conclusion for this topic (Hook-“I understand”-However-Comment)
+### Another Example Conclusion for this topic (Hook-“I understand”-However-Comment)
 I still remember the holidays I took in the mountains as a teenager. I can understand why some people would like to live near the sea, as it does have some good food. However the mountain air is clean, the food is good and the hills offer a good place to exercise, which is why I prefer the mountains. Next week, I have a long weekend and I plan to go to the mountains and have a BBQ.
 
 
-###Another example intro for this topic
+### Another example intro for this topic
 When I was young, I lived near the sea because my home town was a fishing port. Some people like living near the sea like I did, however others prefer to live in the mountains. In this essay I will argue that living near the mountains is best for three reasons -  air, food and activities.
 iBT TOEFL: Independent Writing Example 
 
-##2
-###Some people like to travel without a plan. Others prefer to plan everything before they leave. Which do you prefer? Give reasons and examples. 
+## 2
+### Some people like to travel without a plan. Others prefer to plan everything before they leave. Which do you prefer? Give reasons and examples. 
 
 >>I have gone on several trips with my school, family and friends. Sometimes we travelled with no plan, and other times we had a complete plan. In this essay I will look at planned and unplanned trips, and show that each has advantages. 
 

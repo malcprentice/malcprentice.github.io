@@ -1,6 +1,6 @@
-#Follow an example 
+# Follow an example 
 
-###Example email 1: Here is my homework
+### Example email 1: Here is my homework
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -19,7 +19,7 @@ Hiroko Sato (20140999)
 _Hiroko Sato-EMW-RR2.docx_
 
 
-###Example email 2: Asking for help
+### Example email 2: Asking for help
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -36,7 +36,7 @@ Regards,
 Hiroko Sato (20140999) 
 
 
-### Example email 3: Making an appointment
+###  Example email 3: Making an appointment
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
 __Subject:__  	Hiroko Sato - ETT - A3 question
@@ -51,7 +51,7 @@ Regards,
 <br>
 Hiroko Sato (20140999) 
 
-###Example email 4: Asking for feedback
+### Example email 4: Asking for feedback
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
 __Subject:__  	Hiroko Sato - ETT - A3 question
@@ -73,7 +73,7 @@ Regards,
 Hiroko Sato (20140999) 
 
 
-###Example email 5: Reference
+### Example email 5: Reference
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -91,7 +91,7 @@ Regards,
 <br>
 Hiroko Sato (20140999)
 
-###Example email 6: Emailing your group
+### Example email 6: Emailing your group
 
 __To:____  		1@soka-u.jp, 2@soka-u.jp, 3@soka-u.jp, 4@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -106,8 +106,8 @@ Cheers,
 Hiroko
 
 
-#Make your own email
-###1) Subject Line
+# Make your own email
+### 1) Subject Line
 Put your Name, class name, and homework code (or problem keyword) in the subject line
 *Hiroko Sato - SSGB - A2
 *Hiroko Sato - ECB - A3
@@ -116,7 +116,7 @@ Put your Name, class name, and homework code (or problem keyword) in the subject
 *Hiroko Sato - SSGB - Outline 2A
 *Hiroko Sato - SSGB - Question about Thursday homework
 
-###2) Start with a greeting
+### 2) Start with a greeting
 e.g. "Malc,"					| Very informal
 e.g. "Hi Malc,"					| Informal <blue>use this one</blue>
 e.g. "Dear Mr Prentice," 		| Formal <red>if you use this one I will think you are in trouble :-)</red>
@@ -125,7 +125,7 @@ e.g. "Dear Sir/Madam," 			| Try not to use this. ///Try to find out who you are 
 e.g. "Hi, Everyone"				| Informal, emailing a group of friends
 e.g. "Dear All, "				| Informal to a group - maybe
 
-###3) If you haven't emailed someone in a while
+### 3) If you haven't emailed someone in a while
 Usually, you should ask a question or tell them something before asking them for something.
 You see me every week, so you don't need this when you email me now.
 *"I hope you are well."
@@ -133,20 +133,20 @@ You see me every week, so you don't need this when you email me now.
 *"How are things?"
 
 
-###4) Say the main thing
+### 4) Say the main thing
 "Please find attached my Essay C3"
 "I was absent on Tuesday - can you tell me my team name"
 "Here is my homework"
 "Here is my report. Sorry it is late. "
 "I was sick last week. Can I have an extension on A3"
 
-###5) Add a thanks/hope phrase (optional for informal emails)
+### 5) Add a thanks/hope phrase (optional for informal emails)
  <blue>Thanks in advance.</blue> 	|if it's something normal like marking an essay or sending info
 I hope you can help. 				|if it's something less common, like a reference
 I hope to hear from you.			|if you're expecting a reply - quite formal
 Let me know							|informal - if there's a chance they'll say "no"
 
-###6) Add a polite written goodbye phrase
+### 6) Add a polite written goodbye phrase
 Be careful - most have __commas__ not periods
 Cheers,			 		| people you know well
 Best,					| people you know well
@@ -156,15 +156,15 @@ Yours,					| people you know
 Your sincerely, 		| formal - you started "Dear Mr. Smith,"
 Yours faithfully,		| formal - you started "Dear Sir/Madam"
 
-###7) Your name
+### 7) Your name
 For this class, also give your student number in brackets
 <br>
 Regards,
 <br>
 Hiroko Sato <blue>(20150001)</blue>
 
-#Common mistakes
-###<red>1) Use the correct attachment name!</red>
+# Common mistakes
+### <red>1) Use the correct attachment name!</red>
 *Class-Name-Code
 *Hyphens
 *No spaces.
@@ -180,13 +180,13 @@ Hiroko Sato <blue>(20150001)</blue>
 
 
 
-###2) Please don't email me to say thank you!
+### 2) Please don't email me to say thank you!
 I get 100 emails a week from students (essays, questions).
 If everyone emails "thank you" when I answer, I get __200!__
 You don't need to thank me for answering. It's my job!
 Send a "thank you" maximum __once,__ at the end of term.
 
-###3) Ignore the "Footer"
+### 3) Ignore the "Footer"
 Your email will maybe automatically add something like this:
 
 

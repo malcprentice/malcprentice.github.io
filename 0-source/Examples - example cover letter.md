@@ -3,7 +3,7 @@ Thanks to HS for the original example.
 This is JUST THE TEXT. Find and follow a template (Word/Drive) for a standard formal business letter (addresses, alignment, margins, etc).
 
 See
-#Corrected student example
+# Corrected student example
 <example>
 Dear Ms Smith,
 

@@ -8,13 +8,13 @@ Your aim is:
 4) For some, you only get participation points after you have completed the minimum.
 
 
-#How to lose points
+# How to lose points
 Be absent / late                    |-1 point for absent, -0.5 for late |no max. Also, 7 = fail!                    |See [[Study Skills - do well in class]]
 Forget homework/textbook            |-1 per incident                    |no max                                     |See [[Study Skills - do well in class]]
 Not paying attention                |-1 per incident                    |no max                                     |See [[Study Skills - do well in class]]
 
 
-#How to get points
+# How to get points
 Do what?                            |How to prove               |Points rules           |Max points per term|
 ------------------------------------|---------------------------|--------------         |----------------   |--------
 SR (over minimum!)                  |Online class report        |1 per 4 extra QW       |5, for 20 extra    |[[Study Skills - do a speed reading]]
@@ -36,7 +36,7 @@ ECR                                 |No points                  |0              
 Logs CANCELLED     					|Not an option now         	|0       				|0 			    	|Nope. See new RR Presentation instead
 
 
-###Careful with minimums and needing to have a reason
+### Careful with minimums and needing to have a reason
 <red>See Table - if something is REQUIRED, the points system changes</red>
 *e.g. If WC is required, no extra points available.
 *e.g. If WC is not required, only 1 point available, and you MUST have a question

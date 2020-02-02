@@ -29,14 +29,14 @@ suffix|POS|meaning|example
 -wise				|For Adverbs	|method	|counterclockwise
 
 
-#Want more?
+# Want more?
 Read this list: http://dictionary.cambridge.org/grammar/british-grammar/prefixes
 Here is a longer list: https://msu.edu/~defores1/gre/sufx/gre_suffx.htm
 Try this Memrise course on prefixes and suffixes: http://www.memrise.com/course/55674/prefixes-suffixes-2/
 
 
 
-#Guess from Roots
+# Guess from Roots
 agr				|field				|agriculture
 ann				|year				|annual
 aqua			|water				|aquarium
@@ -120,7 +120,7 @@ voc, voke		|call				|evocative, vocal
 vor				|eat				|herbivore, carnivorous
 
 
-#Guess from prefixes
+# Guess from prefixes
 a-	 	|not, without		|amoral
 ab-	 	|away from			|abduct
 ante-	|before, in front	|antecedent
@@ -170,7 +170,7 @@ uni-	|one	|unicycle
 vice-	|taking the place	|vice president
 
 
-#Want more?
+# Want more?
 Try this memrise course on prefixes and suffixes: http://www.memrise.com/course/55674/prefixes-suffixes-2/
 
 What does the (imaginary) word "intersalt" probably mean?QQQ2QQQTO not put on enough saltQQQTo put salt between food instead of on itQQQTo put salt on your food with a friendQQQTo remove salt from food
@@ -179,7 +179,7 @@ What does the (imaginary) word "unsalt" probably mean?QQQ4QQQTO not put on enoug
 What does the (imaginary) word "undersalt" probably mean?QQQ1QQQTO not put on enough saltQQQTo put salt between food instead of on itQQQTo put salt on your food with a friendQQQTo remove salt from food
 
 
-#Quiz
+# Quiz
 What POS is "Bungleness" most likely to be? QQQ2 QQQVerb QQQNoun QQQAdjective QQQAdverb
 What POS is "Bungation" most likely to be? QQQ2 QQQVerb QQQNoun QQQAdjective QQQAdverb
 What POS is "Bunglize" most likely to be? QQQ1 QQQVerb QQQNoun QQQAdjective QQQAdverb

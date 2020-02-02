@@ -1,6 +1,6 @@
 See [[Projects - write an essay about ethical consumption]]
 
-###Corrected example 1 - Shea Butter
+### Corrected example 1 - Shea Butter
 <example>
 Hand cream, body cream and soap are things that people use frequently. However, some of the ingredients in these products are not produced in an ethical way - the people who make some of the ingredients cannot get enough income, or children cannot go to school. One example ingredient like this is shea butter, which is made from a nut grown in West Africa. This essay first <blue>describes Shea butter in detail,</blue> then <green>looks at some problems it causes,</green> and <red>outlines some possible solutions to these problems. </red>
 

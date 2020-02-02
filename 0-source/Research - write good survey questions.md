@@ -1,6 +1,6 @@
 This is for [[Research - do a survey]]
 
-#Types of questions
+# Types of questions
 There are lots of question types, more than just "closed" and "open", including:
 *Multiple choice / Likert
 **Always/Usually/Sometimes/Not usually/Never
@@ -21,7 +21,7 @@ There are lots of question types, more than just "closed" and "open", including:
 There are a lot more. 
 What kinds of questions are best for our project?
 
-#Why are these bad questions?
+# Why are these bad questions?
 +Do you enjoy dyadic interaction in your ESP class?     
 +In which ways have you and which ways have you not changed the way you teach based on your experience as a learner and as someone who lives in a foreign country?
 +What would be the best way to learn Japanese for a Canadian student?
@@ -32,7 +32,7 @@ What kinds of questions are best for our project?
 +Do you agree that punishing students, when done by a good teacher, is a good thing?
 +How much time do you spend on the internet: 5-10 hours per week, 2-5 hours per week, 0-2 hours per week
 
-#Principles of Question Writing
+# Principles of Question Writing
 Can you match any of the above questions to the problems below?
 *Don't use words your participant doesn't know.
 *Avoid double questions
@@ -48,7 +48,7 @@ Can you match any of the above questions to the problems below?
 *Avoid leading questions (questions that show what answer you want)
 *Add check questions “How many books did you read last week?”
 
-#Types of questions
+# Types of questions
 *OPEN questions
 **(When you don’t know what people do or how they will answer)
 **e.g. What is your favourite band?

@@ -1,7 +1,7 @@
 Sometimes it is obvious that a source is not good. SOmetimes it is not. 
 
-#Checking academic articles
-##Basics
+# Checking academic articles
+## Basics
 *Is it being used?
 **Check if anyone has cited it (Google Scholar).
 **If no-one has and it isn't ¥new, ask why.
@@ -17,7 +17,7 @@ Sometimes it is obvious that a source is not good. SOmetimes it is not.
 
 
 
-##High quality sources to look for
+## High quality sources to look for
 Academic articles can also be low quality.
 Carefully peer-reviewed articles/books are usually found on:
 *Large university publishers¥:
@@ -41,7 +41,7 @@ Carefully peer-reviewed articles/books are usually found on:
 
 
 
-##Low quality sources to avoid
+## Low quality sources to avoid
 *"Self publishing" companies/Journals that print anything if they are paid: http://scholarlyoa.com/publishers/
 *Individual websites, blogs, online encyclopaedias, etc.
 *Single topic journals published by single-topic people/groups: creation dot com, inconvenient history dot com (links spelled out because I don't want to link to them)
@@ -49,13 +49,13 @@ Carefully peer-reviewed articles/books are usually found on:
 
 
 
-##The above are only suggestions.
+## The above are only suggestions.
 *Some small journals are good. Some big ones are bad.
 *Some researchers have high quality blogs.
 *It will take a while, but learn the names of quality sources for your area.
 
 
-#Bias and Quality practice task
+# Bias and Quality practice task
 What is Bias? 
 *e.g. research funded by a company making money from the thing researched
 *e.g. research done by a researcher making money from the thing researched.
@@ -87,14 +87,14 @@ Hamel, I. (2006, August 3). Fairtrade Firm Accused of Foul Play. <em>Swiss Info.
 
 
 
-#Satire and April Fools: getting "onioned"
+# Satire and April Fools: getting "onioned"
 When you do not read critically enough, sometimes you even believe things that are written to be funny.
 *For example, some people shared this article with their friends thinking it was real: http://www.theonion.com/article/emergency-crews-attempt-to-rescue-olympic-figure-s-35313
 *Even real newspaper sometimes unthinkingly reprint articles that were meant as jokes:
 **Example 1: http://news.bbc.co.uk/2/hi/8237558.stm
 **Example 2: http://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-cry
 
-##Your turn
+## Your turn
 Of these articles, some are jokes and some are real. Can you tell the difference? How?
 A: http://www.independent.co.uk/life-style/food-and-drink/features/why-is-fruit-so-expensive-in-japan-9605105.html
 B: http://www.therisingwasabi.com/sadistic-heian-aristocrat-responsible-for-kanji-with-sixteen-readings/
@@ -106,7 +106,7 @@ F: https://atap.google.com/soli/
 G: https://www.google.co.jp/ime/furikku/
 
 
-##SolutionL: Checking the source
+## SolutionL: Checking the source
 Some sources are usually reliable. Some are usually not.
 *Is it a joke site?
 *Is it a type of source known for being unrelieable (e.g. a tabloid newspaper)
@@ -114,7 +114,7 @@ Some sources are usually reliable. Some are usually not.
 
 However, even reliable sources sometimes print things that are not true (either deliberately on April Fools, or by accident), so...
 
-##Solution: Triangulate
+## Solution: Triangulate
 Check AT LEAST TWO other DIFFERENT sources, to see if it is also reported there.
 **If it is about a country, read the papers from other countries
 **If it is political, read papers biased to more than one side

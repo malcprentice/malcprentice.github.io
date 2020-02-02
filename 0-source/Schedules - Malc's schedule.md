@@ -8,13 +8,13 @@ Fri     |X                          |X                              |X          
 
 
 
-##Index
+## Index
 <green>Office</green>       |I'm in AW808. ///Just come along - no appointment needed.
 <orange>?</orange>          |I'm here, but maybe not in AW808 ///Call or email to check before you come.
 X                           |I'm probably not here. ///Email me, and I'll answer soon.
 <blue>ES/SSB/GCP</blue> 	|I'm teaching ///Email me, and I'll answer after class.
 lunchtime                   |I'm also available lunchtime Mon, Wed, Thur. ///If I'm not in AW808, wait 5 mins (I'm probably getting coffee) or check nearby offices.
 
-##Contact Details.
+## Contact Details.
 __Office:__ AW808
 __Email:__ prentice@soka-u.jp

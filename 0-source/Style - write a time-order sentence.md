@@ -1,4 +1,4 @@
-#Types of time-order sentence
+# Types of time-order sentence
 Differences                     |Narrative Time Order               |Descriptive Time Order                         |Instructional Time Order
                                 |----------------                   |----------------------                         |-----------------------------------
 The topic                       |What happened                      |What happens                                   |How __you__ can do something
@@ -13,7 +13,7 @@ Example Topic Sentence          |This paragraph describes the history of mochi  
 
 
 
-###What is wrong with instructions in Descriptive Time Order?*
+### What is wrong with instructions in Descriptive Time Order?*
 ~~First, pick the tea~~             |I don't work in a tea plantation!
 ~~First, you pick the tea~~         |No I don't! I teach English!
 
@@ -22,7 +22,7 @@ First, __the machine__ picks the tea    |(the machine who does it is important)
 First, __the worker__ picks the tea     |(the person who does it is important)
 First, the tea __is picked__            |(passive - who/what does it unknown/unimportant)
 
-###Option 1
+### Option 1
 Cohesion phrase             |Narrative              |Descriptive            |Instructional
 ----------------------------|-----------------------|-----------------------|------------
 First,                      |X happened             |X does something       |do X
@@ -51,7 +51,7 @@ After, / Afterwards,        |
 Finally,                    |
 In the end,                 |
 
-###Option 2
+### Option 2
 Cohesion phrase |       |Narrative              |Descriptive            |Instructional
 ----------------|-------|---------=-------------|-----------------------|------------
 The first       |thing  |that happened was X    |is X                   |is doing X
@@ -62,14 +62,14 @@ The following   |       |was X doing Y          |                       |
 The final       |       |was when X did Y       |                       |
                 |       |was that X happened    |                       |
 
-###Option 3 - "ING-ED"
+### Option 3 - "ING-ED"
 Cohesion phrase |Narrative          |Descriptive            |Instructional
 ----------------|-----------------------|-----------------------|------------
 After Xing,     |Y happened             |X happens              |do X
 While Xing,     |etc                    |etc                    |etc
 Before Xing,    |etc                    |etc                    |etc
 
-###Option 4 - happens at the same time
+### Option 4 - happens at the same time
 
 Cohesion phrase                     |Narrative      |Descriptive        |Instructional
 ------------------------------------|-------------------|-------------------|------------
@@ -82,19 +82,19 @@ Simultaneously,                     |
 
 
 
-#Other useful language
-###See also
+# Other useful language
+### See also
 *Also use basic SOBBA   (, so..., or..., but..., because..., and...)
 *Also use "Cause and Effect" language (As a result...This results in...The outcome was) - see [[Arrangement - write a cause-effect]]
 *Also use basic time phrases ("Then in 1956"..."After 30 minutes"..."Three years later")
 
-###Preparation and warnings
+### Preparation and warnings
 (for Instructional only)
 *Before you start, you need to prepare X
 *"Be careful not to..."
 *"Before you X, remember to Y"
 
-###Going out of sequence
+### Going out of sequence
 *You need to Y, __but before that,__ do X
 *__After having previously Xed,__ do Y
 *__Before__ Y happened, X __had__ happened

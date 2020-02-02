@@ -5,7 +5,7 @@ It matches
 
 The examples and templates marked "ONE THING" or talking about choosing a good volunteer experience are DIFFERENT. 
 
-#Example essay
+# Example essay
 <example>
 Nowadays, many business people and many university students use online storage services (Kondo, 2014, April 20). The purpose of these is to back up data, to send large amounts of data, and share data with others (Kondo, 2014, April 20). If users can connect with Internet, they do not need to carry USB or portable hard disc. Knowing more about online storage services should help to choose better service. This essay compares the best online storage service for university students - Dropbox, Google Drive, and Onedrive.
 <strong>Criteria</strong>
@@ -30,7 +30,7 @@ This essay first outlined three possible criteria to keep in mind when choosing 
 Word Count: 996
 </example>
 
-##References
+## References
 <ref>
 Kondo, K. (2014, April 20). <em>How difference between Google Drive and Dropbox.</em> Retrieved June 28, 2016, from http://news.mynavi.jp/articles/2014/04/20/026/002.html
 <em>Drastic comparison between online storage Services.</em> (2016, February 16). Retrieved from https://navi.dropbox.jp/online-storage-recommended/

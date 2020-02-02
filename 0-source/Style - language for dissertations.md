@@ -1,12 +1,12 @@
 Work in progress - not finished. 
 
-###Methods
+### Methods
 
 *To confirm X, we did Y 
 *To assess X, we measured Y 
 *To examine X, we asked X to do Y
 
-###Participants/data sources
+### Participants/data sources
 DESCRIBE your context/subjects/data (people, or books, or emails?)
 *Subjects were 98 female English majors (one class) at a Japanese university
 *The data used comes from the British National Corpus.

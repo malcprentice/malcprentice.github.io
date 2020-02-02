@@ -2,7 +2,7 @@ Skills with no mark are covered in every course.
 Skills marked <blue>*<blue> are covered second year and advanced courses only.
 
 __By the end of this course you will be able to:__
-#collect ideas and research (Invention)
+# collect ideas and research (Invention)
 *understand the question you need to answer
 *identify an interesting and researchable topic
 *use various strategies for generating ideas
@@ -41,7 +41,7 @@ __By the end of this course you will be able to:__
 **[[Invention - recognise and avoid plagiarism]]
 
 
-#organise your ideas clearly (Arrangement)
+# organise your ideas clearly (Arrangement)
 *Start and end a paragraph well
 **[[Arrangement - write a paragraph topic sentence]]
 **[[Arrangement - write a paragraph summary-link]]
@@ -67,7 +67,7 @@ __By the end of this course you will be able to:__
 **write a Discussion section<blue>*<blue>
 **[[Arrangement - write a sectional essay]]<blue>*<blue>
 
-#express your ideas clearly (Style)
+# express your ideas clearly (Style)
 __By the end of this course you will be able to:__
 *[[Style - follow academic conventions]] - Academic numbers, avoiding "I", etc
 *[[Style - use cohesion]] to join your ideas
@@ -105,7 +105,7 @@ __By the end of this course you will be able to:__
 *[[Style - use the right tense]]
 *[[Style - use title case]]
 
-#present your ideas clearly (Presentation)
+# present your ideas clearly (Presentation)
 *share ideas clearly in writing
 **[[Study Skills - format written work]] well
 **use feedback to improve your writing.
@@ -123,13 +123,13 @@ __By the end of this course you will be able to:__
 **make a poster<blue>*<blue>
 
 
-#Practice: Outlining Projects
+# Practice: Outlining Projects
 *[[Projects - outline]]
 *[[Projects - outline an academic article]]
 *[[Projects - outline a lecture]]
 *[[Projects - outline a plan for going abroad]]
 
-#Practice: Essay projects
+# Practice: Essay projects
 **[[Projects - write an essay about endangered animals]]
 **[[Projects - write an essay about ethical consumption]]
 **[[Projects - write an essay about refugees and asylum seekers]]
@@ -166,7 +166,7 @@ Each of these uses different sub-skills:
 **[[Arrangement - write an argument]]
 
 
-#Study Skills
+# Study Skills
 *think critically
 **about the question
 **about your sources
@@ -217,7 +217,7 @@ Each of these uses different sub-skills:
 *[[Study Skills - learn vocabulary]]
 *[[Study Skills - make small talk]]
 
-#Primary Research Skills
+# Primary Research Skills
 *write good interview questions<blue>*<blue>
 *manage an interview<blue>*<blue>
 *transcribe interview data<blue>*<blue>

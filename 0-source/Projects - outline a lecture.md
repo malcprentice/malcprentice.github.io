@@ -1,7 +1,7 @@
 <iframe src="https://embed-ssl.ted.com/talks/lang/en/hans_rosling_on_global_population_growth.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 Source: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
 
-#Aim
+# Aim
 In this report, we will practice listening to a short interesting online lecture
 *Finding one
 *preparing to listen
@@ -11,14 +11,14 @@ In this report, we will practice listening to a short interesting online lecture
 
 
 
-#Instructions for RR outline one TED Talk
-##1) Visit the TED website https://www.ted.com/talks
+# Instructions for RR outline one TED Talk
+## 1) Visit the TED website https://www.ted.com/talks
 *Select the option for a short talk (no more than 12 mins)
 *Select a topic (e.g. Technology, Education)
 *Look for an interesting title
 *Watch 20 seconds. If they speak too fast or have a difficult accent, choose again.
 
-##2) When you have chosen a talk
+## 2) When you have chosen a talk
 *Look at the general tips below first on how to prepare.
 *Listen to the first minute. If it's too difficult, find something else or slow it down. Start again
 *Listen to it once, English only.
@@ -27,17 +27,17 @@ In this report, we will practice listening to a short interesting online lecture
 **If you are still lost, either choose a different lecture or use translation if available
 **If you have used translation/subtitles/transcript, listen ONE MORE time without them.
 
-##3) Follow general RR outline instructions
+## 3) Follow general RR outline instructions
 *General Instructions are here: [[Projects - outline]]
 *References for a TED video is here: [[Invention - use APA format in reference lists]]
 *APA for your Summary is here: [[Invention - use APA format in the text]]
 
-##Bored of TED?
+## Bored of TED?
 *Look for MOOC or lecture sites under [[Resources - websites for listening]]
 
 
-#General tips for listening to lectures
-##Tips for listening to a lecture
+# General tips for listening to lectures
+## Tips for listening to a lecture
 *Prepare:
 **Read the description and the titles.
 **Try to guess what the speaker will say
@@ -46,7 +46,7 @@ In this report, we will practice listening to a short interesting online lecture
 **If you will have time later and it is important, record the talk on your phone
 
 
-##What to listen for.
+## What to listen for.
 You do not usually quote lectures, so you do not need to copy every word.
 *Instead, use lectures to FIND and ORGANISE ideas. Listen for:
 *Important links between things.
@@ -86,7 +86,7 @@ You do not usually quote lectures, so you do not need to copy every word.
 **You need to write
 **Read / Look at / Write
 
-##Taking notes on lectures
+## Taking notes on lectures
 *Lectures are too fast and too hard to take 100% English notes
 **Copy only short quotes in English.
 **Take most notes as summary (paraphrase) in Japanese
@@ -96,16 +96,16 @@ You do not usually quote lectures, so you do not need to copy every word.
 	"is" 		|	=
 	"is not"	|	≠
 	"causes"	|	--->
-	"number"	|	#
+	"number"	|	# 
 	"and"		|	+
 
-##Mind maps or Outlines?
+## Mind maps or Outlines?
 Outlines are better for reading.	|Maps are better for lectures,
 Outlines are easy when you type.	|Maps are easier when you hand-write
 Outlines are good for organised information ///lectures are usually not organised |Maps are better with disorganised informtion ///e.g. if the speaker keeps switching topics
 Outlines are also for PLANNING essays.	|Maps are also good for GETTING IDEAS for essays
 
-##OPTION: Try "Cornell" style
+## OPTION: Try "Cornell" style
 1) Draw the lines as shown (You can buy Cornell notebooks in Loft, there is a template in my folder)
 2) Take notes in the right hand box
 3) After class/lecture, write keywords to the left

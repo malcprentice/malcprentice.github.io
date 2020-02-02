@@ -3,15 +3,15 @@
 **SOmething you say at the end of an RR presentation
 *<red>This page is NOT for FORMAL responses in essays</red> - for that see [[Arrangement - write a summary-response]]
 
-#First write a summary sentence
+# First write a summary sentence
 See [[Style - write a summary sentence]]
 
-#NEXT, write a personal response. Tell me:
+# NEXT, write a personal response. Tell me:
 *What you thought after reading
 *What it made you think
 *What it made you want to do
 
-##For example:
+## For example:
 *Something you liked/disliked
 **My favourite bit was when the speaker/author/main character said...
 **My favourite quote was "...", because
@@ -38,22 +38,22 @@ See [[Style - write a summary sentence]]
 **I had problems understanding this - my weak point was ..... so next time I will...
 
 
-##What is a good response?
+## What is a good response?
 *AT LEAST 250 characters
 *shows you understood and thought about what you read/heard:
 *Both a summary AND a response.
 
-##Bad examples
+## Bad examples
 *This was an interesting idea, and I agree with this author
 *I learned about types of galaxies
 *This article said that they sell typical products from around Japan.
 *I liked this article.
 
-###Good examples
+### Good examples
 
 
 
-#Style for summarising readings vs lectures
+# Style for summarising readings vs lectures
 *For readings
 **Use "author" for someone you read.
 **Use "book" or "article" for the thing.

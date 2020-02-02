@@ -1,4 +1,4 @@
-#Overview and Tips
+# Overview and Tips
 1) You only have 15s to prepare. Jot down some ideas.
 2) Speak for the full 45s  
 *There will be a timer in the title bar.
@@ -24,7 +24,7 @@
 **Practice filling the time until you get it right
 
 
-#Grading
+# Grading
 *Delivery
 **Speak clearly and fluently, but not too quickly
 **No repetition (all the way through without repeating)
@@ -38,7 +38,7 @@
 **Be clear
 **[[Style - use cohesion]] to connect your ideas be careful not to use writing-oncly phrases
 
-#Arrangement
+# Arrangement
 *I think...
 **My first reason is....because...
 **My second reason is... for example....
@@ -47,41 +47,41 @@
 **My first example is
 **My second example is
 
-#Style
+# Style
 See [[Style - use cohesion]] for more, but not all of those work in speech. 
 Here are some safe ones. 
 Start collecting your own list!
 
-###Signal examples
+### Signal examples
 *For instance
 *for example
 *...such as
 
-###Signal detail
+### Signal detail
 *Specifically,
 *In particular
 *One particular...
 
-###Signal reasons:
+### Signal reasons:
 *because,  so, as a result,Due to X, Y
 *the reason I prefer X is Y
 *This is important to me because X
 
-###Signal “but”:
+### Signal “but”:
 However.            |But in reality |Although X, Y
 On the other hand   |whereas        |Still,
 Yet                 |Despite that   |Otherwise
 
-###Signal additional point
+### Signal additional point
 I also want to mention. |Also,  |Besides
 Another reason is        |Similarly
 
-###Signal conclusion
+### Signal conclusion
 In the future, I        |Next, I hope to            |What this means is
 All in all              |From this you can see that  |In the end 
 In brief                |On the whole 
 
-#Practice Questions
+# Practice Questions
 “In this question, you will be asked to give your opinion about a familiar topic. After you hear the question, you will have 15 seconds to prepare your response and 45 seconds to speak.”
 
 *Some students whose parents do not live close rent their own apartment. Others prefer to live in a dormitory. Which do you think is better and why? Use details and examples in your response.
@@ -93,7 +93,7 @@ In brief                |On the whole
 *Would you prefer driving to school, or walking? Use reasons to support your response.
 *Would you like to live in a big city or a small town ? Use reasons to support your response.
 
-###OLD QUESTION TYPE 1 IS NO MORE:
+### OLD QUESTION TYPE 1 IS NO MORE:
 “For this task, you will be asked to speak about a topic that is familiar to you. You will hear a question. You will then have 15 seconds to prepare your response and 45 seconds to speak.”
 *PLACE: Talk about a place you often go and what you do there. Give details to support your response.
 *PERSON: Talk about a teacher you liked or disliked and why. Give details and examples in your answer.

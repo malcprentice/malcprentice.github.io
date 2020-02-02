@@ -1,4 +1,4 @@
-#What is a definition?
+# What is a definition?
 The category of your topic (a "classification"), and one unique feature.
 
 TOPIC+BE+CATEGORY+UNIQUE DETAIL
@@ -13,7 +13,7 @@ Happiness		|can be defined as 	|an emotional state		|which results from 	|eating
 The word "dreich" |is a 			|Scottish term 			|which describes		|cold, grey, dark, miserable weather.
 
 
-#When to use a definition
+# When to use a definition
 *The topic sentence of a description paragraph
 *The general background of an essay
 *If you use terms in a special way
@@ -23,18 +23,18 @@ Happiness 		|is here used to mean 	|a score of 5 or higher	on the self-assessmen
 Happiness 		|is operationalised as 	|balance between positive and negative emotion (Ryff, 1989)
 
 
-#Think of it as a reverse quiz question:
-###A quiz quesion has ONLY ONE possible answer
+# Think of it as a reverse quiz question:
+### A quiz quesion has ONLY ONE possible answer
 * __Bad Question:__ What is a soft drink made with hot water?
 * __Answer:__ Um... Tea? Coffee? Hot lemon? 
 * __Good Question:__ What is a soft drink made from the leaves of Camellia Sinensis?
 * __Answer:__ Tea
 
-###A good definition defines ONLY ONE thing
+### A good definition defines ONLY ONE thing
 * "Tea is a soft drink made with hot water." is not good 
 *"Tea is a soft drink made from the leaves of Camellia Sinensis."
 
-###Want more examples?
+### Want more examples?
 Look at the first sentence of any Wikipedia article - it is a definition.
 
 topic 			|+BE 				|CATEGORY 				|CONNECT 				|UNIQUE POINT
@@ -50,6 +50,6 @@ Economics 		|is the 			|social science 		|that 					|describes the factors that 
 
 
 
-##Tips
+## Tips
 1) "Define" does not mean "copy a definition from a dictionary". Do you own research if you have to, and write your OWN definition.
 2) Don't define in a boring way. We know what gold is. We know what paper is. Your unique detail must be something we don't know.

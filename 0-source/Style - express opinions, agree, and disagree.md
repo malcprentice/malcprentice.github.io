@@ -1,4 +1,4 @@
-#Giving Opinion
+# Giving Opinion
 *In my opinion, coffee is best.
 *Personally, I think coffee is best.
 *In my experience, coffee is best.
@@ -6,25 +6,25 @@
 *I'd say that coffee is best.
 *I believe that coffee is best.
 
-#Give reasons
+# Give reasons
 *The first/second/third reason is...
 *Another reason is...
 
-#Give examples
+# Give examples
 For example,
 For instance, ...
 Another good example is...
 ...such as...
 On example is...
 
-#Agreeing 
+# Agreeing 
 You're right!
 That's true. 
 I couldn't agree more.
 Yes, I agree.
 I think so too. 
 
-#Disagreeing
+# Disagreeing
 I'm not sure that's a good idea.
 You may be right, but...
 Yes, that's true, but...
@@ -32,15 +32,15 @@ I'm sorry to disagree with you, but...
 I'm afraid I have to disagree. 
 I see what you mean, but...
 It's true that X, however, Y. 
-#Agreeing with a negative (I don't think)
+# Agreeing with a negative (I don't think)
 I don't think so either.
 
-#Clarifying
+# Clarifying
 *What do you mean by X?
 *Can you explain that again?
 *Can you give an example?
 
-#Be careful when agreeing or disagreeing with negative check questions
+# Be careful when agreeing or disagreeing with negative check questions
 __In conversation, sometimes meaning depends on intonation__
 We haven’t done quickwrites yet, have we?
     No.             |OK                      |AGREE (we haven't)     

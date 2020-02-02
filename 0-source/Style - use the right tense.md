@@ -1,4 +1,4 @@
-#List of main tenses
+# List of main tenses
 Example						|Key idea 					|COmmon language
 --------------------		|---------------------------|------------------
 1|I play football  			|every / habit / usually	|every week///usually
@@ -9,7 +9,7 @@ Example						|Key idea 					|COmmon language
 6|I will play football 		|just decided, future not sure |maybe
 7|I'm playing football		|100% future, "friend future" |definitely
 
-#Question patterns
+# Question patterns
 1|What 		|NOUN (optional)|are you		|doing  	|+
 2|Where		|				|do you			|do 		|+
 3|When		|				|did you		|do 		|+
@@ -18,7 +18,7 @@ Example						|Key idea 					|COmmon language
 6|Which		|NOUN (optional)|will you		|do			|+
 7|How		|many///much///often///adjective |are you gonna |do	|+	|+
 
-#Names
+# Names
 1) Can you name the tenses in Japanese (think back to JHS)
 
 2) Here are the names in English:

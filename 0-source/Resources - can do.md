@@ -1,4 +1,4 @@
-#Arrangement
+# Arrangement
 I can [[Arrangement - write a cause-effect]]
 I can [[Arrangement - write a compare-contrast]]
 I can [[Arrangement - write a conclusion paragraph]]
@@ -16,7 +16,7 @@ I can [[Arrangement - write an argument]]
 I can [[Arrangement - write an introduction - overview]]
 I can [[Arrangement - write an introduction paragraph background]]
 I can [[Arrangement - write an introduction thesis statement]]
-#Invention
+# Invention
 I can [[Invention - avoid common APA format problems]]
 I can [[Invention - avoid fallacies]]
 I can [[Invention - find good sources]]
@@ -31,7 +31,7 @@ I can [[Invention - use APA format in the text]]
 I can [[Invention - use APA title case and italics]]
 I can [[Invention - use IEEE format for sources]]
 I can [[Invention - use tools for managing and formatting references]]
-#Projects
+# Projects
 I can [[Projects - outline]]
 I can [[Projects - outline a lecture]]
 I can [[Projects - outline a plan for going abroad]]
@@ -48,7 +48,7 @@ I can [[Projects - write an essay about ethical consumption]]
 I can [[Projects - write an essay about refugees and asylum seekers]]
 I can [[Projects - write an essay about voluntourism]]
 I can [[Projects - write an essay about world heritage]]
-#Research
+# Research
 I can [[Research - analyse qualitative data]]
 I can [[Research - analyse quantitative data using R - intro]]
 I can [[Research - do a survey]]
@@ -56,7 +56,7 @@ I can [[Research - do an interview]]
 I can [[Research - make a questionnaire]]
 I can [[Research - write a proposal]]
 I can [[Research - write good survey questions]]
-#Study Skills
+# Study Skills
 I can [[Study Skills - apply critical thinking]]
 I can [[Study Skills - ask good questions]]
 I can [[Study Skills - basics 1]]
@@ -87,7 +87,7 @@ I can [[Study Skills - use Google Drive]]
 I can [[Study Skills - use Microsoft Office]]
 I can [[Study Skills - use the Self Access Centre]]
 I can [[Study Skills - write a well formatted email]]
-#Style
+# Style
 I can [[Style - avoid repeating words]]
 I can [[Style - avoid short sentences]]
 I can [[Style - describe figures and tables]]

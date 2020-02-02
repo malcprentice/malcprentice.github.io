@@ -7,7 +7,7 @@ Which point am I at?                                    |"The second problem is.
 Which way is your problems section?                     |"As the problems section below will show..."
 
 
-#Basic signposting for short essays
+# Basic signposting for short essays
 **Firstly, KEYWORD.
 **The second theme/point/problem/solution/reason is KEYWORD.
 **The third theme/point/problem/solution/reason is  KEYWORD.
@@ -15,7 +15,7 @@ Which way is your problems section?                     |"As the problems sectio
 
 
 
-#Signposting BACK and FORWARD
+# Signposting BACK and FORWARD
 Back and forward uses the same phrases.
 *Change "above" for "below"
 *Change "next" for "previous"
@@ -39,7 +39,7 @@ The previous section described X.   |This section instead looks at
 The next section will describe X.   |First, however, this section will examine
 
 
-#Signposting a section number
+# Signposting a section number
 *Longer essays/dissertations have section and chapter numbers you can use
 *A common mistake, though, is to change the number without changing the reference.
 *Be careful!
@@ -48,7 +48,7 @@ The impact of X on Y is covered     |in section 3.4.
 This will be returned to            |below in section 3.2
 More about X is given               |in section 2.4.   
 
-#Signposting and Signalling Specific Genres
+# Signposting and Signalling Specific Genres
 Look at [[Arrangement - write a specific genre]] to learn more about the genre options
 [[Schedules - Curriculum for General Academic Skills]] under "organise your ideas clearly (Arrangement)"
 

@@ -1,4 +1,4 @@
-#Training 1
+# Training 1
 *Peer teaching - self introductions
 *Responsibilities as a teacher
 **Prepare well
@@ -23,9 +23,10 @@
 *Common Problems 
 *Shared materials folder: https://drive.google.com/drive/u/2/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE (only accessible if you have soka-u.jp account logged in)
 *Some [[Resources - sources of free images and clipart]]
+*Activities list: [[Resources - Training - Activities]]
 
-#Training 2 - prepare and share activities that work
-###What to prepare
+# Training 2 - prepare and share activities that work
+### What to prepare
 *Download the blank template
 *Choose your best GV topic class (e.g. "Shopping")
 *TYPE up your lesson plan using the BLANK TEMPLATE you recieved. 
@@ -33,7 +34,7 @@
 *Email it to the office
 *Print it
 
-###What we will do
+### What we will do
 *Example warmer activities
 *Review quiz
 *Sharing session (Jigsaw groups). Please prepare 2-3 things to share. You will explain (and if possible, do) the activity in small groups. This could be:
@@ -46,15 +47,15 @@
 **How could you adapt it for other languages/higher levels/lower levels/mixed levels?
 
 
-#Quiz for training 2
-###1) There are five possible "strands" for each session. What is missing?
+# Quiz for training 2
+### 1) There are five possible "strands" for each session. What is missing?
 	meaning input
 	meaning ...
 	language
 	fl...
 	content
 
-###2) Give some examples to fill the gaps of possible targets
+### 2) Give some examples to fill the gaps of possible targets
 Vocab:        		|e.g. words for restaurants...
 Function:     		|e.g. requesting, ...
 Survival:     		|e.g. classroom, ...
@@ -64,9 +65,9 @@ Sk___:				|e.g. Characters/Reading/Writing/Listening/Speaking
 Gr____: 			|e.g. past / present / future / possibilities / comparisons
 Pro________: 		|e.g. tone / difficult sounds / stress
 
-###3) What classroom survival language do you teach? Give two examples.
+### 3) What classroom survival language do you teach? Give two examples.
 
-###4) What stages are missing in this list of stages in a PPP class?
+### 4) What stages are missing in this list of stages in a PPP class?
 W____________________
 PRESENTATION
 PRACTICE
@@ -77,5 +78,5 @@ FINISH:
 *Homework: Reading / Listening
 *P___________
 
-###5) Give an example of an activity for each section in (4) except "preview"
+### 5) Give an example of an activity for each section in (4) except "preview"
  

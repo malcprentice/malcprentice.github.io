@@ -1,6 +1,6 @@
 Warning - all suggestions below are for a dissertation on language learning. Rules in other topics are likely to be similar, but different. 
 
-#A common structure 
+# A common structure 
 Front Matter
 Chapter 1: Introduction
 Chapter 2: Literature Review
@@ -12,7 +12,7 @@ Appendices
 
 
 
-#Not everyone does it this way
+# Not everyone does it this way
 *The Introduction often includes the Literature review
 *Sometimes there is no section heading for the Introduction
 *If the Discussion is long, there is sometimes a separate Conclusion
@@ -20,7 +20,7 @@ Appendices
 **follow the rules you are given
 **read some good examples by previous students
 
-#A more detailed look at a possible table of contents
+# A more detailed look at a possible table of contents
 Chapter 1. Introduction
 1.1. Aims and audience
 1.2. Terminology
@@ -54,11 +54,11 @@ References
 Appendix 1: Long data
 Appendix 2: Long Questionnaire 
 
-#General tips
+# General tips
 *Double check your cohesion: if you say “Section 3.1 below looks at X” - please check it is still 3.1, and is still below
 *Split it up into stages (chapter deadlines/friend check/teacher check/final draft/paper copy bound and printer). Put these in your calendar
 
-#Style
+# Style
 *[[Style - follow academic conventions]]
 *Average sentence length in an academic report is 20 words or so.
 *Avoid over-using the passive  (It was noticed that....)
@@ -66,7 +66,7 @@ Appendix 2: Long Questionnaire
 See [[Style - language for dissertations]]
 
 
-#Delivery
+# Delivery
 *Use styles for section headings
 **less time spent fiddling
 **you can autogenerate your table of contents, list of tables and list of figures. 

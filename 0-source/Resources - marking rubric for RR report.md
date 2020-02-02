@@ -27,7 +27,7 @@ Any plagiarism / bad paraphrasing?									|<blue>OK</blue>
 minimum number of sources used (see project sheet for number)		|<blue>OK</blue>
 [[Invention - find good sources]]									|<blue>OK</blue>
 
-###Notes
+### Notes
 *Grading sections
 **No mistakes (no NG) in a section, the section is <green>G</green>
 **Only one "NG" per section, the section is <blue>OK</blue>

@@ -1,6 +1,6 @@
 This website is a collection of worksheets and resources used by students/trainees. 
 
-#Privacy 
+# Privacy 
 *There is no data retained (unless you're  manually submitting homework through the linked Google Classroom, Forms, etc). 
 *There is no tracking (i.e. no Google Analytics, etc)
 *Just in case, though:

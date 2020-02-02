@@ -1,6 +1,6 @@
 This sheet is about how to USE a poster. For more on how to MAKE the poster, see [[Study Skills - make a poster]]
 
-#At a real conference. 
+# At a real conference. 
 At conference, you either:
 *stand beside your poster then take it down
 *stand beside your poster for 30 mins, but leave it up
@@ -21,7 +21,7 @@ Either way:
 
 Remember - you're not presenting, you're answering questions (except if someone asks for a summary, in which case it's more like a mini informal presentation)
 
-#Assessment in class
+# Assessment in class
 *You are (usually) not assessed on your slides
 **Your slides should be perfect - we've checked them several times. 
 **However, you will get a minus point for any mistake I pointed out that you didn't fix on the slides.

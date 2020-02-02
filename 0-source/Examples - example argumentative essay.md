@@ -1,6 +1,6 @@
 Thanks to WB in the 2016 ES class for the original example
 
-#Corrected student example 
+# Corrected student example 
 <example>
 Nowadays, renewable energies are needed, because energy sources from coal or petroleum are running out. There are many kind of renewable energies in the world - such as tidal power, wind power, and hydroelectricity - but one of the most important is solar (“Top 10 renewable energy sources,” 2009, May 1). Therefore, this essay will first describe solar cells, then look at their advantages and disadvantages.
 

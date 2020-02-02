@@ -1,5 +1,5 @@
-#Travel Situations
-##Transport Situations
+# Travel Situations
+## Transport Situations
 *I can book a flight by phone
 **Hitomi S found this: http://www.youtube.com/watch?v=Wul6pDmh9fc and this: http://www.youtube.com/watch?v=9-J4uZFaOCo
 *I can check in at an airport
@@ -8,19 +8,19 @@
 *I can buy a train ticket
 *I can rent a car
 
-##Hotel Situations
+## Hotel Situations
 *I can book a hotel by telephone
 **Ayami T found this: http://www.youtube.com/watch?v=IjffOyS-zgQ
 *I can handle hotel reception conversations
 *I can ask for maps and tips on what to see
 
-##Directions
+## Directions
 *I can ask for walking directions
 *I can ask for driving directions
 *I can ask for underground/subway directions
 *I can get a haircut
 
-##Money and Shopping
+## Money and Shopping
 *I can do travel banking
 *I can shop in a clothes shop
 *I can ask for a discount
@@ -29,7 +29,7 @@
 **Natusmi A found this:  http://www.eigoland.net/vtwithvoice/s9.htm and this: http://wwwa.dcns.ne.jp/~hiro777/wakana/fashion/index.htm)
 *I can haggle (bargain really hard)
 
-##Food and restaurants
+## Food and restaurants
 *I can order in a fast food restaurant
 *I can order in a generic hamburger restaurant
 **Utei K found this: http://www.eigoland.net/vtwithvoice/s6.htm
@@ -42,7 +42,7 @@
 **Mayuka S found this: http://www.wikihow.com/order-at-Starbucks
 *I can order in....
 
-##Emergencies
+## Emergencies
 *I can deal with getting sick and hurt
 *I can call an ambulance
 *I can explain a stomach problem to a doctor
@@ -51,7 +51,7 @@
 *I can talk to the police
 *I can report being robbed
 
-#General Business English
+# General Business English
 *I can quickly introduce myself in English.
 *I can answer common job interview questions
 **Why did you decide to apply to Sony?
@@ -66,14 +66,14 @@
 *I can handle personal telephone calls
 *I can handle business telephone calls
 
-#Specific Business English
+# Specific Business English
 *I can help English speaking customers at a travel agency.
 *I can help English speaking customers at an Izakaya.
 *I can help English speaking customers at a hotel.
 *I can help English speaking tourists as a tour guide.
 *I can help English speaking customers at Disney
 
-#Long term living abroad
+# Long term living abroad
 *I can do a homestay
 **I can call my host family and ask to be picked up
 **I can tell my host family what I would like to eat
@@ -83,7 +83,7 @@
 **I can buy a car
 **I can find an apartment
 
-#Other Situations
+# Other Situations
 *I can give my opinion, agree and disagree (e.g. about plans for what to do today)
 *I can ask for and give advice.
 *I can make a suggestion

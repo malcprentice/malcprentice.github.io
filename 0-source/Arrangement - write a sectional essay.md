@@ -6,17 +6,17 @@ This will be clearer if you read some examples and templates.
 
 A sectional essay needs subheadings and extra thesis statements
 
-##Subheadings
+## Subheadings
 Bold, [[Style - use title case]], subheading, and LEFT aligned
 
-##A thesis statements for each section
+## A thesis statements for each section
 IN ADDITION to the topic sentence for the first paragraph
 *"This section describes....This paragraph outlines...THe first"
 *"This section looks at X in terms of ABC. This paragraph focuses on A, specifically 1, 2, and 3. The first A is 1. ")
 *For more options (and to avoid "This...This..."), read up on how to [[Arrangement - write a paragraph topic sentence]]
 *Your section is usually three similar paragraphs, or one long point. So you don't usually need keywords for the thesis statement, just the topic sentence of each paragraph "This section describes three problems. This first problem is pollution....The second problem is child labour....The third..."
 
-#Tips
+# Tips
 <red>1) Don't confuse paragraph cohesion with section cohesion
 *Your section starts "This __section__ "
 *Your section ends  "In summary this __section__ ... The next __section__ "

@@ -1,6 +1,6 @@
 Exact formatting is hard to describe - while you read this, look at the example file in Shared Materials folder  ("Style - using figures and tables.docx")
 
-#APA rules for Tables and Figures
+# APA rules for Tables and Figures
 *Always refer to ANY figure/table at least once in the text 
 **("As Figure 1 shows", "As Table 3 indicates")
 **See [[Style - describe figures and tables]]
@@ -9,7 +9,7 @@ Exact formatting is hard to describe - while you read this, look at the example 
 *Don't use titles built into Excel/Word graphs. Delete that and add your own typed title.
 *Make sure your title, figure, notes are all on the same page.
 
-#APA rules for tables
+# APA rules for tables
 *Give the Table number ("Table 1")
 *On the next line, give the title in italic
 *Next, give the table. Give the title ABOVE tables (opposite for figures)
@@ -25,7 +25,7 @@ For figures (graphs/charts/maps/photos/diagrams)
 *Give the title below “Figure 3: % AWL words by genre”
 *Make sure it looks good in Black and White.
 
-#APA rules for For Figures
+# APA rules for For Figures
 *Give the title BELOW
 *Title should stand alone,
 *Include the raw data in an appendix if you can
@@ -41,18 +41,18 @@ For figures (graphs/charts/maps/photos/diagrams)
 
 
 
-#Cite tables/figures from another source
+# Cite tables/figures from another source
 This section needs checking. There may be errors. Before you use it, let me know.The reason there may be errors is that most writers and researchers do not this - the only data is from their own research. It would be better to describe the data in words or make your own data/figure. However, if it is necessary, just say where you got it:
 *"Adapted": you changed it
 *"Reprinted from": it's copied
 
-###Figures
+### Figures
 _Figure 3:_ Change in forest cover by year. Adapted from Smith (1999)
 _Figure 3:_ Change in forest cover by year. Reprinted from from Smith (1999)
 
 Then give the APA reference in the References section
 
-###Tables
+### Tables
 Give the citation in a note under the table
 Do NOT put it in your references section - give the reference here in caption style:
 *no burasage

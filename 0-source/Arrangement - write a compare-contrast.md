@@ -1,8 +1,8 @@
 <a href = "http://buzzhootroar.com/whats-the-difference/"><img src="http://i.imgur.com/pB7Rl07.jpg"></a>
 Source: http://buzzhootroar.com/whats-the-difference/  (click for more animal comparisons!)
 
-#Overview
-##Compare contrast can be:
+# Overview
+## Compare contrast can be:
 *A whole essay
 *A paragraph
 *A sentence or two in a paragraph usually Description or Analysis
@@ -10,22 +10,22 @@ Source: http://buzzhootroar.com/whats-the-difference/  (click for more animal co
 For sentence patterns, see [[Style - write a compare-contrast sentence]]
 This page is about structure for compare-contrast PARAGRAPHS and longer
 
-##Terms
+## Terms
 Compare= "Same", Contrast= "Different". For example:
 *Tokyo & Osaka
 *Yoshinoya  & McDonalds
 *Squid & Octopus
 *Two World Heritage Sites
 
-#Invention
+# Invention
 *Think about all 5 senses - touch smell taste sight feel
 *Do not choose things that are too big (US & China) or too different (cats & bananas)
 *Try a “same and different” Venn diagram: https://simple.wikipedia.org/wiki/Venn_diagram
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/evelynsaenz/6948858541/in/photolist-bA3HxT-6Zv18W-b9CD1Z-aUo9c-6yDSbv-ikvETj-71jpQF-6wJ4Pr-d8nRC7-r6nnLy-aeYPjn-8zHXWC-f4kAa6-a3wqqh-6dyuDy-8s36Dz-dZftfq-dZfthu-6Yh9Ka-72QC43-dZ9LPv-dJVEXD-CmDnm5-9jF7zP-8wac6W-8r9bPv-677s1n-72LCYe-7MJawp-7MNary-4nV6fL-egKiwV-6WC5yD-c3NtqC-4SE3va-a8igQW-rrz8N5-8FXC7f-7MNahb-7yJ5bA-pRzn9i-JvTMP-9iVq5Q-9bkCLE-8jn8vW-9T86qN-78TGxj-a7dP1z-6Wh4Vh-oE6Duz" title="Venn Diagram"><img src="https://farm8.staticflickr.com/7189/6948858541_ec995bbbc8_n.jpg" width="320" height="176" alt="Venn Diagram"></a>
 
-#Arrangement
+# Arrangement
 
-##Example Outline: Same-Different essay (4 paragraphs)
+## Example Outline: Same-Different essay (4 paragraphs)
 +Introduction paragraph
 ++General Background: Basic category e.g. animals, cities
 ++Specific Background: name your animals/city
@@ -51,7 +51,7 @@ Compare= "Same", Contrast= "Different". For example:
 ++ Concession ("It is understandable that many prefer X because of A")
 ++Final comment ("However, because of B and C," Y DECISION/RECOMMENDATION)
 
-##Example Outline: Same-different (1 paragraph)
+## Example Outline: Same-different (1 paragraph)
 +Topic Sentence: "This paragraph outlines how X and Y have both similarities and differences"
 ++"The first similarity is..." + detail
 ++"The second similarity is..." + detail
@@ -64,7 +64,7 @@ Compare= "Same", Contrast= "Different". For example:
 
 
 
-##Example Outline: Topic based essay (5 paragraphs)
+## Example Outline: Topic based essay (5 paragraphs)
 +Introduction
 ++GB (Basic category e.g. animals, cities)
 ++SB: name your animals/cities and give VERY SHORT definition
@@ -85,7 +85,7 @@ Compare= "Same", Contrast= "Different". For example:
 
 
 
-#Thesis statements for compare-contrast
+# Thesis statements for compare-contrast
 *Same-different pattern
 **"This paragraph outlines how X and Y have both similarities and differences"
 **"This essay will first look at how X and Y are the same, and then how they are different"

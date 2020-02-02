@@ -1,4 +1,4 @@
-#Outline Template
+# Outline Template
 +Introduction and Literature Review
 ++Presentation opening ("Today, we would like to talk about a survey research project we did recently")
 ++General background on topic (e.g "Many students")

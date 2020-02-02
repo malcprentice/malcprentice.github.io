@@ -1,9 +1,9 @@
-#How many words should I learn?
+# How many words should I learn?
 *Learn AT LEAST 10 words every class (280 total).
 *Advanced groups: learn AT LEAST 15 every class (420 total).
 *Most students say they take about 15-20 minutes.
 
-#Which words should I learn?
+# Which words should I learn?
 Look in the shared materials folder for Vocab spreadsheet. 
 *First, learn the "START HERE" tab of NGSL words useful for everyone
 *Next, choose one or more of the specialised lists (careful - they overlap) 
@@ -19,7 +19,7 @@ Instead, just read more.
 All the lists below come from here:http://www.newgeneralservicelist.org
 
 
-#How should I learn?
+# How should I learn?
 1) Download the "START HERE" excel sheet
 2) Edit the sheet
 *Delete the lines you already know. 
@@ -35,14 +35,14 @@ All the lists below come from here:http://www.newgeneralservicelist.org
 5) Be ready to tell your partner which words you have learned (e.g. "test me on words 71-80")
 6) Occasionally, ask your partner to test 10 random words from your whole list.
 
-#How will you check my homework?
+# How will you check my homework?
 *From class 3, forget your list = NG stamp
 *You will test your partner on their words every class (no points).
 *As soon as you have enough words (about week 3), I will start making online tests
 *You will take one online test after every class
 *There will be an end of term test. 
 
-#Remember - one word = many words.
+# Remember - one word = many words.
 Use any of these words in your list, examples and sentences.
 *"analyse"  (n)		= 	analyse, analysed, analysing
 *"analysis" (v)	 	= 	analyser, analysers, analyses, analysis, analyst, analysts
@@ -50,7 +50,7 @@ Use any of these words in your list, examples and sentences.
 *"analytically" (adv)	=	analytically
 *UK spellings 		=	analyze, analyzed, analyzes, analyzing, etc
 
-#Useful websites for learning more ABOUT how to use words
+# Useful websites for learning more ABOUT how to use words
 *BYU Corpus: http://corpus.byu.edu/ (Written and Spoken US English)
 *Word and phrase: http://www.wordandphrase.info/academic/ (American Academic English)
 *Webcorp: http://www.webcorp.org.uk/ (Internet English)

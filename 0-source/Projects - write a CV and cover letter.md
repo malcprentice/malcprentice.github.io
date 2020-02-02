@@ -1,14 +1,14 @@
-#Warmer Discussion
+# Warmer Discussion
     Are you doing job hunting? How is it going?
     What part time jobs have you had?
     What job do you want after you graduate?
 
-#Terms
+# Terms
 C.V. or Resume? Which is which?
 1) A one page summary of work and learning used mostly in US business.
 2) A  2-3 page summary of learning and work used in the UK and schools.
 
-#Cover letter?
+# Cover letter?
 Usually you don't just send the CV. You send a short letter:
 *introducing yourself
 *saying how your skills/experience match each point in the job advert
@@ -25,7 +25,7 @@ Make sure you know what style you need and find more examples.
 
 
 
-#Analysing a CV/Resume structure
+# Analysing a CV/Resume structure
 Look at the examples
 *What are the sections?
 *How are they different?
@@ -35,8 +35,8 @@ Look at the examples
 *What information is given for your job / education?
 *Is it a good idea to use cute or mobile email addresses (I_eat_penguinfeet@ezweb.ne.jp)
 
-#Contents
-##If you have no work experiences
+# Contents
+## If you have no work experiences
 *Club/circle/team membership
 *Volunteer experience
 *Driving license
@@ -48,7 +48,7 @@ What else can you think of?
 
 
 
-##If you have only part-time experience
+## If you have only part-time experience
 Make your job sound better (without lying)
 __Instead of:__ Waiter, XYZ Ramen, Shinjuku. I took money, took orders, cleaned toilet.
 __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash handling, customer service and hygiene inspection.
@@ -72,7 +72,7 @@ checked something |   quality control
 
 
 
-#Homework: Find an advert for a job you want.
+# Homework: Find an advert for a job you want.
 1) Find an appropriate CV Template
 2) Download it and fill in the details
 3) Try to adapt your CV to the job

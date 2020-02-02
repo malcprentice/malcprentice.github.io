@@ -7,7 +7,7 @@ Thanks to TB in 2016 for Original of Intro, Background, and Refugee sections
 
 
 
-###Corrected example
+### Corrected example
 <example>
 Access to affordable healthcare is something that most people living in Japan take for granted. However not everyone around the world can say the same, and many people with curable and preventable diseases are not treated. This essay will first look at why access to healthcare is important, then will use the example of the Philippines as a case study to illustrate the issues, focusing on the problems lack of access to healthcare can cause, and some possible solutions. 
 
@@ -41,7 +41,7 @@ Gold, M. (1998). Beyond coverage and supply: measuring access to healthcare in t
 GOVPH. (n.d.). <em>About the Philippines.</em> Retrieved November 23, 2015, from http://www.gov.ph/
 <em>Health and population.</em> (n.d.). Retrieved November 16, 2015, from http://www.investphilippines.info/arangkada/climate/health-and-population/
 Ishida, S., & Nakajima, S. (1985, March). <em>Sekai no rihabilite-shon.</em> [World rehabilitation]. Retrieved from http://www.dinf.ne.jp/doc/japanese/prdl/jsrd/rehab/r048/r048_025.
-html#D025
+html# D025
 <em>Key Facts: Poverty and poor health.</em> (n.d.). Retrieved October 29, 2015, from http://www.healthpovertyaction.org/info-and-resources/the-cycle-of-poverty-and-poor-health/key-facts/
 Ministry of Foreign Affairs of Japan. (2015, April 1). <em>Zaigaikoukan imukan jyouhou.　</em>[Information about medical officer]. Retrieved from http://www.mofa.go.jp/mofaj/toko/
 medi/asia/phili.html

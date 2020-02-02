@@ -8,7 +8,7 @@ Probably, someone was asked to
 4) Write a report recommending ONE projector, with reasons. 
 
 
-#Invention
+# Invention
 *For topics, think about:
 **Something you need to buy (mobile phone)
 **Something you need to choose (study abroad, company)
@@ -19,11 +19,11 @@ Probably, someone was asked to
 **choose something that needs research
 **choose something that needs thought
 
-#Examples
+# Examples
 **make sure you have the correct arrangement
 **one thing = colunteer, three things = robot
 
-#Arrangement - Overview
+# Arrangement - Overview
 There are two basic types
 *Analyse ONE thing and give a yes/no recommendation
 *Analyse THREE things and recommend the best choice 
@@ -32,11 +32,11 @@ There are two basic types
 
 *FYI: "Figure" = image/map/graph
 
-#Arrangement for slides
+# Arrangement for slides
 *There is a Powerpoint TEMPLATE in the template folder 
 *(TEMPLATE for criteria-analysis presentation.pptx)
 
-###12 slide pattern
+### 12 slide pattern
 +Title Slides
 +Overview slide
 ++This is equivalent to your Intro paragraph
@@ -58,7 +58,7 @@ There are two basic types
 +"References"
 
 
-#Arrangement for Essay
+# Arrangement for Essay
 *There is no outline template
 **Just use your powerpoint as a writing plan. 
 **This is common in academic writing. Let's practice!
@@ -120,7 +120,7 @@ There are two basic types
 +++e.g. even more generally, should we be volunteering/using this thing at all? IS there something we need to think about before we even start looking at criteria?
 
   
-#Arrangement for Analysis - options
+# Arrangement for Analysis - options
 Above, you can see 
 +__Analysis__ (Subheading)
 ++Paragraph 1 - Section Thesis statement + Analysis of 1
@@ -129,7 +129,7 @@ Above, you can see
 
 There is no detail, because there are several options:
 
-##Option 1: three things, organised by thing
+## Option 1: three things, organised by thing
 ++Paragraph 1 - Analysis of 1
 +++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
 +++Topic sentence for paragraph ("The first X is  1")
@@ -150,7 +150,7 @@ There is no detail, because there are several options:
 +++Analysis of thing 3 in terms of criterion 2
 +++Analysis of thing 3 in terms of criterion 3
 
-##Option 2: three things, organised by criteria
+## Option 2: three things, organised by criteria
 ++Paragraph 1 - Analysis of 1
 +++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
 +++Quick description of three things
@@ -169,7 +169,7 @@ There is no detail, because there are several options:
 +++Analysis of thing 2 in terms of criterion 3
 +++Analysis of thing 3 in terms of criterion 3
  
-##Option 3: one thing, organised by criteria
+## Option 3: one thing, organised by criteria
 ++Paragraph 1 - Analysis by criterion 1
 +++THESIS statement for section: "This section analyses three Xs in terms of the three criteria outlined above" 
 +++Quick description of three things
@@ -188,8 +188,8 @@ There is no detail, because there are several options:
 +++More Analysis of thing 3 in terms of criterion 3
 +++More Analysis of thing 3 in terms of criterion 3
 
-#Style 
-##Style for criteria
+# Style 
+## Style for criteria
 1) Try using some superlative adjectives
 *"The most important thing to look for in a X is QUALITY"
 *"One of the most essential qualities of a X is that it is Y"
@@ -202,8 +202,8 @@ There is no detail, because there are several options:
 *In order to check 
 
 
-##Style for analysis
-###Analysis Keywords
+## Style for analysis
+### Analysis Keywords
 Keywords for your Analysis paragraphs bend the normal rules. They are __actions.__ 
 This means they should be "to" or "ing" verbs:
 *"One way to check this is to measure Y."
@@ -213,30 +213,30 @@ This means they should be "to" or "ing" verbs:
 *"The three best ways to check this are to look at X, to measure Y, and to check X."
 *"The three best ways to check this are to looking X, measuring Y, and checking X."
 
-###Analysis sentence
+### Analysis sentence
 Three suggestions. Different paragraphs should have different patterns to avoid boring style
 
-###Option 1: three different pieces of evidence
+### Option 1: three different pieces of evidence
 1.	One major way to measure this is to X. It was found that
 2.	Another way to measure this to Y. This suggested that
 3.	In addition, X was also checked. This showed that
 4.	As such (conclusion)
 
-###Option 2: three DETAILS on one piece of evidence
+### Option 2: three DETAILS on one piece of evidence
 1.	The way to measure this is to X.
 2.	It was found that...
 3.	This also suggested that...
 4.	Additionally, it showed that...
 5.	As such (conclusion)
 
-###Option 3: a process (best if you have no outcome)
+### Option 3: a process (best if you have no outcome)
 1.	One way to measure this is to X. However, nothing was found.
 2.	Another way to measure this to Y. Unfortunately, nothing ...
 3.	In addition, X was also checked. There was a lack of evidence...
 4.	As such (no conclusion)
   
-#Common Mistakes
-##Not a compare contrast
+# Common Mistakes
+## Not a compare contrast
 This is NOT like when you [[Arrangement - write a compare-contrast]]
 criteria-analysis 										|Compare contrast
 ---------------------------------------------------------|-----------------------
@@ -244,26 +244,26 @@ criteria-analysis 										|Compare contrast
 8 paragraph sectional essay///Intro+3 criterion+3 analysis+conclusion |4-5 paragraphs:///Intro-thing1-thing2-conclusion///OR///Intro-topic1-topic2-topic3-conclusion
 Things being analysed not mentioned until paragraph 4 	|Thing being analysed mentioned in paragraph 1, and maybe topic of paragraph 2
 
-##Criteria should stand alone
+## Criteria should stand alone
 I should be able to take your criteria, and use them to assess three completely different choices. 
 *e.g. you used the criteria price, taste, and health to analyse strawberries, bananas and apples using the criteria
 *I should be able to use the SAME criteria paragraphs/slides to analyse pineapples, oranges, and grapes. Without changing them
 *Remember: DO NOT mention the thing/.things you are analysingin your criteria section
 
-##Plural is "criteria", singular "criterion"
+## Plural is "criteria", singular "criterion"
 *One criterion
 *Two criteria
 *Three criteria
 *etc
 
-###Use hedging
+### Use hedging
 Many of you analyses will not be completely certain
 Try to [[Style - use hedging]]
 *"Is not effective" is usually too strong. Instead try:
 *"not particularly effective"
 *"does not entirely meet the criteria" 
 
-#Description paragraph style
+# Description paragraph style
 If you do use a description paragraph at the beginning of your analysis:
 *Example section thesis statement/topic sentence: ("This section first describes one TOPIC in detail, and then critically analyses it in terms of the criteria outlined above.")
 *See previous essays for how to write process/definition/partition/comparison sentences

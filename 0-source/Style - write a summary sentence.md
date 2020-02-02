@@ -1,4 +1,4 @@
-#What is this page for?
+# What is this page for?
 
 This page is <red> not </red>  for "In summary this paragraph" sentences. For that:
 *See [[Arrangement - write a paragraph summary-link]] for end of paragraph "In summary there are three problems" patterns
@@ -13,7 +13,7 @@ This page <red> is</red> for "summarizing what other people said" sentences:
 
 
 
-#What is a good "according to" summary sentence?
+# What is a good "according to" summary sentence?
 When summarising what you read/listen to, good summary sentence will:
 *answer the question "What was it about?" (topic and main idea)
 *mention the main keyword(s)

@@ -1,29 +1,29 @@
-#Too many short sentences is bad.
-###Bad Example
+# Too many short sentences is bad.
+### Bad Example
 >>The second criterion is having a clear goal. Organizations should clearly say what they do. They should say why inviting volunteers is necessary. Goals could be ending hunger and so on. This can be check on their website. It should have a list of goals. In summary it is possible to find a good volunteer organization.
 
-###Why?
+### Why?
 1) It just sounds bad.
 2) It is difficult to join your ideas together
 3) Every sentence needs a subject, so you might repeat it too much
 
-###How to count
+### How to count
 Word count of a sentence does NOT include citations
 Penguins are bird ("A study on flightless birds of the Antarctic," n.d.)
 This sentence is __three__ words, not eleven
 
-#Target is 15 words
-##For essays in this class
+# Target is 15 words
+## For essays in this class
 *10 words per sentence ABSOLUTE MINIMUM.
 *15 words is OK
 *20 words is good
 
 
-##For other work
+## For other work
 News articles have shorter sentences than essays. Dissertation sentences can be much longer. When you write something, find some examples and check what is expected.
 
 
-#Exceptions
+# Exceptions
 *Keyword) sentences can be short (although it's better if they're not). THese are OK:
 **The third problem is pollution.
 **The second solution is reducing costs.
@@ -31,7 +31,7 @@ News articles have shorter sentences than essays. Dissertation sentences can be 
 *Quote sentence can be short.
 **As Martin Luther King said, "I have a dream".
 
-#Solution
+# Solution
 *Join sentences together (but/and/so/because/etc)
 *Give more detail - see [[Arrangement - write a detail sentence]]
 *Also see [[Style - use cohesion]]

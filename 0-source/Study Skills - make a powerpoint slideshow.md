@@ -1,4 +1,4 @@
-#Rules for making a slide
+# Rules for making a slide
 *No more than 3s to read a slide
 **If you are going to SAY don't WRITE it
 ***NEVER read your slides.
@@ -30,7 +30,7 @@
 
 
 
-#Rules for references section
+# Rules for references section
 *Burasage is impossible - forget it
 *Break the font rule - small is OK. No-one reads the references
 *In real life, you would give your audience the references separately
@@ -38,11 +38,11 @@
 **by giving them a paper handout with references/data/other things that do not fit on the slides
 *However, DO use APA format properly (italics, title case, etc)
 
-#Rules for sending me your slideshow
+# Rules for sending me your slideshow
 *Email me a PPTX file to be assessed. No thumbdrives! No Google Shares!
 *Name your file properly e.g. Hiroko Sato-SSGB-RR6.pptx
 
-#Rules for making an essay into a slideshow
+# Rules for making an essay into a slideshow
 *Your keywords become TITLES
 **(e.g. Problem 1: Keyword 1).
 **Do not use them in the body of the slide slide.

@@ -1,4 +1,4 @@
-#Grading your poster
+# Grading your poster
 I will grade your slides first, then I will ask you "Can you tell me a little  more about problem/solution 1/2/3?"and grade your answer
 
 __Delivery for Slides__ 						|<green>G </green>

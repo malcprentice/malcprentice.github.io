@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 >>UNHCR was set up in 1951 to help the estimated 1 million people still uprooted after World War II to return home. Since then, we have helped find durable solutions for tens of millions of refugees ...the number of refugees of concern to UNHCR stood at 10.4 million refugees at the beginning of 2013, down slightly from a year earlier....half in Asia and some 28 per cent in Africa. Source: http://www.unhcr.org/pages/49c3646c1d.html
 
 >>The terms asylum-seeker and refugee are often confused: an asylum-seeker is someone who says he or she is a refugee, but whose claim has not yet been definitively evaluated...Those judged through proper procedures not to be refugees, nor to be in need of any other form of international protection, can be sent back to their home countries. Source: http://www.unhcr.org/pages/49c3646c137.html
@@ -7,18 +7,18 @@
 "Asylum Seekers" 				|in another country, __applying for__ official status 
 "Refugees" 						|in another country, with official status 
 
-#Invention
+# Invention
 Take handwritten notes first. Be ready to present your country next class.
 
-###1) Get some general background 
+### 1) Get some general background 
 Try  the UNHCR website: http://www.unhcr.org/
 *e.g. how many refugees/asylum seekers in the world. 
 *e.g. how many in Japan? Do you notice anything about the numbers?
 
-###2) Choose and research one UNHCR emergency area
+### 2) Choose and research one UNHCR emergency area
 Choose one of these: http://data.unhcr.org/
 Do NOT choose "Mediterranean" (too many countries - makes it impossible to write section 1)
-###Follow the essay pattern
+### Follow the essay pattern
 *Essay section 1: What happened that your area is producing asyllum seekers and refugees (3 stages OR 3 causes)
 *Essay section 2: Refugees in nearby countries
 **What problems are there in refugees camps near your area? 
@@ -46,10 +46,10 @@ Do NOT choose "Mediterranean" (too many countries - makes it impossible to write
 ***Mostly NGOs helping with language, translation, legal help, education http://www.japantimes.co.jp/news/2015/01/17/national/social-issues/refugees-opportunities-life-everyone-else/
 ***Other links: https://www.refugee.or.jp/for_refugees/retrieval_ja.shtml
 
-###If the country works, start your essay outline: 
+### If the country works, start your essay outline: 
 Use "TEMPLATE for ESSAY OUTLINE - Sectional 7 paragraph Asylum.docx"
 
-#Arrangement
+# Arrangement
 Remember this is a SECTIONAL essay with subheadings 
 
 +Introduction (one paragraph)
@@ -113,7 +113,7 @@ Remember this is a SECTIONAL essay with subheadings
 +++e.g. "In sumary, while many refugees are experiencing SECTION 2 THEME,  the problems experienced by asylum seekers in Japan have more to do with SECTION 3 THEME."
 ++[[Style - write a final comment sentence]] One for neighbouring countries, one for Japan e.g. _"People who want to help should do two things. To help refugees in camps in NEIGHBOURING COUTRY NAME, they should... At the same time, to improve conditions for asylum seekers in Japan, they should"_
 
-#Style
+# Style
 See the sheets from previous essays. 
 This is essentally a double Problem-Solution paragraphs, plus an extended time order. 
  

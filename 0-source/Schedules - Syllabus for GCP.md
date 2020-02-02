@@ -1,18 +1,18 @@
-#General Description
+# General Description
 This class, which is only open to students in the Global Citizenship Program, is designed to help students prepare for fully participating in western-style English-only classes in their academic field.
 
-#Goals and Objectives
+# Goals and Objectives
 This course follows the [[Schedules - Curriculum for General Academic Skills]]
 Objectives are same for both semesters, but more is expected in semester two.
 
-#Required Materials
+# Required Materials
 *A4 40 pocket plastic folder
 *No textbook for this class
 
 
 
-#Evaluation/Assessment
-###Required items
+# Evaluation/Assessment
+### Required items
 Item								|% 				|Minimum///(NG points if missing) |OK points if extra?							|Instructions
 ------------------------------------|---------------|-------------------------------|------------------------------------------     |---------------------------------
 Referenced Essays					|30%			|(A 15%, B 15%)      			|No  	 										|see weekly schedule
@@ -25,15 +25,15 @@ Research Report (RR Powerpoint)     |10% 			|3 turns per term				|No												
 
 
 
-###Optional items for Participation points
+### Optional items for Participation points
 *I want you to try what is available in SAC and the university.
 *See [[Study Skills - get independent learning points]]
 
 
-###Grading system
+### Grading system
 See [[Resources - grading system]]
 
-###Ways to get NG points
+### Ways to get NG points
 Be absent / late 					|NG points only |-1 point for absent, -0.5 for late |no max. Also, 7 = fail!  					|See [[Study Skills - do well in class]]
 Forget homework/textbook 			|NG points only |-1 per incident 					|no max 				  					|See [[Study Skills - do well in class]]
 Not paying attention 				|NG points only |-1 per incident 					|no max 				  					|See [[Study Skills - do well in class]]
@@ -41,7 +41,7 @@ Missing HW at end of term 			|
 
 
 
-#Projects Overview
+# Projects Overview
 Essay		|Topic						 										|Style
 ------------|--------------------------- 										|--------------
 Spring A	|[[Projects - write an essay about ethical consumption]]			|5 paragraph problem-solution essay
@@ -58,7 +58,7 @@ Fall C		|[[Research - do a survey]]							                |research powerpoint p
 
 
 
-#Draft Weekly Schedule
+# Draft Weekly Schedule
 *Class Dates change too much.
 *See new Google Drive schedule linked from Google Classroom "Materials" box
 *I will slowly move details there

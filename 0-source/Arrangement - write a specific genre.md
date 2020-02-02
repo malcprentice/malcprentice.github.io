@@ -1,13 +1,13 @@
-#What is "genre"?
+# What is "genre"?
 
-##Genre in fiction
+## Genre in fiction
 *Books and movies have genres (e.g. Horror, Romance)
 *Genre tells us what will happen and in what order. 
 *For example:
 ** __Horror:__ There will be a ghost/monster/evil person. We will not really know what/who it is until late in the movie. Someone will die. Someone will think they are safe. Then everything will get worse. At the end, most of the characters will be dead.
 ** __Romance:__ There will be two main characters. They meet. One or both of them like the other. Something goes wrong. They can't get together or break up. In the end, either everything works out OK (comedy) or someone/everyone dies (tragedy).
 
-##Genre in essays
+## Genre in essays
 *Essays also have genre (e.g. Problem-Solution)
 *Genre tells us what will happen and in what order
 *The Genre should be obvious from the thesis statement
@@ -15,8 +15,8 @@
 **When you write, knowing genre can help you __be understood.__
 
 
-#Genre Patterns
-###Genre can be:
+# Genre Patterns
+### Genre can be:
 *A sentence
 *A paragraph
 *An essay
@@ -28,14 +28,14 @@ For example, summary response could be
 *A 4/5 paragraph summary-response essay
 *The literature section of a dissertation
 
-###So the ABC patterns below could be:
+### So the ABC patterns below could be:
 *the beginning, middle, and end of a sentence
 *Sentence 2, 3 and 4 of a paragraph
 *Paragraph 2, 3, & 4 of an essay (1=intro, 5 = conclusion)
 *Section 2, 3, & 4 of a longer essay (1=intro, 5 = conclusion)
 
 
-###Genre Style
+### Genre Style
 This page is about arrangement, but genres usually also come with their own special language. Example sbelow, but most of these have their own page. See [[Index - Style]]
 Classification 	|It is a kind of X
 Partition	 	|There are three kinds of X
@@ -45,7 +45,7 @@ Cause/Effect  	|so/because/therefore/for that reason
 Summary-Response|X is Y (Smith, 1999). However, this is not effective, because
 Argument		|For these three reasons, it is clear that X should Y
 
-#Table of common patterns
+# Table of common patterns
 Type						|A	   				|B 						|C
 ----------------------------|-------------------|-----------------------|----------------
 Compare-Contrast			|Same/Diff way 1	|Same/Diff way2 		|Same/Diff way 3

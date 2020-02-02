@@ -7,7 +7,7 @@ For example, a restaurant situation combines:
 Here is a list of common situations and functions
 
 
-##Personal
+## Personal
 Official: Giving name, age, address, names of relatives and friends, occupation, etc.
 Friendly: asking for and giving personal details
 introducing yourself and other people
@@ -15,7 +15,7 @@ asking for and giving information about routines and habits
 talking about likes and dislikes        (esp. hobbies/sports)
 asking questions
 
-##Travel
+## Travel
 asking for and giving travel information
 asking for and giving simple information about places
 asking the way and giving directions  (How do I get to...turn left)
@@ -26,7 +26,7 @@ understanding and completing forms(personal/education/job)
 talking about food and ordering meals
 understanding simple signs and notices
 
-##Numbers, Times, Dates, Quantities, saying which one
+## Numbers, Times, Dates, Quantities, saying which one
 talking about quantities            |(some, a few, a lot of, all)
 talking about frequency             |(often, never, twice a day, every)
 asking and giving the time/day/date |(It's 7pm. It's happening on Tuesday 3rd)
@@ -35,7 +35,7 @@ talking about non specific times    |(already, just, yet)
 asking and giving numbers, prices   |(123, $32 )
 saying which one you mean           |(this that these those, that one, etc)
 
-##Language control
+## Language control
 asking for repetition and clarification
 asking for and giving the spelling and meaning of words
 checking on meaning and intention
@@ -43,7 +43,7 @@ helping others to express their ideas
 interrupting a conversation
 re-stating what has been said
 
-##Requesting, Offering, Suggesting, Refusing, Accepting
+## Requesting, Offering, Suggesting, Refusing, Accepting
 asking for  permission              |(+ saying yes/no politely)
 making requests                     |(+ saying yes/no politely)
 asking/telling people to do something|      (+ saying yes/no politely)
@@ -55,7 +55,7 @@ making apologies                      |(+ saying "It's OK")
 making offers                         |(+ saying yes/no politely)
 making suggestions
 
-##Giving instructions and Advice
+## Giving instructions and Advice
 giving/following simple instructions
 making suggestions
 giving advice
@@ -63,7 +63,7 @@ giving warnings
 understanding prohibitions  (No entry, you can't X here)
 identifying and describing accommodation (houses, flats, rooms, furniture, etc.)
 
-##Conversations and discussions
+## Conversations and discussions
 sympathising,
 paying compliments
 talking about feelings
@@ -72,17 +72,17 @@ expressing opinions and making choices
 giving reasons
 agreeing and disagreeing with people
 
-##Descriptions
+## Descriptions
 describing things
 describing people
 
-##Talking about time
+## Talking about time
 talking about the past
 talking about what people are doing now
 talking about future plans
 talking about future situations
 
-##Other (mostly more grammar-y)
+## Other (mostly more grammar-y)
 saying how sure you are                 |(I think, maybe, perhaps, I might be wrong but...)
 talking about possibility               |(maybe, perhaps, he might)
 expressing (lack of) obligation         |(have to, must, don't have to

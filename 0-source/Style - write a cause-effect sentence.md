@@ -1,7 +1,7 @@
 
 
 Useful language for cause-effect
-###Verb outcomes
+###  Verb outcomes
 X                   |, so                           |Y.
 X happens           |, and so                       |Y happens.
                     |. Therefore,                   |Y increases.
@@ -25,7 +25,7 @@ X happens           |, and so                       |Y happens.
                     |Thus,                          |
                     |, and thus,                    |
                     |As such,                       |
-###Noun/ING outcomes
+### Noun/ING outcomes
 X                   |. This leads to                |Y
 X happens           |. The outcome is               |Y happening
                     |. This results in              |Y increasing
@@ -36,7 +36,7 @@ X happens           |. The outcome is               |Y happening
                     |This leads to                  |
                     |, and this leads to            |
 
-###Cause
+### Cause
 X                   |causes                         |Y
                     |. This causes                  |Y to get worse
                     |leads to                       |a change in Y
@@ -45,7 +45,7 @@ X                   |causes                         |Y
 
 
 
-###Alternatives to "because"
+### Alternatives to "because"
 (X causes Y, but Y is written first)
 *Y because X
 *Y. The main reason for this is X
@@ -58,7 +58,7 @@ X                   |causes                         |Y
 *Y happens due to X
 
 
-###Something SHOULD have an effect but doesn't
+### Something SHOULD have an effect but doesn't
 *X. Despite that, Y
 *Despite X, Y.
 *X, still Y
@@ -69,13 +69,13 @@ X                   |causes                         |Y
 *X. Nonetheless, Y
 *X yet Y
 
-###You can use "Time Order" language
+### You can use "Time Order" language
 *Another result is,
 *This subsequently results in...
 *The second effect of this is...
 *(see [[Arrangement - write a time-order]] )
 
-###Purpose
+### Purpose
 (for animals or things with purpose)
 *X does Y so as to do Z
 *X happens so that Y can happen
@@ -85,7 +85,7 @@ X                   |causes                         |Y
 *X does Y in case Z
 *X does Y in order to
 
-###Failure of cause
+### Failure of cause
 *X leads to Y unless Z
 *X leads to Y except in cases where Z
 *X leads to Y, provided that Z doesn't happen

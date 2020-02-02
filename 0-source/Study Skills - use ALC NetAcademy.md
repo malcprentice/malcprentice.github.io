@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 1) Go to PLAS
 2) Find the tests and log in
 https://netacnext.soka.ac.jp/anetn/Student/stlogin
@@ -6,17 +6,17 @@ https://netacnext.soka.ac.jp/anetn/Student/stlogin
 4) Have a look. There are about 18 hours of practice materials and 17 hours of tests
 
 
-#Rules for points in Malc's class
+# Rules for points in Malc's class
 See your syllabus to check if ALC is required.
 
-##IF ALC is required in your class
-###Practice only, no points
+## IF ALC is required in your class
+### Practice only, no points
 **"Stage 1" "Stage 2" or "Stage 3" practices
 **Review "レビュー"
 **Review mini test (50 questions, ~30 mins)
 
 
-###Points available for taking tests
+### Points available for taking tests
 See syllabus for minimum and maximum ALC points available
 *2 bonus points for taking a full test
 **Look under "TOEIC(R) L&R テスト模擬試験"
@@ -29,7 +29,7 @@ See syllabus for minimum and maximum ALC points available
 **each level has 4 half tests
 **100 questions, ~60 mins each
 
-### get a point, print your tests results and submit them when it says on the syllabus.
+###  get a point, print your tests results and submit them when it says on the syllabus.
 *You can print them at the end of the test
 *If you forget
 **Select your course
@@ -44,7 +44,7 @@ See syllabus for minimum and maximum ALC points available
 
 
 
-###If ALC is not required in your class
+### If ALC is not required in your class
 I'll give you a point just for trying it out.
 Print ANY of the things mentioned above and bring it to class.
 

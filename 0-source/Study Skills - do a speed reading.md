@@ -1,15 +1,15 @@
-#What is speed reading?
+# What is speed reading?
 **Reading quickly is a useful skill.
 **Speed reading practices that.
 **Speed reading is like quick-writing: __quantity__, not quality.
 **You will read a text and take a quiz (5-7 minutes).
 **The quiz is just to check if you are reading too slowly/quickly.
 
-#How many?
+# How many?
 *Do at least one book this term (total 20)
 *Bonus points are available. see [[Study Skills - get independent learning points]]
 
-#Instructions
+# Instructions
 1) Find the speed reading folder in the Shared Materials folder
 *Download the books
 *Start with book 1

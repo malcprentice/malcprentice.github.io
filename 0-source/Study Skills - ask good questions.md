@@ -1,4 +1,4 @@
-#Question patterns
+# Question patterns
 *Use these question patterns to write clear questions for your RR
 **Use the __bold bits__ but change the content
 *Also use them for small talk - "How was your weekend?" in class every week is boring
@@ -36,7 +36,7 @@ __Which__ country __would you like__ to work in?
 __Who’s your favourite__ Japanese artist?
 __Would you ever__ become vegetarian?
 
-#At the end of class, sometimes we have time
+# At the end of class, sometimes we have time
 This is your chance to:
 Ask me a question about learning English                |"What's the best way to improve pronunciation"
 Ask me a question about the UK                          |"What food do you eat when you go out?"

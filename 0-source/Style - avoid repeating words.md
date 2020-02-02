@@ -1,38 +1,38 @@
 A common style problem is using the same word too much.
 
-#Example
+# Example
 >>There are many <red>children</red> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>children</red>, from 6-14 years old. About 60% of the <red>children</red> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of these <red>children</red> are...
 
 
-#Solutions
-###Option 1: Use a pronoun
+# Solutions
+### Option 1: Use a pronoun
 *Cats are cute. <red>Cats</red> are small
 *Cats are cute. <blue>They</blue> are small
 
-###Option 2: Join sentences and delete the subject
+### Option 2: Join sentences and delete the subject
 This also helps improve short sentences.
 *Cats are cute. <red>Cats</red> are small
 *Cats are cute <blue>and</blue> small
 
-###Option 3: Use other words that mean the same
+### Option 3: Use other words that mean the same
 e.g. Tokyo = "here", or "the city"
 e.g. think = "consider" or "ponder"
 
-###Option 4: Use "these", "those"
+### Option 4: Use "these", "those"
 *There are 14 shops in my area, and 12 of the <red>shops</red> are open today
 *There are 14 shops in my area, and 12 of <blue>those</blue> are open today
 
-###Option 5: "of which", "of whom"
+### Option 5: "of which", "of whom"
 *There are 14 shops in my area, and 12 <red>shops</red> are open today
 *There are 14 shops in my area, 12 <blue>of which</blue> are open today
 
 *There are 14 teachers in my area, and 2 <red>teachers</red> are retiring soon.
 *There are 14 teachers in my area, 2 <blue>of whom</blue> are retiring soon.
 
-#Example, fixed
+# Example, fixed
 >>There are many <blue>children</blue> who have to work at cotton fields because their household does not make much money. For example, in India, about 88% of the people working at cotton fields are <red>minors</red>, from 6-14 years old. About 60% of <blue>those</blue> are able to go to school at first, but they are forced to quit and have to work at the cotton fields ("Cotton industry and Child labor," n.d.). In addition, 78% of <blue>them</blue> are...
 
-#Exceptions
+# Exceptions
 1) Repetition is OK when it is a keyword.
 *This paragraph outlines three problems - pollution, child labour, and _poverty._ The first problem is _pollution._
 2) Repetition is OK when it is used as "anaphora" - repetition for style
@@ -45,7 +45,7 @@ e.g. think = "consider" or "ponder"
 
 __Try it yourself:__ The phrase "cotton fields" is also used too much in the text above - can you fix it?
 
-#Quiz Instructions
+# Quiz Instructions
 Choose the right option to fix these repetitions.
 Around 20% of penguins can speak English, and <red>penguins</red> who do have an Australian accent. QQQ4QQQitQQQthemQQQtheyQQQthose
 Around 20% of penguins can speak English, and <red>penguins</red> never forget their homework.  QQQ3QQQitQQQthemQQQtheyQQQthose

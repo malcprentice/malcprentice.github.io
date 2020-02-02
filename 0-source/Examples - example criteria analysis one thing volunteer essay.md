@@ -10,7 +10,7 @@ Thanks to YH in 2017 for the original version of this essay.
 
 
 
-###Corrected example: Criteria for Choosing a Good Volunteer Organization: An Analysis of “Musasabi Volunteer Association”
+### Corrected example: Criteria for Choosing a Good Volunteer Organization: An Analysis of “Musasabi Volunteer Association”
 
 <example>
  
