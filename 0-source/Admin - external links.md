@@ -320,6 +320,7 @@ atap.google.com: https://atap.google.com/soli/
 beatthetest.wordpress.com: https://beatthetest.wordpress.com/2007/02/05/100-writing-topics/
 blogit.itu.dk: https://blogit.itu.dk/ethos/wp-content/uploads/sites/14/2016/03/8-06SRSOverview.jpg
 busuu.com: https://busuu.com/enc/
+calendar.google.com: https://calendar.google.com/calendar/selfsched?sstoken=UUxxNkFzS3dLSW1WfGRlZmF1bHR8ODliNTZlZGIxYmQzMWMyOTAxMTI3ZTA1YmMzNGY4YjY</td></tr>
 chains.cc: https://chains.cc/
 ci.nii.ac.jp: https://ci.nii.ac.jp/
 commons.wikimedia.org: https://commons.wikimedia.org/wiki/Main_Page
@@ -422,6 +423,10 @@ soka.ac.jp: https://www.soka.ac.jp/news/student/2015/07/10708/
 solveyourtech.com: https://www.solveyourtech.com/how-to-turn-off-google-drive-email-notifications/
 surveymonkey.com: https://www.surveymonkey.com/mp/sample-size-calculator/
 ted.com: https://www.ted.com/talks
+ted.com: https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
+ted.com: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en
+ted.com: https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en
+ted.com: https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
 ted.com: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
 timeshighereducation.com: https://www.timeshighereducation.com/news/airbnb-academia-plan-inject-pro-market-ethos-sector
 timeshighereducation.com: https://www.timeshighereducation.com/news/chinese-private-school-company-buys-us-university-campus

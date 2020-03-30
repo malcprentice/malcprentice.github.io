@@ -3,10 +3,14 @@
 * If you need to use someone else's words, there are two options: Quote or Paraphrase.
  
 # Option 1: Quote
-* "Quote" = Use the writer’s EXACT words in quotemarks ("")
-** After this, he <blue>"</blue>renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton<blue>"</blue> (Nobel Foundation, 1922)
-** Only do this for a FEW important quotes.
-** Usually, you should paraphrase. ALWAYS give a page number if you can
+"Quote" = Use the writer’s EXACT words in quotemarks ("")
+* After this, he <blue>"</blue>renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton<blue>"</blue> (Nobel Foundation, 1922)
+* Don't quote too often. 
+** It's type 5 "patchwriting" plagiarism  
+** Only quote a few phrases, where the exact words are important
+** Usually, you should paraphrase. 
+* If you quote somethign with pages, give the page number (Smith, 2006, p. 72)
+
 
 You can make SMALL changes to quotes if they don't change the meaning:
 |Original			| "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"

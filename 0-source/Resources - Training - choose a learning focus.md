@@ -44,9 +44,9 @@ c) pressure to go faster
 d) lots of practice
 
 ## Examples
-* [[Study Skills - do a quickwrite]]
+*  do a quickwrite 
 * do a quick-speak
-* [[Study Skills - do a speed reading]]
+* do a speed reading
 * Small talk on similar topics at the beginning of EVERY class
 * 432: http://community.eflclassroom.com/video/432-fluency-activity-paul
 

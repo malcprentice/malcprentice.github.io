@@ -1,18 +1,25 @@
-This all applies to the REFERENCE list
-In the text, follow the title case rules but do use italics for your title citations
+# Italics = the thing you hold 
+In the text, italics means you emphasize mean something. Don't use it for references. 
 * Good: ("Title of an article," n.d.)
 * Bad: ("<em>Title of an article,</em>" n.d.)
 
-# Italics = the thing you hold 
-|What do you hold?							|What do you NOT hold?
+In the references section, italics means "this is the thing you look for in the library"
+
+|What do you hold?							   |What do you NOT hold?
 |--------------------------------------------|------------------------------
-|The book title 								|not the chapter title - you don't rip it out
+|The book title 							 |not the chapter title - you don't rip it out
 |The magazine/journal						|not the article title - you don't rip it out
 |The newspaper								|not the article title - you don't rip it out 
 | 											|not software. CDs are not software
 |The volume number of a journal 				|4-6 issues are bound together by the library ///you don't rip the issue out again
 
 # Title Case = a collection of similar work by different people
+Note - this has changed from previous rules. Some of the essay examples might be wrong. 
+
+1) Title Case for Journal Names
+*The International Journal of Stuff
+*Applied Penguin Quarterly
+2) No title case for books, chapters, articles, reports, webpages: However, first letter after colon still gets capital
 Things that CONTAIN similar texts written by many people get Title Case:
 
 |Type			|Collection Title - Title Case 					|Item Title - No title case
@@ -23,8 +30,9 @@ Things that CONTAIN similar texts written by many people get Title Case:
 |Video Collection |YouTube, TED Talks  							|Video title
 
 
-# What about website?
-It depends:
+# What about websites?
+
+Are they website versions of something else, or just websites?  
 
 ### News websites
 Pretend they are actual newspapers. 
@@ -32,10 +40,7 @@ Pretend they are actual newspapers.
 * no italics, no title case for video title
 
 ### Encyclopaedias
-Online encyclopaedias and dictionaries are considered books
-* in theory, italics and Title Case for website title
-* in theory, nothing for entry title
-* in practice <red>DO NOT CITE THESE!</red>
+* Doesn't matter - you <red>should not be citing these anyway</red>
 
 ### Video collections
 Are collections
@@ -43,10 +48,8 @@ Are collections
 * no italics, no title case for article title
 
 ### Normal websites (e.g. the Soka University website)
-Nothing for the website. Ever.
-* Normal websites are considered to be libraries
-* Web pages are just articles in those libraries 
-* so you NEVER cite the website name anyway. 
+*Don't cite normal website names at all. Cite ONLY the page title. 
+*Just give the page title - normal websites are places to find sources (like libraries), not sources. 
 
 For the article title (the page title)
 * Italics but no title case
@@ -169,14 +172,7 @@ Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et 
 ** Book gets italics (you hold it)
 ** Chapter (MALL testing) no italics (you don't hold it)
 ** Chapter (MALL testing) no Title Case (not a collection)
-
-
-
-
-
-
-
-
+ 
 
 
 # Newspapers
