@@ -9,36 +9,20 @@ Objectives are same for both semesters, but more is expected in semester two.
 * A4 40 pocket plastic folder
 * No textbook for this class
 
-
-
 # Evaluation/Assessment
-### Required items
-|Item								|% 				|Minimum///(NG points if missing) |OK points if extra?							|Instructions
-|------------------------------------|---------------|-------------------------------|------------------------------------------     |---------------------------------
-|Referenced Essays					|30%			|(A 15%, B 15%)      			|No  	 										|see weekly schedule
-|Final Presentation                  |10% (Delivery)	|10%		        x            |No   											|see weekly schedule
-|Participation 						|20% 			|=OK-absences-NG+ curve		    |Participation IS OK points 					|see your Participation Point plan
-|Vocabulary Project (V)				|10% (test)		|15 words per class (420 total) |No 	                                        |see [[Study Skills - learn vocabulary]]
-|Quickwrite Activities (QW)			|10% 			|28 minimum 				  	|max 5 OK points for 15 extra (total 43)		|see [[Study Skills - do a quickwrite]]
-|Speed Reading (SR)           		|10% 			|1 book (20 readings) minimum 	|max 5 OK points for 20 extra (total 40)		|see [[Study Skills - do a speed reading]]
-|Research Report (RR Powerpoint)     |10% 			|3 turns per term				|No												|see [[Study Skills - do a speed reading]]
+Name                        |%      |Instructions
+----------------------------|-------|-------------
+Project A (Research Paper)  |10%    |Given in class
+Project B (Research Paper)  |10%    |Given in class    
+Project C (Presentation)    |10%    |Given in class
+Mini presentations          |30%    |Given in class///Number depends on class size
+Vocabulary Project (V)      |10%    |Test at end of term///Minimum 375 words///See [[Study Skills - learn vocabulary]]
+Quickwrite Activities (QW)  |10%    |One per class///See [[Study Skills - do a quickwrite]]    
+Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    
+Participation               |20%    |See your participation plan     
 
 
-
-### Optional items for Participation points
-* I want you to try what is available in SAC and the university.
-* See [[Study Skills - get independent learning points]]
-
-
-### Grading system
-See [[Resources - grading system]]
-
-### Ways to get NG points
-|Be absent / late 					|NG points only |-1 point for absent, -0.5 for late |no max. Also, 7 = fail!  					|See [[Study Skills - do well in class]]
-|Forget homework/textbook 			|NG points only |-1 per incident 					|no max 				  					|See [[Study Skills - do well in class]]
-|Not paying attention 				|NG points only |-1 per incident 					|no max 				  					|See [[Study Skills - do well in class]]
-|Missing HW at end of term 			|
-
+Read this: [[Resources - grading system]]
 
 
 # Projects Overview
@@ -58,15 +42,14 @@ See [[Resources - grading system]]
 
 
 
-# Draft Weekly Schedule
-* Class Dates change too much.
-* See new Google Drive schedule linked from Google Classroom "Materials" box
-* I will slowly move details there
-
-
-
-
-
+# Weekly Schedule
+*Schedule is on Google Drive: https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing
+*You need @soka-u.jp version of Google Drive to access. If it doesn't work, 
+**Go to gmail
+**Look at the top right.
+**Make sure you are in soka-u.jp (if not log in)
+**Go to your @soka-u.jp Google Drive. 
+**Try the link again. 
 
 
 

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invention - check source quality</title>
+    <style>/*From normalize.css */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+/*Style for sections */
+html {
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+
+body {
+    margin: 0 0 0 2vw;
+    background: #FBF9FC;
+    width: 95%;
+    color: #454456;
+    font-family: "Century Gothic", Verdana, sans-serif;
+    font-size: 3vw;
+    }
+
+header {
+    background-color: #EFE9ED;
+    border-left: 0.5vw solid #5684BF;
+    border-bottom: 0.5vw solid #5684BF;
+    padding-left: 1vw;
+    margin-bottom: 1vw;
+    }
+header h1 {
+    margin: 0;
+    font-size: 1.3em;
+    border-left: 1vw;
+    font-weight: normal;
+}
+header p {
+    margin: 0;
+    padding-left: 1vw;
+}
+
+header a {
+    text-decoration: none;
+}
+
+nav {
+    border-bottom: 3px solid #5684BF;
+    border-left: 3px solid #5684BF;
+    font-style: italic;
+    font-size: 2.5vw;
+}
+
+navbar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-top: 0px solid #5684BF;
+    overflow: hidden;
+    background-color: #454456;
+}
+
+navbar li{
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+
+navbar a {
+	text-decoration: none;
+}
+
+navbar li:last-child {
+    border-right: none;
+}
+
+navbar li a:hover {
+    background-color: #111;
+    text-decoration: none;
+}
+
+navbar .active {
+    background-color: #FFFFF;
+}
+
+section {
+    text-align: left;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #5684BF;
+    }
+
+footer {
+   margin-top: 8px;
+   background-color: #EFE9ED;
+   font-size: 2vw;
+    }
+
+
+@media print {
+    body, header {
+        font-size: 12pt;
+        background: #fff;
+        color: #000;
+        margin: 0px;
+    }
+    nav {display: none;
+    }
+    navbar {display: none;
+    }
+    img {display: none;
+    }
+    h1, h2, h3, h4 {
+        font-size: 12pt
+        color: #000;
+    }
+     ul { list-style:disc;}
+     ul li {
+        background:none;
+        display: list-item;
+        padding: 0 0 0 10px;
+    }
+    header p {display: none;
+    }
+    a:link, a:visited {
+        text-decoration: none;
+    }
+}
+
+img {
+    border: 0;
+    margin: 10px;
+    height: 20vw;
+    width: auto;
+}
+/*Style for lines */
+
+strong {
+  font-weight: bold;
+}
+section h2  {
+    margin: 0.5em 0;
+    color: #696969;
+    border-left: 3px solid #5684BF;
+    border-top: 4px;
+    border-bottom: 3px solid #5684BF;
+    padding-left: 1vw;
+    }
+section h3  {
+    padding 0;
+    margin: 0;
+    font-size: 2vw, 14px;
+    }
+section h4  {
+    margin: 0;
+    padding: 1vw 0 1vw 0;
+    }
+a, a:link   {
+    color: #5684BF;
+    display: inline;
+    }
+p {
+    margin: 0;
+    padding: 0;
+}
+
+p.clickable {
+    line-height: 150%;
+}
+
+ref {
+    font-family: "Times New Roman", serif;
+    padding: 0 0 0 2vw;
+    text-indent: -2vw;
+}
+
+ref p {
+    margin: 0 0 0 2vw;
+}
+
+blockquote {
+    margin: 2vw 3vw 2vw 3vw;
+    padding: 0;
+    font-family: "Times New Roman", serif;
+    font-size: 2.5vw;
+    text-indent: 2vw;
+    color: #000000;
+    line-height: 5vw;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;  
+    user-select: none;       
+
+}
+
+
+a:focus,
+a:hover {
+    color: #454456;
+
+    outline: 0;
+    text-decoration: underline;
+    }
+ul {
+    list-style-type: circle;
+    padding: 0;
+    margin-left: 2vw;
+    padding: 0 0 0 2vw;
+    margin-top: 0;
+}
+
+ol {
+    list-style-position: outside;
+    counter-increment: item;
+    margin: 0;
+    padding: 0 1vw 0 4vw;
+    text-align: left;
+    list-style-type: upper-roman;
+    font-family: "Times New Roman", serif;
+}
+ol > li {
+    counter-increment: item;
+    font-family: "Times New Roman", serif;
+}
+
+ol ol {
+    list-style-type: upper-alpha;
+}
+ol ol ol{
+    list-style-type: lower-roman;
+}
+ol ol ol ol{
+    list-style-type: lower-alpha;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+red {
+    color: #FF0033;
+}
+green {
+    color: #66CC00;
+}
+blue {
+    color: #0000FF;
+}
+pink {
+    color: #ff69b4;
+}
+purple {
+    color: #9900FF;
+}
+orange {
+    color: #FFA500;
+}
+yellow {
+    color: #FFFF00;
+}
+
+black {
+    color: #000000;
+}
+
+lblue {
+    color: #00FFFF;
+}
+
+graphbar {
+    letter-spacing: -1vw;
+    text-align: justify;
+}
+
+pre {
+  overflow: auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+}
+
+
+
+section table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1vw 0 0 1vw;
+  width: 100%;
+  font-size: 2vw;
+}
+
+
+
+huge {
+    font-size: 10vw;
+}
+
+small {
+    font-size: 2vw;
+}
+
+
+section tr:nth-child(even) {background-color: #cbcbcb}
+section table, th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+section th {
+  text-align: center;
+  border-bottom: 3px solid;
+  background-color: #797f8b;
+}
+#quiz {
+    text-align: left;
+}
+.rightans{border:3px solid #0f0;background-color: #afa;}
+.wrongans{border:3px solid #f00;background-color: #faa;}
+
+fieldset {
+  border: 2px solid #f00;
+  padding: 0 0 0 1vw;
+  margin: 0;
+  padding-bottom: 1vw;
+}
+
+
+
+legend {
+    float: left;
+    padding: 0 0 2vw 0;
+    width: 100%;
+    font-weight: bold;
+}
+input[type=radio] {
+    border: 0px;
+    margin: 1vw 1vw 0 0;
+}
+</style>
+    <!--quizscript-->
+    <!--script2-->
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="canonical" href="http://alba-english.org/Invention - check source quality.html" />
+</head>
+
+<body>
+    <!--[if lt IE 8]>
+    <p>You are using an old  Internet Explorer browser. <strong><a href="http://browsehappy.com/">Upgrade your browser</a></strong or some things here will not work</p>
+    <![endif]-->
+
+    <header>
+        <h1>Invention - check source quality</h1>
+    </header>
+    
+    <navbar>
+        <ul>
+            <li><a href="./index.html">&nbspHome&nbsp</a></li><li><a class="active" href="Index - Invention.html">&nbspInvention&nbsp</a></li>
+            <li><a href="Admin - contact.html">&nbspContact&nbsp</a></li>
+            <li><a href="Admin - about.html">&nbspAbout&nbsp</a></li>
+            <li><a href="Index - Site Map.html">&nbspSitemap&nbsp</a></li>
+        </ul>
+    </navbar
+
+    <nav>
+		<ul>
+			<li><a href = "#Basics for Academic Articles">Basics for Academic Articles</a></li>
+			<li><a href = "#High quality sources to look for ">High quality sources to look for </a></li>
+			<li><a href = "#Low quality sources to avoid in academic articles">Low quality sources to avoid in academic articles</a></li>
+			<li><a href = "#What is Bias? ">What is Bias? </a></li>
+			<li><a href = "#Bias and Quality practice task">Bias and Quality practice task</a></li>
+		<ul>
+			<li><a href = "#References for practice task">References for practice task</a></li>
+		</ul>
+			<li><a href = "#Extra Task: Getting Onioned">Extra Task: Getting Onioned</a></li>
+		</ul></ul>
+	</nav>
+    <section>
+
+        <!--indexstring-->
+        <!--adstring-->
+        	<p>	Sometimes it is obvious that a source is not good. Sometimes it is not.  </p>
+	<p>	FOr st year essays, this is not so important. Just avoid bad sources (wikipedia, answers sites, etc) listed under <a href="Invention - find good sources.html">find good sources</a>. For dissertations, academic essays you do during study abroad, you have to be much more careful.  </p>
+	<p>	 </p>
+<h2 id="Basics for Academic Articles">	Basics for Academic Articles </h2>
+<ul><li>	Is it being used?  </li>
+<li>	Check if anyone has cited it (Google Scholar).  </li>
+<li>	If no-one has and it isn't new, ask why.  </li>
+<li>	Is it recent? Only cite older articles if they are:  </li>
+<ul><li>	"Classics" - things everyone cites.  </li>
+<li>	in topics that do not change much (philosophy)  </li>
+<li>	in a unpopular field  </li>
+</ul><li>	You will learn the big journals in your area, but for now:  </li>
+<li>	Google "most influential journals in FIELD"  </li>
+<li>	Check "Impact" of what you find:  </li>
+<li>	how often it is cited (Google Scholar has count) </li>
+
+</ul>	<p>	 </p>
+<h2 id="High quality sources to look for ">	High quality sources to look for  </h2>
+	<p>	Academic articles can also be low quality. Carefully peer-reviewed articles/books are usually found on:  </p>
+<ul><li>	Large university publishers:  </li>
+<li>	Cambridge University press:  (link)  </li>
+<li>	University of Chicago:  (link)  </li>
+<li>	Large academic organisation websites  (e.g. APA) </li>
+<li>	Large open-source publishing projects (e.g. PLOSONE) </li>
+<li>	Carefully managed indexes and databases (e.g. JSTOR) </li>
+<li>	Large academic publishing companies:  </li>
+<ul><li>	Sciencedirect  </li>
+<li>	Degruyter  </li>
+<li>	Ingenta  </li>
+<li>	Wiley  </li>
+
+</ul>
+</ul>	<p>	 </p>
+<h2 id="Low quality sources to avoid in academic articles">	Low quality sources to avoid in academic articles </h2>
+<ul><li>	"Self publishing" companies/Journals that print anything if they are paid:  (lin)  </li>
+<li>	Individual websites, blogs, online encyclopaedias, etc.  </li>
+<li>	Single topic journals published by single-topic people/groups: creation dot com, inconvenient history dot com (links spelled out because I don't want to link to them) </li>
+
+</ul>	<p>	 </p>
+	<p>	However, don't be too strict: </p>
+<ul><li>	Some small journals are good. Some big ones are bad.  </li>
+<li>	Some researchers have high quality blogs.  </li>
+
+</ul>	<p>	 </p>
+<h2 id="What is Bias? ">	What is Bias?  </h2>
+<ul><li>	e.g. research funded by a company making money from the thing researched  </li>
+<li>	e.g. research done by a researcher making money from the thing researched.  </li>
+<li>	e.g. a journal that only publishes papers which say climate change doesn't exist  </li>
+
+</ul>	<p>	 </p>
+<h2 id="Bias and Quality practice task">	Bias and Quality practice task </h2>
+	<p>	Here are five sources (journal, newspaper)  </p>
+	<p>	All are from a Wiki article on Fair Trade:  (link)  </p>
+	<p>	Score them for bias (1-5)  and quality  (A-C) </p>
+	<p>	
+<table border="1">  <tr><td>Bias    </td><td>Unbiased = 5       </td><td>Maybe a bit biased = 3 </td><td>Totally Biased = 1</td></tr> </p>
+	<p>	<tr><td>Quality </td><td>High Quality = A   </td><td>Medium Quality = B     </td><td>Low Quality = C</td></tr> </p>
+</table><br>	<p>	 </p>
+<h3 id="References for practice task">	References for practice task </h3>
+	<ref> 
+	<p>	Griffiths, P. (2010). Lack of rigour in defending Fairtrade: a reply to Alastair Smith. <em>Economic Affairs</em>, 30(2), 45-49. Retrieved from  <a href="http://www.griffithsspeaker.com/Fairtrade/why_fair_trade_isn.htm">http://www.griffithsspeaker.com/Fairtrade/why_fair_trade_isn.htm</a> </p>
+	<p>	Smith, A. (2008). Fair Trade, Diversification and Structural Change: Towards a broader theoretical framework of analysis. <em>Oxford Development Studies 37</em>(4), 457–478. Retrieved from   <a href="http://orca.cf.ac.uk/6918/">http://orca.cf.ac.uk/6918/</a> </p>
+	<p>	Carimentrand, A., & Ballet, J. (2010). <em>When Fair Trade increases unfairness: The case of quinoa from Bolivia.</em> Retrieved from  <a href="http://ethique.perso.sfr.fr/Working%20paper%20FREE-Cahier%20FREE%20n%B05-2010.pdf">http://ethique.perso.sfr.fr/Working%20paper%20FREE-Cahier%20FREE%20n%B05-2010.pdf</a> </p>
+	<p>	Booth, P. (2009, February 20). Don’t bully the faithful into buying Fairtrade. <em>The Catholic Herald.</em> Retrieved from  <a href="http://archive.catholicherald.co.uk/article/20th-february-2009/12/dont-bully-the-faithful-into-buying-fairtrade">http://archive.catholicherald.co.uk/article/20th-february-2009/12/dont-bully-the-faithful-into-buying-fairtrade</a> </p>
+	<p>	Hamel, I. (2006, August 3). Fairtrade Firm Accused of Foul Play. <em>Swiss Info.</em> Retrieved from  <a href="http://www.swissinfo.ch/eng/Fair_trade_firm_accused_of_foul_play.html?cid=5351232">http://www.swissinfo.ch/eng/Fair_trade_firm_accused_of_foul_play.html?cid=5351232</a> 23/12/2009  </p>
+	</ref> 
+	<p>	 </p>
+<h2 id="Extra Task: Getting Onioned">	Extra Task: Getting Onioned </h2>
+	<p>	When you do not read critically enough, sometimes you even believe things that are written to be funny. For example, some people shared this article with their friends thinking it was real:  (link)  </p>
+	<p>	However, even reliable sources sometimes print jokes (April Fools) </p>
+	<p>	Even real newspaper sometimes unthinkingly reprint articles that were meant as jokes:  </p>
+	<p>	Example 1:   <a href="http://news.bbc.co.uk/2/hi/8237558.stm"> (link) </a> </p>
+	<p>	Example 2:   <a href="https://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-cry"> (link) </a> </p>
+	<p>	Of these articles, some are jokes and some are real. Can you tell the difference? How?  </p>
+<ul><li>	  <a href="https://www.independent.co.uk/life-style/food-and-drink/features/why-is-fruit-so-expensive-in-japan-9605105.html"> (link) </a> vs  <a href="https://www.therisingwasabi.com/sadistic-heian-aristocrat-responsible-for-kanji-with-sixteen-readings/"> (link) </a> </li>
+<li>	  <a href="https://www.timeshighereducation.com/news/airbnb-academia-plan-inject-pro-market-ethos-sector"> (link) </a> vs  <a href="https://www.timeshighereducation.com/news/chinese-private-school-company-buys-us-university-campus"> (link) </a> </li>
+<li>	  <a href="https://www.standard.co.uk/go/london/attractions/indoor-ski-slope-opens-in-chelsea-a3140331.html"> (link) </a> vs  <a href="https://www.falmouthpacket.co.uk/news/14396386.gyllyngvase-beach-falmouth-to-have-under-sand-heating-to-make-it-an-all-year-round-holiday-destination/"> (link) </a> </li>
+<li>	  <a href="https://atap.google.com/soli/"> (link) </a> vs   <a href="https://www.google.co.jp/ime/furikku/"> (link) </a> </li>
+</ul>
+        <!--quizstring-->
+        
+    </section>
+    
+    <footer>
+        &copy; <a href="http://alba-english.org">Alba English</a> (2020-03-30, 15:25)
+
+    </footer>
+</body>
+</html>

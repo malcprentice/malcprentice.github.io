@@ -4,7 +4,355 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Schedules - Syllabus for GCP</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>/*From normalize.css */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+/*Style for sections */
+html {
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+
+body {
+    margin: 0 0 0 2vw;
+    background: #FBF9FC;
+    width: 95%;
+    color: #454456;
+    font-family: "Century Gothic", Verdana, sans-serif;
+    font-size: 3vw;
+    }
+
+header {
+    background-color: #EFE9ED;
+    border-left: 0.5vw solid #5684BF;
+    border-bottom: 0.5vw solid #5684BF;
+    padding-left: 1vw;
+    margin-bottom: 1vw;
+    }
+header h1 {
+    margin: 0;
+    font-size: 1.3em;
+    border-left: 1vw;
+    font-weight: normal;
+}
+header p {
+    margin: 0;
+    padding-left: 1vw;
+}
+
+header a {
+    text-decoration: none;
+}
+
+nav {
+    border-bottom: 3px solid #5684BF;
+    border-left: 3px solid #5684BF;
+    font-style: italic;
+    font-size: 2.5vw;
+}
+
+navbar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-top: 0px solid #5684BF;
+    overflow: hidden;
+    background-color: #454456;
+}
+
+navbar li{
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+
+navbar a {
+	text-decoration: none;
+}
+
+navbar li:last-child {
+    border-right: none;
+}
+
+navbar li a:hover {
+    background-color: #111;
+    text-decoration: none;
+}
+
+navbar .active {
+    background-color: #FFFFF;
+}
+
+section {
+    text-align: left;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #5684BF;
+    }
+
+footer {
+   margin-top: 8px;
+   background-color: #EFE9ED;
+   font-size: 2vw;
+    }
+
+
+@media print {
+    body, header {
+        font-size: 12pt;
+        background: #fff;
+        color: #000;
+        margin: 0px;
+    }
+    nav {display: none;
+    }
+    navbar {display: none;
+    }
+    img {display: none;
+    }
+    h1, h2, h3, h4 {
+        font-size: 12pt
+        color: #000;
+    }
+     ul { list-style:disc;}
+     ul li {
+        background:none;
+        display: list-item;
+        padding: 0 0 0 10px;
+    }
+    header p {display: none;
+    }
+    a:link, a:visited {
+        text-decoration: none;
+    }
+}
+
+img {
+    border: 0;
+    margin: 10px;
+    height: 20vw;
+    width: auto;
+}
+/*Style for lines */
+
+strong {
+  font-weight: bold;
+}
+section h2  {
+    margin: 0.5em 0;
+    color: #696969;
+    border-left: 3px solid #5684BF;
+    border-top: 4px;
+    border-bottom: 3px solid #5684BF;
+    padding-left: 1vw;
+    }
+section h3  {
+    padding 0;
+    margin: 0;
+    font-size: 2vw, 14px;
+    }
+section h4  {
+    margin: 0;
+    padding: 1vw 0 1vw 0;
+    }
+a, a:link   {
+    color: #5684BF;
+    display: inline;
+    }
+p {
+    margin: 0;
+    padding: 0;
+}
+
+p.clickable {
+    line-height: 150%;
+}
+
+ref {
+    font-family: "Times New Roman", serif;
+    padding: 0 0 0 2vw;
+    text-indent: -2vw;
+}
+
+ref p {
+    margin: 0 0 0 2vw;
+}
+
+blockquote {
+    margin: 2vw 3vw 2vw 3vw;
+    padding: 0;
+    font-family: "Times New Roman", serif;
+    font-size: 2.5vw;
+    text-indent: 2vw;
+    color: #000000;
+    line-height: 5vw;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;  
+    user-select: none;       
+
+}
+
+
+a:focus,
+a:hover {
+    color: #454456;
+
+    outline: 0;
+    text-decoration: underline;
+    }
+ul {
+    list-style-type: circle;
+    padding: 0;
+    margin-left: 2vw;
+    padding: 0 0 0 2vw;
+    margin-top: 0;
+}
+
+ol {
+    list-style-position: outside;
+    counter-increment: item;
+    margin: 0;
+    padding: 0 1vw 0 4vw;
+    text-align: left;
+    list-style-type: upper-roman;
+    font-family: "Times New Roman", serif;
+}
+ol > li {
+    counter-increment: item;
+    font-family: "Times New Roman", serif;
+}
+
+ol ol {
+    list-style-type: upper-alpha;
+}
+ol ol ol{
+    list-style-type: lower-roman;
+}
+ol ol ol ol{
+    list-style-type: lower-alpha;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+red {
+    color: #FF0033;
+}
+green {
+    color: #66CC00;
+}
+blue {
+    color: #0000FF;
+}
+pink {
+    color: #ff69b4;
+}
+purple {
+    color: #9900FF;
+}
+orange {
+    color: #FFA500;
+}
+yellow {
+    color: #FFFF00;
+}
+
+black {
+    color: #000000;
+}
+
+lblue {
+    color: #00FFFF;
+}
+
+graphbar {
+    letter-spacing: -1vw;
+    text-align: justify;
+}
+
+pre {
+  overflow: auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+}
+
+
+
+section table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1vw 0 0 1vw;
+  width: 100%;
+  font-size: 2vw;
+}
+
+
+
+huge {
+    font-size: 10vw;
+}
+
+small {
+    font-size: 2vw;
+}
+
+
+section tr:nth-child(even) {background-color: #cbcbcb}
+section table, th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+section th {
+  text-align: center;
+  border-bottom: 3px solid;
+  background-color: #797f8b;
+}
+#quiz {
+    text-align: left;
+}
+.rightans{border:3px solid #0f0;background-color: #afa;}
+.wrongans{border:3px solid #f00;background-color: #faa;}
+
+fieldset {
+  border: 2px solid #f00;
+  padding: 0 0 0 1vw;
+  margin: 0;
+  padding-bottom: 1vw;
+}
+
+
+
+legend {
+    float: left;
+    padding: 0 0 2vw 0;
+    width: 100%;
+    font-weight: bold;
+}
+input[type=radio] {
+    border: 0px;
+    margin: 1vw 1vw 0 0;
+}
+</style>
     <!--quizscript-->
     <!--script2-->
     <link rel="shortcut icon" href="favicon.ico" />
@@ -36,7 +384,7 @@
 			<li><a href = "# Required Materials"> Required Materials</a></li>
 			<li><a href = "# Evaluation/Assessment"> Evaluation/Assessment</a></li>
 			<li><a href = "# Projects Overview"> Projects Overview</a></li>
-			<li><a href = "# Draft Weekly Schedule"> Draft Weekly Schedule</a></li>
+			<li><a href = "# Weekly Schedule"> Weekly Schedule</a></li>
 		</ul></ul>
 	</nav>
     <section>
@@ -55,38 +403,20 @@
 <li>	 No textbook for this class </li>
 
 </ul>	<p>	 </p>
-	<p>	 </p>
-	<p>	 </p>
 <h2 id=" Evaluation/Assessment">	 Evaluation/Assessment </h2>
-<h4>	 Required items </h4>
 	<p>	
-<table border="1">  <tr><th>Item								</th><th>% 				</th><th>Minimum<br>(NG points if missing) </th><th>OK points if extra?							</th><th>Instructions</th></tr> </p>
-	<p>	<tr><td>Referenced Essays					</td><td>30%			</td><td>(A 15%, B 15%)      			</td><td>No  	 										</td><td>see weekly schedule</td></tr> </p>
-	<p>	<tr><td>Final Presentation                  </td><td>10% (Delivery)	</td><td>10%		        x            </td><td>No   											</td><td>see weekly schedule</td></tr> </p>
-	<p>	<tr><td>Participation 						</td><td>20% 			</td><td>=OK-absences-NG+ curve		    </td><td>Participation IS OK points 					</td><td>see your Participation Point plan</td></tr> </p>
-	<p>	<tr><td>Vocabulary Project (V)				</td><td>10% (test)		</td><td>15 words per class (420 total) </td><td>No 	                                        </td><td>see <a href="Study Skills - learn vocabulary.html">learn vocabulary</a></td></tr> </p>
-	<p>	<tr><td>Quickwrite Activities (QW)			</td><td>10% 			</td><td>28 minimum 				  	</td><td>max 5 OK points for 15 extra (total 43)		</td><td>see <a href="Study Skills - do a quickwrite.html">do a quickwrite</a></td></tr> </p>
-	<p>	<tr><td>Speed Reading (SR)           		</td><td>10% 			</td><td>1 book (20 readings) minimum 	</td><td>max 5 OK points for 20 extra (total 40)		</td><td>see <a href="Study Skills - do a speed reading.html">do a speed reading</a></td></tr> </p>
-	<p>	<tr><td>Research Report (RR Powerpoint)     </td><td>10% 			</td><td>3 turns per term				</td><td>No												</td><td>see <a href="Study Skills - do a speed reading.html">do a speed reading</a></td></tr> </p>
+<table border="1">  <tr><th>Name                        </th><th>%      </th><th>Instructions</th></tr> </p>
+	<p>	<tr><td>Project A (Research Paper)  </td><td>10%    </td><td>Given in class</td></tr> </p>
+	<p>	<tr><td>Project B (Research Paper)  </td><td>10%    </td><td>Given in class    </td></tr> </p>
+	<p>	<tr><td>Project C (Presentation)    </td><td>10%    </td><td>Given in class</td></tr> </p>
+	<p>	<tr><td>Mini presentations          </td><td>30%    </td><td>Given in class<br>Number depends on class size</td></tr> </p>
+	<p>	<tr><td>Vocabulary Project (V)      </td><td>10%    </td><td>Test at end of term<br>Minimum 375 words<br>See <a href="Study Skills - learn vocabulary.html">learn vocabulary</a></td></tr> </p>
+	<p>	<tr><td>Quickwrite Activities (QW)  </td><td>10%    </td><td>One per class<br>See <a href="Study Skills - do a quickwrite.html">do a quickwrite</a>    </td></tr> </p>
+	<p>	<tr><td>Speed Reading (SR)          </td><td>10%    </td><td>One per class<br>Minimum 20<br>See <a href="Study Skills - do a speed reading.html">do a speed reading</a>    </td></tr> </p>
+	<p>	<tr><td>Participation               </td><td>20%    </td><td>See your participation plan     </td></tr> </p>
 </table><br>	<p>	 </p>
 	<p>	 </p>
-	<p>	 </p>
-<h4>	 Optional items for Participation points </h4>
-<ul><li>	 I want you to try what is available in SAC and the university. </li>
-<li>	 See <a href="Study Skills - get independent learning points.html">get independent learning points</a> </li>
-
-</ul>	<p>	 </p>
-	<p>	 </p>
-<h4>	 Grading system </h4>
-	<p>	See <a href="Resources - grading system.html">grading system</a> </p>
-	<p>	 </p>
-<h4>	 Ways to get NG points </h4>
-	<p>	
-<table border="1">  <tr><td>Be absent / late 					</td><td>NG points only </td><td>-1 point for absent, -0.5 for late </td><td>no max. Also, 7 = fail!  					</td><td>See <a href="Study Skills - do well in class.html">do well in class</a></td></tr> </p>
-	<p>	<tr><td>Forget homework/textbook 			</td><td>NG points only </td><td>-1 per incident 					</td><td>no max 				  					</td><td>See <a href="Study Skills - do well in class.html">do well in class</a></td></tr> </p>
-	<p>	<tr><td>Not paying attention 				</td><td>NG points only </td><td>-1 per incident 					</td><td>no max 				  					</td><td>See <a href="Study Skills - do well in class.html">do well in class</a></td></tr> </p>
-	<p>	<tr><td>Missing HW at end of term 			</td><td></td></tr> </p>
-</table><br>	<p>	 </p>
+	<p>	Read this: <a href="Resources - grading system.html">grading system</a> </p>
 	<p>	 </p>
 	<p>	 </p>
 <h2 id=" Projects Overview">	 Projects Overview </h2>
@@ -97,7 +427,7 @@
 	<p>	<tr><td>Spring C	</td><td><a href="Projects - write an essay about voluntourism.html">write an essay about voluntourism</a>	                </td><td>criteria-analysis poster presentation</td></tr> </p>
 	<p>	<tr><td>Fall A		</td><td><a href="Projects - write an essay about refugees and asylum seekers.html">write an essay about refugees and asylum seekers</a>	</td><td>7 paragraph problem-solution essay</td></tr> </p>
 	<p>	<tr><td>Fall B		</td><td><a href="Projects - write a country case study.html">write a country case study</a>                          </td><td>9 paragraph case study essay</td></tr> </p>
-	<p>	<tr><td>Fall C		</td><td><a href="Research - do a survey.html">do a survey</a>							                </td><td>research powerpoint presentation</td></tr> </p>
+	<p>	<tr><td>Fall C		</td><td>Research - do a survey<red> Work in Progress!!!</red>							                </td><td>research powerpoint presentation</td></tr> </p>
 </table><br>	<p>	 </p>
 <ul><li>	 50% of all sources should be English. </li>
 <li>	 There is no word limit as such, but you must have: </li>
@@ -108,17 +438,17 @@
 </ul>	<p>	 </p>
 	<p>	 </p>
 	<p>	 </p>
-<h2 id=" Draft Weekly Schedule">	 Draft Weekly Schedule </h2>
-<ul><li>	 Class Dates change too much. </li>
-<li>	 See new Google Drive schedule linked from Google Classroom "Materials" box </li>
-<li>	 I will slowly move details there </li>
+<h2 id=" Weekly Schedule">	 Weekly Schedule </h2>
+<ul><li>	Schedule is on Google Drive:  <a href="https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing"> (link) </a> </li>
+<li>	You need @soka-u.jp version of Google Drive to access. If it doesn't work,  </li>
+<ul><li>	Go to gmail </li>
+<li>	Look at the top right. </li>
+<li>	Make sure you are in soka-u.jp (if not log in) </li>
+<li>	Go to your @soka-u.jp Google Drive.  </li>
+<li>	Try the link again.  </li>
 
+</ul>
 </ul>	<p>	 </p>
-	<p>	 </p>
-	<p>	 </p>
-	<p>	 </p>
-	<p>	 </p>
-	<p>	 </p>
 	<p>	 </p>
 	<p>	 </p>
 
@@ -127,7 +457,7 @@
     </section>
     
     <footer>
-        &copy; <a href="http://alba-english.org">Alba English</a> (2020-02-02, 21:48)
+        &copy; <a href="http://alba-english.org">Alba English</a> (2020-03-30, 16:48)
 
     </footer>
 </body>

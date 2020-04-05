@@ -213,7 +213,6 @@ Each of these uses different sub-skills:
 ** [[Study Skills - make a holiday study plan]]
 
 * [[Study Skills - format written work]]
-* [[Study Skills - do well in class]]
 * [[Study Skills - learn vocabulary]]
 * [[Study Skills - make small talk]]
 

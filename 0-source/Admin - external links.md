@@ -327,6 +327,10 @@ commons.wikimedia.org: https://commons.wikimedia.org/wiki/Main_Page
 dbr.nii.ac.jp		(Japanese: https://dbr.nii.ac.jp		(Japanese
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSd5pe55AuQASS6y7PFxpsmnADoHS6wswV2gliNx5dh3jOfFfg/viewform?usp=sf_link
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSf0rzwtgYyftD2k4s_OUbyYkhskWWeG2F9iiVCuxjB3X627TQ/viewform?usp=sf_link
+docs.google.com: https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing
+docs.google.com: https://docs.google.com/spreadsheets/d/1aXYnhNu8j3XE38DCarOhZyDOotHzdUgKKsSLRN5fADY/edit?usp=sharing
+docs.google.com: https://docs.google.com/spreadsheets/d/1bzS-SwUL7qRe8Zmr3uLg2UqDSnwaHPMAK0_N2ovpBt4/edit?usp=sharing
+docs.google.com: https://docs.google.com/spreadsheets/d/1hD1wMkn37_M52Z21rgfc0rlyiYTchJak7D009BvsawU/edit?usp=sharing
 drive.google.com: https://drive.google.com
 drive.google.com: https://drive.google.com/drive/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE?usp=sharing
 drive.google.com: https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
@@ -382,6 +386,7 @@ ets.org: https://www.ets.org/s/toefl/pdf/toefl_speaking_rubrics.pdf
 ets.org: https://www.ets.org/toefl/ibt/prepare/quick_prep/
 expedia.co.jp: https://www.expedia.co.jp/
 facebook.com: https://www.facebook.com/globalfesta2014
+falmouthpacket.co.uk: https://www.falmouthpacket.co.uk/news/14396386.gyllyngvase-beach-falmouth-to-have-under-sand-heating-to-make-it-an-all-year-round-holiday-destination/
 flickr.com: https://www.flickr.com/creativecommons/by-nc-sa-2.0/
 flixbus.com: https://www.flixbus.com/
 futurelearn.com: https://www.futurelearn.com/courses/corpus-linguistics
@@ -399,6 +404,7 @@ gov.uk: https://www.gov.uk/foreign-travel-advice
 grammarly.com: https://www.grammarly.com/plagiarism-checker
 hackerearth.com: https://www.hackerearth.com/
 hackerrank.com: https://www.hackerrank.com
+independent.co.uk: https://www.independent.co.uk/life-style/food-and-drink/features/why-is-fruit-so-expensive-in-japan-9605105.html
 jma.go.jp: https://www.jma.go.jp/en/warn/index.html
 kayak.co.jp: https://www.kayak.co.jp/
 kayak.co.jp: https://www.kayak.co.jp/flights/TYO-LON/2018-11-09/2018-11-23?sort=bestflight_a
@@ -411,6 +417,7 @@ lovevolunteers.org: https://www.lovevolunteers.org/destinations/volunteer-argent
 memrise.com: https://www.memrise.com/
 mendeley.com: https://www.mendeley.com/
 nomadicmatt.com: https://www.nomadicmatt.com/travel-blogs/house-sitting/
+npr.org: https://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-cry
 nytimes.com: https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0
 reference.com: https://www.reference.com/home-garden/many-kwh-average-home-use-28cc32f433d1bd69
 refugee.or.jp: https://www.refugee.or.jp/for_refugees/retrieval_ja.shtml
@@ -421,6 +428,7 @@ skyscanner.com: https://www.skyscanner.com
 smithsonianmag.com: https://www.smithsonianmag.com/science-nature/burning-truth-behind-e-waste-dump-africa-180957597/
 soka.ac.jp: https://www.soka.ac.jp/news/student/2015/07/10708/
 solveyourtech.com: https://www.solveyourtech.com/how-to-turn-off-google-drive-email-notifications/
+standard.co.uk: https://www.standard.co.uk/go/london/attractions/indoor-ski-slope-opens-in-chelsea-a3140331.html
 surveymonkey.com: https://www.surveymonkey.com/mp/sample-size-calculator/
 ted.com: https://www.ted.com/talks
 ted.com: https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
@@ -428,6 +436,7 @@ ted.com: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decis
 ted.com: https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en
 ted.com: https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
 ted.com: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
+therisingwasabi.com: https://www.therisingwasabi.com/sadistic-heian-aristocrat-responsible-for-kanji-with-sixteen-readings/
 timeshighereducation.com: https://www.timeshighereducation.com/news/airbnb-academia-plan-inject-pro-market-ethos-sector
 timeshighereducation.com: https://www.timeshighereducation.com/news/chinese-private-school-company-buys-us-university-campus
 tokyometro.jp: https://www.tokyometro.jp/lang_en/delay/history/namboku.html
@@ -437,6 +446,7 @@ udacity.com: https://www.udacity.com/
 verbling.com: https://www.verbling.com/
 volunteerworld.com: https://www.volunteerworld.com
 volunteerworld.com: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+
+washingtonpost.com: https://www.washingtonpost.com/news/morning-mix/wp/2014/12/19/the-shameful-final-chapter-for-japans-most-promising-stem-cell-scientist/
 worldnomads.com: https://www.worldnomads.com/
 youtube.com: https://www.youtube.com/user/CGPGrey
 youtube.com: https://www.youtube.com/user/crashcourse

@@ -7,7 +7,7 @@
 
 # How many?
 * Do at least one book this term (total 20)
-* Bonus points are available. see [[Study Skills - get independent learning points]]
+* Participation points might be available if you do more than the minimum.  
 
 # Instructions
 1) Find the speed reading folder in the Shared Materials folder

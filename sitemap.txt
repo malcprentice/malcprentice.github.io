@@ -14,7 +14,6 @@ http://www.alba-english.org/Arrangement - write a paragraph topic sentence.html
 http://www.alba-english.org/Arrangement - write a sectional essay.html
 http://www.alba-english.org/Arrangement - write a specific genre.html
 http://www.alba-english.org/Arrangement - write a summary-response.html
-http://www.alba-english.org/Arrangement - write a survey research presentation.html
 http://www.alba-english.org/Arrangement - write a time-order.html
 http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
@@ -35,7 +34,6 @@ http://www.alba-english.org/Index - Examples.html
 http://www.alba-english.org/Index - Invention.html
 http://www.alba-english.org/Index - Notes.html
 http://www.alba-english.org/Index - Projects.html
-http://www.alba-english.org/Index - Research.html
 http://www.alba-english.org/Index - Resources.html
 http://www.alba-english.org/Index - Schedules.html
 http://www.alba-english.org/Index - Site Map.html
@@ -43,6 +41,7 @@ http://www.alba-english.org/Index - Study Skills.html
 http://www.alba-english.org/Index - Style.html
 http://www.alba-english.org/Invention - avoid common APA format problems.html
 http://www.alba-english.org/Invention - avoid fallacies.html
+http://www.alba-english.org/Invention - check source quality.html
 http://www.alba-english.org/Invention - find good sources.html
 http://www.alba-english.org/Invention - quote and paraphrase.html
 http://www.alba-english.org/Invention - recognise and avoid plagiarism.html
@@ -62,30 +61,18 @@ http://www.alba-english.org/Projects - outline and combine sources.html
 http://www.alba-english.org/Projects - outline.html
 http://www.alba-english.org/Projects - write a CV and cover letter.html
 http://www.alba-english.org/Projects - write a country case study.html
-http://www.alba-english.org/Projects - write a dissertation.html
 http://www.alba-english.org/Projects - write a poem.html
-http://www.alba-english.org/Projects - write a quantitative research report.html
-http://www.alba-english.org/Projects - write a survey research report.html
 http://www.alba-english.org/Projects - write an essay about endangered animals.html
 http://www.alba-english.org/Projects - write an essay about ethical consumption.html
 http://www.alba-english.org/Projects - write an essay about refugees and asylum seekers.html
 http://www.alba-english.org/Projects - write an essay about voluntourism.html
 http://www.alba-english.org/Projects - write an essay about world heritage.html
 http://www.alba-english.org/README.html
-http://www.alba-english.org/Research - analyse qualitative data.html
-http://www.alba-english.org/Research - analyse quantitative data using R - intro.html
-http://www.alba-english.org/Research - do a survey.html
-http://www.alba-english.org/Research - do an interview.html
-http://www.alba-english.org/Research - make a questionnaire.html
-http://www.alba-english.org/Research - write a proposal.html
-http://www.alba-english.org/Research - write good survey questions.html
-http://www.alba-english.org/Resources - Discussions with a point.html
 http://www.alba-english.org/Resources - Speed Reading answers.html
 http://www.alba-english.org/Resources - Training - Activities.html
 http://www.alba-english.org/Resources - Training - choose a learning focus.html
 http://www.alba-english.org/Resources - Training - handle mixed level classes.html
 http://www.alba-english.org/Resources - can do.html
-http://www.alba-english.org/Resources - comics about learning languages.html
 http://www.alba-english.org/Resources - editing code list.html
 http://www.alba-english.org/Resources - good reason for absence.html
 http://www.alba-english.org/Resources - grading system.html
@@ -120,7 +107,8 @@ http://www.alba-english.org/Schedules - Curriculum for Communication.html
 http://www.alba-english.org/Schedules - Curriculum for General Academic Skills.html
 http://www.alba-english.org/Schedules - Malc's schedule.html
 http://www.alba-english.org/Schedules - Syllabus for British Culture.html
-http://www.alba-english.org/Schedules - Syllabus for EFS.html
+http://www.alba-english.org/Schedules - Syllabus for ECS.html
+http://www.alba-english.org/Schedules - Syllabus for EITC.html
 http://www.alba-english.org/Schedules - Syllabus for GCP.html
 http://www.alba-english.org/Schedules - Syllabus for Global Village training.html
 http://www.alba-english.org/Schedules - Syllabus for SSB.html
@@ -133,16 +121,13 @@ http://www.alba-english.org/Study Skills - basics 2.html
 http://www.alba-english.org/Study Skills - do a quick-code.html
 http://www.alba-english.org/Study Skills - do a quickwrite.html
 http://www.alba-english.org/Study Skills - do a speed reading.html
-http://www.alba-english.org/Study Skills - do well in class.html
 http://www.alba-english.org/Study Skills - follow a writing process.html
 http://www.alba-english.org/Study Skills - format written work.html
-http://www.alba-english.org/Study Skills - get independent learning points.html
 http://www.alba-english.org/Study Skills - give a poster presentation.html
 http://www.alba-english.org/Study Skills - guess word meanings.html
 http://www.alba-english.org/Study Skills - last class.html
 http://www.alba-english.org/Study Skills - learn vocabulary.html
 http://www.alba-english.org/Study Skills - make a holiday study plan.html
-http://www.alba-english.org/Study Skills - make a name card.html
 http://www.alba-english.org/Study Skills - make a poster.html
 http://www.alba-english.org/Study Skills - make a powerpoint slideshow.html
 http://www.alba-english.org/Study Skills - make small talk.html
@@ -184,10 +169,6 @@ http://www.alba-english.org/Style - write a definition sentence.html
 http://www.alba-english.org/Style - write a final comment sentence.html
 http://www.alba-english.org/Style - write a nested structure paragraph.html
 http://www.alba-english.org/Style - write a partition sentence.html
-http://www.alba-english.org/Style - write a research article - overview.html
-http://www.alba-english.org/Style - write a research discussion section.html
-http://www.alba-english.org/Style - write a research methods section.html
-http://www.alba-english.org/Style - write a research results section.html
 http://www.alba-english.org/Style - write a response.html
 http://www.alba-english.org/Style - write a summary sentence.html
 http://www.alba-english.org/Style - write a time-order sentence.html

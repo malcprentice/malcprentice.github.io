@@ -4,7 +4,355 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Invention - find good sources</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <style>/*From normalize.css */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
+/*Style for sections */
+html {
+  -ms-text-size-adjust: 100%; /* 2 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+
+body {
+    margin: 0 0 0 2vw;
+    background: #FBF9FC;
+    width: 95%;
+    color: #454456;
+    font-family: "Century Gothic", Verdana, sans-serif;
+    font-size: 3vw;
+    }
+
+header {
+    background-color: #EFE9ED;
+    border-left: 0.5vw solid #5684BF;
+    border-bottom: 0.5vw solid #5684BF;
+    padding-left: 1vw;
+    margin-bottom: 1vw;
+    }
+header h1 {
+    margin: 0;
+    font-size: 1.3em;
+    border-left: 1vw;
+    font-weight: normal;
+}
+header p {
+    margin: 0;
+    padding-left: 1vw;
+}
+
+header a {
+    text-decoration: none;
+}
+
+nav {
+    border-bottom: 3px solid #5684BF;
+    border-left: 3px solid #5684BF;
+    font-style: italic;
+    font-size: 2.5vw;
+}
+
+navbar {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border-top: 0px solid #5684BF;
+    overflow: hidden;
+    background-color: #454456;
+}
+
+navbar li{
+    display: inline;
+    border-right: 1px solid #bbb;
+}
+
+navbar a {
+	text-decoration: none;
+}
+
+navbar li:last-child {
+    border-right: none;
+}
+
+navbar li a:hover {
+    background-color: #111;
+    text-decoration: none;
+}
+
+navbar .active {
+    background-color: #FFFFF;
+}
+
+section {
+    text-align: left;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #5684BF;
+    }
+
+footer {
+   margin-top: 8px;
+   background-color: #EFE9ED;
+   font-size: 2vw;
+    }
+
+
+@media print {
+    body, header {
+        font-size: 12pt;
+        background: #fff;
+        color: #000;
+        margin: 0px;
+    }
+    nav {display: none;
+    }
+    navbar {display: none;
+    }
+    img {display: none;
+    }
+    h1, h2, h3, h4 {
+        font-size: 12pt
+        color: #000;
+    }
+     ul { list-style:disc;}
+     ul li {
+        background:none;
+        display: list-item;
+        padding: 0 0 0 10px;
+    }
+    header p {display: none;
+    }
+    a:link, a:visited {
+        text-decoration: none;
+    }
+}
+
+img {
+    border: 0;
+    margin: 10px;
+    height: 20vw;
+    width: auto;
+}
+/*Style for lines */
+
+strong {
+  font-weight: bold;
+}
+section h2  {
+    margin: 0.5em 0;
+    color: #696969;
+    border-left: 3px solid #5684BF;
+    border-top: 4px;
+    border-bottom: 3px solid #5684BF;
+    padding-left: 1vw;
+    }
+section h3  {
+    padding 0;
+    margin: 0;
+    font-size: 2vw, 14px;
+    }
+section h4  {
+    margin: 0;
+    padding: 1vw 0 1vw 0;
+    }
+a, a:link   {
+    color: #5684BF;
+    display: inline;
+    }
+p {
+    margin: 0;
+    padding: 0;
+}
+
+p.clickable {
+    line-height: 150%;
+}
+
+ref {
+    font-family: "Times New Roman", serif;
+    padding: 0 0 0 2vw;
+    text-indent: -2vw;
+}
+
+ref p {
+    margin: 0 0 0 2vw;
+}
+
+blockquote {
+    margin: 2vw 3vw 2vw 3vw;
+    padding: 0;
+    font-family: "Times New Roman", serif;
+    font-size: 2.5vw;
+    text-indent: 2vw;
+    color: #000000;
+    line-height: 5vw;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;  
+    user-select: none;       
+
+}
+
+
+a:focus,
+a:hover {
+    color: #454456;
+
+    outline: 0;
+    text-decoration: underline;
+    }
+ul {
+    list-style-type: circle;
+    padding: 0;
+    margin-left: 2vw;
+    padding: 0 0 0 2vw;
+    margin-top: 0;
+}
+
+ol {
+    list-style-position: outside;
+    counter-increment: item;
+    margin: 0;
+    padding: 0 1vw 0 4vw;
+    text-align: left;
+    list-style-type: upper-roman;
+    font-family: "Times New Roman", serif;
+}
+ol > li {
+    counter-increment: item;
+    font-family: "Times New Roman", serif;
+}
+
+ol ol {
+    list-style-type: upper-alpha;
+}
+ol ol ol{
+    list-style-type: lower-roman;
+}
+ol ol ol ol{
+    list-style-type: lower-alpha;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+}
+red {
+    color: #FF0033;
+}
+green {
+    color: #66CC00;
+}
+blue {
+    color: #0000FF;
+}
+pink {
+    color: #ff69b4;
+}
+purple {
+    color: #9900FF;
+}
+orange {
+    color: #FFA500;
+}
+yellow {
+    color: #FFFF00;
+}
+
+black {
+    color: #000000;
+}
+
+lblue {
+    color: #00FFFF;
+}
+
+graphbar {
+    letter-spacing: -1vw;
+    text-align: justify;
+}
+
+pre {
+  overflow: auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+}
+
+
+
+section table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1vw 0 0 1vw;
+  width: 100%;
+  font-size: 2vw;
+}
+
+
+
+huge {
+    font-size: 10vw;
+}
+
+small {
+    font-size: 2vw;
+}
+
+
+section tr:nth-child(even) {background-color: #cbcbcb}
+section table, th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+section th {
+  text-align: center;
+  border-bottom: 3px solid;
+  background-color: #797f8b;
+}
+#quiz {
+    text-align: left;
+}
+.rightans{border:3px solid #0f0;background-color: #afa;}
+.wrongans{border:3px solid #f00;background-color: #faa;}
+
+fieldset {
+  border: 2px solid #f00;
+  padding: 0 0 0 1vw;
+  margin: 0;
+  padding-bottom: 1vw;
+}
+
+
+
+legend {
+    float: left;
+    padding: 0 0 2vw 0;
+    width: 100%;
+    font-weight: bold;
+}
+input[type=radio] {
+    border: 0px;
+    margin: 1vw 1vw 0 0;
+}
+</style>
     <!--quizscript-->
     <!--script2-->
     <link rel="shortcut icon" href="favicon.ico" />
@@ -31,132 +379,101 @@
 
     <nav>
 		<ul>
-			<li><a href = "# Avoid bad sources"> Avoid bad sources</a></li>
-			<li><a href = "# Find good sources"> Find good sources</a></li>
+			<li><a href = "#1) Read in Japanese first! Note any important keywords">1) Read in Japanese first! Note any important keywords</a></li>
+			<li><a href = "#2) Translate the keywords you found into English. Here are some examples: ">2) Translate the keywords you found into English. Here are some examples: </a></li>
 		<ul>
-			<li><a href = "# Good sources for an essay"> Good sources for an essay</a></li>
-			<li><a href = "# Good sources for a dissertation"> Good sources for a dissertation</a></li>
+			<li><a href = "#Side note:  Keywords for problems-solutions essays">Side note:  Keywords for problems-solutions essays</a></li>
 		</ul>
-			<li><a href = "# How to find good sources"> How to find good sources</a></li>
-		<ul>
-			<li><a href = "# 1) Get an overview and collect some search keywords"> 1) Get an overview and collect some search keywords</a></li>
-			<li><a href = "# 2) Choose the best keywords"> 2) Choose the best keywords</a></li>
-			<li><a href = "# 3) Start searching using your keywords. "> 3) Start searching using your keywords. </a></li>
-			<li><a href = "# 4) Follow the links!"> 4) Follow the links!</a></li>
-			<li><a href = "# 5) Don't waste your time on low-quality sources"> 5) Don't waste your time on low-quality sources</a></li>
+			<li><a href = "#3) Now Google for those keywords for your specific context">3) Now Google for those keywords for your specific context</a></li>
+			<li><a href = "#4) Normal Google web search is full of rubbish. Narrow it down">4) Normal Google web search is full of rubbish. Narrow it down</a></li>
+			<li><a href = "#6) Once you’ve found a good source, find the sources that article uses. Read those!">6) Once you’ve found a good source, find the sources that article uses. Read those!</a></li>
+			<li><a href = "#7) Avoid bad sources">7) Avoid bad sources</a></li>
 		</ul></ul>
 	</nav>
     <section>
 
         <!--indexstring-->
         <!--adstring-->
-        	<p>	This page is about research sources. For other kinds of support you can use in your essays, see <a href="Invention - recognise types of evidence.html">recognise types of evidence</a> </p>
+        	<p>	When you are looking for sources for an essay, try this: </p>
 	<p>	 </p>
-<h2 id=" Avoid bad sources">	 Avoid bad sources </h2>
-	<p>	You can READ these for your own information, but don't USE them in your essay: </p>
-<ul><li>	 Dictionaries </li>
-<li>	 Wikipedia </li>
-<ul><li>	 Any other kind of Wiki that anyone can edit.  </li>
-<li>	 Any other kind of "pedia", including normal Encyclopaedias.  </li>
-</ul><li>	 Any "question answering" asite </li>
-<ul><li>	 Quora answers </li>
-<li>	 Yahoo answers </li>
-<li>	 About.com </li>
-</ul><li>	 Comments  </li>
-<ul><li>	 Blog comments </li>
-<li>	 TED Talks comments </li>
-</ul><li>	 Something your teacher said in class (you need to find somethign they WROTE!) </li>
+<h2 id="1) Read in Japanese first! Note any important keywords">	1) Read in Japanese first! Note any important keywords </h2>
+<ul><li>	Read the Japanese Wikipedia page.  </li>
+<li>	Google the topic in Japanese </li>
+<li>	Follow any good links </li>
 
 </ul>	<p>	 </p>
-	<p>	 </p>
-<h2 id=" Find good sources">	 Find good sources </h2>
-<h3 id=" Good sources for an essay">	 Good sources for an essay </h3>
-	<p>	Are mostly: </p>
-<ul><li>	 News articles </li>
-<li>	 NGO reports </li>
-<li>	 Government reports </li>
-<li>	 High quality personal websites by experts </li>
-
-</ul>	<p>	 </p>
-<h3 id=" Good sources for a dissertation">	 Good sources for a dissertation </h3>
-	<p>	Are different and more difficult.  </p>
-	<p>	I don't expect your to read these for your essay, but use them if you have read something useful (even in Japanese) for other courses: </p>
-<ul><li>	 Academic articles </li>
-<ul><li>	 Try Google Scholar (English or Japanese):  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+"> (link) </a> penguin+ warming+ ocean&btnG= </li>
-<li>	 Try a normal Google search for the topic, but add "site:.ac.jp" "site:.ac.uk" or "site:.edu" </li>
-<li>	 Try CiNii (mostly Japanese):  <a href="http://ci.nii.ac.jp/ja"> (link) </a> </li>
-</ul><li>	 Academic books </li>
-<li>	 Essay type sources also OK for background, but should be only a few of these </li>
-
-</ul>	<p>	 </p>
-	<p>	 </p>
-<h2 id=" How to find good sources">	 How to find good sources </h2>
-<h3 id=" 1) Get an overview and collect some search keywords">	 1) Get an overview and collect some search keywords </h3>
-<ul><li>	 Read but don't cite: </li>
-<ul><li>	 the Japanese Wikipedia page - learn wheat the main problems/issues are </li>
-<li>	 the matching English Wikipedia page </li>
-<ul><li>	 learn what the keywords for the issues are in English </li>
-<li>	 click any useful links AWAY from wikipedia </li>
-</ul></ul><li>	 Google the topic in Japanese </li>
-<ul><li>	 Read two things in Japanese to help you understand the general topic </li>
-<li>	 Take a note of any other good keywords to use - you might need to translate them </li>
-
-</ul>
-</ul>	<p>	 </p>
-	<p>	 </p>
-<h3 id=" 2) Choose the best keywords">	 2) Choose the best keywords </h3>
-<h4>	 You should have collected something like this: </h4>
-	<p>	 </p>
+<h2 id="2) Translate the keywords you found into English. Here are some examples: ">	2) Translate the keywords you found into English. Here are some examples:  </h2>
 	<p>	
-<table border="1">  <tr><th>Essay               </th><th>Problem keywords                                       </th><th>Solution keywords                          </th></tr> </p>
-	<p>	<tr><td>Endangered animals  </td><td>Pollution, hunting, poaching, global warming, bycatch  </td><td>RRR, boycott, product labelling,                                  </td></tr> </p>
-	<p>	<tr><td>Ethical Consumption </td><td>Air/Water/Soil pollution                               </td><td>Wildlife preserves, farmer compensation, CITES, ban on hunting                              </td></tr> </p>
-	<p>	<tr><td>Criteria-Analysis   </td><td>Cost, weight, size, durability, battery time, sustainability, screen size, safety,                         </td></tr> </p>
-</table><br>	<p>	 </p>
-<h4>	 Side note:  Keywords for problems-solutions essays </h4>
-<ul><li>	 Solution keywords do not need to be the same as problem keywords. A general solution to the problem is OK.  </li>
-<li>	 If problems are  food, health, and security, then solutions CAN be about food, health, and security... </li>
-<li>	 But they don't NEED to be. General solutions  also OK:   </li>
-<ul><li>	 E.g. refugees food, health, security  issues also partly solved by: </li>
-<ul><li>	 Repatriation to safe home country after peace treaty </li>
-<li>	 Improving chances of resettlement in 3rd country </li>
-<li>	 Working with host country to encourage integration </li>
-<li>	 The multi-issue work of a large group like UNHCR </li>
-
-</ul>
-</ul>
-</ul>	<p>	 </p>
-<h3 id=" 3) Start searching using your keywords. ">	 3) Start searching using your keywords.  </h3>
-	<p>	Normal Google web search is full of rubbish. Narrow it down: </p>
-<ul><li>	 Use specific keywords </li>
-<ul><li>	 Galapagos penguin warming ocean </li>
-<li>	 Syrian Refugee destruction of hospitals </li>
-</ul><li>	 Use quotes to get an exact phrase search: - it can be different:  </li>
-<ul><li>	 amazon "ngo japan":  <a href="https://www.google.com/search?client=safari&rls=en&q=amazon+"> (link) </a> %22ngo+ japan%22 </li>
-<li>	 "amazon ngo" japan:  <a href="https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+"> (link) </a> ngo%22+ japan&oq=%22amazon+ ngo%22+ japan </li>
-</ul><li>	 Use dates under "Search Tools" to find recent news/articles </li>
-<li>	 Click “News” and choose a good recent news article </li>
-<li>	 Use Google Scholar instead (Japanese OK):  <a href="https://scholar.google.com/"> (link) </a> </li>
-<li>	 Limit it to governmental sites (“Galapagos penguin site:gov” or “site:.gov.jp” </li>
-<li>	 Limit it to university sites (“Galapagos penguin global warming site:ac.jp” or “site:ac.jp”) </li>
-<li>	 If you want more academic sources in Japanese, try Cinii instead:  <a href="https://ci.nii.ac.jp/"> (link) </a> </li>
-
-</ul>	<p>	 </p>
-<h3 id=" 4) Follow the links!">	 4) Follow the links! </h3>
-	<p>	Once you’ve found a good source, find the sources that article uses. Read those! </p>
-<ul><li>	 For example, on Google Scholar </li>
-<ul><li>	 Click “cited by” (e.g. “ 引用元”) or related article (関連記事) </li>
-<li>	 choose popular ones - if older article shave few citations, they’re not important </li>
-<li>	 “引用元 6893”, not “引用元 1” </li>
-<li>	 It might not be available off-campus. Make sure you are on university wifi. </li>
-<li>	 xThe main link might not be available. Click see all and look for PDFs.  </li>
-
-</ul>
-</ul>	<p>	 </p>
-<h3 id=" 5) Don't waste your time on low-quality sources">	 5) Don't waste your time on low-quality sources </h3>
-	<p>	Read this next <a href="Invention - recognise source bias and quality.html">recognise source bias and quality</a> </p>
+<table border="1">  <tr><td>Endangered Animals </td><td>Pollution, hunting, poaching, global warming, bycatch Wildlife preserves, farmer compensation, CITES, ban on hunting</td></tr> </p>
+	<p>	<tr><td>Ethical  Consumption </td><td>Air/Water/Soil pollution, Reduce, Re-use, Recycle, boycott, product labelling, </td></tr> </p>
+</table><br>	<p>	Criteria-Analysis<br> Compare-Contrast <br> Cost, weight, size, durability, battery time, sustainability, screen size, safety,  </p>
 	<p>	 </p>
 	<p>	 </p>
+<h3 id="Side note:  Keywords for problems-solutions essays">	Side note:  Keywords for problems-solutions essays </h3>
+<ul><li>	Solution keywords do not need to be the same as problem keywords.  </li>
+<li>	A general solution to the problem is OK.  </li>
+<ul><li>	If problems are  food, health, and security… </li>
+<ul><li>	 ...then solutions CAN be about food, health, and security... </li>
+<li>	...but they don't NEED to be.  </li>
+
+</ul>
+</ul>
+</ul>	<p>	 </p>
+	<p>	For example: refugees food, health, security  issues also partly solved by: </p>
+<ul><li>	Repatriation to safe home country after peace treaty </li>
+<li>	Improving chances of resettlement in 3rd country </li>
+<li>	Working with host country to encourage integration </li>
+<li>	The multi-issue work of a large group like UNHCR </li>
+
+</ul>	<p>	 </p>
+<h2 id="3) Now Google for those keywords for your specific context">	3) Now Google for those keywords for your specific context </h2>
+<ul><li>	e.g. Galapagos penguin warming ocean </li>
+<li>	e.g. Syrian Refugee destruction of hospitals </li>
+
+</ul>	<p>	 </p>
+	<p>	 </p>
+	<p>	 </p>
+	<p>	 </p>
+	<p>	 </p>
+<h2 id="4) Normal Google web search is full of rubbish. Narrow it down">	4) Normal Google web search is full of rubbish. Narrow it down </h2>
+<ul><li>	Click “News” and choose a good recent news article </li>
+<li>	Use Google Scholar instead (Japanese OK, it’s hard):  <a href="https://scholar.google.com/"> (link) </a> </li>
+<li>	Limit it to governmental sites (“Galapagos penguin site:gov” or “site:.gov.jp” </li>
+<li>	Limit it to university sites (“Galapagos penguin global warming site:ac.jp” or “site:ac.jp”) </li>
+<li>	Use quotes to get an exact search. For example, see the difference this makes: </li>
+<ul><li>	amazon "ngo japan" </li>
+<li>	"amazon ngo" japan </li>
+</ul><li>	Use dates under "Search Tools" to find recent news/articles </li>
+<li>	If you want more academic sources in Japanese, try Cinii instead:  <a href="https://ci.nii.ac.jp/"> (link) </a> </li>
+
+</ul>	<p>	 </p>
+<h2 id="6) Once you’ve found a good source, find the sources that article uses. Read those!">	6) Once you’ve found a good source, find the sources that article uses. Read those! </h2>
+<ul><li>	Follow links at the bottom of the Wikipedia article </li>
+<li>	For academic sources, use Google Scholar </li>
+<ul><li>	Click “cited by” (e.g. “ 引用元”) or related article (関連記事) </li>
+
+</ul>
+</ul>	<p>	choose popular ones - if older article shave few citations, they’re not important </p>
+	<p>	“引用元 6893”, not “引用元 1” </p>
+<ul><li>	It might not be available off-campus. Make sure you are on university wifi. </li>
+<li>	The main link might not be available. Click see all and look for PDFs.  </li>
+
+</ul>
+</ul>	<p>	 </p>
+<h2 id="7) Avoid bad sources">	7) Avoid bad sources </h2>
+	<p>	You can READ these for your own information, but don't USE them in your essay: </p>
+<ul><li>	Dictionaries </li>
+<li>	Wikipedia </li>
+<li>	Any other kind of Wiki that anyone can edit.  </li>
+<li>	Any other kind of "pedia", including normal Encyclopaedias.  </li>
+<li>	Any "question answering" asite </li>
+<ul><li>	 Quora answers </li>
+<li>	Yahoo answers </li>
+<li>	About.com </li>
+</ul><li>	Something your teacher said in class (you need to find something they WROTE!) </li>
+
+</ul>	<p>	 </p>
+	<p>	See <a href="Invention - check source quality.html">check source quality</a> </p>
 	<p>	 </p>
 
         <!--quizstring-->
@@ -164,7 +481,7 @@
     </section>
     
     <footer>
-        &copy; <a href="http://alba-english.org">Alba English</a> (2020-02-02, 21:48)
+        &copy; <a href="http://alba-english.org">Alba English</a> (2020-03-30, 15:25)
 
     </footer>
 </body>

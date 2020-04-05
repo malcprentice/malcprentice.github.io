@@ -1,5 +1,6 @@
 [[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
+[[Invention - check source quality]]
 [[Invention - find good sources]]
 [[Invention - quote and paraphrase]]
 [[Invention - recognise and avoid plagiarism]]
