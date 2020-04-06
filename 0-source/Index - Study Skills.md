@@ -2,6 +2,7 @@
 [[Study Skills - ask good questions]]
 [[Study Skills - basics 1]]
 [[Study Skills - basics 2]]
+[[Study Skills - basics for online]]
 [[Study Skills - do a quick-code]]
 [[Study Skills - do a quickwrite]]
 [[Study Skills - do a speed reading]]

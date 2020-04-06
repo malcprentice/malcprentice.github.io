@@ -362,10 +362,15 @@ scholar.google.co.jp: https://scholar.google.co.jp/
 scholar.google.com: https://scholar.google.com/
 scholar.google.com: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Galapagos+
 simple.wikipedia.org: https://simple.wikipedia.org/wiki/Venn_diagram
+support.google.com: https://support.google.com/edu/classroom/answer/6020274?hl=en&co=GENIE.Platform=Desktop
+support.google.com: https://support.google.com/edu/classroom/answer/6020274?hl=ja&co=GENIE.Platform=Desktop
+support.google.com: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
+support.google.com: https://support.google.com/edu/classroom/answer/6118412?hl=ja
 thenounproject.com: https://thenounproject.com/
 traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/delay_certificate/
 traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/train_info/e/kanto.aspx
 transfer.navitime.biz: https://transfer.navitime.biz/bus-navi/pc/map/Top?window=busLocation
+translate.google.com: https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2Findex.html
 eb.archive.org: https://web.archive.org/web/20160602044625/http://www.qub.ac.uk/
 hc.unesco.org: https://whc.unesco.org/en/danger/
 ikis.engrade.com: https://wikis.engrade.com/apanumbers

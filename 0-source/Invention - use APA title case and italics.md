@@ -81,14 +81,11 @@ For the article title (the page title)
 
 
 # Academic Journal numbers - more details
-In the library, there are many magazines, journals, and "kiyou" (university published journals). 
-<a href="http://imgur.com/cJOaEAa"><img src="http://i.imgur.com/cJOaEAa.jpg" title="source: imgur.com" /></a>
-
-They often have an English AND a Japanese cover
-* English journal title is "The Journal of International Law and Diplomacy"
+In the library, there are many magazines, journals, and "kiyou" (university published journals). They often have an English AND a Japanese cover
 * This journal's Japanese title is 国際外交雑誌
+* English journal title is "The Journal of International Law and Diplomacy"
 * use the English title when writing in English. 
-<a href="http://imgur.com/zuikN8J"><img src="http://i.imgur.com/zuikN8J.jpg" title="source: imgur.com" /></a>
+<img src="images/singleissuejournal.jpg"alt="Single issue journal">
 
  
 * Look at the volume number (113) 
@@ -116,13 +113,15 @@ Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of Internati
 * Journals can only stay in the front of the library for a while. 
 * Soon they go into the back of the library to be stored. 
 * They will be stored as individual issues for a while:
-<a href="http://imgur.com/UhXByHl"><img src="http://i.imgur.com/UhXByHl.jpg" title="source: imgur.com" /></a>
+<img src="images/unboundjournals.jpg">
+
 
 Eventually, the library binds them into single books. 
-<a href="http://imgur.com/jkqR24s"><img src="http://i.imgur.com/jkqR24s.jpg" title="source: imgur.com" /></a>
+<img src="images/boundjournals.jpg">
 One book = one volume. The issues are now inside.
-<a href="http://imgur.com/nYzP86V"><img src="http://i.imgur.com/nYzP86V.jpg" title="source: imgur.com" /></a>
-
+<img src="images/boundjournalopen.jpg">
+<img src="images/boundjournalspine.jpg">
+boundjournalspine
 For most articles, you go to the library to find (and hold) the BOUND BOOK of the VOLUME, not the issue. 
 * The THING YOU HOLD gets italics 
 ** You don't hold the articles - no italics for article titles 
@@ -149,9 +148,8 @@ Okano, Y. (2014). The Brussels I regulation recast. <em>The Journal of Internati
 |Books by one author are not collections. 						|No title case
 |You hold books 													|_italics_
 |You don't hold chapters  										|no italics
-So:
 
-<a href="http://imgur.com/gxCNX8l"><img src="http://i.imgur.com/gxCNX8ll.jpg" title="source: imgur.com" /></a>
+
 
 <ref>
 Rowling, J.K. (2006). _Harry Potter and the half-blood prince._ London: Bloomsbury. 
@@ -161,7 +159,7 @@ Rowling, J.K. (2006). _Harry Potter and the half-blood prince._ London: Bloomsbu
 * No title case, because only one author. 
 * Italics, because it is the thing you hold. 
 
-<a href="http://imgur.com/1aPLiAw"><img src="http://i.imgur.com/1aPLiAw.png" title="source: imgur.com" /></a>
+ 
 
 <ref>
 Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et al. (Eds.), <em>CALL: What’s your Motivation</em> (pp.112-117). Nagoya: JALT CALL SIG.
@@ -176,7 +174,6 @@ Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et 
 
 
 # Newspapers
-<a href="http://imgur.com/QqmoF0j"><img src="http://i.imgur.com/QqmoF0j.jpg" title="source: imgur.com" /></a>
 
 Look how newspapers are stored in the library. 
 * They are not bound together, so the thing you hold is the NEWSPAPER. 

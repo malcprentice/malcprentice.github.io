@@ -3,6 +3,7 @@
 [[Resources - Training - choose a learning focus]]
 [[Resources - Training - handle mixed level classes]]
 [[Resources - can do]]
+[[Resources - class contract]]
 [[Resources - editing code list]]
 [[Resources - good reason for absence]]
 [[Resources - grading system]]

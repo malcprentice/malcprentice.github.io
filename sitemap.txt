@@ -73,6 +73,7 @@ http://www.alba-english.org/Resources - Training - Activities.html
 http://www.alba-english.org/Resources - Training - choose a learning focus.html
 http://www.alba-english.org/Resources - Training - handle mixed level classes.html
 http://www.alba-english.org/Resources - can do.html
+http://www.alba-english.org/Resources - class contract.html
 http://www.alba-english.org/Resources - editing code list.html
 http://www.alba-english.org/Resources - good reason for absence.html
 http://www.alba-english.org/Resources - grading system.html
@@ -118,6 +119,7 @@ http://www.alba-english.org/Study Skills - apply critical thinking.html
 http://www.alba-english.org/Study Skills - ask good questions.html
 http://www.alba-english.org/Study Skills - basics 1.html
 http://www.alba-english.org/Study Skills - basics 2.html
+http://www.alba-english.org/Study Skills - basics for online.html
 http://www.alba-english.org/Study Skills - do a quick-code.html
 http://www.alba-english.org/Study Skills - do a quickwrite.html
 http://www.alba-english.org/Study Skills - do a speed reading.html
