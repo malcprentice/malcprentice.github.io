@@ -7,23 +7,23 @@ By the end of this class, you will be able to:
 
 Everything else will be explained later.
 
-Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
+Read this page in English. If you do not understand, tru this (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
 
 # Asking for help
-* If you have problems, email me, any time! If you don't already know my email address (from PLAS), <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">use this backup address</a>
+If you have problems <a href="mailto:prentice@soka-u.jp">email me</a>
 
-#HOMEWORK TASK 1: Join Google Classroom
+#HOMEWORK 1: Join Google Classroom
 
 All your friends and materials will be on the soka-u.jp _Google Classroom_  
 * First, download the "Google Classroom" app: https://support.google.com/edu/classroom/answer/6118412?hl=ja
 * Sign in and join the class
-** <red>IMPORTANT!</red>red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
+** <red>IMPORTANT! </red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
 ** Instructions in Japanese are here: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
 ** I have sent an invitation and a code, 
 ** Can't find your invitation or your code? Can't get it working? Email me!
 * If you have a laptop, please join on BOTH your phone and your laptop
 
-#HOMEWORK TASK 2 - Say hello!
+#HOMEWORK 2 - Say hello!
 * On Google Classroom
 ** On the front page ("Stream")
 ** Look for "This is Task 2, for Class 1 Orientation"
