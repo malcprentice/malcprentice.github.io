@@ -24,23 +24,31 @@ Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Sk
 Participation               |20%    |See your participation plan     
 
 
-# Projects Overview
-|Essay      |Topic                                                              |Style
-|-----------|---------------------------                                        |--------------
-|Spring     |[[Projects - write an essay about ethical consumption]]            |5 paragraph problem-solution essay
-|Fall       |[[Projects - write an essay about endangered animals]]             |5 paragraph problem-solution essay
 
 
-# Weekly Schedule 
-*Schedule is on Google Drive: https://docs.google.com/spreadsheets/d/1bzS-SwUL7qRe8Zmr3uLg2UqDSnwaHPMAK0_N2ovpBt4/edit?usp=sharing
-*You need @soka-u.jp version of Google Drive to access. If it doesn't work, 
-**Go to gmail
-**Look at the top right.
-**Make sure you are in soka-u.jp (if not log in)
-**Go to your @soka-u.jp Google Drive. 
-**Try the link again. 
+
+#Weekly Schedule
+## Online period. Class 1-6. Until May 11. 
+We are online until May 11. 
+* That is 6 classes. 
+* We do not have scheduled classes 
+** (we do not meet online at a certain time)
+** Instead, just do the tasks below in your own time
+** I will post class instructions to Google Classroom, 2 classes per week:   
 
 
+* Online Class 1: [[Class - Online 1 - basics for online]]
+* Online Class 2: [[Class - Online 2 - understand the course]]
+* Online Class 3: Learn to do regular homework 1 (Quickwrites)
+* Online Class 4: Learn to do regular homework 2 (Vocab)
+* Online Class 5: Learn to do regular homework 3 (Speed Reading)    
+* Online Class 6: Prepare to start on-campus classes.
+** Introduction to Essay Project 
+** Start reading for Essay Project
+
+## On campus. Class 7-28. Starts May 11.
+* Class 7: On campus. See you in class!
+* I will explain the changes in class. 
 
 
 

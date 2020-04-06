@@ -37,14 +37,15 @@ Paragraph B                 |10%    |Given in class
 Paragraph C                 |10%    |Given in class
 Participation               |20%    |See your participation plan.   
 Mini presentations          |30%    |Given in class///Number depends on class size///Might change if we stay online
-Vocabulary Project (V)      |10%    |10 per class///Minimum 250 words///See [[Study Skills - learn vocabulary]]
+Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
 Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    
 
 Read this: [[Resources - grading system]]
 
 
-# Online period. Class 1-6. Until May 11. 
+#Weekly Schedule
+## Online period. Class 1-6. Until May 11. 
 We are online until May 11. 
 * That is 6 classes. 
 * We do not have scheduled classes 
@@ -62,7 +63,8 @@ We are online until May 11.
 ** Introduction to Essay Project 
 ** Start reading for Essay Project
 
-# On campus. Class 7-28. Starts May 11.
+## On campus. Class 7-28. Starts May 11.
 * Class 7: On campus. See you in class!
+* I will explain the changes in class. 
 
 

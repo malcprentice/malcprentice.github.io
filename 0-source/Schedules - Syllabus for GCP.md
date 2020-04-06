@@ -15,11 +15,11 @@ Name                        |%      |Instructions
 Project A (Research Paper)  |10%    |Given in class
 Project B (Research Paper)  |10%    |Given in class    
 Project C (Presentation)    |10%    |Given in class
-Mini presentations          |30%    |Given in class///Number depends on class size
+Participation               |20%    |See your participation plan     
+Mini presentations          |20%    |Given in class///Number depends on class size
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 375 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///See [[Study Skills - do a quickwrite]]    
 Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    
-Participation               |20%    |See your participation plan     
 
 
 Read this: [[Resources - grading system]]
@@ -42,14 +42,27 @@ Read this: [[Resources - grading system]]
 
 
 
-# Weekly Schedule
-*Schedule is on Google Drive: https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing
-*You need @soka-u.jp version of Google Drive to access. If it doesn't work, 
-**Go to gmail
-**Look at the top right.
-**Make sure you are in soka-u.jp (if not log in)
-**Go to your @soka-u.jp Google Drive. 
-**Try the link again. 
+#Weekly Schedule
+## Online period. Class 1-4. Until May 11. 
+We are online until May 11. 
+* That is 4 classes. 
+* We do not have scheduled classes 
+** (we do not meet online at a certain time)
+** Instead, just do the tasks below in your own time
+** I will post class instructions to Google Classroom, 2 classes per week:   
 
 
+* Online Class 1: [[Class - Online 1 - basics for online]]
+* Online Class 2: [[Class - Online 2 - understand the course]]
+* Online Class 3: Learn to do regular homework 
+** Homework 1 (Quickwrites)
+** Homework 2 (Vocab)
+** Homework 3 (Speed Reading)    
+* Online Class 4: Prepare to start on-campus classes.
+** Introduction to Essay Project 
+** Start reading for Essay Project
+
+## On campus. Class 5-26. Starts May 11.
+* Class 7: On campus. See you in class!
+* I will explain the changes in class. 
 
