@@ -2,20 +2,25 @@ Hello! Welcome to the course!
 We are online until May 11. This is online Class 1.
 
 By the end of this class, you will be able to:
-* Find the main class page on Google Classroom
+* Find the main class page on "Google Classroom"
 * Say hello to the class
+
+Everything else will be explained later.
 
 Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
 
 # Asking for help
-* If you have problems, email me, any time! If you don't already know my email address (from the syllabus), <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">use this backup address</a>
+* If you have problems, email me, any time! If you don't already know my email address (from PLAS), <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">use this backup address</a>
 
 #HOMEWORK TASK 1: Join Google Classroom
-All your friends and materials and assessment are on the University's soka-u.jp _Google Classroom_  
+
+All your friends and materials will be on the soka-u.jp _Google Classroom_  
 * First, download the "Google Classroom" app: https://support.google.com/edu/classroom/answer/6118412?hl=ja
-* <red>IMPORTANT!</red>red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
-* Instructions in Japanese are here: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
-* Can't find your invitation or your code? Can't get it working? Email me!
+* Sign in and join the class
+** <red>IMPORTANT!</red>red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
+** Instructions in Japanese are here: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
+** I have sent an invitation and a code, 
+** Can't find your invitation or your code? Can't get it working? Email me!
 * If you have a laptop, please join on BOTH your phone and your laptop
 
 #HOMEWORK TASK 2 - Say hello!
@@ -33,11 +38,10 @@ All your friends and materials and assessment are on the University's soka-u.jp 
 ** If that doesn't work, email me
 ** If I don't see your post by week 2, I will email you later to make sure you are OK. 
 
-# ONLINE CLASS 2 - Please Wait
-* First I will make sure everyone has done CLASS 1- TASK 2 "Say hello"
-* Then, I will add CLASS 2 - TASK 1 "Read your Syllabus
+# ONLINE CLASS 2 - Please check Google Classroom
+* I will add CLASS 2 - TASK 1 "Read your Syllabus" soon.
 * You will get a reminder. Check Google Classroom. Do this task. 
-* If you have problems, email me!
 * If you do not finish CLASS 1 - TASK 2 by week 2, I will email you. 
 * This is how I will post ALL your homework, classwork, and assessment. 
 * Always check the Google Classroom when it sends you emails!
+* If you have problems, <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">email me</a>

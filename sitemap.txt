@@ -20,6 +20,8 @@ http://www.alba-english.org/Arrangement - write an introduction - overview.html
 http://www.alba-english.org/Arrangement - write an introduction paragraph background.html
 http://www.alba-english.org/Arrangement - write an introduction thesis statement.html
 http://www.alba-english.org/Class - Online 1 - basics for online.html
+http://www.alba-english.org/Class - basics 1.html
+http://www.alba-english.org/Class - basics 2.html
 http://www.alba-english.org/Examples - TOEFL Independent essay.html
 http://www.alba-english.org/Examples - TOEFL Integrated essay.html
 http://www.alba-english.org/Examples - example argumentative essay.html
@@ -119,8 +121,6 @@ http://www.alba-english.org/Schedules - Syllabus for intensive Communication.htm
 http://www.alba-english.org/Schedules - Syllabus for intensive TOEIC.html
 http://www.alba-english.org/Study Skills - apply critical thinking.html
 http://www.alba-english.org/Study Skills - ask good questions.html
-http://www.alba-english.org/Study Skills - basics 1.html
-http://www.alba-english.org/Study Skills - basics 2.html
 http://www.alba-english.org/Study Skills - do a quick-code.html
 http://www.alba-english.org/Study Skills - do a quickwrite.html
 http://www.alba-english.org/Study Skills - do a speed reading.html

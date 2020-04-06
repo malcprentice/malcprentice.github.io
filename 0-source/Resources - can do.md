@@ -48,8 +48,6 @@ I can [[Projects - write an essay about world heritage]]
 #Study Skills
 I can [[Study Skills - apply critical thinking]]
 I can [[Study Skills - ask good questions]]
-I can [[Study Skills - basics 1]]
-I can [[Study Skills - basics 2]]
 I can [[Study Skills - do a quick-code]]
 I can [[Study Skills - do a quickwrite]]
 I can [[Study Skills - do a speed reading]]

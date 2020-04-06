@@ -32,7 +32,7 @@ Paragraph A                 |10%    |Given in class
 Paragraph B                 |10%    |Given in class    
 Paragraph C                 |10%    |Given in class
 Participation               |20%    |See your participation plan.   
-Mini presentations          |30%    |Given in class///Number depends on class size
+Mini presentations          |20%    |Given in class///Number depends on class size
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
 Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    

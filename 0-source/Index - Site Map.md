@@ -19,6 +19,8 @@
 [[Arrangement - write an introduction thesis statement]]
 ##Class
 [[Class - Online 1 - basics for online]]
+[[Class - basics 1]]
+[[Class - basics 2]]
 ##Examples
 [[Examples - TOEFL Independent essay]]
 [[Examples - TOEFL Integrated essay]]
@@ -114,8 +116,6 @@
 ##Study Skills
 [[Study Skills - apply critical thinking]]
 [[Study Skills - ask good questions]]
-[[Study Skills - basics 1]]
-[[Study Skills - basics 2]]
 [[Study Skills - do a quick-code]]
 [[Study Skills - do a quickwrite]]
 [[Study Skills - do a speed reading]]
