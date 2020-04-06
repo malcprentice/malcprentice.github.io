@@ -2,19 +2,20 @@ Hello! Welcome to the course!
 We are online until May 11. This is online Class 1.
 
 By the end of this class, you will be able to:
-* Find the main class page on "Google Classroom"
+* Use "Google Classroom"
 * Say hello to the class
 
+This class is very short, so if anything goes wrong I can help you. 
 Everything else will be explained later.
 
-Read this page in English. If you do not understand, tru this (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
+Read this page in English. If you do not understand, try this (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
 
 # Asking for help
 If you have problems <a href="mailto:prentice@soka-u.jp">email me</a>
 
-#HOMEWORK 1: Join Google Classroom
+#Homework 1: Join Google Classroom
 
-All your friends and materials will be on the soka-u.jp _Google Classroom_  
+You need to join the soka-u.jp _Google Classroom_  
 * First, download the "Google Classroom" app: https://support.google.com/edu/classroom/answer/6118412?hl=ja
 * Sign in and join the class
 ** <red>IMPORTANT! </red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
@@ -24,14 +25,15 @@ All your friends and materials will be on the soka-u.jp _Google Classroom_
 * If you have a laptop, please join on BOTH your phone and your laptop
 
 #HOMEWORK 2 - Say hello!
-* On Google Classroom
-** On the front page ("Stream")
-** Look for "This is Task 2, for Class 1 Orientation"
-* Follow the instructions to "Add Class Comment" 
+* 1) Go to Google Classroom
+* 2) Find the front page ("Stream")
+* 3) Finf "This is Task 2, for Class 1 Orientation"
+* 4) Follow the instructions to "Add Class Comment" 
 ** Introduce yourself to the class. 
 ** 1) Say hello 2) Tell us your name 3) tell us one thing about you (hobby, sport, favourite thing). 
-** For example: "Hello! My name is Malcolm. I like playing piano"
+** For example: "Hello! My name is Hiroki. I like playing piano"
 ** If you are first, don't be shy! Show other students how to do it!
+
 * If you have a problem, 
 ** English stream manual here: https://support.google.com/edu/classroom/answer/6020274?hl=en&co=GENIE.Platform=Desktop
 ** Japanese stream manual here: https://support.google.com/edu/classroom/answer/6020274?hl=ja&co=GENIE.Platform=Desktop
