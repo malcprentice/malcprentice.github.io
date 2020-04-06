@@ -1,0 +1,43 @@
+Hello! Welcome to the course! 
+We are online until May 11. This is online Class 1.
+
+By the end of this class, you will be able to:
+* Find the main class page on Google Classroom
+* Say hello to the class
+
+Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
+
+# Asking for help
+* If you have problems, email me, any time! If you don't already know my email address (from the syllabus), <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">use this backup address</a>
+
+#HOMEWORK TASK 1: Join Google Classroom
+All your friends and materials and assessment are on the University's soka-u.jp _Google Classroom_  
+* First, download the "Google Classroom" app: https://support.google.com/edu/classroom/answer/6118412?hl=ja
+* <red>IMPORTANT!</red>red> SIGN IN WITH your eXXXXXXXX@soka-u.jp address, not your normal @gmail.com address
+* Instructions in Japanese are here: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
+* Can't find your invitation or your code? Can't get it working? Email me!
+* If you have a laptop, please join on BOTH your phone and your laptop
+
+#HOMEWORK TASK 2 - Say hello!
+* On Google Classroom
+** On the front page ("Stream")
+** Look for "This is Task 2, for Class 1 Orientation"
+* Follow the instructions to "Add Class Comment" 
+** Introduce yourself to the class. 
+** 1) Say hello 2) Tell us your name 3) tell us one thing about you (hobby, sport, favourite thing). 
+** For example: "Hello! My name is Malcolm. I like playing piano"
+** If you are first, don't be shy! Show other students how to do it!
+* If you have a problem, 
+** English stream manual here: https://support.google.com/edu/classroom/answer/6020274?hl=en&co=GENIE.Platform=Desktop
+** Japanese stream manual here: https://support.google.com/edu/classroom/answer/6020274?hl=ja&co=GENIE.Platform=Desktop
+** If that doesn't work, email me
+** If I don't see your post by week 2, I will email you later to make sure you are OK. 
+
+# ONLINE CLASS 2 - Please Wait
+* First I will make sure everyone has done CLASS 1- TASK 2 "Say hello"
+* Then, I will add CLASS 2 - TASK 1 "Read your Syllabus
+* You will get a reminder. Check Google Classroom. Do this task. 
+* If you have problems, email me!
+* If you do not finish CLASS 1 - TASK 2 by week 2, I will email you. 
+* This is how I will post ALL your homework, classwork, and assessment. 
+* Always check the Google Classroom when it sends you emails!
