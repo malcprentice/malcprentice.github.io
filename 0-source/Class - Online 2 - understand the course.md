@@ -11,7 +11,7 @@ By the end of this class, you will be able to:
 ** Write a good question
 * Understand your Syllabus
 
-Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
+Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FClass%2520-%2520Online%25201%2520-%2520basics%2520for%2520online.html
 
 # Homework 1 - Write a good email
 * In class 1, I said "If you have problems, email me!"
