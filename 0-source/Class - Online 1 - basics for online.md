@@ -1,6 +1,7 @@
 Hello! Welcome to the course! 
 We are online until May 11. This is online Class 1.
 
+
 By the end of this class, you will be able to:
 * Use "Google Classroom"
 * Say hello to the class
@@ -10,7 +11,7 @@ By the end of this class, you will be able to:
 * Read this page 
 * Do Homework 1 and Homework 2 before next class 
 * Next class is Wednesday/Thursday 
-* If you do not understand, try this (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
+* If you do not understand, try this (bad) translation https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FClass%2520-%2520Online%25201%2520-%2520basics%2520for%2520online.html
 
 # Asking for help
 * If you have problems <a href="mailto:prentice@soka-u.jp">email me</a>
