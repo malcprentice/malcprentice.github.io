@@ -22,18 +22,21 @@ How often is the answer "I don't know"?
 ### 1) Fair Trade Definition  (1 minute video)
 <ref>
 Fair Trade USA. (n.d.). What is Fair Trade? Retrieved April 21, 2013, from  https://www.youtube.com/watch?t=4&v=7K4G5-ydhS0 
+</ref>
 
 ### 2) Fair Trade Cell Phones (11 min video)
 <ref>
+
 Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href = "https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone">https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone</a>
+
 </ref>
  
 
 # Homework 
 ## 1) Get ready
-* Download the templates. Don't worry about these - I will explain next time. Just make sure you can find them.
-** "TEMPLATE for ESSAY.docx"
-** "TEMPLATE for ESSAY OUTLINE.docx"
+* Find "Template for Essay". 
+** I will explain next time. 
+** For now, just make sure you can find it.
 * Read the example essay [[Examples - example ethical consumption essay]]
 
 ## 2) Choose something you buy regularly

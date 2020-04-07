@@ -1,36 +1,49 @@
 Hello!  This is online Class 2.
 
+# Contents
+* Read this page 
+* Do Homework 1 and Homework 2 before next class 
+* Next class is Monday/Tuesday
+
 By the end of this class, you will be able to:
+* Ask me a question by email
+** Send a good email
+** Write a good question
 * Understand your Syllabus
-* Be able to ask for help using good email style
 
 Read this page in English, but if you get stuck, here is a (bad) translation https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html 
 
-# Class 2 - Homework 1
-* Last class I said "If you have problems, email me, any time!"
-* But I didn't tell you how to write an email in English. 
-* Read this: [[Study Skills - write a well formatted email]]
-** Read the example emails you can just copy
-** Read "Make your own email" to learn what to do if the example is not enough 
-* Homework: 
-** Send me a GOOD email in English asking a question. 
-** If you're not sure, just copy "Example email 2: Asking for help" 
-** I will give you feedback on your email style. 
-** I might ask you to send it again if it's not good. 
-* After we're on campus, instead of emailin, you can ask in class or come to office hours - check my schedule ( [[Schedules - Malc's schedule]] ) and book an office hour appointment. 
+# Homework 1 - Write a good email
+* In class 1, I said "If you have problems, email me!"
+* But I didn't tell you how to write an email.
+* Before next class:
+* 1) Read this: [[Study Skills - write a well formatted email]]
+** Read "Make your own email" and "Common Mistakes"
+** There are example emails you can just copy
+* 2) Think of a question you want to ask me
+** Any question is OK
+*** Question about class
+*** Question about my country (Scotland)
+*** Question about learning English 
+** Not sure what to ask? 
+*** Read this: [[Study Skills - ask good questions]]
+*** Copy one of the question patterns
+*** CHANGE the question
+* 2) Send me an email asking your question. 
+** Use what you learned in [[Study Skills - write a well formatted email]]
+** (e.g. it should start "Dear Malc," and end "Regards,")
+** If you're not sure, just copy "Example email 2" 
+** I will answer 
+** I will give you feedback on your email style 
+** If it needs work, I will ask you to try again
 
-#Class 2 - Homework 2
-## Read these important points
-* Dont worry about the assessment - I will explain each point, one by one later
-** I will explain "Essays", "Presentations", and "Projects" in class
-** I will explain some homework in the next few classes
-** I will explain some homework after we are back on campus
-
-## Read your Syllabus:
+# Homework 2 - Read your syllabus
+* 1) Read these important points first
+** Don't worry about "Assessment". Just read.
+** I will explain that later, step by step
+* 2) Read your Syllabus:
 ** [[Schedules - Syllabus for ECS]]
 ** [[Schedules - Syllabus for EITC]]
 ** [[Schedules - Syllabus for GCP]]
 ** [[Schedules - Syllabus for SSB]]
-
-## 
-
+* 3) If you have a question, send an email!

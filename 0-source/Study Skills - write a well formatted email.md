@@ -1,6 +1,14 @@
-# Follow an example 
+When you write an email you can either
+* Write your own email or
+* Copy an example. Don't forget to:
+** change the name! You are not "Hiroko Sato"! 
+** change the student number
+** change the class name (SSB/GCP/EITC)
 
-### Example email 1: Here is my homework
+
+
+# Follow an example 
+## Example email 1: Here is my homework
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -14,16 +22,16 @@ Thanks in advance.
 <br>
 Regards,
 <br>
-Hiroko Sato (20140999)
+Hiroko Sato (2020XXXX)
 
 _Hiroko Sato-EMW-RR2.docx_
 
 
-### Example email 2: Asking for help
+## Example email 2: Asking for help
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
-__Subject:__  	Hiroko Sato - ETT - Schedule question
+__Subject:__  	Hiroko Sato - ECS/SSB/GCP - Schedule question
 
 Dear Malc,
 <br>
@@ -36,7 +44,7 @@ Regards,
 Hiroko Sato (20140999) 
 
 
-###  Example email 3: Making an appointment
+##  Example email 3: Making an appointment
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
 __Subject:__  	Hiroko Sato - ETT - A3 question
@@ -51,7 +59,7 @@ Regards,
 <br>
 Hiroko Sato (20140999) 
 
-### Example email 4: Asking for feedback
+## Example email 4: Asking for feedback
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
 __Subject:__  	Hiroko Sato - ETT - A3 question
@@ -59,10 +67,9 @@ __Subject:__  	Hiroko Sato - ETT - A3 question
 Dear Malc,
 <br>
 I have a question about the feedback on my B3 paragraph. 
-You said COPY PASTE MY COMMENT HERE IN BOLD OR A DIFFERENT COLOUR
+You said _COPY PASTE MY COMMENT HERE IN BOLD OR A DIFFERENT COLOUR_
 <br>
-My new version is 
-COPY PASTE YOUR BEST GUESS HERE IN BOLD OR A DIFFERENT COLOUR.
+My new version is _COPY PASTE YOUR BEST GUESS HERE IN BOLD OR A DIFFERENT COLOUR._
 <br>
 Is that better? 
 <br>
@@ -70,10 +77,10 @@ Thanks in advance.
 <br>
 Regards,
 <br>
-Hiroko Sato (20140999) 
+Hiroko Sato (2020XXXX) 
 
 
-### Example email 5: Reference
+## Example email 5: Reference
 
 __To:____ 		prentice@soka-u.jp
 __From:__ 		7@soka-u.jp
@@ -91,7 +98,7 @@ Regards,
 <br>
 Hiroko Sato (20140999)
 
-### Example email 6: Emailing your group
+## Example email 6: Emailing your group
 
 __To:____  		1@soka-u.jp, 2@soka-u.jp, 3@soka-u.jp, 4@soka-u.jp
 __From:__ 		7@soka-u.jp
