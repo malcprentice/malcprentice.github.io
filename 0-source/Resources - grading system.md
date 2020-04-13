@@ -37,10 +37,10 @@ SSB and GCP are approved
 
 
 ## What is "Incomplete"?
-I can't give "I" without an official certificate and form.
-It's not for when you miss the vocab test because you slept in. Set two alarms!
-It's not for when you haven't finished your QW on the last day. Do your QW earlier in term!
-Even if you get "I", it's just a delay - you still need to submit missing work by the beginning of the following term.
+* I can't give "I" without an official certificate and form.
+* It's not for when you miss the vocab test because you slept in. Set two alarms!
+* It's not for when you haven't finished your QW on the last day. Do your QW earlier in term!
+* Even if you get "I", it's just a delay - you still need to submit missing work by the beginning of the following term.
 
 To get a temporary "I" send me an email, followed as soon as you can by:
 |Injury or sickness      |Medical Certificate from doctor

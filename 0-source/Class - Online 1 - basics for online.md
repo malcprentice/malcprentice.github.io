@@ -1,6 +1,6 @@
 Hello! Welcome to the course! 
 We are online until at least May 11. 
-This is online Class 1.
+This is online class 1.
 
 
 By the end of this class, you will be able to:

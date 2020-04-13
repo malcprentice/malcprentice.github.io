@@ -327,6 +327,7 @@ commons.wikimedia.org: https://commons.wikimedia.org/wiki/Main_Page
 dbr.nii.ac.jp		(Japanese: https://dbr.nii.ac.jp		(Japanese
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSd5pe55AuQASS6y7PFxpsmnADoHS6wswV2gliNx5dh3jOfFfg/viewform?usp=sf_link
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSf0rzwtgYyftD2k4s_OUbyYkhskWWeG2F9iiVCuxjB3X627TQ/viewform?usp=sf_link
+docs.google.com: https://docs.google.com/spreadsheets/d/1H_Gt5v5A9-_r3Cne4mkiYKjg_WM1hxWzEaQ-REMV0as/edit?usp=sharing
 docs.google.com: https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing
 docs.google.com: https://docs.google.com/spreadsheets/d/1aXYnhNu8j3XE38DCarOhZyDOotHzdUgKKsSLRN5fADY/edit?usp=sharing
 docs.google.com: https://docs.google.com/spreadsheets/d/1bzS-SwUL7qRe8Zmr3uLg2UqDSnwaHPMAK0_N2ovpBt4/edit?usp=sharing
@@ -348,6 +349,7 @@ en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Ita
 en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Korean_5800
 en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Spanish1000)
 en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Turkish
+forms.gle: https://forms.gle/GGbRAsdR66KroBR67
 itsupport.soka.ac.jp: https://itsupport.soka.ac.jp/ssl/office365.html
 itunes.apple.com: https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8
 itunes.apple.com: https://itunes.apple.com/jp/app/now-then-pro-time-tracker/id504129864?mt=8
@@ -407,6 +409,7 @@ google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=book&as_ep
 google.com: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=volunteering&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=flickr.com&safe=images&tbs=sur:fc
 google.com: https://www.google.com/search?client=safari&rls=en&ei=ZBb7XZ-mIKuTr7wP24idoAo&q=%22amazon+
 google.com: https://www.google.com/search?client=safari&rls=en&q=amazon+
+google.com: https://www.google.com/search?client=safari&rls=en&q=free++range++chicken&ie=UTF-8&oe=UTF-8
 gov.uk: https://www.gov.uk/foreign-travel-advice
 grammarly.com: https://www.grammarly.com/plagiarism-checker
 hackerearth.com: https://www.hackerearth.com/

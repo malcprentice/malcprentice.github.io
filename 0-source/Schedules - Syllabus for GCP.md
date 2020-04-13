@@ -33,7 +33,7 @@ Read this: [[Resources - grading system]]
 |Spring C	|[[Projects - write an essay about voluntourism]]	                |criteria-analysis poster presentation
 |Fall A		|[[Projects - write an essay about refugees and asylum seekers]]	|7 paragraph problem-solution essay
 |Fall B		|[[Projects - write a country case study]]                          |9 paragraph case study essay
-|Fall C		|[[Research - do a survey]]							                |research powerpoint presentation
+|Fall C		|Survey research							                |research powerpoint presentation
 
 * 50% of all sources should be English.
 * There is no word limit as such, but you must have:

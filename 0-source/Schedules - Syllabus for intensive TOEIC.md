@@ -59,7 +59,6 @@ Pre-test for everyone
 * Namecards
 * Overview of course
 * HOw to do well in class
-* How to [[Study Skills - make a name card]]
 * Learn how to [[Study Skills - make small talk]]
 * Learn how to [[Study Skills - ask good questions]]
 * Learn how to [[Study Skills - do a quickwrite]]

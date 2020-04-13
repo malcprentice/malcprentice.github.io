@@ -10,10 +10,10 @@
 * Participation points might be available if you do more than the minimum.  
 
 # Instructions
-1) Find the speed reading folder in the Shared Materials folder
-* Download the books
-* Start with book 1
-2) You can read it on a BIG screen (monitor, tablet) or print it
+1) I will share the books
+* Download them
+* Find book 1
+2) Read it on a BIG screen (monitor, tablet) or print it
 * No phones
 * No switching. Print every time or screen every time
 3) Read the text.
@@ -21,6 +21,7 @@
 * Don't use a dictionary
 * Read as fast as you can while still understanding 80%+ 
 4) Answer the quiz without looking at the text
+
 5) Check your answers: [[Resources - Speed Reading answers]]
 * If your score is < 6, read slower next time
 * If your score is 6/7/8, you're fine.

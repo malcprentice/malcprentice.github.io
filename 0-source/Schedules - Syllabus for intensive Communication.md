@@ -86,7 +86,7 @@ Absences/Lateness also reduce your participation score, but:
 ### What we will do in class
 * Introductions, question words
 * Introduction to [[Index - Schedules]]
-* How to [[Study Skills - make a name card]]
+* Namecards
 * Overview of course
 * How to do well in class
 * Learn how to [[Study Skills - make small talk]]

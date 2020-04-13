@@ -6,28 +6,40 @@ It helps you change English you know (but can't use) into English you can use. T
 # How to do a quickwrite
 <img src="https://openclipart.org/download/104017/chronometre.svg" />
 
-However, QW1 in class is by hand. For homework, most classes type.
 
-### 1)Get ready
-* If handwriting, use B5 loose leaf paper or a notepad. Nothing smaller.
-* If typing, download the template from "Shared Materials"
+### 1) Get ready
+* For typed quicwrites
+** I will share "Template for QW" for typed quickwrites
+** Rename the document name-class-quickwrites
+** e.g. "Hiroko Sato - ECS - Quickwrites"
+* If you can't type
+** use B5 size paper or bigger
+** Don't lose your quickwrites! 
+** Keep them together in a folder! 
 * Choose a topic: [[Resources - quickwrite topics]]
-* Put your name, number, class, code (QW1, QW2, etc) and date at the top right of the sheet
-* Add the title of your chosen topic in the middle.
+* Add your details at the top right of the sheet
+** name, number, class, code (QW1, QW2, etc) 
+** date 
+* Add the title 
+** [[Style - use title case]]
+** If the title is long, shorten it (max 15 words)
 * Set your phone timer for 10 minutes
 
-### 2)Write!
+### 2) Write!
 * Start your timer
 * Start writing
 * No stopping! No dictionaries!
 * Don’t worry about grammar or spelling!
 * Do try to follow [[Resources - paragraph basics]] though
-* Change the topic if you need to (for example if the topic is "last holiday", you can change it to "holiday in JHS" or "next holiday" if you have no ideas. But stay in basic topic.)
+* Change the topic if you need to 
+** For example if the topic is "last holiday
+** You can change it to "holiday in JHS" or "next holiday" 
+** Only if you have no more ideas
 
-### 3)After 10 minutes, STOP and count your words
+### 3) After 10 minutes, STOP and count your words
 * Use "Word Count"
 * Do not count name/title!
-* Later, write your word count on your namecard in class
+* Add your word count to your progress chart
 * If your word count is under the minumum, keep going:
 ** keep going until you hit the minimum (below)
 ** Record both numbers:
@@ -49,7 +61,7 @@ If you do less than the following, you have NOT done your homework.
 
 
 ### 4) If typed
-* Submit your QW online
+* Keep all your QW in ONE document (your template)
 * I will tell you how to do this in a later class
 
 ### 5) In class we will:
@@ -57,10 +69,11 @@ If you do less than the following, you have NOT done your homework.
 * I will check you met the minimum length
 * Under the minimum word count: <red>NG</red> stamp
 
-### )At the end of the course - assessment
+### 6)At the end of the course - assessment
 * I will check your QW
-* Under the minimum for the term: <red>NG</red> stamp
-* More than the minimum for the term: <green>OK</green> stamps
+* Under the minimum for the term: - participation points
+* More than the minimum for the term: + participation points
+* (You will make a "Participation PLan" later to check this)
 
 # Having problems?
 If your QW is too short, or you're taking a long time to hit the minimum, then:
