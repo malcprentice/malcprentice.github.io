@@ -15,14 +15,13 @@ This course follows the [[Schedules - Curriculum for General Academic Skills]], 
 # Evaluation/Assessment
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
-Project A (Poster)          |10%    |Given in class
-Project B (Research Paper)  |10%    |Given in class    
-Project C (Negotiated)      |10%    |Given in class
-Mini presentations          |30%    |Number depends on class size
+Project A (Essay)           |20%    |Given in class (10% for prep, 10% final)
+Project B                   |20%    |Given in class (10% for prep, 10% final)
+Project C                   |20%    |Given in class (10% for prep, 10% final)
+Participation               |10%    |[[Study Skills - make a participation plan]] 
+Mini presentations          |10%    |Given in class///Number depends on class size///Might change if we stay online
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Participation               |20%    |See your participation plan     
-
 
 
 

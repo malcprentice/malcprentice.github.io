@@ -16,7 +16,7 @@ Please:
 
 # Homework 1 - Find your syllabus
 * 1) Read these important points first
-** "Assessment", especially "Participation: will change if we stay online after May 11
+** "Assessment", especially "Participation" will change if we stay online after May 11
 ** So <green>don't worry</green> about "Assessment" for now
 ** I will explain Assessment later, step by step
 * 2) Read your Syllabus:

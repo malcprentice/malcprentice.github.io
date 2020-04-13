@@ -10,6 +10,7 @@
 [[Study Skills - last class]]
 [[Study Skills - learn vocabulary]]
 [[Study Skills - make a holiday study plan]]
+[[Study Skills - make a participation plan]]
 [[Study Skills - make a poster]]
 [[Study Skills - make a powerpoint slideshow]]
 [[Study Skills - make small talk]]

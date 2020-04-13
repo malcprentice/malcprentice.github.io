@@ -28,14 +28,17 @@ No text. Materials supplied by teacher
 # Evaluation/Assessment
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
-Paragraph A                 |10%    |Given in class
-Paragraph B                 |10%    |Given in class    
-Paragraph C                 |10%    |Given in class
-Participation               |20%    |See your participation plan.   
-Mini presentations          |20%    |Given in class///Number depends on class size
+Essay Paragraph A           |10%    |Explained in class
+Essay Paragraph B           |10%    |Explained in class  
+Essay Paragraph C           |10%    |Explained in class
+Drafting Process (ABC Outline)|10%  |Explained in class
+Essay Intro/Conclusion Paragraphs|10%|Explained in class
+
+Participation               |10%    |[[Study Skills - make a participation plan]]
+Mini presentations          |10%    |Explained in class///Number depends on class size///Will change if we stay online
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    
+Speed Reading (SR)          |10%    |Two books per term///Minimum 40///See [[Study Skills - do a speed reading]]    
 
 Read this: [[Resources - grading system]]
 

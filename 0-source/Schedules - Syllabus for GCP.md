@@ -12,14 +12,16 @@ Objectives are same for both semesters, but more is expected in semester two.
 # Evaluation/Assessment
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
+Drafting process A          |10%    |Given in class
 Project A (Research Paper)  |10%    |Given in class
+Drafting process B          |10%    |Given in class
 Project B (Research Paper)  |10%    |Given in class    
 Project C (Presentation)    |10%    |Given in class
-Participation               |20%    |See your participation plan     
-Mini presentations          |20%    |Given in class///Number depends on class size
-Vocabulary Project (V)      |10%    |Test at end of term///Minimum 375 words///See [[Study Skills - learn vocabulary]]
-Quickwrite Activities (QW)  |10%    |One per class///See [[Study Skills - do a quickwrite]]    
-Speed Reading (SR)          |10%    |One per class///Minimum 20///See [[Study Skills - do a speed reading]]    
+Participation               |10%    |[[Study Skills - make a participation plan]]    
+Mini presentations          |10%    |Given in class///Number depends on class size
+Vocabulary Project (V)      |10%    |Minimum 375 words///See [[Study Skills - learn vocabulary]]
+Quickwrite Activities (QW)  |10%    |See [[Study Skills - do a quickwrite]]    
+Speed Reading (SR)          |10%    |See [[Study Skills - do a speed reading]]    
 
 
 Read this: [[Resources - grading system]]
