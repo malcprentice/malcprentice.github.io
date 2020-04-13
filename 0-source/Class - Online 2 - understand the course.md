@@ -43,7 +43,8 @@ Please:
 *** Read this: [[Study Skills - ask good questions]]
 *** Copy one of the question patterns
 *** CHANGE the question
-* 2) Send me an email asking your question. 
+* 2) Send me an email asking your question
+** Email prentice@soka-u.jp 
 ** Use what you learned in [[Study Skills - write a well formatted email]]
 ** (e.g. it should start "Dear Malc," and end "Regards,")
 ** If you're not sure, just copy "Example email 2" 

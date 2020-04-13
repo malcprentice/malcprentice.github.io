@@ -3,7 +3,7 @@ When you write an email you can either
 * Copy an example. Don't forget to:
 ** change the name! You are not "Hiroko Sato"! 
 ** change the student number
-** change the class name (SSB/GCP/EITC)
+** change the class name (SSB/GCP/EITC/ECS)
 
 <red> If you are doing "Online Class 2 task", or you just have a question, use Example 2</red>
 
@@ -116,13 +116,18 @@ Hiroko
 
 # Make your own email
 ### 1) Subject Line
-Put your Name, class name, and homework code (or problem keyword) in the subject line
-* Hiroko Sato - SSGB - A2
-* Hiroko Sato - ECB - A3
-* Hiroko Sato - ECB - A essay outline
-* Hiroko Sato - GCP - B3
-* Hiroko Sato - SSGB - Outline 2A
+Put your Name, class name, and a few words about the email contents
+* Hiroko Sato - ECB - Class 2 Homework 2
 * Hiroko Sato - SSGB - Question about Thursday homework
+* Hiroko Sato - ECB - Essay outline
+* If I gave you a homework code, use it (e.g. Paragraph A Draft 2  = "A2")
+** Hiroko Sato - SSGB - A2
+** Hiroko Sato - ECB - A3
+** Hiroko Sato - GCP - B3
+** Hiroko Sato - SSGB - Outline 2A
+
+
+
 
 ### 2) Start with a greeting
 |e.g. "Malc,"					| Very informal
