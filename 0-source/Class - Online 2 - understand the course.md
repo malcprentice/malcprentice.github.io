@@ -15,16 +15,16 @@ Please:
 * Deadline is next class (Monday)
 
 # Homework 1 - Find your syllabus
-* 1) Read these important points first
-** "Assessment", especially "Participation" will change if we stay online after May 11
-** So <green>don't worry</green> about "Assessment" for now
-** I will explain Assessment later, step by step
-* 2) Read your Syllabus:
-** [[Schedules - Syllabus for ECS]]
-** [[Schedules - Syllabus for EITC]]
-** [[Schedules - Syllabus for GCP]]
-** [[Schedules - Syllabus for SSB]]
-* 3) If you have a question, send an email!
+1) Read these important points first
+* "Assessment", especially "Participation" will change if we stay online after May 11
+* So <green>don't worry</green> about "Assessment" for now
+* I will explain Assessment later, step by step
+2) Read your Syllabus:
+* [[Schedules - Syllabus for ECS]]
+* [[Schedules - Syllabus for EITC]]
+* [[Schedules - Syllabus for GCP]]
+* [[Schedules - Syllabus for SSB]]
+3) If you have a question, send an email!
 
 
 # Homework 2 - Write a good email
