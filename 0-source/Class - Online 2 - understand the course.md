@@ -1,5 +1,4 @@
-
-# Contents
+# Aim of Class 2
 By the end of this class, you will be able to:
 * Ask me a question by email
 ** Send a good email
@@ -7,12 +6,13 @@ By the end of this class, you will be able to:
 * Understand your Syllabus
 * Answer a survey
 
+# Contents
 Please:
 * Read this page 
 * Do Homework 1
 * Do Homework 2 
 * Do Homework 3
-* Deadline is next class (Monday)
+* Deadline is next "class" (Thursday, when I'll post class 3 tasks)
 
 # Homework 1 - Find your syllabus
 1) Read these important points first
