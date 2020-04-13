@@ -5,6 +5,7 @@ When you write an email you can either
 ** change the student number
 ** change the class name (SSB/GCP/EITC)
 
+<red> If you are doing "Online Class 2 task", or you just have a question, use Example 2</red>
 
 
 # Follow an example 

@@ -33,7 +33,6 @@ Essay Paragraph B           |10%    |Explained in class
 Essay Paragraph C           |10%    |Explained in class
 Drafting Process (ABC Outline)|10%  |Explained in class
 Essay Intro/Conclusion Paragraphs|10%|Explained in class
-
 Participation               |10%    |[[Study Skills - make a participation plan]]
 Mini presentations          |10%    |Explained in class///Number depends on class size///Will change if we stay online
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]

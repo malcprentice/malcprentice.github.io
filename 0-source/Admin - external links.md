@@ -395,6 +395,7 @@ ets.org: https://www.ets.org/Media/Tests/TOEFL/pdf/ibt_writing_sample_responses.
 ets.org: https://www.ets.org/s/toefl/pdf/toefl_speaking_rubrics.pdf
 ets.org: https://www.ets.org/toefl/ibt/prepare/quick_prep/
 expedia.co.jp: https://www.expedia.co.jp/
+facebook.com: https://www.facebook.com/WLCSOKA/
 facebook.com: https://www.facebook.com/globalfesta2014
 falmouthpacket.co.uk: https://www.falmouthpacket.co.uk/news/14396386.gyllyngvase-beach-falmouth-to-have-under-sand-heating-to-make-it-an-all-year-round-holiday-destination/
 flickr.com: https://www.flickr.com/creativecommons/by-nc-sa-2.0/
@@ -437,6 +438,7 @@ savetherhino.org: https://www.savetherhino.org/rhino_info/thorny_issues/poisonin
 seiburailway.jp: https://www.seiburailway.jp/delay/
 skyscanner.com: https://www.skyscanner.com
 smithsonianmag.com: https://www.smithsonianmag.com/science-nature/burning-truth-behind-e-waste-dump-africa-180957597/
+soka.ac.jp: https://www.soka.ac.jp/en/wlc/programs/
 soka.ac.jp: https://www.soka.ac.jp/news/student/2015/07/10708/
 solveyourtech.com: https://www.solveyourtech.com/how-to-turn-off-google-drive-email-notifications/
 standard.co.uk: https://www.standard.co.uk/go/london/attractions/indoor-ski-slope-opens-in-chelsea-a3140331.html

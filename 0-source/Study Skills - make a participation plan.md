@@ -95,7 +95,7 @@ __Some rules__
 
 # <red>IF WE ARE STILL LEARNING ONLINE AFTER MAY 11</red>
 Only three things are possible online, so if we are online after May 11, choose how to score your 10 participation points from here:
-* 1) [[Study Skills - use ALC NetAcademy] 
+* 1) [[Study Skills - use ALC NetAcademy]] 
 ** 2 points for full size test
 ** 1 point for half size test
 ** max 5 points total
