@@ -56,6 +56,10 @@ Please:
 * Click this link and answer the questions. 
 * Don't forget to hit "Submit"
 * Survey: https://forms.gle/GGbRAsdR66KroBR67
-* Link 2 (if iOS Safari is a problem: https://forms.gle/GGbRAsdR66KroBR67
+* Problems in iOS Safari?
+** If you have a content blocker (e.g. Firefox Focus) the link might not work:
+** Press and hold the link
+** Copy it. Use Firefox or Chrome
+** (Or use your laptop instead)
 * "This survey is to determine your internet connection and the devices you have. This will help your teacher decide what tools we can use for class while we are online. Don't worry - your grade will not be affected if you are unable to use certain technologies. このアンケートはあなたのインターネット回線状況とあなたが所持している機器を確認するためのものです。私たち指導者が担当しているオンラインのある環境下の授業で、どの機器を使用すれば良いか、このアンケート結果を通して選択する予定です。アンケートに答えるにあたり、特定の機器を所持していない、また授業で使われるような機器を全く持っていない場合でも成績には一切反映されないので、機器の有無に対してご心配しないようお願い致します"
 
