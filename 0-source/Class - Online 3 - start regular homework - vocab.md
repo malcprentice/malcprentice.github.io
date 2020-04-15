@@ -1,8 +1,8 @@
 # Aim of Class 3
 By the end of this class, you will be able to:
-* Use the "Coursework" tab on Google Classroom
-** Find a task
-** Open a template
+* Use the "Coursework" tab on Google Classroom to:
+** Find graded assignments
+** Open templates
 ** Submit work
 * Start learning vocab
 ** How to find Malc's suggested word lists

@@ -19,8 +19,7 @@ __Homework is listed below, but a quick summary:__
 * Can't see it? Check 'Classwork', or read this:
 ** Instructions in English: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=en
 ** Instructions in Japanese: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=ja
-* It is YOUR copy - you can edit it. 
-* If you finish this list, see "Advanced options"
+* You can make a copy of this and edit it
 
 # 2) Choose words to learn
 * Read the list  
@@ -30,12 +29,12 @@ __Homework is listed below, but a quick summary:__
 * Keep looking until you have enough words:
 ** SSB, ECS, EITC - __10 words__ per class (total 250)
 ** GCP - __15 words__ per class (total 375)
-
+** __Tip:__ It's faster to choose more words (e.g. 60) at a time (so you can just study for a few weeks without opening the list every time)
 
 # 3) Start making your own personal study list
 __Two easy choices:__
 * a) Copy them into a notebook
-* b) Just edit my list (that's your copy, don't worry)
+* b) Just edit my list ("File" -> "Make a copy")
 ** Delete the rows with words you know
 ** Keep the rows with words you don't know
 
@@ -53,23 +52,23 @@ Number  |English  |Japanese  |POS (品詞)
 3       |word     |単語       |noun
 etc.     |          |         | 
 
-__Tip:__ It's faster to prepare more words (e.g. 60) at a time (Then you can relax for a few classes and just study)
+
 
 # 4) Study!
 * Don't just copy the words, study them! 
 * Test yourself, and test old words or you will forget!
 * Any way you prefer is OK. For example:
-** Just study from your list - cover and check 
+** Just study from your online sheet - cover and check 
 ** Copy them onto Word cards (単語カード)
 ** Write sentences with the words
-** Copy each words 10 times
+** Copy each word 10 times
 ** Copy them into Memrise: https://www.memrise.com/
 ** Copy them into Quizlet: https://quizlet.com/
 
 __But any method you use, <green>keep your words in a list too!</green>__ 
 * Your partner will need a list to test you on today's words
 * We will need a list to make your final vocab test in class 28
- 
+
 
 # HOMEWORK - What will be checked?
 ## First vocab homework (for class 3)
