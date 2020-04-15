@@ -3,11 +3,9 @@ By the end of this class, you will know:
 * How to do vocabulary homework
 * How to use Zoom (if you don't already know)
 
-
-
 # Contents
 Please do homework 1 and 2. 
-Your attendance is "present" if you send the email for Homework 1
+Your are "present" (出席) if you send the email for Homework 1
 
 ## Homework 1
 

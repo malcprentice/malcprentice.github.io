@@ -2,11 +2,13 @@ Hello! Welcome to the course!
 We are online until at least May 11. 
 This is online class 1.
 
-
+# Aim of Class 1
 By the end of this class, you will be able to:
 * Use "Google Classroom"
 * Say hello to the class
 * Ask for help if you have problems
+
+You are "present"(出席) if you finish Homework 2 "Say Hello"
 
 # Contents
 * Read this page 

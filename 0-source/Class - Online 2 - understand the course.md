@@ -14,6 +14,8 @@ Please:
 * Do Homework 3
 * Deadline is next "class" (Thursday, when I'll post class 3 tasks)
 
+You are "present" (出席) if you send the "Homework 2" email
+
 # Homework 1 - Find your syllabus
 1) Read these important points first
 * "Assessment", especially "Participation" will change if we stay online after May 11
