@@ -376,6 +376,7 @@ traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/delay_certificate/
 traininfo.jreast.co.jp: https://traininfo.jreast.co.jp/train_info/e/kanto.aspx
 transfer.navitime.biz: https://transfer.navitime.biz/bus-navi/pc/map/Top?window=busLocation
 translate.google.com: https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FClass%2520-%2520Online%25201%2520-%2520basics%2520for%2520online.html
+translate.google.com: https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%20Skills%20-%20learn%20vocabulary.html
 translate.google.com: https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%2520Skills%2520-%2520basics%2520for%2520online.html
 translate.google.com: https://translate.google.com/translate?sl=auto&tl=ja&u=http%3A%2F%2Falba-english.org%2Findex.html
 eb.archive.org: https://web.archive.org/web/20160602044625/http://www.qub.ac.uk/

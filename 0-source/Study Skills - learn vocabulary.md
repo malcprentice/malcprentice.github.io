@@ -1,93 +1,89 @@
 # Aim
 By the end of this unit, you will know:
-* How to find Malc's suggested word lists
-* How to prepare your homework
-* How you will be tested in class
-* How you will be graded at the end of term
+* How to do vocabulary homework
+* How to send homework by email
 
-__Homework is listed below, but a quick summary:__
-* This homework is for every class between class 3 and 27
-** SSB, ECS, EITC - __10 words__ per class (total 250)
-** GCP - __15 words__ per class (total 375)
-* Vocab test is in class 28
 
-<red> Online 2020 </red> - If we are still online at end of term, the test format will change 
+If you don't understand, translate this page: https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%20Skills%20-%20learn%20vocabulary.html
 
 # 1) Find the recommended word list
-* I will share a word list on Google Classroom
-* Find "Vocabulary" and open the link (Google Sheets).
-* Can't see it? Check 'Classwork', or read this:
-** Instructions in English: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=en
-** Instructions in Japanese: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=ja
-* You can make a copy of this and edit it
+* Click this link: https://docs.google.com/spreadsheets/d/1H_Gt5v5A9-_r3Cne4mkiYKjg_WM1hxWzEaQ-REMV0as/edit?usp=sharing
+* __If__ you get the "request access" (権限が必要です) message:
+** __do not__ request access
+** go back to Gmail
+** check you are using @soka-u.jp
+** try again
 
 # 2) Choose words to learn
-* Read the list  
-* Start at the top, scroll down
-** Ignore words you already know.  
-** __Choose words you don't know.__  
-* Keep looking until you have enough words:
-** SSB, ECS, EITC - __10 words__ per class (total 250)
-** GCP - __15 words__ per class (total 375)
-** __Tip:__ It's faster to choose more words (e.g. 60) at a time (so you can just study for a few weeks without opening the list every time)
+* Read down the list
+* Ignore words you already know.  
+* __Choose words you don't know.__  
+* Keep going until you have enough words
 
-# 3) Start making your own personal study list
-__Two easy choices:__
-* a) Copy them into a notebook
-* b) Just edit my list ("File" -> "Make a copy")
-** Delete the rows with words you know
-** Keep the rows with words you don't know
+__How many words?__
+* SSB, ECS, EITC
+** __10 words__ per class 
+** (total 250)
+* GCP 
+** __15 words__ per class 
+** (total 375)
 
-__NUMBER__ the words you copy
-* This makes testing easier later
-* Number them 1, 2, 3, 4, 5....250 for SSB/ECS/EITC
-* Number them 1, 2, 3, 4, 5....375 for GCP
-* Don't use numbers from my sheet! Use YOUR number
+# 3) Copy the words you choose into your notebook
+* Copy three things: English+Japanese+品詞
+* Number your words 1,2,3,4,etc
 
-__You only need these four things:__
+__It should look like this:__
 Number  |English  |Japanese  |POS (品詞)
 ---     |-------- |--------- |---------
 1       |hear     |聞く       |verb
 2       |several  |数個の     |adj
 3       |word     |単語       |noun
-etc.     |          |         | 
+4       |card     |カード     |noun
+etc.    |          |         | 
 
+<green>IMPORTANT:</green> "Number" means __YOUR__ number, not Malc's list number
 
 
 # 4) Study!
-* Don't just copy the words, study them! 
-* Test yourself, and test old words or you will forget!
-* Any way you prefer is OK. For example:
-** Just study from your online sheet - cover and check 
-** Copy them onto Word cards (単語カード)
-** Write sentences with the words
+* Don't just copy, study! 
+* Any method is OK. __Your choice.__ For example:
+** Just study your notebook - cover and check 
+** Use Word cards (単語カード)
+** Write sentences 
 ** Copy each word 10 times
-** Copy them into Memrise: https://www.memrise.com/
-** Copy them into Quizlet: https://quizlet.com/
+** Use Memrise: https://www.memrise.com/
+** Use  Quizlet: https://quizlet.com/
 
-__But any method you use, <green>keep your words in a list too!</green>__ 
-* Your partner will need a list to test you on today's words
-* We will need a list to make your final vocab test in class 28
-
+__Any method is OK, but <green> also keep your notebook</green>__ 
+* Your partner needs a list to test you in class 
+* We need a list in class 28 to make your vocab test 
 
 # HOMEWORK - What will be checked?
 ## First vocab homework (for class 3)
-Vocab 1 (just to make sure you are OK)
-* If we are in class, show Malc your list
-* <red> Online 2020? </red> Please EMAIL your first vocab homework to Malc to check. CHOOSE from these:
-** Did you copy into a notebook? Submit a photo of page 1
-** Did you edit Malc's list instead? Submit the file or a screenshot.
+* Finish your first list
+* Take a photo of your notebook page
+* EMAIL it to Malc
+* Remember to [[Study Skills - write a well formatted email]]
+** Use "Example email 1: Here is my homework"
+** Homework code is V1
+** e.g. subject "Hiroko Sato - SSB/ECS/EITC/GCP - V1"
 
 ## Every class (for class 3, 4, 5, 6..., & 27)
-* If we are in a classroom
-** If you forget today's words, you lose participation points
-** You will test your partner (for practice, no points)
-* <red>If we are online</red>
-** Malc will occasionally ask to see your word list so far
+* If we are online 
+** Don't email a photo every week
+** Malc will ask to check your notebook occasionally 
+** Just keep studying. 
+
+* If we are on campus
+** You will test your partner 
+** If you forget your homework, -1 participation point
 
 ## At the end of term (class 28)
-<red> Online - This test format will change </red>
-* We will test you on YOUR words. 
+### Online 
+If we are online, I will tell you about the test later
+
+### On campus
+* One test (10%) on YOUR words. 
 ** Randomly chosen from all your words
 ** 5 words Japanese-English translation
 ** 5 words English-Japanese translation
@@ -96,27 +92,32 @@ Vocab 1 (just to make sure you are OK)
 ** Translations with same meaning OK
 
 
-# Advanced options
+# Advanced class options
 ## Finished the lists? 
-* Feel free to use other lists (e.g. TOEFL)
-* Or just read more and learn useful words from there
-* Or stop learning words, just [[Study Skills - guess word meanings]]
-* If you are finished learning vocab:
+* Use other lists (e.g. TOEFL)
+* Read more and choose words
+* If learning vocab is not useful any more:
+** Just read and [[Study Skills - guess word meanings]]
 ** Tell me and you are excused this homework. 
 ** But I will do a test on all list words to check!
 
 ## Learn more about words 
 __1) One word = many words__
-Use ANY of the word family in your list, examples and sentences.
-* "analyse"  (n)		= 	analyse, analysed, analysing
-* "analysis" (v)	 	= 	analyser, analysers, analyses, analysis, analyst, analysts
-* "analytic" (adj)		=	analytic, analytical
-* "analytically" (adv)	=	analytically
-* UK spellings 		=	analyze, analyzed, analyzes, analyzing, etc
+Go back to your list, and study the family
+"analyse"  |(n)		|analyse, analysed, analysing
+"analysis" |(v)	 	|	analyser, analysers, analyses, analysis, analyst, analysts
+"analytic" |(adj)	|analytic, analytical
+"analytically"|(adv)	|analytically
+UK spellings  |  |	analyze, analyzed, analyzes, analyzing, etc
 
-__2) Some useful websites for learning more ABOUT words__
-These website help answer questions like "Do I really need this word?" or "How do I use this word in a sentence?" or "Is this word for Economics or Science?"  or "Is this an old fashioned word or a new one?"
+__2) Try websites for learning more ABOUT words__
+These website help answer questions like 
+* "Do I really need this word?" 
+* "How do I use this word in a sentence?" 
+* "Is this word for Economics or Science?"  
+* "Is this an old fashioned word or a new one?"
 
+List:
 * BYU Corpus: http://corpus.byu.edu/ (Written and Spoken US English)
 * Word and phrase: http://www.wordandphrase.info/academic/ (American Academic English)
 * Webcorp: http://www.webcorp.org.uk/ (Internet English)
