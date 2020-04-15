@@ -3,7 +3,6 @@ By the end of this unit, you will know:
 * How to do vocabulary homework
 * How to send homework by email
 
-
 If you don't understand, translate this page: https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FStudy%20Skills%20-%20learn%20vocabulary.html
 
 # 1) Find the recommended word list
