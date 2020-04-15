@@ -59,9 +59,9 @@ We are online until May 11.
 
 * Online Class 1: [[Class - Online 1 - basics for online]]
 * Online Class 2: [[Class - Online 2 - understand the course]]
-* Online Class 3: Learn to do regular homework 1 (Quickwrites)
-* Online Class 4: Learn to do regular homework 2 (Vocab)
-* Online Class 5: Learn to do regular homework 3 (Speed Reading)    
+* Online Class 3: [[Class - Online 3 - start regular homework - vocab]]
+* Online Class 4: Class - Online 4 - start regular homework - quickwrites
+* Online Class 5: Class - Online 5 - start regular homework - speed reading
 * Online Class 6: Prepare to start on-campus classes.
 ** Introduction to Essay Project 
 ** Start reading for Essay Project

@@ -20,6 +20,7 @@
 ##Class
 [[Class - Online 1 - basics for online]]
 [[Class - Online 2 - understand the course]]
+[[Class - Online 3 - start regular homework - vocab]]
 [[Class - basics 1]]
 [[Class - basics 2]]
 ##Examples
