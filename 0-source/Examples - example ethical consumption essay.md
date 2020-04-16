@@ -16,7 +16,7 @@ See [[Projects - write an essay about ethical consumption]]
 __References__
 <em>American Shea Butter Institute.</em> (2013). Retrieved from http://www.sheainstitute.com/asbi-library/21reasons/
 <em>Burkina Faso no takaramono to kadai</em> [Burkina Faso treasures and challenges]. (n.d.). Retrieved November 3, 2014, from http://www.a-danse.jp/burkinafaso/subject.html
-<em>Case 2: Ghana.</em> (n.d.). Retrieved November 19th, 2014, from http://www.jica.go.jp/activities/schemes/priv_partner/other/csr_02.html
+<em>Case 2: Ghana.</em> (n.d.). Retrieved November 19, 2014, from http://www.jica.go.jp/activities/schemes/priv_partner/other/csr_02.html
 <em>Charity – shea dream. </em>(2012). Retrieved from http://sheadream.com/?page_id=43
 <em>Ekomamu zissen</em> [Ekomamu practice]. (2014). Retrieved from http://business.nikkeibp.co.jp/ecomom/column/es/es_016.html
 <em>Fair trade toha?</em> [What is Fair Trade?]. (2007). Retrieved from https://www.wakachiai.com/shop/fairtrade.html
