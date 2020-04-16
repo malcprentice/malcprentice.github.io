@@ -8,7 +8,7 @@ If you don't understand what to do:
 * Email me for help
 
 # 1) Find the recommended word list
-* The vocabulary sheet will be an assignment in Google Classroom. 
+* The vocabulary sheet link will be posted in Google Classroom. 
 * If you can't find it, or you are early it is ALSO here: https://docs.google.com/spreadsheets/d/1H_Gt5v5A9-_r3Cne4mkiYKjg_WM1hxWzEaQ-REMV0as/edit?usp=sharing
 * __If__ you get the "request access" (権限が必要です) message:
 ** __do not__ request access
