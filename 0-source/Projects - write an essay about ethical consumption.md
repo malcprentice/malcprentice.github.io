@@ -119,7 +119,7 @@ Make sure it will be easy to write about:
 ** "It causes three problems - it funds conflict, the mining is dangerous, and it causes pollution"
 ** "I have maybe found 5 solutions so far. The best 3 are all NGOs which are working in the DCR."
 
-# Project Homework 3 - Research your topic more 
+# Project Homework 3 - Research your product and problems
 ### Tip 1: Focus on good sources
 * newspaper articles
 * government reports
@@ -165,21 +165,22 @@ Make sure it will be easy to write about:
 ** water
 
 
-## 8) Research Solutions (Paragraph 4 Summary-Response)
-* Labelling
-** labelling laws (contents, source of materials, location of production)
-** labelling groups e.g. Bluesign ( clothing) HSSE ( Jewelry), Dolphin safe (Tuna), Fairtrade (Various), etc
-** Farming methods labels (e.g. free range chicken/eggs)
+# Project Homework 4 - Research your solutions and responses
+Find at least three solutions
+Choose solutions that are happening NOW, not in the past or future
+Solutions are usually:
+* Things students can do
+* Things NGOs, governments, etc, are doing
+* Things companies are doing 
+
+
+### Some ideas for solutions
+* Labelling laws (dolphin safe tuna)
+* Fairtrade and similar programs
+* Any NGO working on the problem
+* Any NGO working on a related problem (poverty)
 * Reduce, Re-use, Recycle, or avoid completely
-** Use less of something
-** Use it again for something else.
-** Use re-usable instead of disposable things (e.g. EcoBags)
-** Avoid it (go vegetarian, keep using your old phone)
-** Recycling things you use (e.g. batteries, PET, cans)
-** Buying recycled things (e.g. recycled paper)
-* Part of purchase goes to charity__
-** e.g. http://www.red.org/en/
-** e.g. Toms shoes http://www.toms.com/stories/giving/giving-partner-interview-with-coprodeli-in-peru
+* Part of purchase goes to charity e.g. http://www.red.org/en/
 * Making laws
 ** International (UN) law
 ** National (e.g. Japan) law
@@ -188,17 +189,39 @@ Make sure it will be easy to write about:
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
-## 8) Research Solutions 
-* Corruption, lack of enforcement, limited to one area
+###  Research Responses 
+In your essay, you will write sentences like
+* "However, this solution is only partly effective, because..."
+* "In fact, this solution is working very welll - for example...
+
+Research which one you will use for each solution! 
+
+Do your solutions actually work? 
+If they were all perfect there wouldn't be a problem. 
+
+Probably:
+* They only work in one country
+* They only work 20%
+* They haven't been working very long
+* There are problems with corruption
+* They don't have enough money
 
 
 
-# Project Homework 4 - Research more, arrange your notes (week 4)
+
+
+
+
+# Project Homework 5: Arrange your notes and plan your essay
 * I will share the essay outline template
 * I will talk about Arrangement for essays
+* I will explain more in class about 
+** Arrangement - planning your essay
+** Invention - using sources in academic essays
 
-
-# Project Homework 5: Start writing
+# Project Homework 6: Start writing
 * Find "Template for Essay" on Google Classroom
-* I will explain more in class about Arrangement, Style and the formatting Templates. 
+* I will explain more in class about 
+** Style - writing food sentences
+** Presentation - formatting Templates. 
 * DO NOT WRITE ALL FIVE PARAGRAPHS NOW. This is our first essay, we will do it slowly, step by step. 
