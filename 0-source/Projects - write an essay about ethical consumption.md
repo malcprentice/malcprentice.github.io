@@ -55,9 +55,8 @@ It's difficult, so if you don't understand:
 
 <ref>
 Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href = "https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone">https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone</a>
-
 </ref>
-
+ 
 ## Homework 1C: Read the example essay 
 * Read this: [[Examples - example ethical consumption essay]]
 * We will write an essay like this 
