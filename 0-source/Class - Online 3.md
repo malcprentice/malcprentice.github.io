@@ -16,7 +16,9 @@ By the end of this class, you will:
 1) Go to [[Study Skills - learn vocabulary]]
 2) Follow the instructions
 3) I want to check you are doing it OK, so
-** [[Study Skills - write a well formatted email]] - use Example email 1
+** [[Study Skills - write a well formatted email]]
+** use Example email 1
+** Homework code is "V1"
 ** attach a photo of your first vocab homework
 Email if you have problems!
 
