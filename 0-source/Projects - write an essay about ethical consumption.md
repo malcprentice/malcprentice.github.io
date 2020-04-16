@@ -46,7 +46,7 @@ How often is the answer "I don't know"?
 
 
 
-### Homework 1B:  Watch this 11 min video
+## Homework 1B:  Watch this 11 min video
 Take notes. 
 It's difficult, so if you don't understand:
 * Turn on English subtitles (字幕)
@@ -58,7 +58,7 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 
 </ref>
 
-### Homework 1C: Read the example essay 
+## Homework 1C: Read the example essay 
 * Read this: [[Examples - example ethical consumption essay]]
 * We will write an essay like this 
 * Don't worry! 
