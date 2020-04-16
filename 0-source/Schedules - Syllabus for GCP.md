@@ -54,14 +54,15 @@ We are online until May 11.
 ** I will post class instructions to Google Classroom, 2 classes per week:   
 
 
+
 * Online Class 1: [[Class - Online 1 - basics for online]]
 * Online Class 2: [[Class - Online 2 - understand the course]]
-* Online Class 3: [[Class - Online 3 - start regular homework - vocab]]
+* Online Class 3: [[Class - Online 3]]
+** start regular homework - vocab
+** start essay project
 * Online Class 4: Class - Online 4 - start regular homework - quickwrites
 * Online Class 5: Class - Online 5 - start regular homework - speed reading
 * Online Class 6: Prepare to start on-campus classes.
-** Introduction to Essay Project 
-** Start reading for Essay Project
 
 ## On campus. Class 5-26. Starts May 11.
 * Class 7: On campus. See you in class!

@@ -337,8 +337,11 @@ drive.google.com: https://drive.google.com/drive/folders/0BzKt6sceTvHRdV9ZZUJLRW
 drive.google.com: https://drive.google.com/drive/folders/1FEUTbtgHTUmqK14FTieZq7M1_E71mNXb?usp=sharing
 drive.google.com: https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
 drive.google.com: https://drive.google.com/drive/u/2/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE
+en.wikipedia.org: https://en.wikipedia.org/wiki/Foxconn_suicides
 en.wikipedia.org: https://en.wikipedia.org/wiki/Romanization_of_Korean
 en.wikipedia.org: https://en.wikipedia.org/wiki/Romanization_of_Russian#
+en.wikipedia.org: https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil
+en.wikipedia.org: https://en.wikipedia.org/wiki/Testing_cosmetics_on_animals
 en.wikipedia.org: https://en.wikipedia.org/wiki/Vaquita
 en.wikipedia.org: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch
 en.wiktionary.org: https://en.wiktionary.org/wiki/Appendix:Common_Hindi_words
@@ -459,6 +462,7 @@ tokyometro.jp: https://www.tokyometro.jp/lang_en/delay/history/namboku.html
 topcoder.com: https://www.topcoder.com/
 tripadvisor.com: https://www.tripadvisor.com/
 udacity.com: https://www.udacity.com/
+unicef.org: https://www.unicef.org/csr/garments.html
 verbling.com: https://www.verbling.com/
 volunteerworld.com: https://www.volunteerworld.com
 volunteerworld.com: https://www.volunteerworld.com/en/filter?f%5BcC%5D=032&f%5BsCN%5D=Street+
