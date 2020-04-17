@@ -111,7 +111,7 @@ Make sure it will be easy to write about:
 ** "I chose TOPIC"
 ** "TOPIC is a kind of... It is..."
 ** "It causes three problems - 1, 2, and 3"
-** "I have maybe found 5 solutions so far. The best 3 are 1, 2, and 3."
+** "I found 3 solutions so far - 1, 2, and 3."
 * For example
 ** "I chose Tantalum"
 ** "Tantalum is a kind of metal. It is used in electronic devices. It comes from Ghana"

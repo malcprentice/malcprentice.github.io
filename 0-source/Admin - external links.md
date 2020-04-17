@@ -372,6 +372,8 @@ support.google.com: https://support.google.com/edu/classroom/answer/6020274?hl=e
 support.google.com: https://support.google.com/edu/classroom/answer/6020274?hl=ja&co=GENIE.Platform=Desktop
 support.google.com: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=en
 support.google.com: https://support.google.com/edu/classroom/answer/6020284?co=GENIE.Platform%3DDesktop&hl=ja
+support.google.com: https://support.google.com/edu/classroom/answer/6020285?co=GENIE.Platform%3DDesktop&hl=en
+support.google.com: https://support.google.com/edu/classroom/answer/6020285?co=GENIE.Platform%3DDesktop&hl=ja
 support.google.com: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
 support.google.com: https://support.google.com/edu/classroom/answer/6118412?hl=ja
 thenounproject.com: https://thenounproject.com/

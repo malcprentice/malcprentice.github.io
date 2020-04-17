@@ -13,10 +13,18 @@ Watch this: https://www.youtube.com/watch?v=vsFhr8sAODg
 Bored of "said", "found" and "noted"? Choose another!
 See [[Style - use verbs for citation]]
 
+# DON'T copy the case of the original
+If your book cover  is written "MY DOG" 
+* It __doesn't matter!__ Ignore it!
+* Write "My dog" (book, article) or My Dog (magazine name)
+If your newspaper is written "JAPAN TIMES" or "japantimes"
+* It __doesn't matter!__ Ignore it!
+* In your references, write "Japan Times"
+
 # Which tense should I use?
 ### MOST OF THE TIME, something is finished. Use past tense
 	As Smith (1999) noted, X is Y				(Smith finished writing)
-	Smith (1999) interviewed 10 JHS students		(Smith finished interviewing)
+	Smith (1999) interviewed 10 JHS students	(Smith finished interviewing)
 
 ### If it is a FACT that is ALWAYS/STILL TRUE, use present tense
 	As Smith (1999, p.32) noted, cats do not speak English

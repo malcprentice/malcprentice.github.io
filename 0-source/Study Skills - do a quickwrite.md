@@ -1,32 +1,55 @@
-# Why do a quickwrite?
-You need practice writing and thinking quickly in English.
-It helps you change English you know (but can't use) into English you can use. Typed quickwrites can also help you do better on typed exams like the iBT TOEFL (a 300 word independent task in 30 minutes needs at least 20 words per minute typing if you want time to think).
+# Aim
+The aim of quickwrites is to help you:
+* Write quickly in English
+* Think quickly in English 
+* Practice formatting written work
+** Meet "Title Case"
+** Practice paragraph basics
+* Turn words you UNDERSTAND into words you can USE
+* Improve your scores on exams with writing (e.g. iBT TOEFL)
+* Practice typing speed (for exams and life)
 
 
 # How to do a quickwrite
 <img src="https://openclipart.org/download/104017/chronometre.svg" />
 
+## 1) Find the template online
+a) Find "Template for QW" on Google Classroom
+b) Rename the document 
+* name-class-quickwrites
+* e.g. "Hiroko Sato - ECS - Quickwrites"
+c) Open the document
+* Change your name, number, class in top right
+* (your name is not Hiroko Sato!)
+* Don't worry about formatting! Just use the template! However, if you break the template, instructions are here: [[Study Skills - format written work]]
 
-### 1) Get ready
-* For typed quicwrites
-** I will share "Template for QW" for typed quickwrites
-** Rename the document name-class-quickwrites
-** e.g. "Hiroko Sato - ECS - Quickwrites"
+
+###Can't type?
+e.g. online 2020, typing on phone
 * If you can't type
 ** use B5 size paper or bigger
 ** Don't lose your quickwrites! 
 ** Keep them together in a folder! 
-* Choose a topic: [[Resources - quickwrite topics]]
-* Add your details at the top right of the sheet
-** name, number, class, code (QW1, QW2, etc) 
-** date 
-* Add the title 
-** [[Style - use title case]]
-** If the title is long, shorten it (max 15 words)
-* Set your phone timer for 10 minutes
+** I will check later!
 
-### 2) Write!
-* Start your timer
+
+##2) Choose a topic 
+* Choose a topic: [[Resources - quickwrite topics]]
+* Any topic in any order is OK, but start easy (top)
+* Add the title to your document 
+** Where it says "QW1: Title of Quickwrite"
+** Change it to e.g. "QW1: What I do in my Spare Time"
+** Should be left aligned (左揃え)
+** Should [[Style - use title case]]
+** If the title is > 12 words, shorten it
+
+##3) Get Ready
+* Set a timer for 10 minutes
+* Before you start, THINK for 1 minute about the topic 
+
+
+###4) Go!
+* Start your 10 minute timer
 * Start writing
 * No stopping! No dictionaries!
 * Don’t worry about grammar or spelling!

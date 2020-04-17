@@ -1,6 +1,7 @@
-### Use the templates
-The easiest way to get formatting right is to use the templates!
-Copy it carefully! Check it still follows these rules:
+The easiest way to get formatting right is:
+* Use the template I sent you!
+* Don't break it!
+* However, if you break it, here is the rules it uses:
 
 # Times New Roman, 12 pt font.
 * Check _everything,_ including title and references
@@ -22,13 +23,12 @@ Copy it carefully! Check it still follows these rules:
 * Date is the deadline of this homework. No "th" or "st" (e.g. April 24, 2015)
 
 # Indent the first line of every paragraph
-* The template will do this automatically.
-* If not, add a "tab". If the tab is too small
-** find "tabs" in 書式 and set them to 1.27cm
+* In Japanese Microsoft Word, the tab size is often too small
+* Find "tabs" in 書式 and set them to 1.27cm
 * You could also add 4-5 spaces instead, but this is bad style
 
-# Title in Title Case
-* Center aligned
+# Title 
+* Center  (中央揃え)
 * No more than 12 words (shorten long QW topics)
 * 12pt Times New Roman
 * No bold/italics/underline
@@ -40,12 +40,13 @@ Copy it carefully! Check it still follows these rules:
 * One empty line between text and references.
 
 
-# Correct Alignment (Right, left, center, never justified)
-(ホーム-->段落)
+# Correct Alignment 
+Right, left, center, never justified)
+In Word, ホーム-->段落
 
 |Align how?		|Align what?
 |----------------|-----------------
 |Right align		|Info & Word Count
 |Left align 		|Paragraphs
-|Center align 	|Title
+|Center align 	     |Title
 |Justify			|NOTHING! (spaces stretches in a strange way)
