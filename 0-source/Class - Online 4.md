@@ -21,7 +21,7 @@ You will also
 # Homework A - vocab
 * Continue your vocab homework (V2)
 * Do NOT email again - if I said V1 was OK, just keep going
-* I will check again around V10 and V20
+* I will check later (V1-V10 in class 13, and V11-20 in class 23)
 
 
 # Homework B - do a quickwrite
@@ -51,8 +51,8 @@ Go to [[Projects - write an essay about ethical consumption]]
 ** Don't worry! 
 ** You are not researhcing the whole essay! 
 ** Just do enough research to decide if it is a good topic or not.
-* Submit _step 6_ results by email. 
-** [[Study Skills - write a well formatted email]] - homework code is "C4"
-** Three sentences ("I chose TOPIC. TOPIC is a kind of... It causes three problems - 1, 2, and 3. I found 3 solutions so far - 1, 2, and 3.)
+* Submit _step 6_ results by email
+** [[Study Skills - write a well formatted email]] homework code is "C4"
+** Four sentences ("I chose TOPIC. TOPIC is a kind of... It causes three problems - 1, 2, and 3. I found 3 solutions so far - 1, 2, and 3.)
 
 
