@@ -2,12 +2,11 @@
 The aim of quickwrites is to help you:
 * Write quickly in English
 * Think quickly in English 
-* Practice formatting written work
-** Meet "Title Case"
-** Practice paragraph basics
 * Turn words you UNDERSTAND into words you can USE
 * Improve your scores on exams with writing (e.g. iBT TOEFL)
 * Practice typing speed (for exams and life)
+* Learn how to use templates or [[Study Skills - format written work]]
+* Practice some [[Resources - paragraph basics]]
 
 
 # How to do a quickwrite
@@ -15,16 +14,18 @@ The aim of quickwrites is to help you:
 
 ## 1) Find the template online
 a) Find "Template for QW" on Google Classroom
-b) Rename the document 
-* name-class-quickwrites
+b) This is YOUR copy - you can edit it. 
+* Rename the document "Name - Class - Quickwrites"
 * e.g. "Hiroko Sato - ECS - Quickwrites"
 c) Open the document
 * Change your name, number, class in top right
 * (your name is not Hiroko Sato!)
-* Don't worry about formatting! Just use the template! However, if you break the template, instructions are here: [[Study Skills - format written work]]
+* Don't worry about formatting! 
+** Just use the template! 
+** However, if you break your template, read this: [[Study Skills - format written work]]
 
 
-###Can't type?
+### Can't type because no keyboard?
 e.g. online 2020, typing on phone
 * If you can't type
 ** use B5 size paper or bigger
@@ -33,7 +34,7 @@ e.g. online 2020, typing on phone
 ** I will check later!
 
 
-##2) Choose a topic 
+## 2) Choose a topic 
 * Choose a topic: [[Resources - quickwrite topics]]
 * Any topic in any order is OK, but start easy (top)
 * Add the title to your document 
@@ -43,32 +44,32 @@ e.g. online 2020, typing on phone
 ** Should [[Style - use title case]]
 ** If the title is > 12 words, shorten it
 
-##3) Get Ready
+## 3) Get Ready
 * Set a timer for 10 minutes
 * Before you start, THINK for 1 minute about the topic 
 
 
-###4) Go!
+## 4) Go!
 * Start your 10 minute timer
 * Start writing
 * No stopping! No dictionaries!
 * Don’t worry about grammar or spelling!
 * Do try to follow [[Resources - paragraph basics]] though
 * Change the topic if you need to 
-** For example if the topic is "last holiday
+** For example if the topic is "last holiday"
 ** You can change it to "holiday in JHS" or "next holiday" 
 ** Only if you have no more ideas
 
-### 3) After 10 minutes, STOP and count your words
+## 5) After 10 minutes, STOP and count your words
 * Use "Word Count"
 * Do not count name/title!
 * Add your word count to your progress chart
-* If your word count is under the minumum, keep going:
+* If your word count is under the minimum, keep going:
 ** keep going until you hit the minimum (below)
 ** Record both numbers:
 ** e.g. "103 words (88 words in 10 minutes)"
 
-# Minimum Word Count
+## Minimum Word Count
 If you do less than the following, you have NOT done your homework.
 
 |Time            		|Typed C/D			|Typed GCP
@@ -82,21 +83,19 @@ If you do less than the following, you have NOT done your homework.
 
 
 
+ 
+# Assessment
+## In class:
+* Switch and read your partners QW. Discuss.
+* I will check your QW for the day:
+** Missing homework = -1 participation points
+** Under the minimum word count = -1 participation points
 
-### 4) If typed
-* Keep all your QW in ONE document (your template)
-* I will tell you how to do this in a later class
-
-### 5) In class we will:
-* Switch and read your partners QW. Discuss
-* I will check you met the minimum length
-* Under the minimum word count: <red>NG</red> stamp
-
-### 6)At the end of the course - assessment
-* I will check your QW
-* Under the minimum for the term: - participation points
-* More than the minimum for the term: + participation points
-* (You will make a "Participation PLan" later to check this)
+# At the end of the course 
+* I will check how many QW you did
+* Under the minimum  = lose participation points
+* More than the minimum = get participation points
+* (You will make a "Participation Plan" later to check this)
 
 # Having problems?
 If your QW is too short, or you're taking a long time to hit the minimum, then:

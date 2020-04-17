@@ -4,19 +4,19 @@ By the end of this class, you will:
 ** Review [[Resources - paragraph basics]]
 ** Use a template or [[Study Skills - format written work]]
 ** How to [[Style - use title case]]
+
+You will also 
 * Continue preparing for your first essay project
 * Continue regular vocab homework (V2)
 
 # Contents
 * Please do homework A, B, and C. 
 * To be "present" (出席)
-** Do not send anything for Homework A (V2)
 ** Submit Homework B (QW1) using Google Classroom (instructions below)
 ** Submit Homework C (C4) by email 
+** Do __not__ send Homework A (V2). I will check V1-V10 later.
 
-Project Homework 2 - choose a topic 
-
-<red>Deadline for this work is Monday 20</red>
+<red>Deadline for this work is Thursday 23</red>
 
 # Homework A - vocab
 * Continue your vocab homework (V2)
@@ -48,6 +48,9 @@ Project Homework 2 - choose a topic
 # Homework C - Project Homework 2
 Go to [[Projects - write an essay about ethical consumption]]
 * Do "Project Homework 2 - choose a topic"
+** Don't worry! 
+** You are not researhcing the whole essay! 
+** Just do enough research to decide if it is a good topic or not.
 * Submit _step 6_ results by email. 
 ** [[Study Skills - write a well formatted email]] - homework code is "C4"
 ** Three sentences ("I chose TOPIC. TOPIC is a kind of... It causes three problems - 1, 2, and 3. I found 3 solutions so far - 1, 2, and 3.)

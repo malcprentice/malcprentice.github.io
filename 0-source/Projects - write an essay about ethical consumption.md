@@ -97,40 +97,51 @@ Do not choose:
 ** do not choose palm oil (the example essay)
 ** do not choose tantalum (the video)
 
-### 5) Research your topic A LITTLE
-Research enough to know if it's a good topic or not
-Research in Japanese is OK. Notes in Japanese are OK. 
-Make sure it will be easy to write about:
-* cause at least three problems
-* have at least three solutions
+### 5) Read your topic A LITTLE
+You will research more later. 
+For now, just research enough to check it is a good topic:
+* Google your topic
+* Research in Japanese/your language is OK. 
+* Read ANYTHING, even bad sources like Wikipedia
+* Notes in Japanese/your language are OK. 
 
+Is this a good topic or not?
+* Is it interesting 
+* Does it cause __three__ problems
+* Does it have  __three__ solutions
 
+### 6) Email Malc your idea to check
+You should be able to write:
+* "I chose TOPIC"
+* "TOPIC is ... It ..."
+* "There are at least three problems, for example 1, 2, and 3"
+* "There are at least three solutions, for example 1, 2, and 3."
 
-### 6) Email Malc your idea
-* You should be able to write:
-** "I chose TOPIC"
-** "TOPIC is a kind of... It is..."
-** "It causes three problems - 1, 2, and 3"
-** "I found 3 solutions so far - 1, 2, and 3."
-* For example
-** "I chose Tantalum"
-** "Tantalum is a kind of metal. It is used in electronic devices. It comes from Ghana"
-** "It causes three problems - it funds conflict, the mining is dangerous, and it causes pollution"
-** "I have maybe found 5 solutions so far. The best 3 are all NGOs which are working in the DCR."
+For example
+> __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Ghana. __There are at least three solutions, for example__ child soldiers, death in mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
 
 # Project Homework 3 - Research your product and problems
-### Tip 1: Focus on good sources
-* newspaper articles
-* government reports
-* NGO websites
 
-### Tip 2: Japanese and English
-* Using Japanese sources is OK ...
-* ... but take notes in English
-* In your essay, I want 50% English sources
+###First, learn how to find good sources
+A very detailed look is here: [[Invention - find good sources]]
+
+However, the short version is: 
+* Focus on good sources
+** newspaper articles
+** government reports
+** NGO websites
+* Avoid bad sources
+** No Dictionaries
+** No Wikipedia, no Wikis, no pedias, including Encyclopaedias.
+** No "question answering" sites (Quora, Yahoo, About.com)
+
+### Japanese OK?
+* Yes, using Japanese sources is OK
+* BUT take notes in English!
 ** Do not copy-paste English notes!
 ** Read, understand, and write your own notes
 ** Write keywords, not sentences
+* In your essay, I want __50% English sources__
 
 
 ## Homework 3A: Research "What is your product?"
@@ -141,27 +152,34 @@ Make sure it will be easy to write about:
 * How is it similar or different to something we know better?
 
 ## Homework 3B: Research Problems (Cause-Effect)
-* Important - common mistake
-** The focus of this article is problems that __you__ cause for __other__ people/places/things
-** Problems caused _for you_ are NOT the topic. 
-** If something you buy causes you problems, you can just stop buying it.
-** The people who make things can't stop making them, though. 
+### Important - common mistake
+* This essay is about problems that __you__ cause for __other__ people/places/things when you shop
+* Problems caused _for you_ are NOT the topic. You can just stop buying it.
+* The people who make things can't stop making them, though. 
+* For example:
+** WRONG: "cigarettes give people cancer" is not a problem - just stop smoking. 
+** RIGHT: "children picking tobacco leaves get nicotine poisoning" 
+** WRONG: "eating hamburgers makes me fat"
+** RIGHT: "meat production is a cause of global warming"
 
-*  __Think about the WHOLE LIFE of the product__
-** Preparations (e.g. deforestation by fire)
-** Collection (e.g. mining pollution, slave labour)
-** Production (e.g. suicide by workers, factory collapses)
-** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/ )
-*  __Think about the effect on people__
-** People producing/collecting/assembling/recycling the thing
-** People displaced from the land used
-** People living near the place it is made/recycled
-*  __Think about the effect on the environment__
-** animals
-** plants
-** soil
-** air
-** water
+
+### Think about the WHOLE LIFE of the product
+* Preparations (e.g. deforestation by fire)
+* Collection (e.g. mining pollution, slave labour)
+* Production (e.g. suicide by workers, factory collapses)
+* Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/ )
+
+### Think about the effect on people
+* People producing/collecting/assembling/recycling the thing
+* People displaced from the land used
+* People living near the place it is made/recycled
+
+### Think about the effect on the environment
+* animals
+* plants
+* soil
+* air
+* water
 
 
 # Project Homework 4 - Research your solutions and responses
