@@ -29,17 +29,20 @@ In this unit, you will learn how to write a good paragraph.
 ### 5
 >In my winter holidays this year I went to Scotland - I enjoyed the trip, but there were bad points and good points. The weather was terrible, and the food wasn’t so good, and I got sick. There was a lot to see - castles, some museums,and played hiking in some beatiful mountains. I recommend you visit Scotland, but go in August, because the weather will be better.
 
-* Paragraph 5 is better because __there is now one bad point sentence and one good point sentence, not two setences of mixed bad and good__
+* Paragraph 5 is better because __there is now one bad point sentence and one good point sentence, not two sentences of mixed bad and good__
 
 
 ### 6
 > In my winter holidays this year I went to Scotland - I enjoyed the trip, but there were bad points and good points. On one hand, the weather was terrible, and the food wasn’t so good, and I got sick. However, I saw some castles, some museums, and played hiking in some beatiful mountains. In summary, I recommend you visit Scotland, but go in August, because the weather will be better.
 
-* Paragraph 6 is better because __you can EASILY SEE that there is one bad point sentence and one good point sentence, using "On one hand...However"__
+* Paragraph 6 is better because __you can EASILY SEE that there is one bad point sentence and one good point sentence, using "On one hand...However"__ See [[Style - use cohesion]]
 
 
 ### 7
 > In my winter holidays this year I went to Scotland - I enjoyed the trip, but there were bad points and good points. On one hand, the weather was terrible, and the food wasn’t so good, and I got sick. However, I saw some castles, some museums, and went hiking in some beautiful mountains. In summary, I recommend you visit Scotland, but go in August, because the weather will be better.
 
 * Paragraph 7 is better because __it has been checked for spelling ("beautiful") and grammar ("play hiking")__
+
+
+
 

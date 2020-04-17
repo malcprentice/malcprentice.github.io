@@ -84,7 +84,7 @@ Substances are usually worse than final products. The factory that makes earphon
 ### 3) Choose a good topic from you list
 Good essay topics are usually:
 * things that are simple, usually substances 
-* list from step 3 usually better than step 2
+* list from step 2 usually better than step 1
 ** e.g. palm oil, not toothpaste
 ** e.g. tantalum, not iPhones
 ** e.g. trees in Malaysia, not notebooks

@@ -1,7 +1,7 @@
 The easiest way to get formatting right is:
 * Use the template I sent you!
 * Don't break it!
-* However, if you break it, here is the rules it uses:
+* If you break it, fix it by following these rules:
 
 # Times New Roman, 12 pt font.
 * Check _everything,_ including title and references

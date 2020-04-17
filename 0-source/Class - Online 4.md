@@ -49,7 +49,7 @@ You will also
 Go to [[Projects - write an essay about ethical consumption]]
 * Do "Project Homework 2 - choose a topic"
 ** Don't worry! 
-** You are not researhcing the whole essay! 
+** You are not researching the whole essay! 
 ** Just do enough research to decide if it is a good topic or not.
 * Submit _step 6_ results by email
 ** [[Study Skills - write a well formatted email]] homework code is "C4"
