@@ -41,7 +41,10 @@ We are online until May 11.
 * Online Class 3: [[Class - Online 3]]
 ** start regular homework - vocab
 ** start essay project
-* Online Class 4: Class - Online 4 - start regular homework - quickwrites
+* Online Class 4: [[Class - Online 4]]
+** Continue Vocab
+** Continue Essay project  decide topic
+** Start Quickwrites
 * Online Class 5: Class - Online 5 - start regular homework - speed reading
 * Online Class 6: Prepare to start on-campus classes.
 
