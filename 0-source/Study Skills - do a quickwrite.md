@@ -4,16 +4,20 @@ Quickwrite = How many words can your write in 10 minutes?
 * Easy topics! 
 * Don't worry about spelling or grammr. Only speed!
 
+If you answered  "Yes and no - my keyboard is small and it's hard to type" on the survey:
+* Read "Can't type?" below. 
+* Ignore the template. Handwriting is OK too. 
+
 # Aim
 The aim is to help you:
 * Write quickly in English
 * Think quickly in English 
 * Turn words you UNDERSTAND into words you can USE
 * Improve exam scores for writing (e.g. iBT TOEFL)
-* Practice typing speed (for exams and life)
-* We will also 
-** Learn how to use templates or [[Study Skills - format written work]]
-** Practice some [[Resources - paragraph basics]]
+* practice some [[Resources - paragraph basics]]
+* If you have a keyboard and can type, then also:
+** improve typing speed
+** learn how to use templates or [[Study Skills - format written work]]
 
 # How to do a quickwrite
 <img src="https://openclipart.org/download/104017/chronometre.svg" />
@@ -36,11 +40,12 @@ The aim is to help you:
 
 
 ### Can't type? 
-If you can't type e.g. only have phone
+If you can't type e.g. only have phone, small keyboard
 * use pen and paper
 * use B5 size paper or bigger
 * Don't lose your QW! Put them in a folder 
 * I will check later by photo
+You can use handwriting
 
 
 ## 2) Choose a topic 
