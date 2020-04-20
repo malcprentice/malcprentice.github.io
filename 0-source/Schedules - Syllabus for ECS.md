@@ -60,14 +60,24 @@ We are online until May 11.
 * Online Class 1: [[Class - Online 1 - basics for online]]
 * Online Class 2: [[Class - Online 2 - understand the course]]
 * Online Class 3: [[Class - Online 3]]
-** start regular homework - vocab
+** start regular homework - Vocabulary (V1)
 ** start essay project
 * Online Class 4: [[Class - Online 4]]
-** Continue Vocab
-** Continue Essay project  decide topic
-** Start Quickwrites
-* Online Class 5: Class - Online 5 - start regular homework - speed reading
-* Online Class 6: Prepare to start on-campus classes.
+** Continue Vocab (V2)
+** Start Quickwrites (QW1)
+** Continue Essay project (C4 - decide topic)
+* Online Class 5: Class - Online 5
+** Continue Vocab (V3), Quickwrites (QW2)
+** Start Speed Reading (SR1)
+** Continue Essay project decide topic
+* Online Class 6: To be confirmed
+** Continue Vocab (V4), Quickwrites (QW3), Speed Reading (SR2)
+** [[Study Skills - make a participation plan]]
+* Class 7: To be confirmed
+** Continue Vocab, Quickwrites, Speed Reading at your own speed
+* Class 8: To be confirmed
+** Continue Vocab, Quickwrites, Speed Reading at your own speed
+
 
 ## On campus. Class 7-28. Starts May 11.
 * Class 7: On campus. See you in class!
