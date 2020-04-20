@@ -15,6 +15,8 @@ By the end of this project you will be able to:
 * Follow your syllabus for Homework 1, 2, 3, etc
 * Don't read ahead too far! I need to explain some things for each homework.
 
+If you have problems understanding, translate this page, then ask
+
 # Project Homework  1 - Introduction 
 * You __do not have to submit anything__ for Homework 1. 
 * Just think, read, listen and __take notes__
@@ -65,6 +67,21 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 ** We will do it __slowly,__ step by step over WEEKS. No rush!
 
 # Project Homework 2 - choose a topic 
+* Don't worry! 
+* You are not researching the whole essay! 
+* Just do enough to decide - is your topic good or not?
+
+## Important - common mistake
+* Topic is problems caused for __other__ people/environment
+* Problems _for you_ are NOT the topic. 
+* You can just stop buying/eating it. 
+* Workers can't stop making/farming it
+* For example:
+** NO: "tobacco gives people cancer"   
+** YES: "tobacco farms use child labour" 
+** NO: "eating hamburgers makes me fat"  
+** YES: "meat production is a cause of global warming"
+
 ### 1) Make a list of products  
 * things you used this week
 * things you buy regularly
@@ -74,32 +91,28 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 * things that comes from overseas, probably a third world country
 * things you buy things in (packaging)
 
-### 2) Make a list of substances IN the things on your list
-Substances are usually worse than final products. The factory that makes earphones might not be a problem, but the metals from Africa used to make them probably are:
-* e.g. tungsten in light bulbs
-* e.g. cotton in your t-shirts
-* e.g. shrimp in your onigiri
+### 2) Make a list of things INSIDE the things on your list
+* Inside your product are many materials(材料)
+* Usually, these are worse than finished products. 
+* e.g. palm oil in toothpaste
+* e.g. tantalum in iPhones
+* e.g. wood pulp in notebooks
+* e.g. cotton in t-shirts
+* e.g. shrimp in onigiri
 
-
-### 3) Choose a good topic from you list
-Good essay topics are usually:
-* things that are simple, usually substances 
-* list from step 2 usually better than step 1
-** e.g. palm oil, not toothpaste
-** e.g. tantalum, not iPhones
-** e.g. trees in Malaysia, not notebooks
-
+### 3) Choose a good essay topic from your list
+Choose something SIMPLE or a material (材料)
 Do not choose:
-* any "products" that are endangered animals (that's essay 2!)
-** e.g. no tuna
-** e.g. no ivory
+* any endangered animal products (that's essay 2)
+** e.g. no endangered tuna species
+** e.g. no elephant ivory
 * any products I used as an example
-** do not choose palm oil (the example essay)
-** do not choose tantalum (the video)
+** not palm oil (the example essay)
+** not tantalum (the video)
 
-### 5) Read your topic A LITTLE
+### 5) Research your topic A LITTLE
 You will research more later. 
-For now, just research enough to check it is a good topic:
+Now, research __ just enough__ to check it is a good topic:
 * Google your topic
 * Research in Japanese/your language is OK. 
 * Read ANYTHING, even bad sources like Wikipedia
@@ -108,7 +121,11 @@ For now, just research enough to check it is a good topic:
 Is this a good topic or not?
 * Is it interesting 
 * Does it cause __three__ problems
+** e.g. pollution, child labour, conflict
+** e.g. poverty, dangerous working conditions
 * Does it have  __three__ solutions
+** e.g. NGO, NPO, laws
+** e.g. reduce reuse recycle
 
 ### 6) Email Malc your idea to check
 You should be able to write:
@@ -121,8 +138,9 @@ For example
 > __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Ghana. __There are at least three solutions, for example__ child soldiers, death in mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
 
 # Project Homework 3 - Research your product and problems
+Now, research your topic, problems, solutions in detail
 
-###First, learn how to find good sources
+## Learn how to find good sources
 A very detailed look is here: [[Invention - find good sources]]
 
 However, the short version is: 
@@ -152,17 +170,6 @@ However, the short version is:
 * How is it similar or different to something we know better?
 
 ## Homework 3B: Research Problems (Cause-Effect)
-### Important - common mistake
-* This essay is about problems that __you__ cause for __other__ people/places/things when you shop
-* Problems caused _for you_ are NOT the topic. You can just stop buying it.
-* The people who make things can't stop making them, though. 
-* For example:
-** WRONG: "cigarettes give people cancer" is not a problem - just stop smoking. 
-** RIGHT: "children picking tobacco leaves get nicotine poisoning" 
-** WRONG: "eating hamburgers makes me fat"
-** RIGHT: "meat production is a cause of global warming"
-
-
 ### Think about the WHOLE LIFE of the product
 * Preparations (e.g. deforestation by fire)
 * Collection (e.g. mining pollution, slave labour)
@@ -191,7 +198,7 @@ Solutions are usually:
 * Things companies are doing 
 
 
-### Some ideas for solutions
+### Some ideas for researching solutions
 * Labelling laws (dolphin safe tuna)
 * Fairtrade and similar programs
 * Any NGO working on the problem
@@ -206,7 +213,7 @@ Solutions are usually:
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
-###  Research Responses 
+### Some ideas for researching Responses 
 In your essay, you will write sentences like
 * "However, this solution is only partly effective, because..."
 * "In fact, this solution is working very welll - for example...
