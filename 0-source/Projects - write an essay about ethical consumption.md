@@ -67,20 +67,8 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 ** We will do it __slowly,__ step by step over WEEKS. No rush!
 
 # Project Homework 2 - choose a topic 
-* Don't worry! 
-* You are not researching the whole essay! 
-* Just do enough to decide - is your topic good or not?
-
-## Important - common mistake
-* Topic is problems caused for __other__ people/environment
-* Problems _for you_ are NOT the topic. 
-* You can just stop buying/eating it. 
-* Workers can't stop making/farming it
-* For example:
-** NO: "tobacco gives people cancer"   
-** YES: "tobacco farms use child labour" 
-** NO: "eating hamburgers makes me fat"  
-** YES: "meat production is a cause of global warming"
+* Just do a little research
+* Enough to decide - is your topic good or not?
 
 ### 1) Make a list of products  
 * things you used this week
@@ -118,14 +106,20 @@ Now, research __ just enough__ to check it is a good topic:
 * Read ANYTHING, even bad sources like Wikipedia
 * Notes in Japanese/your language are OK. 
 
-Is this a good topic or not?
-* Is it interesting 
-* Does it cause __three__ problems
+Ask yourself: 
+* Does buying it cause __three__ problems for other people or environment 
 ** e.g. pollution, child labour, conflict
 ** e.g. poverty, dangerous working conditions
+
+* Important: Problems for people who make, not people who buy
+** You can just stop buying/eating it. Workers can't stop making/farming it
+** "tobacco farms use child labour", not "tobacco gives people cancer" 
+** "meat production causes global warming", not "eating hamburgers makes me fat"  
+
 * Does it have  __three__ solutions
-** e.g. NGO, NPO, laws
-** e.g. reduce reuse recycle
+** e.g. NGO, NPO, making laws
+** e.g. reduce, reuse, recycle
+** e.g. stop buying, buy something else, 
 
 ### 6) Email Malc your idea to check
 You should be able to write:
@@ -135,7 +129,7 @@ You should be able to write:
 * "There are at least three solutions, for example 1, 2, and 3."
 
 For example
-> __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Ghana. __There are at least three solutions, for example__ child soldiers, death in mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
+> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Ghana. __There are at least three solutions, for example__ child soldiers, death in mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
 
 # Project Homework 3 - Research your product and problems
 Now, research your topic, problems, solutions in detail

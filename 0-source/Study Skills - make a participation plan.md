@@ -3,35 +3,25 @@ By the end of this page, you will know
 * What participation points are and how to get them
 * How to manage your own study outside of class
 
-# Task
-Please read the page, and do the homework at the bottom
-
 # What are participation points?
-* First, check what your syllabus says about participation
-* You get points mostly by doing extra work
-* You lose them mostly by missing work 
+* You WIN points mostly by doing extra work and trying new things
+* You LOSE points mostly by missing work/class 
 * There are many ways to score points 
-* YOU choose how to score the maximum 
-* ANY combination of Option 1, 2, and 3 OK
-* Remember you can also LOSE points 
-
+* YOU choose how to get participation points
+* Not everything is available online. Read <red>Online 2020 </red> notes
 
 # Option 1: Score "try it" points
-Try useful things around the university
-Maximum one point each!
-<red>If we are online after May 11, only "ALC" and "Office hour" are available in this section. See the note at the bottom.</red>
+* Try useful things around the university
+* Maximum one point each!
 
-What you do                     |How to do it                                   |How to prove it
---------------------------------|---------------                                |----------------
-English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  |VIP card(EF 印鑑) ///or EF sheet
-Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑) ///or WF sheet
-Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)               
-Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)               
-ALC NetAcademy (TOEIC practice) |[[Study Skills - use ALC NetAcademy]]          |Show me your score
-Official Exam (TOEIC or TOEFL)  |See PLAS announcements. ///Only December is free  |Show me your score
-Attend Malc's office hour       |[[Schedules - Malc's schedule]]                |Attend!
-BORROW a graded reader for home |Enter library. Turn right. ///(You can't borrow from SPACE).| Show me your book
-
+What you do                     |How to do it                                   |How to prove it 					|<red>Online 2020</red>
+--------------------------------|---------------                                |----------------					|-------------------------
+English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  |VIP card(EF 印鑑)///or EF sheet		|Probably OK ///I will confirm later
+Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑)///or WF sheet 	|Probably not OK ///I will confirm later
+Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|No
+Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|No
+Official Exam (TOEIC or TOEFL)  |See PLAS announcements. ///Only December is free  |Show/Email me your score 		|Maybe, but only December is free
+Attend Malc's office hour       |[[Schedules - Malc's schedule]]///Email for appointment |Attend! 					|Yes! By Zoom. ///Email for appointment
 
 __Some rules__
 * Don't attend a Global Village where that language is your first language!
@@ -40,7 +30,7 @@ __Some rules__
 
 
 # Option 2: WLC/SAC/University events 
-<red> IF we are online after May 11, none of these are available</red>
+<red> Online 2020 - none available online so far</red>
 * ALL WLC SAC events score a point. 
 ** To get a point, show me the event stamp 
 ** Event stamps are on the BACK of your EF sheet
@@ -55,22 +45,22 @@ __Some rules__
 ** I will tell you how you can prove you participated well
 
 # Option 3: Do extra quickwrites
-<red>If we are online after May 11, you can still do these. I will increase the maximum</red>
-* If you don't know what this is:
-** Don't worry!
-** I will explain how to [[Study Skills - do a quickwrite]] later
-** Maybe class 2, 3, or 4, depending. 
-* You only get points for doing MORE than the minimum
-** minimum = 25 NORMAL quickwrites for class
+<red>Online 2020: Your other options are limited I'll allow more quickwrite points</red>
+* Wait until I teach how to [[Study Skills - do a quickwrite]] in class
+* You get points for doing MORE than the minimum (25)
 ** 1 point for each 3 EXTRA quickwrites
 ** 5 points max for EXTRA quickwrites
 ** (5x3= 15 EXTRA quickwrite maximum)
-** (25 NORMAL + 15 EXTRA = maximum 40 TOTAL)
-* All quickwrites, minimum or extra, must be long enough
-* No extra points for other homework (SR, Vocab), just QW
+** Usually, 25 NORMAL + 15 EXTRA = maximum 40 TOTAL
+** <red> Spring 2020, 25 normal + 30 extra = maximum 55 total for 10 participation points. </red>
+* All quickwrites, minimum or extra, must be > minimum word count
+
+# Option 4: ALC Net Academy
+* See [[Study Skills - use ALC NetAcademy]]
+* Maximum 5 points
 
 # How to lose points
-<red> If we stay online after May 11, the only way to lose points is to submit homework late. If we use Zoom, I'll tell you the attendance rules for that later</red>
+<red> Online 2020: Lose a point if a) submit homework late or b) miss a Zoom class (but it's OK if you email me before deadline or during class if you have a problem)</red>
 * If you don't attend, you aren't participating 
 ** Being absent (-1 point)
 ** Being late (-0.5 points)
@@ -86,26 +76,10 @@ __Some rules__
 *** reading email etc not OK
 
 
-## To avoid this, try reading these:
-* [[Study Skills - manage time]]
+### To avoid forgetting homework or running out of time:
 * [[Study Skills - set goals]]
+* [[Study Skills - manage time]]
 * [[Study Skills - stay motivated]]
-
-
-
-# <red>IF WE ARE STILL LEARNING ONLINE AFTER MAY 11</red>
-Only three things are possible online, so if we are online after May 11, choose how to score your 10 participation points from here:
-* 1) [[Study Skills - use ALC NetAcademy]] 
-** 2 points for full size test
-** 1 point for half size test
-** max 5 points total
-** (send a screenshot of your test results)
-* 2) "Attend Malc's office hour" 
-** No schedule - just email for an appointment. Tell me if you want Zoom, Hangouts, or something else
-** Max 1 point (you can attend as much as you want, but you only get 1 point for trying it out the first time)
-* 3) [[Study Skills - do a quickwrite]]
-** No change to instructions, but
-** Max points now 10
 
 
 # Homework 

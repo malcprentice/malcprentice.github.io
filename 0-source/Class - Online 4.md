@@ -1,4 +1,4 @@
-# Aim of Class 4
+# Aim of Class 4 (Wed 22/Thur23)
 In this class, you will:
 * Continue regular vocab homework (V2)
 * Continue preparing for your first essay project
@@ -7,12 +7,18 @@ In this class, you will:
 ** learn to use a template or [[Study Skills - format written work]]
 ** learn to [[Style - use title case]]
 
-# Contents
-* Do homework __V2, QW1, and C4.__  
-* <red>Deadline for this work is Thursday 23</red>
-* Email  __C4__ ("Essay idea") to be present (出席) 
-* __Don't__ email/submit Vocab 2 (V2)
-* __Don't__ email/submit Quickwrite 1 (QW1). 
+# Zoom
+Zoom is not required for class 4 (April 22/23)
+However, I will be online during class period on April 22/23
+Link on PLAS if you have questions about class 4 
+Zoom will be required for class 5, Monday 27
+
+# Homework AFTER this class
+<red>Deadline for this work is Thursday 23</red>
+Do homework __V2, QW1, and C4.__  
+* 1) Complete but __don't email__ Vocab 2 (V2)
+* 2) Complete but __don't submit__ Quickwrite 1 (QW1)
+* 3) __Email C4__ ("Essay idea") to be present (出席) 
 
 # Homework V2
 * Continue your vocab homework (V2)
@@ -36,9 +42,8 @@ In this class, you will:
 ** I will check again later
 * "Submit" at the end of term:
 ** Minimum 25 quickwrites
-** Maximum 40
+** Maximum  - check your syllabus. 
 ** Deadline Class 29
-
 
 # Homework C4
 Go to [[Projects - write an essay about ethical consumption]]
