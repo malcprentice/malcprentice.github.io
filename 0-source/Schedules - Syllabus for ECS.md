@@ -47,38 +47,6 @@ Read this: [[Resources - grading system]]
 |Spring     |[[Projects - write an essay about ethical consumption]]            |5 paragraph problem-solution essay
 |Fall       |[[Projects - write an essay about endangered animals]]             |5 paragraph problem-solution essay
 
-#Weekly Schedule
-## Online period. Class 1-6. Until May 11. 
-We are online until May 11. 
-* That is 6 classes. 
-* We do not have scheduled classes 
-** (we do not meet online at a certain time)
-** Instead, just do the tasks below in your own time
-** I will post class instructions to Google Classroom, 2 classes per week:   
-
-
-* Online Class 1: [[Class - Online 1 - basics for online]]
-* Online Class 2: [[Class - Online 2 - understand the course]]
-* Online Class 3: [[Class - Online 3]]
-** start regular homework - Vocabulary (V1)
-** start essay project
-* Online Class 4: [[Class - Online 4]]
-** Continue Vocab (V2)
-** Start Quickwrites (QW1)
-** Continue Essay project (C4 - decide topic)
-* Online Class 5: Class - Online 5
-** Continue Vocab (V3), Quickwrites (QW2)
-** Start Speed Reading (SR1)
-** Continue Essay project decide topic
-* Online Class 6: To be confirmed
-** Continue Vocab (V4), Quickwrites (QW3), Speed Reading (SR2)
-** [[Study Skills - make a participation plan]]
-* Class 7: To be confirmed
-** Continue Vocab, Quickwrites, Speed Reading at your own speed
-* Class 8: To be confirmed
-** Continue Vocab, Quickwrites, Speed Reading at your own speed
-
-
-## On campus. Class 7-28. Starts May 11.
-* Class 7: On campus. See you in class!
-* I will explain the changes in class. 
+# Weekly Schedule
+* Moved to soka-u.jp Google Drive: https://docs.google.com/spreadsheets/d/1GvxuZuIIpew5_KbpVNlyfa5Rzb5vvSXFJR2juMyJnNI/edit?usp=sharing
+* I hope this is clearer, with dates, separated homework, etc

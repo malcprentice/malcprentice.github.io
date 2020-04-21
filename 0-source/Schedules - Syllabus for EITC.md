@@ -27,39 +27,8 @@ Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Sk
 
 
 #Weekly Schedule
-## Online period. Class 1-6. Until May 11. 
-We are online until May 11. 
-* That is 6 classes. 
-* We do not have scheduled classes 
-** (we do not meet online at a certain time)
-** Instead, just do the tasks below in your own time
-** I will post class instructions to Google Classroom, 2 classes per week:   
-
-
-* Online Class 1: [[Class - Online 1 - basics for online]]
-* Online Class 2: [[Class - Online 2 - understand the course]]
-* Online Class 3: [[Class - Online 3]]
-** start regular homework - vocab
-** start essay project
-* Online Class 4: [[Class - Online 4]]
-** Continue Vocab (V2)
-** Start Quickwrites (QW1)
-** Continue Essay project (C4 - decide topic)
-* Online Class 5: Class - Online 5
-** Continue Vocab (V3), Quickwrites (QW2)
-** Start Speed Reading (SR1)
-** Continue Essay project decide topic
-* Online Class 6: To be confirmed
-** Continue Vocab (V4), Quickwrites (QW3), Speed Reading (SR2)
-** [[Study Skills - make a participation plan]]
-* Class 7: To be confirmed
-** Continue Vocab, Quickwrites, Speed Reading at your own speed
-* Class 8: To be confirmed
-** Continue Vocab, Quickwrites, Speed Reading at your own speed
-
-## On campus. Class 7-28. Starts May 11.
-* Class 7: On campus. See you in class!
-* I will explain the changes in class. 
+* Moved to soka-u.jp GOogle Drive: https://docs.google.com/spreadsheets/d/1BoHB55TCboOwq4NSiE5unKyZWXZLBnyv3yzrHU4HDdQ/edit?usp=sharing
+* I hope this is clearer, with dates, separated homework, etc
 
 
 
