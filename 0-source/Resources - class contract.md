@@ -13,10 +13,13 @@ So please be aware:
 ** 2 x late = absent
 ** 30m late = absent 
 ** 7 times absent = FAIL (unless you have an official excuse, doctors note, etc)
-* Online classes
+* Online classes with no Zoom, just homework
 ** Present = do the homework
-** Absent = homework missing (not just late, missing)
-** If you have a technical problems for a timed session (Zoom, Hangouts) EMAIL IMMEDIATELY "My PC broke" is not an excuse if you only tell me 3 weeks later. 
+** Absent = homework missing or >1 week late
+* Online classes with Zoom
+** Present = In video class
+** Present = NOt in video class, but emailed DURING class to say you are having problem ("My PC broke" is not an excuse if you only tell me 3 weeks later)
+** ABsent = Not in video class, no email, no other good excuse (i.e. asleep!)
 
 # 2) I will read my syllabus.  
 * It's here: [[Index - Schedules]]
