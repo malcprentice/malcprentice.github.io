@@ -23,6 +23,7 @@ data.unhcr.org: http://data.unhcr.org/
 dictionary.cambridge.org: http://dictionary.cambridge.org/grammar/british-grammar/prefixes
 e-booksdirectory.com: http://e-booksdirectory.com/
 edition.cnn.com: http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/
+edition.cnn.com: http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/)
 eduscol.education.fr: http://eduscol.education.fr/cid47916/liste-des-mots-classee-par-frequence-decroissante.html
 elpais.com: http://elpais.com/elpais/inenglish.html
 en.wikinews.org: http://en.wikinews.org/wiki/Main_Page

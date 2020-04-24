@@ -28,9 +28,8 @@ So please be aware:
 * If you can't find the homework or don't understand, ask Malc. 
 
 # 3) I know that participation is a large part of my grade
-* Participation usually means "do extra work":
-* You will make a "participation plan" of extra work and follow it
-* You can also lose points
+* I will [[Study Skills - make a participation plan]] of extra work and follow it to get points
+* I will avoid losing points: 
 ** Absent  = -1 point (if you don't have a good reason)
 ** Late = -0.5 points (if you don't have a good reason)
 ** FOrget homework = -1 point
@@ -38,6 +37,7 @@ So please be aware:
 ** sleeping in class after a warning (
 ** using phones in class after a warning
 ** speaking too much Japanese in class after a warning
+
 
 # 4) If I need help, I will ask for it 
 * If we are learning online, email to arrange an online meeting. 

@@ -129,16 +129,15 @@ You should be able to write:
 * "There are at least three solutions, for example 1, 2, and 3."
 
 For example
-> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Ghana. __There are at least three solutions, for example__ child soldiers, death in mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
+> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Central Adrica. __There are at least three solutions, for example__ child soldiers, dangerous mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
 
 # Project Homework 3 - Research your product and problems
-Now, research your topic, problems, solutions in detail
+Now you have chosen a good topic, read more and add details. 
+Read at least three things, minimum. 
+This time, focus on DESCRIPTION and PROBLEMS, not solutions
+In class, we will learn how to [[Invention - find good sources]], but in summary:
 
-## Learn how to find good sources
-A very detailed look is here: [[Invention - find good sources]]
-
-However, the short version is: 
-* Focus on good sources
+* Choose good sources
 ** newspaper articles
 ** government reports
 ** NGO websites
@@ -147,52 +146,62 @@ However, the short version is:
 ** No Wikipedia, no Wikis, no pedias, including Encyclopaedias.
 ** No "question answering" sites (Quora, Yahoo, About.com)
 
-### Japanese OK?
-* Yes, using Japanese sources is OK
-* BUT take notes in English!
+Also:
+* Read at least 50% English sources
+** Reading 50% in your language is OK, 
+** But take 100% of your notes in English
+* Notes should be short 
+** Use keywords and short phrases
+** Don't write sentences yet. 
+* Do not plagiarise!
 ** Do not copy-paste English notes!
 ** Read, understand, and write your own notes
-** Write keywords, not sentences
-* In your essay, I want __50% English sources__
+** A very detailed look is here: [[Invention - recognise and avoid plagiarism]]
 
 
-## Homework 3A: Research "What is your product?"
-* Where does it come from?
-* Who makes it?
-* What is it used for?
-* How is it made?
-* How is it similar or different to something we know better?
+### Some ideas for researching "What is your product?"
+* What kind of thing is it? ("Definition")
+* What different kinds are there ("Partition")
+* How is it similar/different to something we know better? ("Comparison")
+* How is it made? ("Time Order")
+* What else do you know? ("Details"). For example:
+** Where does it come from?
+** Who makes it?
+** What is it used for?
 
-## Homework 3B: Research Problems (Cause-Effect)
-### Think about the WHOLE LIFE of the product
-* Preparations (e.g. deforestation by fire)
-* Collection (e.g. mining pollution, slave labour)
-* Production (e.g. suicide by workers, factory collapses)
-* Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/ )
-
-### Think about the effect on people
-* People producing/collecting/assembling/recycling the thing
-* People displaced from the land used
-* People living near the place it is made/recycled
-
-### Think about the effect on the environment
-* animals
-* plants
-* soil
-* air
-* water
+### Some ideas for researching Problems 
+* Think about the WHOLE LIFE of the product
+** Preparations (e.g. deforestation by fire)
+** Collection (e.g. mining pollution, slave labour)
+** Production (e.g. suicide by workers, factory collapses)
+** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/)
+* Think about the effect on people
+** People producing/collecting/assembling/recycling the thing
+** People living near where it is made/recycled
+* Think about the effect on the environment
+** animals
+** plants
+** soil
+** air
+** water
 
 
 # Project Homework 4 - Research your solutions and responses
-Find at least three solutions
-Choose solutions that are happening NOW, not in the past or future
+Read three MORE things (total 6 minimum)
+This time, focus on SOLUTIONS and RESPONSES
 Solutions are usually:
 * Things students can do
 * Things NGOs, governments, etc, are doing
 * Things companies are doing 
+* Things people are doing NOW, not things in past or future
 
 
-### Some ideas for researching solutions
+Solutions are not perfect. If they were, there would be no problems. 
+* Also research RESPONSES 
+* Are your solutions working well? How do you know?
+* Are your solutions not working well? How do you know?
+
+### Some ideas for researching SOLUTIONS
 * Labelling laws (dolphin safe tuna)
 * Fairtrade and similar programs
 * Any NGO working on the problem
@@ -207,30 +216,37 @@ Solutions are usually:
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
-### Some ideas for researching Responses 
+### Some ideas for researching RESPONSES 
 In your essay, you will write sentences like
 * "However, this solution is only partly effective, because..."
 * "In fact, this solution is working very welll - for example...
 
 Research which one you will use for each solution! 
-
-Do your solutions actually work? 
-If they were all perfect there wouldn't be a problem. 
-
-Probably:
+Many solutions are not perfect. For example:
 * They only work in one country
 * They only work 20%
 * They haven't been working very long
 * There are problems with corruption
-* They don't have enough money
-
-
-
-
-
-
+* They don't have enough money to continue or expand
 
 # Project Homework 5: Arrange your notes and plan your essay
+### For homework 2 you made an outline like this
+THen you gathered detail for it in homework 3 and 4
+* TOPIC (Tantalum)
+* DESCRIPTION of Tantalum (paragraph 1)
+** Definition ("Kind of metal used in electronic devices")
+** Detail ("Comes from Central Africa")
+* Three PROBLEMS
+** 1 (Child soldiers)
+** 2 (Dangerous mines)
+** 3 (Pollution)
+* Three SOLUTIONS
+** 1 (Fair Trade)
+** 2 (Recycling)
+** 3 (UNICEF's work)
+
+### This week, we will put all of your notes together
+We will make an essay plan outline
 * I will share the essay outline template
 * I will talk about Arrangement for essays
 * I will explain more in class about 
