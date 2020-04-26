@@ -7,9 +7,9 @@
 
 
 # Rules for Participation points
-* This is for when you [[Study Skills - make a participation plan]]
-* 2 points for  "フルサイズ模擬試験" (2 hrs)
-* 1 point for "ハーフサイズ模擬試験" (1hr) 
+* When you [[Study Skills - make a participation plan]]
+** 2 points for  "フルサイズ模擬試験" (2 hrs)
+** 1 point for "ハーフサイズ模擬試験" (1hr) 
 * Maximum 5 points
 * Date must be THIS TERM. 
 * Test time must be OK (フルサイズ in 30 minutes = cheating)

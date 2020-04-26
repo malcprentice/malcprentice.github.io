@@ -10,45 +10,31 @@ By the end of this project you will be able to:
 ** Format (フォーマット) it well
 ** Cite your sources (出典を引用します) in "APA style" (アメリカ心理学会論文作成)
 
-# Contents
-* This project will take WEEKS. 
-* Follow your syllabus for Homework 1, 2, 3, etc
-* Don't read ahead too far! I need to explain some things for each homework.
-
-If you have problems understanding, translate this page, then ask
-
-# Project Homework  1 - Introduction 
+# Project Unit 1 - Introduction 
 * You __do not have to submit anything__ for Homework 1. 
 * Just think, read, listen and __take notes__
 * Email me if you have questions. 
 
-## Homework 1A: think and understand
-### We buy/use a lot of different products every day
-* food every day
-* clothes every month
-* electronics (e.g. phone) every few years
-
-### However, this can be bad for:
-* the people/places where they are collected
-* the people/places where they are produced
-* the people/places where they are recycled
-
-### Think about these questions:
-Click the links _only if you do not understand the question_
-* You don't need to read the article - just enough to understand 
-* They are difficult, so translation is OK
-
-How often is the answer "I don't know"?
-* Were your clothes made by children? https://www.unicef.org/csr/garments.html
-* Was your phone made in a safe factory? https://en.wikipedia.org/wiki/Foxconn_suicides
-* Do the eggs you eat come from a happy chicken? https://www.google.com/search?client=safari&rls=en&q=free++range++chicken&ie=UTF-8&oe=UTF-8
-* Were your cosmetics tested on animals?  https://en.wikipedia.org/wiki/Testing_cosmetics_on_animals
-* Is there palm oil in your toothpaste? https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil
-* Will your phone be recycled properly?: https://www.smithsonianmag.com/science-nature/burning-truth-behind-e-waste-dump-africa-180957597/
+### 1A: Think and Understand
+* We buy/use a lot of different products every day
+** food every day
+** clothes every month
+** electronics (e.g. phone) every few years
+* However, this can be bad for:
+** the people/places where they are collected
+** the people/places where they are produced
+** the people/places where they are recycled
+* For example, how often is the answer "I don't know"?
+** Were your clothes made by children? https://www.unicef.org/csr/garments.html
+** Was your phone made in a safe factory? https://en.wikipedia.org/wiki/Foxconn_suicides
+** Do the eggs you eat come from a happy chicken? https://www.google.com/search?client=safari&rls=en&q=free++range++chicken&ie=UTF-8&oe=UTF-8
+** Were your cosmetics tested on animals?  https://en.wikipedia.org/wiki/Testing_cosmetics_on_animals
+** Is there palm oil in your toothpaste? https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil
+** Will your phone be recycled properly?: https://www.smithsonianmag.com/science-nature/burning-truth-behind-e-waste-dump-africa-180957597/
 
 
 
-## Homework 1B:  Watch this 11 min video
+### 1B:  Watch this 11 min video
 Take notes. 
 It's difficult, so if you don't understand:
 * Turn on English subtitles (字幕)
@@ -59,14 +45,16 @@ It's difficult, so if you don't understand:
 Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href = "https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone">https://www.ted.com/talks/bandi_mbubi_demand_a_fair_trade_cell_phone</a>
 </ref>
  
-## Homework 1C: Read the example essay 
+### 1C: Read the example essay 
 * Read this: [[Examples - example ethical consumption essay]]
 * We will write an essay like this 
 * Don't worry! 
 ** The essay was written by a student. You can do this too!
 ** We will do it __slowly,__ step by step over WEEKS. No rush!
 
-# Project Homework 2 - choose a topic 
+
+
+# Project Unit 2 - (Choose topic, HW only, deadline April 23)
 * Just do a little research
 * Enough to decide - is your topic good or not?
 
@@ -76,7 +64,7 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 * things you have at home
 * things you want to buy
 * things you use __at least once a month.__
-* things that comes from overseas, probably a third world country
+* things from overseas 
 * things you buy things in (packaging)
 
 ### 2) Make a list of things INSIDE the things on your list
@@ -99,84 +87,111 @@ Do not choose:
 ** not tantalum (the video)
 
 ### 5) Research your topic A LITTLE
-You will research more later. 
-Now, research __ just enough__ to check it is a good topic:
+For now, research __a little__ to check it is a good topic:
 * Google your topic
 * Research in Japanese/your language is OK. 
 * Read ANYTHING, even bad sources like Wikipedia
 * Notes in Japanese/your language are OK. 
 
 Ask yourself: 
-* Does buying it cause __three__ problems for other people or environment 
+* Does buying it cause __three__ problems?
 ** e.g. pollution, child labour, conflict
 ** e.g. poverty, dangerous working conditions
-
-* Important: Problems for people who make, not people who buy
-** You can just stop buying/eating it. Workers can't stop making/farming it
-** "tobacco farms use child labour", not "tobacco gives people cancer" 
-** "meat production causes global warming", not "eating hamburgers makes me fat"  
+* Please focus on problems
+** for the people who MAKE IT 
+** for the people who live where it is made
+** for the environment 
+** when it is recycled or thrown away
+* Please DO NOT focus on problems for people who buy it
+** Our problems are not the point. 
+** We can just stop buying it!
+** e.g. "tobacco farms use child labour", not "tobacco gives people cancer" 
+** e.g. "meat production causes global warming", not "eating hamburgers makes me fat"  
 
 * Does it have  __three__ solutions
 ** e.g. NGO, NPO, making laws
 ** e.g. reduce, reuse, recycle
 ** e.g. stop buying, buy something else, 
 
-### 6) Email Malc your idea to check
+### Homework by next class (Deadline April 23): 
+Email Malc your idea to check 
 You should be able to write:
 * "I chose TOPIC"
 * "TOPIC is ... It ..."
-* "There are at least three problems, for example 1, 2, and 3"
-* "There are at least three solutions, for example 1, 2, and 3."
+* "There are three main problems - 1, 2, and 3"
+* "There are three main solutions - 1, 2, and 3."
 
 For example
-> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Central Adrica. __There are at least three solutions, for example__ child soldiers, dangerous mines, and pollution. __There are at least three solutions, for example__ fair trade phones, recycling, and UNICEF's work in the Congo"
+> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Central Adrica. __There three main problems -__ child soldiers, dangerous mines, and pollution. __There are three main solutions__ - fair trade phones, recycling, and UNICEF's work in the Congo"
 
-# Project Homework 3 - Research your product and problems
-Now you have chosen a good topic, read more and add details. 
-Read at least three things, minimum. 
-This time, focus on DESCRIPTION and PROBLEMS, not solutions
-In class, we will learn how to [[Invention - find good sources]], but in summary:
+# Switch to Zoom! No project homework for April 27
+* Switching to Zoom, 
+* So from now all homework is for __following__ week, __after__ I explain it. 
+* I'll give both dates for a few weeks until it's clear. 
 
-* Choose good sources
-** newspaper articles
-** government reports
-** NGO websites
-* Avoid bad sources
-** No Dictionaries
-** No Wikipedia, no Wikis, no pedias, including Encyclopaedias.
-** No "question answering" sites (Quora, Yahoo, About.com)
+# Project Unit 3 (Class April 27, Homework due May 11)
+### Aim of class
+We will learn how to make a better outline
+* I will share the essay outline template
+* I will talk about Arrangement - planning your essay
+* I will talk about Invention - using sources in academic essays
 
-Also:
-* Read at least 50% English sources
-** Reading 50% in your language is OK, 
+### By now, you have a very short, simple outline
+You know the bold bits. I've put them in a OUTLINE format:
+
++ Introduction 
+++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
+++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
++ DESCRIPTION of topic (paragraph C)
+++ Definition __("Kind of metal used in electronic devices")__
+++ Detail __("Comes from Central Africa")__
++ Three PROBLEMS (paragraph A)
+++ 1 __(Child soldiers)__
+++ 2 __(Dangerous mines)__
+++ 3 __(Pollution)__
++ Three SOLUTIONS (Paragraph B)
+++ 1 __(Fair Trade)__
+++ 2 __(Recycling)__
+++ 3 __(UNICEF's work)__
++ Conclusion
+
+(Tip: Paragraph A is called paragraph A because it is easy, and we will write it first. If you get confused, just read and follow the example)
+
+
+## <red>Homework before next class</red> 
+* FIND "Template for Essay OUTLINE" on Google Classroom
+** Change the filename - your name in romaji
+** Change the name, date, title, etc inside. 
+* Read the rules and suggestions below
+* Research your topic
+** TYPE your notes in English 
+*** Keywords and short phrases. 
+*** Don't write sentences yet. 
+** TYPE them into "Template for Essay OUTLINE"
+** Click "SUBMIT" on Google Classroom when you are finished
+* Read 6-8 things - 3-4 English, 3-4 Japanese or your language
+** 50% in your language is OK, 
 ** But take 100% of your notes in English
-* Notes should be short 
-** Use keywords and short phrases
-** Don't write sentences yet. 
+
+### Rules for research 
+* Read anything you want, but only take notes from good sources!:
+** Good: newspapers, government report, NGO site
+** Bad: Dictionary,  Wikipedia, 
+** Bad: Question sites (e.g. About.com)
+** Advanced version: [[Invention - find good sources]]
 * Do not plagiarise!
 ** Do not copy-paste English notes!
 ** Read, understand, and write your own notes
-** A very detailed look is here: [[Invention - recognise and avoid plagiarism]]
+** Advanced version: [[Invention - recognise and avoid plagiarism]]
 
-
-### Some ideas for researching "What is your product?"
-* What kind of thing is it? ("Definition")
-* What different kinds are there ("Partition")
-* How is it similar/different to something we know better? ("Comparison")
-* How is it made? ("Time Order")
-* What else do you know? ("Details"). For example:
-** Where does it come from?
-** Who makes it?
-** What is it used for?
-
-### Some ideas for researching Problems 
+### Suggestions for researching "Problems" (paragraph A)
 * Think about the WHOLE LIFE of the product
-** Preparations (e.g. deforestation by fire)
+** Preparation (e.g. deforestation by fire)
 ** Collection (e.g. mining pollution, slave labour)
 ** Production (e.g. suicide by workers, factory collapses)
-** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/)
+** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/) 
 * Think about the effect on people
-** People producing/collecting/assembling/recycling the thing
+** People producing/collecting/assembling/recycling it
 ** People living near where it is made/recycled
 * Think about the effect on the environment
 ** animals
@@ -185,77 +200,167 @@ Also:
 ** air
 ** water
 
-
-# Project Homework 4 - Research your solutions and responses
-Read three MORE things (total 6 minimum)
-This time, focus on SOLUTIONS and RESPONSES
-Solutions are usually:
+### Suggestions for researching SOLUTIONS (paragraph B)
+* Things NGOs, governments can do
+** UN treaties (CITES)
+** International Laws (trade, customs)
+** Country Laws (import bans)
+** NGO for specific issue (Tantalum) or are (Congo)
+** NGO for general problem (UNICEF, MDF, MSF)
+* Things companies can do
+** Labels (FairTrade, Rainforest Alliance, Dolphin Safe)
+** Part of purchase goes to charity e.g. http://www.red.org/en/
+** Companies codes (e.g. Starbucks beans)
 * Things students can do
-* Things NGOs, governments, etc, are doing
-* Things companies are doing 
-* Things people are doing NOW, not things in past or future
-
-
-Solutions are not perfect. If they were, there would be no problems. 
-* Also research RESPONSES 
-* Are your solutions working well? How do you know?
-* Are your solutions not working well? How do you know?
-
-### Some ideas for researching SOLUTIONS
-* Labelling laws (dolphin safe tuna)
-* Fairtrade and similar programs
-* Any NGO working on the problem
-* Any NGO working on a related problem (poverty)
-* Reduce, Re-use, Recycle, or avoid completely
-* Part of purchase goes to charity e.g. http://www.red.org/en/
-* Making laws
-** International (UN) law
-** National (e.g. Japan) law
-** Companies voluntary codes
-* Activism
+** Reduce, Reuse Recycle, 
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
-### Some ideas for researching RESPONSES 
-In your essay, you will write sentences like
-* "However, this solution is only partly effective, because..."
-* "In fact, this solution is working very welll - for example...
+### Suggestions for researching RESPONSES (paragraph B)
+* Are your solutions working well? How do you know? Try to give a number
+** "cases of X decreased by 60% in 2018"
+** "number of X increased from 40% to 75% in 2019"
+** "250,000 students have received X since 2015"
+** "232 X  built so far"
+* Are your solutions not working well? How do you know?
+** "However, this solution is only partly effective, because..."
+** They only work in one country
+** They only work 20% of people
+** They haven't been working very long
+** There are problems with corruption
+** They don't have enough money to continue or expand
+** They sent 20000 shoes but most were  wrong size
+** They built schools, forgot to hire teachers
 
-Research which one you will use for each solution! 
-Many solutions are not perfect. For example:
-* They only work in one country
-* They only work 20%
-* They haven't been working very long
-* There are problems with corruption
-* They don't have enough money to continue or expand
+### Suggestions for researching "What is your topic?" (paragraph C)
+* What kind of thing is it? ("Definition")
+* How many kinds are there ("Partition")
+* Is it the same as something we know ("Comparison")
+* How is it made?  ("Time Order")
+* What is it's history? ("Time Order")
+* What else do you know? ("Details"). For example:
+** Where does it come from?
+** Who makes it?
+** What is it used for?
+** When was it discovered?
 
-# Project Homework 5: Arrange your notes and plan your essay
-### For homework 2 you made an outline like this
-THen you gathered detail for it in homework 3 and 4
-* TOPIC (Tantalum)
-* DESCRIPTION of Tantalum (paragraph 1)
-** Definition ("Kind of metal used in electronic devices")
-** Detail ("Comes from Central Africa")
-* Three PROBLEMS
-** 1 (Child soldiers)
-** 2 (Dangerous mines)
-** 3 (Pollution)
-* Three SOLUTIONS
-** 1 (Fair Trade)
-** 2 (Recycling)
-** 3 (UNICEF's work)
+# Project Unit 4 (Class May 11, Homework due May 18)
+### In class
+* Check homework was submitted (outline draft 1)
+* Answer questions about your research
+* Share your research with other students
 
-### This week, we will put all of your notes together
-We will make an essay plan outline
-* I will share the essay outline template
-* I will talk about Arrangement for essays
-* I will explain more in class about 
-** Arrangement - planning your essay
-** Invention - using sources in academic essays
+### For homework by next class
+* Malc will comment on your research outline draft 1
+* Feedback should be ready by Friday evening
+* Read the feedback on outline draft 1. 
+* Start fixing any outline problems, or ask Malc
 
-# Project Homework 6: Start writing
+
+# Project Unit 5 (Class May 18, Homework due May 25)
+### In class
+* Check questions about outline draft 1 feedback
+* Learn about writing paragraph A
+** I will share the template for writing
+** I will explain about Style
+** I will review Presentation
+
+### For homework by next class
+* Finish and submit outline (draft 2).<red>This will be graded (10%)</red>
 * Find "Template for Essay" on Google Classroom
-* I will explain more in class about 
-** Style - writing food sentences
-** Presentation - formatting Templates. 
-* DO NOT WRITE ALL FIVE PARAGRAPHS NOW. This is our first essay, we will do it slowly, step by step. 
+* Change your name, title, etc
+* Write paragraph A ("Problems")
+** 12 sentences minimum, 15 maximum
+** DO NOT WRITE ALL FIVE PARAGRAPHS NOW. JUST PARAGRAPH A
+** Click "SUBMIT" on Google Classroom when you are done
+** You will not be able to change it until I give feedback. 
+ 
+
+# Project Unit 6 (Class May 25, Homework due June 1)
+### In class
+* Check everyone submitted outline draft 2
+* Check everyone submitted A
+* Learn other Writing and Study skills (we start B next week)
+
+### For homework by next class
+* Read the feedback I sent on A. Feedback should be ready by Friday evening
+
+# Project Unit 7 (June 1)
+### In class
+* Ask questions about the feedback on A
+* Learn how to write B
+
+### For homework by next class
+* Fix A 
+* Write B
+* Submit your essay again, including 
+** A2: A draft 2 - <red>will be graded (10%)</red>
+** B1: B draft 1 - will get feedback
+
+# Project Unit 8 (June 8)
+### In class
+* Check everyone sent A+B
+* Learn other Writing and Study skills (we start C next week)
+
+### For homework by next class
+* Read and understand your grade for A. Avoid making the same mistakes on B
+* Read the feedback I sent on B. Feedback should be ready by Friday evening
+
+# Project Unit 9  (June 15)
+### In class
+* Ask questions about the grade on A
+* Ask questions about the feedback on B
+* Learn how to write C
+
+### For homework by next class
+* Fix B
+* Add C
+* Submit your essay again, including 
+** A (finished)
+** B2: B draft 2 - <red>will be graded (10%)</red>
+** C1: C draft 1 - will get feedback
+
+# Project Unit 10 (June 22)
+### In class
+* Check everyone submitted essay again
+* Learn other Writing and Study skills (we start Intro/Conclusion next week)
+
+### For homework by next class
+* Read and understand your grade for B. Avoid making the same mistakes on C
+* Read the feedback I sent on C. Feedback should be ready by Friday evening
+
+# Project Unit 11 (June 29)
+### In class
+* Ask questions about the grade on B
+* Ask questions about the feedback on C
+* Learn how to write Intro/Conclusion
+
+### For homework by next class
+* Submit your essay again, including 
+** A (finished)
+** B (finished)
+** C2: C draft 2 - <red>will be graded (10%)</red>
+** Intro and Conclusion, Draft 1 (will get feedback)
+
+# Project Unit 12 (July 6)
+### In class
+* Check everyone sent essay again
+* Learn other Writing and Study skills 
+
+### For homework by next class
+* Read and understand your grade for C. Avoid making the same mistakes in future
+* Read the feedback I sent on Intro/Conclusion
+* Feedback should be ready by Friday evening
+
+# Project Unit 13 (July 13)
+### In class
+* Ask questions about the grade on C
+* Ask questions about the feedback on Intro/Conclusion
+* Learn other Writing and Study skills 
+
+### For homework by deadline
+* Submit FULL essay  (Intro-C-A-B-Conclusion)
+* Intro and Conclusion <red>will be graded (10%)</red>
+
+# Final deadline for full essay is July 20
+

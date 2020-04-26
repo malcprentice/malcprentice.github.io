@@ -16,7 +16,7 @@ This course follows the [[Schedules - Curriculum for General Academic Skills]], 
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
 Project A (Essay)           |20%    |Given in class (10% for prep, 10% final)
-Project B                   |20%    |Given in class (10% for prep, 10% final)
+Project B (Presentation)    |20%    |Given in class (10% for prep, 10% final)
 Project C                   |20%    |Given in class (10% for prep, 10% final)
 Participation               |10%    |[[Study Skills - make a participation plan]] 
 Mini presentations          |10%    |Given in class///Number depends on class size///Might change if we stay online

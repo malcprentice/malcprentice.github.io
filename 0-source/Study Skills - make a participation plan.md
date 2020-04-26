@@ -45,7 +45,6 @@ __Some rules__
 ** I will tell you how you can prove you participated well
 
 # Option 3: Do extra quickwrites
-<red>Online 2020: Your other options are limited I'll allow more quickwrite points</red>
 * Wait until I teach how to [[Study Skills - do a quickwrite]] in class
 * You get points for doing MORE than the minimum (25)
 ** 1 point for each 3 EXTRA quickwrites
@@ -85,10 +84,10 @@ __Some rules__
 # Homework 
 * Read everything above
 * Make a plan that gets you 10 points
-** e.g. "I will do 15 extra quickwrites (5 points), plus EF, WC, GV, Office, and ALC (5 points)"
+** e.g. "I will do 15 extra quickwrites (5 points), two full ALC tests (4 points) and two half ALC tests (1 point)"
 ** e.g. "We are online, so I just plan to do 30 extra quickwrites"
 ** e.g. "We are online, so I will use ALC (2 full tests, 1 half tests = 5 points), one Office hour (1 point), and 12 extra QW (4 points). 
-* If you lose a point, change your plan e.g. "I submitted my essay late and lost a point, so I will now need to do 15 quickwrites instead of 12"
+* If you lose a point, change your plan e.g. "I lost a point, so I will now need to do 15 quickwrites instead of 12"
 * If you change your mind, change your plan e.g. "I hate ALC - I'm going to do more EF instead"
 * Be ready to show me your plan when I ask
 
