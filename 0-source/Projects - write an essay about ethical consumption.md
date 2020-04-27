@@ -131,17 +131,16 @@ For example
 
 # Project Unit 3 (Class April 27, Homework due May 11)
 ### Aim of class
-We will learn how to make a better outline
-* I will share the essay outline template
-* I will talk about Arrangement - planning your essay
-* I will talk about Invention - using sources in academic essays
+We will improve out outline
+* Outline templates
+* Arrangement - planning your essay
 
 ### Homework
 Look at the outline. You have done the __BOLD BITS__ already. 
 * Read the rules and suggestions below
 * Read SIX MORE THINGS before the next WRITING class (Monday May 11)
 * Research Four things - __Description, Problems, Solutions, Responses to Solutions__
-* Add <red>details</red> to your outline
+* Add <red>detail</red> to your outline
 * TYPE your notes. Use outline format. 
 ** Keywords and short phrases. 
 ** Don't write sentences yet. 
@@ -166,30 +165,30 @@ Look at the outline. You have done the __BOLD BITS__ already.
 ++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
 + DESCRIPTION of topic (paragraph D)
 ++ Definition __("Kind of metal used in electronic devices")__
-++ Detail __("Comes from Central Africa")__
-++ <red>details</red>
-++ <red>details</red>
+++ Time order <red>detail</red> (how is it made?)
+++ Other detail __("Comes from Central Africa")__
+++ Other<red>detail</red>
 + Three PROBLEMS (paragraph P)
 ++ 1 __(Child soldiers)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 ++ 2 __(Dangerous mines)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 ++ 3 __(Pollution)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 
 + Three SOLUTIONS (Paragraph S)
 ++ 1 __(Fair Trade)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 ++ 2 __(Recycling)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 ++ 3 __(UNICEF's work)__
-+++ <red>details</red>
-+++ <red>details</red>
++++ <red>detail</red>
++++ <red>detail</red>
 + Conclusion ()
 
  
@@ -260,6 +259,8 @@ Look at the outline. You have done the __BOLD BITS__ already.
 * Check homework was submitted (outline draft 1)
 * Answer questions about your research
 * Share your research with other students
+* I will talk about Invention - using sources in academic essays
+
 
 ### For homework by next class
 * Malc will comment on your research outline draft 1
