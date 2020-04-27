@@ -148,7 +148,7 @@ Look at the outline.
 ++ Definition __("Kind of metal used in electronic devices")__
 ++ Time order <red>detail</red> (how is it made?)
 ++ Other detail __("Comes from Central Africa")__
-++ Other<red>detail</red>
+++ Other <red>detail</red>
 + Three PROBLEMS (paragraph P)
 ++ 1 __(Child soldiers)__
 +++ <red>detail</red>
@@ -263,7 +263,7 @@ Look at the outline.
 * Check homework was submitted (outline draft 1)
 * Answer questions about your research
 * Share your research with other students
-* I will talk about Invention - using sources in academic essays
+* Invention - using sources in academic essays
 
 
 ### For homework by next class
