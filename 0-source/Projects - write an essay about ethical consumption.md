@@ -135,28 +135,9 @@ We will improve out outline
 * Outline templates
 * Arrangement - planning your essay
 
-### Homework
-Look at the outline. You have done the __BOLD BITS__ already. 
-* Read the rules and suggestions below
-* Read SIX MORE THINGS before the next WRITING class (Monday May 11)
-* Research Four things - __Description, Problems, Solutions, Responses to Solutions__
-* Add <red>detail</red> to your outline
-* TYPE your notes. Use outline format. 
-** Keywords and short phrases. 
-** Don't write sentences yet. 
-* Read 6-8 things - 3-4 English, 3-4 Japanese or your language
-** Reading 50% in your language is OK, 
-** Take 100% of your notes in English
-* Advanced groups only - click "SUBMIT" on Malc's Google Classroom outline when you are finished
-* USe good sources
-** Take notes on newspapers, government report, NGO site
-** Don't use Dictionary,  Wikipedia, Question sites (e.g. About.com)
-** For more, read this: [[Invention - find good sources]]
-* Do not plagiarise!
-** Do not copy-paste English notes!
-** Read, understand, and write your own notes
-** Advanced version: [[Invention - recognise and avoid plagiarism]]
-
+Look at the outline. 
+* You have done the __BOLD BITS__ already. 
+* Homework is to add new <red>details</red> 
 
 
 
@@ -178,7 +159,6 @@ Look at the outline. You have done the __BOLD BITS__ already.
 ++ 3 __(Pollution)__
 +++ <red>detail</red>
 +++ <red>detail</red>
-
 + Three SOLUTIONS (Paragraph S)
 ++ 1 __(Fair Trade)__
 +++ <red>detail</red>
@@ -189,11 +169,45 @@ Look at the outline. You have done the __BOLD BITS__ already.
 ++ 3 __(UNICEF's work)__
 +++ <red>detail</red>
 +++ <red>detail</red>
-+ Conclusion ()
-
- 
++ Conclusion (Paragraph C)
 
 
+### Homework
+* Find the template assignment on Google Classroom
+* Read the suggestions below (and read the example essay again if it is confusing)
+* Read 6-8 things - 3-4 English, 3-4 your language
+* Take notes only in English
+* Research three paragraphs: 
+** Description (What is your topic, how is it made)
+** Problems (more detail on your chosen problems)
+** Solutions (summmaries of your 3 chosen solutions + if they  work well or not)
+** Not necessary to research Introduction or Conclusion
+* TYPE your new <red>details</red> into the red bits of the outline I sent
+** Keywords and short phrases! 
+** Don't write sentences yet!
+* Deadline is next WRITING class (May 11), not next class
+* Use good sources
+** Take notes on newspapers, government report, NGO site
+** Don't use Dictionary,  Wikipedia, Question sites (e.g. About.com)
+** For more, read this: [[Invention - find good sources]]
+* Do not plagiarise!
+** Do not copy-paste English notes!
+** Read, understand, and write your own notes
+** Advanced version: [[Invention - recognise and avoid plagiarism]]
+
+
+
+### Suggestions for researching "What is your topic?" (paragraph D)
+* What kind of thing is it? ("Definition")
+* How many kinds are there ("Partition")
+* Is it the same as something we know ("Comparison")
+* How is it made?  ("Time Order")
+* What is it's history? ("Time Order")
+* What else do you know? ("Details"). For example:
+** Where does it come from?
+** Who makes it?
+** What is it used for?
+** When was it discovered?
 
 ### Suggestions for researching "Problems" (paragraph P)
 ** Preparation (e.g. deforestation by fire)
@@ -242,17 +256,7 @@ Look at the outline. You have done the __BOLD BITS__ already.
 ** They sent 20000 shoes but most were  wrong size
 ** They built schools, forgot to hire teachers
 
-### Suggestions for researching "What is your topic?" (paragraph D)
-* What kind of thing is it? ("Definition")
-* How many kinds are there ("Partition")
-* Is it the same as something we know ("Comparison")
-* How is it made?  ("Time Order")
-* What is it's history? ("Time Order")
-* What else do you know? ("Details"). For example:
-** Where does it come from?
-** Who makes it?
-** What is it used for?
-** When was it discovered?
+
 
 # Project Unit 4 (Class May 11, Homework due May 18)
 ### In class
