@@ -139,8 +139,6 @@ Look at the outline.
 * You have done the __BOLD BITS__ already. 
 * Homework is to add new <red>details</red> 
 
-
-
 + Introduction (Paragraph I)
 ++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
 ++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
