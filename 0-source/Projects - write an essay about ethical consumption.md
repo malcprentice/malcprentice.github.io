@@ -136,62 +136,73 @@ We will learn how to make a better outline
 * I will talk about Arrangement - planning your essay
 * I will talk about Invention - using sources in academic essays
 
-### By now, you have a very short, simple outline
-You know the bold bits. I've put them in a OUTLINE format:
-
-+ Introduction 
-++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
-++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
-+ DESCRIPTION of topic (paragraph C)
-++ Definition __("Kind of metal used in electronic devices")__
-++ Detail __("Comes from Central Africa")__
-+ Three PROBLEMS (paragraph A)
-++ 1 __(Child soldiers)__
-++ 2 __(Dangerous mines)__
-++ 3 __(Pollution)__
-+ Three SOLUTIONS (Paragraph B)
-++ 1 __(Fair Trade)__
-++ 2 __(Recycling)__
-++ 3 __(UNICEF's work)__
-+ Conclusion
-
-(Tip: Paragraph A is called paragraph A because it is easy, and we will write it first. If you get confused, just read and follow the example)
-
-
-## <red>Homework before next class</red> 
-* FIND "Template for Essay OUTLINE" on Google Classroom
-** Change the filename - your name in romaji
-** Change the name, date, title, etc inside. 
+### Homework
+Look at the outline. You have done the __BOLD BITS__ already. 
 * Read the rules and suggestions below
-* Research your topic
-** TYPE your notes in English 
-*** Keywords and short phrases. 
-*** Don't write sentences yet. 
-** TYPE them into "Template for Essay OUTLINE"
-** Click "SUBMIT" on Google Classroom when you are finished
+* Read SIX MORE THINGS before the next WRITING class (Monday May 11)
+* Research Four things - __Description, Problems, Solutions, Responses to Solutions__
+* Add <red>details</red> to your outline
+* TYPE your notes. Use outline format. 
+** Keywords and short phrases. 
+** Don't write sentences yet. 
 * Read 6-8 things - 3-4 English, 3-4 Japanese or your language
-** 50% in your language is OK, 
-** But take 100% of your notes in English
-
-### Rules for research 
-* Read anything you want, but only take notes from good sources!:
-** Good: newspapers, government report, NGO site
-** Bad: Dictionary,  Wikipedia, 
-** Bad: Question sites (e.g. About.com)
-** Advanced version: [[Invention - find good sources]]
+** Reading 50% in your language is OK, 
+** Take 100% of your notes in English
+* Advanced groups only - click "SUBMIT" on Malc's Google Classroom outline when you are finished
+* USe good sources
+** Take notes on newspapers, government report, NGO site
+** Don't use Dictionary,  Wikipedia, Question sites (e.g. About.com)
+** For more, read this: [[Invention - find good sources]]
 * Do not plagiarise!
 ** Do not copy-paste English notes!
 ** Read, understand, and write your own notes
 ** Advanced version: [[Invention - recognise and avoid plagiarism]]
 
-### Suggestions for researching "Problems" (paragraph A)
-* Think about the WHOLE LIFE of the product
+
+
+
++ Introduction (Paragraph I)
+++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
+++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
++ DESCRIPTION of topic (paragraph D)
+++ Definition __("Kind of metal used in electronic devices")__
+++ Detail __("Comes from Central Africa")__
+++ <red>details</red>
+++ <red>details</red>
++ Three PROBLEMS (paragraph P)
+++ 1 __(Child soldiers)__
++++ <red>details</red>
++++ <red>details</red>
+++ 2 __(Dangerous mines)__
++++ <red>details</red>
++++ <red>details</red>
+++ 3 __(Pollution)__
++++ <red>details</red>
++++ <red>details</red>
+
++ Three SOLUTIONS (Paragraph S)
+++ 1 __(Fair Trade)__
++++ <red>details</red>
++++ <red>details</red>
+++ 2 __(Recycling)__
++++ <red>details</red>
++++ <red>details</red>
+++ 3 __(UNICEF's work)__
++++ <red>details</red>
++++ <red>details</red>
++ Conclusion ()
+
+ 
+
+
+
+### Suggestions for researching "Problems" (paragraph P)
 ** Preparation (e.g. deforestation by fire)
 ** Collection (e.g. mining pollution, slave labour)
 ** Production (e.g. suicide by workers, factory collapses)
 ** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/) 
 * Think about the effect on people
-** People producing/collecting/assembling/recycling it
+** People producing/collecting/assemblingrt/recycling it
 ** People living near where it is made/recycled
 * Think about the effect on the environment
 ** animals
@@ -200,7 +211,7 @@ You know the bold bits. I've put them in a OUTLINE format:
 ** air
 ** water
 
-### Suggestions for researching SOLUTIONS (paragraph B)
+### Suggestions for researching SOLUTIONS (paragraph S part 1)
 * Things NGOs, governments can do
 ** UN treaties (CITES)
 ** International Laws (trade, customs)
@@ -216,7 +227,7 @@ You know the bold bits. I've put them in a OUTLINE format:
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
-### Suggestions for researching RESPONSES (paragraph B)
+### Suggestions for researching RESPONSES (paragraph S part 2)
 * Are your solutions working well? How do you know? Try to give a number
 ** "cases of X decreased by 60% in 2018"
 ** "number of X increased from 40% to 75% in 2019"
@@ -232,7 +243,7 @@ You know the bold bits. I've put them in a OUTLINE format:
 ** They sent 20000 shoes but most were  wrong size
 ** They built schools, forgot to hire teachers
 
-### Suggestions for researching "What is your topic?" (paragraph C)
+### Suggestions for researching "What is your topic?" (paragraph D)
 * What kind of thing is it? ("Definition")
 * How many kinds are there ("Partition")
 * Is it the same as something we know ("Comparison")
