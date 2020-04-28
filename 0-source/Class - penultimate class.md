@@ -1,8 +1,8 @@
 # What you need to prepare for the penultimate (second-to-last) class:
 * All your homework should be done by this class, except anything due on the last class
 * Catch up on any missing work
-* Print anything that needs printed
-* Check you have any Independent Learning sheets or proof you need (EF/GV/ALC/TOEIC/etc)
+* Print/Screenshot anything that needs printed
+* Check you have any proof you need (ALC/TOEIC/EF/GV/etc)
 
 # What we will do in class:
 * Check for any missing work

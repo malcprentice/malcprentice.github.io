@@ -1,16 +1,16 @@
+
 # Aim
-The aim of an "RR" outline is"
-* Finding a good source to read/listen to
-* Reading or listening to something challengin
-* Taking notes
-* Presenting in pairs, groups, or to the class
-* Discussing
-** Writing good discussion questions
-** Leading a discussion
-** Participating in a discussion
-* APA references
-* Summarising
-* Formatting office documents
+The aim of an "RR" outline is
+* Find a good source to read/listen to
+* Read or listen to something
+* Tak notes
+* Present in pairs, groups, or to the class
+* Discuss
+** Write good discussion questions
+** Lead a discussion
+** Participate in a discussion
+* References
+* Summarise
 
 
 

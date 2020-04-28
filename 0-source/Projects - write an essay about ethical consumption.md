@@ -52,7 +52,8 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 ** The essay was written by a student. You can do this too!
 ** We will do it __slowly,__ step by step over WEEKS. No rush!
 
-
+### Optional: Watch this TED Talk, it has the same Arrangement as this essay
+* https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
 
 # Project Unit 2 - (Choose topic, HW only, deadline April 23)
 * Just do a little research

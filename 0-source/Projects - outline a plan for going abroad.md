@@ -1,5 +1,3 @@
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/roiy/4985341085/in/photolist-8AxbdD-55rwho-98kfB2-85NULc-rgRnVC-qZu9E4-88Qumz-oQqFUJ-oSbGEx-e7Pm68-dsUhUG-6i3kvN-5mRPYM-e7ofW7-dddsZV-5ngh3w-dkDXmg-oSbEUi-oSbGSr-oSsw8n-ozYs56-oSqACW-otnht6-dAe4HW-5tfeDd-ddWcye-9qLatF-ajTXZd-6hYcwD-fQhCxp-6yegmF-7jEKtj-btSZak-tfiyxX-rJevd5-xszBoW-85SagC-5akr6H-8iZd3e-8h1w19-e2Ygzt-m8qXYC-e49gFo-aoiYsk-5jhfU6-dmdU1q-b7ntgR-77Yhc3-87ERnN-omLxG" title="AmapOfTheWorld"><img src="https://farm5.staticflickr.com/4108/4985341085_0f328f4b95_m.jpg" width="240" height="132" alt="AmapOfTheWorld"></a>
-
 # Aim
 In this report, we want to practice:
 * Combining sources into one outline

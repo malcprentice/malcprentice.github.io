@@ -26,6 +26,8 @@ http://www.alba-english.org/Class - Online 4.html
 http://www.alba-english.org/Class - Online 5.html
 http://www.alba-english.org/Class - basics 1.html
 http://www.alba-english.org/Class - basics 2.html
+http://www.alba-english.org/Class - last class.html
+http://www.alba-english.org/Class - penultimate class.html
 http://www.alba-english.org/Examples - TOEFL Independent essay.html
 http://www.alba-english.org/Examples - TOEFL Integrated essay.html
 http://www.alba-english.org/Examples - example argumentative essay.html
@@ -132,7 +134,6 @@ http://www.alba-english.org/Study Skills - follow a writing process.html
 http://www.alba-english.org/Study Skills - format written work.html
 http://www.alba-english.org/Study Skills - give a poster presentation.html
 http://www.alba-english.org/Study Skills - guess word meanings.html
-http://www.alba-english.org/Study Skills - last class.html
 http://www.alba-english.org/Study Skills - learn vocabulary.html
 http://www.alba-english.org/Study Skills - make a holiday study plan.html
 http://www.alba-english.org/Study Skills - make a participation plan.html
@@ -140,10 +141,10 @@ http://www.alba-english.org/Study Skills - make a poster.html
 http://www.alba-english.org/Study Skills - make a powerpoint slideshow.html
 http://www.alba-english.org/Study Skills - make small talk.html
 http://www.alba-english.org/Study Skills - manage time.html
-http://www.alba-english.org/Study Skills - penultimate class.html
 http://www.alba-english.org/Study Skills - present.html
 http://www.alba-english.org/Study Skills - set goals.html
 http://www.alba-english.org/Study Skills - stay motivated.html
+http://www.alba-english.org/Study Skills - take notes on lectures.html
 http://www.alba-english.org/Study Skills - use ALC NetAcademy.html
 http://www.alba-english.org/Study Skills - use Google Drive.html
 http://www.alba-english.org/Study Skills - use Microsoft Office.html

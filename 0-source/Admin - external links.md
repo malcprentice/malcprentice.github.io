@@ -456,6 +456,7 @@ solveyourtech.com: https://www.solveyourtech.com/how-to-turn-off-google-drive-em
 standard.co.uk: https://www.standard.co.uk/go/london/attractions/indoor-ski-slope-opens-in-chelsea-a3140331.html
 surveymonkey.com: https://www.surveymonkey.com/mp/sample-size-calculator/
 ted.com: https://www.ted.com/talks
+ted.com: https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
 ted.com: https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
 ted.com: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en
 ted.com: https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en
