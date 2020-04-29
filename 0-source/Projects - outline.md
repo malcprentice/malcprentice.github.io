@@ -1,5 +1,5 @@
 # Aim
-The aim of an "RR" outline is
+The aim of outline practice is:
 * Find something to listen to
 * Find something to read
 * Take notes on both
@@ -11,140 +11,100 @@ The aim of an "RR" outline is
 * Learn to use APA References
 * Learn to summarise
 
-# 1) Find the template
-* "Template for Outline (RR) SLIDES"
-* Read the notes
 
-# 2) Get ready
+# Step 1 - listen, read and take notes
+## 1) Visit the TED website https://www.ted.com/talks
+* Select the option for a short talk (no more than 12 mins)
+* Select a topic (e.g. Technology, Education)
+* Look for an interesting title
+* Don't choose these ones - I use them in some classes
+** Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
+** Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
+** Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
+** Dan Ariely (Behavioural Economist - some bits from his book "Predictably Irrational" - cheating and identity, the importance of check intuitions): https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en (some more bits here: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en )
+** Angel Chang on sneakers (talk has same Arrangement as Ethical Consumption essay): https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
+** Hans Rosling on global population: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
+
+
+## 2) When you have chosen a talk
+* Listen to the first minute. 
+* Listen to 20 seconds, English only.
+* Too difficult?
+** Try English subtitles or transcript
+** Try Japanese subtitles or transcript
+** But do try later ONE more time in English 
+
+
+## 3) Google the topic covered in the talk. Find one thing to READ
+Anything OK! 
+* A news article
+* A website
+* Song lyrics
+* Something that agrees or disagrees - both OK
+* It doesn't have to be an exact match to the topic
+
+## 4) Watch the talk, read the article. Take notes on both
+* First just take rough notes any way you want. 
+* In step 2, later, I will tell you how to organise your notes
+
+
+# Step 2: Get your Presentation ready
+## 1) Find the template
+* I will share "Template for Outline" on Google Classroom later
+* Read the notes! 
+* Read the rubric 
 * Rename the file
 ** "Hiroko Sato - SSB - RR1"
 ** "Hiroki Sato - ECS - RR2"
 ** "Hiroki Sato - GCP - RR3"
 * Change the Title, information
 
-# 3) Find something to read or listen to.
-## General Instructions
-* Follow the syllabus - I might requires one or more thigns to read/lisetn to.
-* Take rough notes
-* Focus on important Names/Numbers/Dates/Facts/Reasons/Examples
-* CHeck your syllabus for the target
-* A good article is something INTERESTING your partner MIGHT NOT KNOW
-** not "Tokyo Sky Tree Opens" (everyone knows the story already)
-** not "Daisuke Matsui transfers to Slavia Sofia" (not everyone likes football)
-* Most students say they take 50-60 minutes to do this report.
 
+## 2) Type up your notes in correct format
+* Use the template to get proper formatting
+** No lonely bullet points!
+** No strange font sizes or colours. Formatting has meaning!
+** No sentences except for summary - notes are keywords
+* No copy pasting! [[Invention - recognise and avoid plagiarism]]
 
-## 1) For a news article:
-Visit [[Resources - websites for English news articles]]
-* Choose a site.
-* Choose an interesting section on the site
-** The front page is often boring: Tech/Business might be more interesting, depending on your major
-* Choose an article.
-** The "Simplified" category should not be used by some classes. Check your syllabus!
-** Internet news (e.g. Yahoo) is often shorter and easier
-** News indexes (Google, Reuters) are good for finding a topic
-* Read critically
-** Many newspapers are politically biased.
-** Some are tightly controlled by different governments or groups.
-** Try to read more than one source/side before you believe anything you read.
-* APA reference for News Website is here: http://alba-english.org/Invention%20-%20use%20APA%20format%20for%20reference%20lists.html# Newspaper
-
+## 3) Write a summary sentence for the reading
+* One sentence only
+* See [[Style - write a summary sentence]]
  
+## 4) Write a summary sentence for the reading
+* One sentence only
+* See [[Style - write a summary sentence]]
 
-## For a lecture
-See [[Projects - outline a lecture]]
+### Link it properly! Some options:
+|However, 		|Suzuki (2018, February 1) 	|says that
+|In fact, 		|Suzuki (2018, February 1) 	|notes that
+|Additionally, 	|Suzuki (2018, Febrary 1) 	|points out that
+|For example, 	|Suzuki (2018, February 1) 	|describes
 
-## For an easy book
-### 1) Get a book
-* Non-fiction is best for RR outline. Fiction is OK for logs.
-* You can borrow books from the library(1F, far right wall).
-* You can read books in Space, but not borrow them.
-* If you are not on campus, try ER Central: http://www.er-central.com/
-* Read the first page. It should be easy
-** you should know 98% of the words without a dictionary
-** if you don't, go down a level.
-
-### 2) Read it
-* You only need to read for 30 minutes.
-* You can do your RR even if you haven't finished the book.
-* Do try to finish the book later though
-
-### 3) Doing an RR outline? Follow the general instructions
-* Instructions are here: [[Projects - outline]]
-* APA reference for the References section is here: http://alba-english.org/Invention%20-%20use%20APA%20format%20in%20reference%20lists.html# Graded Readers
-* APA for your Summary is here: [[Invention - use APA format in the text]]
-
-### Finished your RR outline? Remember!
-* Reading improves your English, including TOEIC score: http://jalt-publications.org/archive/proceedings/2009/E035.pd
-* Check your syllabus for details - you might be able to get extra points for more reading
+|Link 				|SOURCE TYPE 			|source  					|citation word+  reading summary 		|Citation
+|--------------------|---------------		|---------------------------|---------------------------------------|---------------
+|However 			|, an article 			|in the Washington Post 	|notes that this is not true because X	|(Smith, 2019, January 1)
+|Despite this 		|, a law 				|passed by the US congress 	|has banned X 							|(Yamada, n.d.)
+|Meanwhile, 			|, protestors 			|are claiming that  		|this will have (no/real) impact, as X  |(UNESCO, 2017)
+|On the other hand 	|, data collected  		|by a survey agency 		|shows this is (un)true, since 			|("UNESCO," 2017)
+|Elsewhere, however 	|, similar work 		|by another GROUP 			|(does not) confirm this to be the case	|("Trees," 2016b)
+|In fact 		  	|, recent research by 	|scientists working for the UN|has (dis)proved 						|("Newts," 2018, June 3)
+|In addition			|, a report 			|by the Department of Work	|suggests otherwise, as X				|("Penguins," n.d.)
+|Supporting this 	|, recent evidence from |satellite imaging 			|clearly indicates that X 				|(Suzuki, 2017)
+|Confirming this are |recent reports  		|by local NGOs 				|that X 								|
+|Casting doubt on this|,a recent report 		|by a government spokesperson|rejects X 							|
 
 
+## 5) Write a response sentence. 
+* One sentence only
+* See [[Style - write a response]]
 
-##  For a difficult reading of another kind
-* Read the summary/description (if available)
-* Try to guess what the author will say
-* Skim the first and last paragraph
-* Read the summary/abstract, if there is one.
-* Read the whole thing. Option: highlight the interesting points
-* Take rough notes on scrap paper
-* Do you have enough notesd for a 3-4 minute presentation? If not, read again or read a second article
-
-## For a song
-When I ask beginning first-year students with good English, particularly good pronunciation, where they learned, I usually get two answers:
-* study abroad
-* listened to song lyrics
-
-So if I say "Free Topic" for RR, one option available is to use song lyrics.
-
-However, its more than just listening to a song. You should:
-* download the lyrics
-* read them carefully and try to understand 100%
-* listen multiple times until you can hear the words in the song
-* optional: do it in karaoke!
-* Lyrics Training: http://lyricstraining.com/ (also handy for typing practice)
-* Lyrics search: http://azlyrics.com  (or just Google song name plus "lyrics")
-
-
-# 4) Type up your rough notes
-## Use the template to get proper formatting
-* NO lonely points!
-** No I without II
-** no 1 without 2
-** no A without B
-
-## Don't plagiarize!
-* Read this: [[Invention - recognise and avoid plagiarism]]
-* Now read this: [[Invention - quote and paraphrase]]
-* 99% of your notes should be summaries
-* This means the notes should use your OWN WORDS, not copy-paste
-* Tip: try taking notes in Japanese, then change to English later
-* Don't use quotes ("") unless the EXACT words are IMPORTANT (e.g. "I have a dream")
-
-
-
-## Common codes
-| = 	|is/is same as/leads to
-| # 	|number
-| X 	|times
-| > 	|more than
-| < 	|less than
-| n/a |Not applicable
-| wo |without
-| +  	|and/plus
-| ~ 	|about
-| / 	|or
-
-
-# 5)Write a one sentence summary
-See [[Style - write a summary sentence]]
-
-
-# 6) Write three good discussion questions
-* Check the [[Resources - marking rubric for RR report]] for detail
-### Good discussion questions must start THREE DISCUSSIONS about the topic!
+## 6) Write three good discussion questions
+Good discussion questions must start THREE DISCUSSIONS about the topic!
+See [[Study Skills - ask good questions]] for example patterns
 * No quiz questions - questions with a "right answer" do not start a good discussion.
 * No overlapping questions e.g. "Do you like dogs / Do you want dogs / Do you have dogs"
-* No questions with an obvious answer (e.g. * ""Have you ever been to Mongolia?")
+* No questions with an obvious answer (e.g. "Have you ever been to Mongolia?")
 * No questions that need research to answer e.g. "How can we reduce water pollution in Bangladesh?"
 * Don't ask "Do you know TOPIC" (of course they do - you just explained it
 * No lazy questions (questions which work for any topic). Be SPECIFIC
@@ -153,21 +113,24 @@ See [[Style - write a summary sentence]]
 ** e.g. this is banned: "How do you feel about TOPIC"
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
-### Use clear question patterns
-See [[Study Skills - ask good questions]] for examples.
 
-# 7) Add APA citation to summary, and complete the References section
-* Subtitle is "References" - 12pt BOLD left aligned Times New Roman (just use the template)
-* Remember to [[Invention - use APA format in reference lists]]
-* If more than one reference, make sure they are in alphabetical order (123...abcd...z)
+## 7) Add APA citation to summaries and at the bottom of slides
+* See [[Invention - use APA format in the text]]
 
-# 8) Bring it to class
-* You should be able to hold your notes in one hand and read them easily.
-** A4 printed sheet is easiest
-** Tablet OK. Small folding laptop OK.
-** Phone too small. Print it.
-** Large or non-folding laptop too big. Print it.
-In class, we will:
-* Practice presentations
-* Discuss the questions
-* Check for problems in outlines, references, etc
+
+## 8) complete the References section
+* See [[Invention - use APA format in reference lists]]
+
+
+# Step 3: Present
+<red>Online 2020 - we might not be able to practice eye contact and gestures presenting online</red>
+* Present, including your summary and response
+** Notes OK, but that will hurt your gestures and eye contact. If you do:
+** A4 printed sheet is easiest. Tablet OK. Phone too small. Laptop too big.
+* Lead a discussion using your questions
+* Malc will check
+** If this is practice, I will give feedback
+** If graded, I will give a grade
+** Read rubric for how this is marked
+
+

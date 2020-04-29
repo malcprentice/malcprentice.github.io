@@ -55,8 +55,6 @@
 [[Invention - use IEEE format for sources]]
 [[Invention - use tools for managing and formatting references]]
 ##Projects
-[[Projects - outline a lecture]]
-[[Projects - outline and combine sources]]
 [[Projects - outline]]
 [[Projects - plan an overseas trip]]
 [[Projects - write a CV and cover letter]]

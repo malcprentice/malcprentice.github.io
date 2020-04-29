@@ -33,8 +33,6 @@ I can [[Invention - use IEEE format for sources]]
 I can [[Invention - use tools for managing and formatting references]]
 #Projects
 I can [[Projects - outline]]
-I can [[Projects - outline a lecture]]
-I can [[Projects - outline and combine sources]]
 I can [[Projects - plan an overseas trip]]
 I can [[Projects - write a CV and cover letter]]
 I can [[Projects - write a country case study]]

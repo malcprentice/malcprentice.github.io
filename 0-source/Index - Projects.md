@@ -1,5 +1,3 @@
-[[Projects - outline a lecture]]
-[[Projects - outline and combine sources]]
 [[Projects - outline]]
 [[Projects - plan an overseas trip]]
 [[Projects - write a CV and cover letter]]

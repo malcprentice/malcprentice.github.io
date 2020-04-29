@@ -23,7 +23,6 @@ __By the end of this course you will be able to:__
 ** choose an appropriate note taking method (map/outline/Cornell)<blue>* <blue>
 ** read long texts in the correct order<blue>* <blue>
 ** [[Projects - outline]] your sources
-** [[Projects - outline an academic article]]<blue>* <blue>
 ** contrast two disagreeing sources
 ** combine two agreeing sources
 ** summarize sources
@@ -125,9 +124,7 @@ __By the end of this course you will be able to:__
 
 # Practice: Outlining Projects
 * [[Projects - outline]]
-* [[Projects - outline an academic article]]
-* [[Projects - outline a lecture]]
-* [[Projects - outline a plan for going abroad]]
+* [[Projects - plan an overseas trip]]
 
 # Practice: Essay projects
 ** [[Projects - write an essay about endangered animals]]

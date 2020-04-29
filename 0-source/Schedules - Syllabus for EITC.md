@@ -6,7 +6,6 @@ English for International Technical Cooperation I and II will help second year s
 # Goals and Objectives
 This course follows the [[Schedules - Curriculum for General Academic Skills]], with the addition of
 * [[Arrangement - write a sectional essay]]
-* [[Projects - outline an academic article]]
 
 # Required Materials
 * Materials provided by teacher
