@@ -11,6 +11,7 @@ breakingnewsenglish.com: http://breakingnewsenglish.com/
 buzzhootroar.com: http://buzzhootroar.com/whats-the-difference/
 ci.nii.ac.jp: http://ci.nii.ac.jp/books/
 ci.nii.ac.jp: http://ci.nii.ac.jp/en
+ci.nii.ac.jp: http://ci.nii.ac.jp/en/
 ci.nii.ac.jp: http://ci.nii.ac.jp/en/		(Japanese
 ci.nii.ac.jp: http://ci.nii.ac.jp/ja
 cleantechnica.com: http://cleantechnica.com/2013/10/08/
@@ -59,6 +60,7 @@ mainichi.jp: http://mainichi.jp/english/
 mondediplo.com: http://mondediplo.com/
 news.bbc.co.uk: http://news.bbc.co.uk/2/hi/8237558.stm
 news.bbc.co.uk: http://news.bbc.co.uk/2/hi/science/nature/3096839.stm</td></tr>
+news.google.com: http://news.google.com
 news.google.com		(News: http://news.google.com		(News
 news.google.com: http://news.google.com/
 newsmap.jp: http://newsmap.jp/
@@ -325,6 +327,7 @@ calendar.google.com: https://calendar.google.com/calendar/selfsched?sstoken=UUxx
 chains.cc: https://chains.cc/
 ci.nii.ac.jp: https://ci.nii.ac.jp/
 commons.wikimedia.org: https://commons.wikimedia.org/wiki/Main_Page
+dbr.nii.ac.jp: https://dbr.nii.ac.jp
 dbr.nii.ac.jp		(Japanese: https://dbr.nii.ac.jp		(Japanese
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSd5pe55AuQASS6y7PFxpsmnADoHS6wswV2gliNx5dh3jOfFfg/viewform?usp=sf_link
 docs.google.com: https://docs.google.com/forms/d/e/1FAIpQLSf0rzwtgYyftD2k4s_OUbyYkhskWWeG2F9iiVCuxjB3X627TQ/viewform?usp=sf_link
@@ -358,6 +361,8 @@ en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Kor
 en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Spanish1000)
 en.wiktionary.org: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Turkish
 forms.gle: https://forms.gle/GGbRAsdR66KroBR67
+google.co.jp: https://google.co.jp
+google.com: https://google.com
 itsupport.soka.ac.jp: https://itsupport.soka.ac.jp/ssl/office365.html
 itunes.apple.com: https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8
 itunes.apple.com: https://itunes.apple.com/jp/app/now-then-pro-time-tracker/id504129864?mt=8

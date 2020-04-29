@@ -239,6 +239,14 @@ Look at the outline.
 ** Campaign/Awareness solutions (letter writing).
 ** Boycott / Protest
 
+Remember - solutions do not need to be specific
+* If cotton problems are about pollution, water, and working conditions
+** ...then solutions CAN be specific (pollution, water, and working conditions)
+** ...but solutions can ALSO be general (Fair Trade, recycle)
+* If refugee problems are food, health, and security...
+** ...then solutions CAN be specific (food, health, and security)
+** ...but solutions can ALSO be general (repatriation, resettlement, changing asylum policy)
+
 ### Suggestions for researching RESPONSES (paragraph S part 2)
 * Are your solutions working well? How do you know? Try to give a number
 ** "cases of X decreased by 60% in 2018"

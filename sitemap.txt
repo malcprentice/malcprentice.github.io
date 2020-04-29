@@ -65,10 +65,9 @@ http://www.alba-english.org/Invention - use APA title case and italics.html
 http://www.alba-english.org/Invention - use IEEE format for sources.html
 http://www.alba-english.org/Invention - use tools for managing and formatting references.html
 http://www.alba-english.org/Projects - outline a lecture.html
-http://www.alba-english.org/Projects - outline a plan for going abroad.html
-http://www.alba-english.org/Projects - outline an academic article.html
 http://www.alba-english.org/Projects - outline and combine sources.html
 http://www.alba-english.org/Projects - outline.html
+http://www.alba-english.org/Projects - plan an overseas trip.html
 http://www.alba-english.org/Projects - write a CV and cover letter.html
 http://www.alba-english.org/Projects - write a country case study.html
 http://www.alba-english.org/Projects - write a poem.html

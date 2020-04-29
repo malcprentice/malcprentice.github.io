@@ -24,11 +24,21 @@ We will practice listening to a short interesting online lecture
 ** Try Japanese subtitles or transcript
 ** But do try later ONE more time in English 
 
-## 3) Take Notes
-* I will tell you how to do this in class
+## 3) Take notes on the lecture
+* I will explain more about this in class
+
+## 4) Google the topic. Find one thing to READ
+Anything OK! 
+* A news article
+* A website
+* Song lyrics
+* Something that agrees or disagrees - both OK
+
+## 5) Take notes on the reading
+* I will explain more about this in class
 
 
-# For reference, here are some TED Talks I show in class
+# Some TED Talks I show in class. Don't use these!
 * Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
 * Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
 * Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en

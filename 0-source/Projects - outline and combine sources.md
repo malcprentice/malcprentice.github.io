@@ -1,11 +1,3 @@
-# How to do a combined article
-
-* Start the same as akways
-* However, AFTER you watch the lecture or do the first reading, then:
-** Google the topic
-** find an article (web, news, academic) about the SAME TOPIC
-** Read that too.
-
 # Notes section difference
 Put notes from BOTH lecture AND article into one set of notes.
 * Use the normal template, but
@@ -46,9 +38,3 @@ Put notes from BOTH lecture AND article into one set of notes.
 
 ## Option 42: So many choices
 For more citation words and patterns, see the Invention sheets.
-
-
-# In the references section
-Don’t forget:
-* put BOTH sources in the References section
-* IN ALPHABETICAL ORDER.

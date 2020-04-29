@@ -1,53 +1,26 @@
-
 # Aim
 The aim of an "RR" outline is
-* Find a good source to read/listen to
-* Read or listen to something
-* Tak notes
+* Find something to listen to
+* Find something to read
+* Take notes on both
 * Present in pairs, groups, or to the class
 * Discuss
 ** Write good discussion questions
 ** Lead a discussion
 ** Participate in a discussion
-* References
-* Summarise
+* Learn to use APA References
+* Learn to summarise
 
-
-
-# 1) Find the materials.
-Are you doing Outline or Powerpoint RR?
-
-## "TEMPLATE for RR OUTLINE" (typed) has:
-* an outline section (I, II, III, A, B, C, etc)
-* a summary section
-* discussion question section
-* References
-
-## "TEMPLATE for RR POWERPOINT" (slides) has
-* Title slide
-* Background slide
-* Three slides with tips
-* Discussion Question slide
-* References slide
-
-## Find the EXAMPLES
-* In the shared folder
-* Look at the [[Resources - marking rubric for RR report]]
-* If your homework requires TWO OR MORE sources, read this: [[Projects - outline and combine sources]]
-
-
+# 1) Find the template
+* "Template for Outline (RR) SLIDES"
+* Read the notes
 
 # 2) Get ready
 * Rename the file
 ** "Hiroko Sato - SSB - RR1"
 ** "Hiroki Sato - ECS - RR2"
-** "Hiroki Sato - GCA - RR3"
-** Get the code from your Syllabus
-* Change the information __inside__ the template.
-** You will need: name, number, class, code, date, and title
-** Follow the date example carefully
-** [[Style - use title case]] for your title
-
+** "Hiroki Sato - GCP - RR3"
+* Change the Title, information
 
 # 3) Find something to read or listen to.
 ## General Instructions
@@ -76,16 +49,7 @@ Visit [[Resources - websites for English news articles]]
 ** Try to read more than one source/side before you believe anything you read.
 * APA reference for News Website is here: http://alba-english.org/Invention%20-%20use%20APA%20format%20for%20reference%20lists.html# Newspaper
 
-
-## For an SRA Card
-* B level class only.
-* SRA are A4 folded cards in four boxes in the self access centre.
-* Each card has an easy reading aout Science and a quiz.
-* Read the card, take the quiz, and take notes.
-* Take notes! Don't copy the card
-* In class, I want to see you notes and your quiz as well as your RR
-
-
+ 
 
 ## For a lecture
 See [[Projects - outline a lecture]]
@@ -125,7 +89,7 @@ See [[Projects - outline a lecture]]
 * Take rough notes on scrap paper
 * Do you have enough notesd for a 3-4 minute presentation? If not, read again or read a second article
 
-## FOr a song
+## For a song
 When I ask beginning first-year students with good English, particularly good pronunciation, where they learned, I usually get two answers:
 * study abroad
 * listened to song lyrics
@@ -139,8 +103,6 @@ However, its more than just listening to a song. You should:
 * optional: do it in karaoke!
 * Lyrics Training: http://lyricstraining.com/ (also handy for typing practice)
 * Lyrics search: http://azlyrics.com  (or just Google song name plus "lyrics")
-
-
 
 
 # 4) Type up your rough notes
@@ -158,17 +120,7 @@ However, its more than just listening to a song. You should:
 * Tip: try taking notes in Japanese, then change to English later
 * Don't use quotes ("") unless the EXACT words are IMPORTANT (e.g. "I have a dream")
 
-## Use Note English
-Outlines should be FAST to write and FAST to read:
-* No sentences!
-* Important information only
-* Remove unnecessary words (a, he, on, in, the, is, are)
 
-
-* Look at these: which one can you write quicker? which one can you read quicker when presenting?
-** "Two thirds of growth at Pepsi came from better foods"
-** "two thirds growth Pepsi frm better foods"
-** "2/3 growth @ Pepsi = better foods"
 
 ## Common codes
 | = 	|is/is same as/leads to
@@ -219,7 +171,3 @@ In class, we will:
 * Practice presentations
 * Discuss the questions
 * Check for problems in outlines, references, etc
-
-# 9) Email it to Malc only if graded
-** RR1, RR3, & RR5 are not graded. Do not email me.
-** RR2, RR4 and RR6 __are__ graded. Email me the file. ** See [[Study Skills - write a well formatted email]]

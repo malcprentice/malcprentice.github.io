@@ -56,10 +56,9 @@
 [[Invention - use tools for managing and formatting references]]
 ##Projects
 [[Projects - outline a lecture]]
-[[Projects - outline a plan for going abroad]]
-[[Projects - outline an academic article]]
 [[Projects - outline and combine sources]]
 [[Projects - outline]]
+[[Projects - plan an overseas trip]]
 [[Projects - write a CV and cover letter]]
 [[Projects - write a country case study]]
 [[Projects - write a poem]]
