@@ -13,45 +13,43 @@ The aim of outline practice is:
 
 
 # Step 1 - listen, read and take notes
-## 1) Visit the TED website https://www.ted.com/talks
-* Select the option for a short talk (no more than 12 mins)
+### 1A) Visit the TED website https://www.ted.com/talks
 * Select a topic (e.g. Technology, Education)
+* Select "6-12 mins" - no shorter.
 * Look for an interesting title
-* Don't choose these ones - I use them in some classes
-** Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
-** Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
-** Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
-** Dan Ariely (Behavioural Economist - some bits from his book "Predictably Irrational" - cheating and identity, the importance of check intuitions): https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en (some more bits here: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en )
-** Angel Chang on sneakers (talk has same Arrangement as Ethical Consumption essay): https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
-** Hans Rosling on global population: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
+* At the bottom of this page is a list of talks I use in class. Don't choose those. 
 
-
-## 2) When you have chosen a talk
-* Listen to the first minute. 
+### 1B) When you have chosen a talk
 * Listen to 20 seconds, English only.
 * Too difficult?
 ** Try English subtitles or transcript
 ** Try Japanese subtitles or transcript
-** But do try later ONE more time in English 
+** But try later ONE more time later in English 
 
 
-## 3) Google the topic covered in the talk. Find one thing to READ
-Anything OK! 
+### 1C) Google the topic covered in the talk. Find one thing to READ
+Anything related to topic OK! 
 * A news article
 * A website
 * Song lyrics
 * Something that agrees or disagrees - both OK
-* It doesn't have to be an exact match to the topic
+* It doesn't have to be an exact match
+** For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about
+** a) Galapagos, 
+** b) OR penguins 
+** c) OR global warming)
 * Advanced option: Read [[Invention - find good sources]]
 
-## 4) Watch the talk, read the article. Take notes on both
-* First just take rough notes any way you want. 
-* Remember to keep the URL (http)
-* In step 2, later, I will tell you how to organise your notes
+### 1D) Take notes on the TED Talk AND the article
+* For now, just take rough notes _any way you want._
+* You'll need at least 9-10 pieces of information total
+* If you don't have 9-10, read another article!
+* Remember to keep the URL (http addresses) of the talk and article
+* In step 2, you will learn how to Arrange and Present your notes
 
 
 # Step 2: Get your Presentation ready
-## 1) Find the template
+### 2A) Find the template
 * I will share "Template for Outline" on Google Classroom later
 * Read the notes! 
 * Read the rubric 
@@ -61,26 +59,22 @@ Anything OK!
 ** "Hiroki Sato - GCP - RR3"
 * Change the Title, information
 
-
-## 2) Type up your notes in correct format
+### 2B) Type up your notes in correct format
 * Use the template to get proper formatting
 ** No lonely bullet points!
 ** No strange font sizes or colours. Formatting has meaning!
-** No sentences except for summary - notes are keywords
+* No sentences in notes. 
+** Notes are keywords. 
+** Sentences are only for Questions and Summary
 * No copy pasting! [[Invention - recognise and avoid plagiarism]]
 
-## 3) Write a summary sentence for the reading
-* One sentence only
-* See [[Style - write a summary sentence]]
- 
-## 4) Write a summary sentence for the reading
-* One sentence only
-* See [[Style - write a summary sentence]]
-
+### 2C) Write a summary
+* One summary sentence for the lecture 
+* One summary sentence for the reading
 * Make the link between them CLEAR (support? disagree? disprove? add detail?)
+* See [[Style - write a summary sentence]]
 * Don't forget to cite BOTH articles in the summary
 
-### Some options:
 |However, 		|Suzuki (2018, February 1) 	|says that
 |In fact, 		|Suzuki (2018, February 1) 	|notes that
 |Additionally, 	|Suzuki (2018, February 1) 	|points out that
@@ -100,11 +94,11 @@ Anything OK!
 |Casting doubt on this|,a recent report 		|by a government spokesperson|rejects X 							|
 
 
-## 5) Write a response sentence. 
+### 2D) Write a response sentence. 
 * One sentence only
 * See [[Style - write a response]]
 
-## 6) Write three good discussion questions
+### 2E) Write three good discussion questions
 Good discussion questions must start THREE DISCUSSIONS about the topic!
 See [[Study Skills - ask good questions]] for example patterns
 * No quiz questions - questions with a "right answer" do not start a good discussion.
@@ -119,15 +113,13 @@ See [[Study Skills - ask good questions]] for example patterns
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
 
-## 7) Check APA citation to summaries and at the bottom of slides
+### 2F) Check APA citation to summaries and at the bottom of slides
 * See [[Invention - use APA format in the text]]
-* make it clear which slides used which source
-
-
-
-## 8) Complete the References section
-* See [[Invention - use APA format in reference lists]]
-
+** At the bottom of each slide. Make it clear which slides used which source
+** In the summary, after each sentence. See examples
+* Complete the References section
+** At the bottom
+** See [[Invention - use APA format in reference lists]]
 
 # Step 3: Present
 <red>Online 2020 - we might not be able to practice eye contact and gestures presenting online</red>
@@ -140,4 +132,12 @@ See [[Study Skills - ask good questions]] for example patterns
 ** If graded, I will give a grade
 ** Read rubric for how this is marked
 
+# Talks Malc uses in class
+* Don't choose these ones - I use them in some classes
+** Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
+** Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
+** Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
+** Dan Ariely (Behavioural Economist - some bits from his book "Predictably Irrational" - cheating and identity, the importance of check intuitions): https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en (some more bits here: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en )
+** Angel Chang on sneakers (talk has same Arrangement as Ethical Consumption essay): https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
+** Hans Rosling on global population: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
 
