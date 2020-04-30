@@ -35,9 +35,10 @@ Anything related to topic OK!
 * Something that agrees or disagrees - both OK
 * It doesn't have to be an exact match
 ** For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about
-** a) Galapagos, 
+** a) EITHER Galapagos 
 ** b) OR penguins 
-** c) OR global warming)
+** c) OR global warming
+** d) OR some combination (global warming penguins but not in Galapagos)
 * Advanced option: Read [[Invention - find good sources]]
 
 ### 1D) Take notes on the TED Talk AND the article
@@ -122,7 +123,7 @@ See [[Study Skills - ask good questions]] for example patterns
 ** See [[Invention - use APA format in reference lists]]
 
 # Step 3: Present
-<red>Online 2020 - we might not be able to practice eye contact and gestures presenting online</red>
+<red>Online 2020 a) We will start this step AFTER Golden Week, and b) presenting online will change grading system because eye contact and gestures work differently </red>
 * Present, including your summary and response
 ** Notes OK, but that will hurt your gestures and eye contact. If you do:
 ** A4 printed sheet is easiest. Tablet OK. Phone too small. Laptop too big.
