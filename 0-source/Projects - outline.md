@@ -12,7 +12,7 @@ The aim of outline practice is:
 * Learn to summarise
 
 
-# Step 1 - listen, read and take notes
+# Step 1: Listen, read and take notes
 ### 1A) Visit the TED website https://www.ted.com/talks
 * Select a topic (e.g. Technology, Education)
 * Select "6-12 mins" - no shorter.
