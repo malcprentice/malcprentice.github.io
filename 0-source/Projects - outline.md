@@ -34,17 +34,17 @@ Anything related to topic OK!
 * Song lyrics
 * Something that agrees or disagrees - both OK
 * It doesn't have to be an exact match
-** For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about
-** a) EITHER Galapagos 
+** For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about any combination of:
+** a) The Galapagos 
 ** b) OR penguins 
 ** c) OR global warming
-** d) OR some combination (global warming penguins but not in Galapagos)
 * Advanced option: Read [[Invention - find good sources]]
 
 ### 1D) Take notes on the TED Talk AND the article
 * For now, just take rough notes _any way you want._
-* You'll need at least 9-10 pieces of information total
-* If you don't have 9-10, read another article!
+* You'll need enough notes to talk for 3-5 minutes on your topic
+* You'll need 9 ideas (steps, times, reasons, problems, solutions) 
+* If you don't have 3-5 minutes and 9 key ideas, read another article!
 * Remember to keep the URL (http addresses) of the talk and article
 * In step 2, you will learn how to Arrange and Present your notes
 
