@@ -38,6 +38,9 @@ Criteria-Analysis/// Compare-Contrast /// Cost, weight, size, durability, batter
 * Reading lists prepared by expert on topic: e.g.  http://www.readinglists.manchester.ac.uk/index.html
 * Browse top journals on your topic: http://www.journalindicators.com/indicators
 
+### Search a specific newspaper
+* [[Resources - websites for English news articles]]
+
 Remember:
 * To get academic PDFs
 ** You might need to be AT UNIVERSITY (or use a VPN)

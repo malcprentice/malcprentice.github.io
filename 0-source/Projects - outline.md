@@ -42,9 +42,11 @@ Anything OK!
 * Song lyrics
 * Something that agrees or disagrees - both OK
 * It doesn't have to be an exact match to the topic
+* Advanced option: Read [[Invention - find good sources]]
 
 ## 4) Watch the talk, read the article. Take notes on both
 * First just take rough notes any way you want. 
+* Remember to keep the URL (http)
 * In step 2, later, I will tell you how to organise your notes
 
 
@@ -75,10 +77,13 @@ Anything OK!
 * One sentence only
 * See [[Style - write a summary sentence]]
 
-### Link it properly! Some options:
+* Make the link between them CLEAR (support? disagree? disprove? add detail?)
+* Don't forget to cite BOTH articles in the summary
+
+### Some options:
 |However, 		|Suzuki (2018, February 1) 	|says that
 |In fact, 		|Suzuki (2018, February 1) 	|notes that
-|Additionally, 	|Suzuki (2018, Febrary 1) 	|points out that
+|Additionally, 	|Suzuki (2018, February 1) 	|points out that
 |For example, 	|Suzuki (2018, February 1) 	|describes
 
 |Link 				|SOURCE TYPE 			|source  					|citation word+  reading summary 		|Citation
@@ -114,11 +119,13 @@ See [[Study Skills - ask good questions]] for example patterns
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
 
-## 7) Add APA citation to summaries and at the bottom of slides
+## 7) Check APA citation to summaries and at the bottom of slides
 * See [[Invention - use APA format in the text]]
+* make it clear which slides used which source
 
 
-## 8) complete the References section
+
+## 8) Complete the References section
 * See [[Invention - use APA format in reference lists]]
 
 
