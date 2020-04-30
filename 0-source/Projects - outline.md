@@ -50,6 +50,8 @@ Anything related to topic OK!
 
 
 # Step 2: Get your Presentation ready
+<red>Online 2020: Stop. I will explain this step AFTER Golden Week. </red>
+
 ### 2A) Find the template
 * I will share "Template for Outline" on Google Classroom later
 * Read the notes! 
@@ -123,7 +125,7 @@ See [[Study Skills - ask good questions]] for example patterns
 ** See [[Invention - use APA format in reference lists]]
 
 # Step 3: Present
-<red>Online 2020 a) We will start this step AFTER Golden Week, and b) presenting online will change grading system because eye contact and gestures work differently </red>
+<red>Online 2020: Presenting online will change grading system because eye contact and gestures work differently </red>
 * Present, including your summary and response
 ** Notes OK, but that will hurt your gestures and eye contact. If you do:
 ** A4 printed sheet is easiest. Tablet OK. Phone too small. Laptop too big.
