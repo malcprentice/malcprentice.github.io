@@ -271,13 +271,16 @@ Remember - solutions do not need to be specific
 * Answer questions about your research
 * Share your research with other students
 * Invention - using sources in academic essays
-
+** [[Invention - use APA format in the text]]
+** [[Invention - use APA format in reference lists]]
+** [[Invention - avoid common APA format problems]]
+** [[Invention - use APA format for Japanese sources]]
 
 ### For homework by next class
 * Malc will comment on your research outline draft 1
 * Feedback should be ready by Friday evening
 * Read the feedback on outline draft 1. 
-* Start fixing any outline problems, or ask Malc
+* Start fixing any outline problems, and changing references to APA style
 
 
 # Project Unit 5 (Class May 18, Homework due May 25)
@@ -289,7 +292,9 @@ Remember - solutions do not need to be specific
 ** I will review Presentation
 
 ### For homework by next class
-* Finish and submit outline (draft 2).<red>This will be graded (10%)</red>
+* Finish and submit outline (draft 2).
+** <red>This will be graded (10%)</red>
+** You must use APA style
 * Find "Template for Essay" on Google Classroom
 * Change your name, title, etc
 * Write paragraph A ("Problems")
