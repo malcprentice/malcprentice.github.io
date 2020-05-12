@@ -1,8 +1,9 @@
 Hello! Welcome to the course! 
-We are online until at least May 11. 
-This is online class 1.
+This is online Class 1
+There are two units in this class. 
+This is Unit 1. 
 
-# Aim of Class 1
+# Aim of Class 1 Unit 1
 By the end of this class, you will be able to:
 * Use "Google Classroom"
 * Say hello to the class
@@ -20,7 +21,7 @@ You are "present"(出席) if you finish Homework 2 "Say Hello"
 * If you have problems <a href="mailto:prentice@soka-u.jp">email me</a>
 * If you can't explain, take a screenshot
 
-# Homework 1: Join Google Classroom
+# Task 1: Join Google Classroom
 * 1) Download the "Google Classroom" app: https://support.google.com/edu/classroom/answer/6118412?hl=ja
 * 2) Sign in
 ** Use your eXXXXXXXX@soka-u.jp address
@@ -32,7 +33,7 @@ You are "present"(出席) if you finish Homework 2 "Say Hello"
 ** Instructions in Japanese are here: https://support.google.com/edu/classroom/answer/6020297?co=GENIE.Platform%3DiOS&hl=ja
 * 4) If you have a laptop, please follow the instructions to find the class in a browser (Firefox/Chrome/Edge) too
 
-# Homework 2: Say hello!
+# Task 2: Say hello!
 * 1) Go to Google Classroom
 * 2) Find the front page ("Stream")
 * 3) Find "This is Task 2, for Class 1 Orientation"
@@ -50,8 +51,7 @@ You are "present"(出席) if you finish Homework 2 "Say Hello"
 ** If that doesn't work, email me
 ** If I don't see your post by week 2, I will email you later to make sure you are OK. 
 
-# Up next: Unit 2 
-* Please check Google Classroom for Unit 2, 3, 4, etc
-* This is how I will post ALL your homework, classwork, and assessment. 
-* Always check the Google Classroom when it sends you emails!
+# Up next: Class 1 - Unit 2 
+* See Google Classroom Unit 2. 
+* Please check Google Classroom for ALL FUTURE WORK
 * If you have problems, <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">email me</a>
