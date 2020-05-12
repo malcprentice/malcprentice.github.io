@@ -1,5 +1,5 @@
-# Aim of Class 2
-By the end of this class, you will be able to:
+# Aim of Online Unit 2
+By the end of Online Unit 2, you will be able to:
 * Ask me a question by email
 ** Send a good email
 ** Write a good question
@@ -7,18 +7,20 @@ By the end of this class, you will be able to:
 * Answer a survey
 
 # Contents
-Please:
-* Read this page 
-* Do Homework 1
-* Do Homework 2 
-* Do Homework 3
-* Deadline is next "class" (Thursday, when I'll post class 3 tasks)
 
-You are "present" (出席) if you send the "Homework 2" email
+# Contents and Announcements
+* Just to confirm: we do NOT have Zoom or Hangouts or any other video class during Class 1 period. Class 1 is homework only. Finish it by the deadline. Our first Zoom class DURING class period is Class 2 
+* Before or during Class 1: 
+** If you haven't already, complete [[Class - Online 1 - basics for online]]
+** Do Homework 1, 2, and 3 below
+* I will check after class and if your work is missing, I will contact you to make sure you are OK. 
+* If you have problems or a question, email me: prentice@soka-u.jp
+* Deadline is end of the "class" (Wednesday, 18:05)
+* You are "present" (出席) if you finish  Unit 1 Task 2 ("Say hello on Google Classroom") __and__ Unit 2 Homework 2 (Send an email to Malc)
 
 # Homework 1 - Find your syllabus
 1) Read these important points first
-* "Assessment", especially "Participation" will change if we stay online after May 11
+* "Assessment", especially "Participation" might change
 * So <green>don't worry</green> about "Assessment" for now
 * I will explain Assessment later, step by step
 2) Read your Syllabus:
@@ -26,7 +28,6 @@ You are "present" (出席) if you send the "Homework 2" email
 * [[Schedules - Syllabus for EITC]]
 * [[Schedules - Syllabus for GCP]]
 * [[Schedules - Syllabus for SSB]]
-3) If you have a question, send an email!
 
 
 # Homework 2 - Write a good email

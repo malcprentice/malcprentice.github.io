@@ -13,7 +13,7 @@ You are "present"(出席) if you finish Homework 2 "Say Hello"
 # Contents
 * Read this page 
 * Do Homework 1 and Homework 2 before next class 
-* Deadline is by next class (Wednesday 15/Thursday 16) 
+* Deadline is end of Class 1 (Wednesday 18:05)
 * If you do not understand, translate: https://translate.google.com/translate?hl=&sl=en&tl=ja&u=http%3A%2F%2Falba-english.org%2FClass%2520-%2520Online%25201%2520-%2520basics%2520for%2520online.html
 
 # Asking for help
@@ -50,11 +50,8 @@ You are "present"(出席) if you finish Homework 2 "Say Hello"
 ** If that doesn't work, email me
 ** If I don't see your post by week 2, I will email you later to make sure you are OK. 
 
-# Up next: online class 2 preview
-* Please check Google Classroom
-* I will add CLASS 2 - TASK 1 "Read your Syllabus" next week.
-* Check Google Classroom. Do this task. 
-* If you do not finish CLASS 1 - TASK 2 by week 2, I will email you. 
+# Up next: Unit 2 
+* Please check Google Classroom for Unit 2, 3, 4, etc
 * This is how I will post ALL your homework, classwork, and assessment. 
 * Always check the Google Classroom when it sends you emails!
 * If you have problems, <a href="mailto:notmyrealaddressjustaspamfilter@alba-english.com">email me</a>
