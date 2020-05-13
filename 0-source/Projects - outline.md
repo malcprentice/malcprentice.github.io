@@ -50,8 +50,6 @@ Anything related to topic OK!
 
 
 # Step 2: Get your Presentation ready
-<red>Online 2020: Stop. I will explain this step AFTER Golden Week. </red>
-
 ### 2A) Find the template
 * I will share "Template for Outline" on Google Classroom later
 * Read the notes! 

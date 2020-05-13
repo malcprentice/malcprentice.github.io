@@ -383,6 +383,5 @@ Remember - solutions do not need to be specific
 ### For homework by deadline
 * Submit FULL essay  (Intro-C-A-B-Conclusion)
 * Intro and Conclusion <red>will be graded (10%)</red>
-
-# Final deadline for full essay is July 20
+* See syllabus for deadline
 
