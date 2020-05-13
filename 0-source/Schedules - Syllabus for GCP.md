@@ -45,9 +45,4 @@ Read this: [[Resources - grading system]]
 
 
 # Weekly Schedule
-* Online Class 1 Unit 1: [[Class - Online 1 - basics for online]]
-* Online Class 1 Unit 2: [[Class - Online 2 - understand the course]]
-* Preview Class 2: [[Class - Online 3]]
-** start regular homework - vocab
-** start essay project
-* For Class 4 contents and on, I will send a new link
+See Google Drive (soka-u.jp only) for your weekly schedule: https://docs.google.com/spreadsheets/d/1Sv-yUq4ILLrFcQyAprdcPsMTGH5uZIhM66cUdjuDCw0/edit?usp=sharing

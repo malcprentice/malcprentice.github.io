@@ -3,6 +3,7 @@ The aim of outline practice is:
 * Find something to listen to
 * Find something to read
 * Take notes on both
+* Write a summary 
 * Present in pairs, groups, or to the class
 * Discuss
 ** Write good discussion questions
@@ -95,11 +96,7 @@ Anything related to topic OK!
 |Casting doubt on this|,a recent report 		|by a government spokesperson|rejects X 							|
 
 
-### 2D) Write a response sentence. 
-* One sentence only
-* See [[Style - write a response]]
-
-### 2E) Write three good discussion questions
+### 2D) Write three good discussion questions
 Good discussion questions must start THREE DISCUSSIONS about the topic!
 See [[Study Skills - ask good questions]] for example patterns
 * No quiz questions - questions with a "right answer" do not start a good discussion.
@@ -114,31 +111,29 @@ See [[Study Skills - ask good questions]] for example patterns
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
 
-### 2F) Check APA citation to summaries and at the bottom of slides
+### 2E) Add APA citations 
 * See [[Invention - use APA format in the text]]
+* TWO places for APA "In the text" citations:
 ** At the bottom of each slide. Make it clear which slides used which source
-** In the summary, after each sentence. See examples
-* Complete the References section
-** At the bottom
+** In the summary in the speaker notes, after each sentence.
+* ONE References section
+** Look on last slide
 ** See [[Invention - use APA format in reference lists]]
+* Consider trying Zotero
+** Download here: https://www.zotero.org/
+** It makes mistakes - check it by hand for errors
+** It words on Google Docs and Word, but not Slides. You'll need to copy-paste the references. 
 
 # Step 3: Present
-<red>Online 2020: Presenting online will change grading system because eye contact and gestures work differently </red>
 * Present, including your summary and response
-** Notes OK, but that will hurt your gestures and eye contact. If you do:
+** Notes OK, but will make eye contact more difficult 
 ** A4 printed sheet is easiest. Tablet OK. Phone too small. Laptop too big.
-* Lead a discussion using your questions
-* Malc will check
+* Finish by 
+** reading your summary
+** leading a discussion using your questions
+* Remember to SUBMIT your slides on Google Classroom. 
+** Malc will check
 ** If this is practice, I will give feedback
 ** If graded, I will give a grade
-** Read rubric for how this is marked
 
-# Talks Malc uses in class
-* Don't choose these ones - I use them in some classes
-** Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
-** Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
-** Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
-** Dan Ariely (Behavioural Economist - some bits from his book "Predictably Irrational" - cheating and identity, the importance of check intuitions): https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en (some more bits here: https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=en )
-** Angel Chang on sneakers (talk has same Arrangement as Ethical Consumption essay): https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
-** Hans Rosling on global population: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
 
