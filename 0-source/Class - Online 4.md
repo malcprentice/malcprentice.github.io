@@ -1,54 +1,50 @@
-# Aim of Class 4 (Wed 22/Thur23)
-In this class, you will:
-* Continue regular vocab homework (V2)
-* Continue preparing for your first essay project
-* Learn how to [[Study Skills - do a quickwrite]]
+# Aim of Online Unit 4 (Class 3)
+In this class, you will learn how to:
+* [[Study Skills - make a participation plan]]
+* Continue to [[Projects - write an essay about ethical consumption]]
 ** review [[Resources - paragraph basics]]
 ** learn to use a template or [[Study Skills - format written work]]
 ** learn to [[Style - use title case]]
+* Review common issues and questions so far (Vocab, QW, Essay)
+** Some reminders about how to [[Study Skills - format written work]]
+** Some reminders about how to [[Resources - paragraph basics]]
+* Learn the last regular homework "SR": [[Study Skills - do a speed reading]]
+* Learn how to [[Study Skills - make a participation plan]]
 
-# Zoom
-Zoom is not required for class 4 (April 22/23)
-However, I will be online during class period on April 22/23
-Link on PLAS if you have questions about class 4 
-Zoom will be required for class 5, Monday 27
 
-# Homework AFTER this class
-<red>Deadline for this work is Thursday 23</red>
-Do homework __V2, QW1, and C4.__  
-* 1) Complete but __don't email__ Vocab 2 (V2)
-* 2) Complete but __don't submit__ Quickwrite 1 (QW1)
-* 3) __Email C4__ ("Essay idea") to be present (出席) 
+# Homework BEFORE class
+* QW1, V1, and Essay Project Unit 1
 
-# Homework V2
-* Continue your vocab homework (V2)
-* __Don't__ number them 1-10 or 1-15!
-* __Continue__ your numbering (11,12,13 or 16, 17, 18)
-* __Don't__ email V2 
-** Just keep going (V2, V3, V4) every class
-** I will check V2-V10 together after class 13
-** I will check V1-V25 together after class 28
-
-# Homework QW1 - do QuickWrite 1
-1) Go to Google Classroom 
-2) Find "Regular Homework - Quickwrites" Task
-3) Read this: [[Study Skills - do a quickwrite]]
-4) Do Quickwrite 1 ("QW1")
-* __Don't__ email/submit Quickwrite 1 (QW1). 
-* Just keep going (QW2, QW3, QW4) every class
-* I will check your Google Document occasionally
-** I will check QW1 after class 5
-** I will check QW1-QW10 after class 14
-** I will check again later
-* "Submit" at the end of term:
-** Minimum 25 quickwrites
-** Maximum  - check your syllabus. 
-** Deadline Class 29
-
-# Homework C4
+# Contents
+## Essay Project Unit 2
 Go to [[Projects - write an essay about ethical consumption]]
 * Next do __"Project Homework 2 - choose a topic"__
-* Send Step 6 "Email Malc your idea to check"
+* For homework, complete Step 6 "Email Malc your idea to check"
 ** [[Study Skills - write a well formatted email]] 
 ** Minimum four sentences ("I chose TOPIC. TOPIC is... It causes three problems.... I found 3 solutions...")
 ** See essay page for examples
+
+## Participation Plan
+* How to [[Study Skills - make a participation plan]]
+
+
+# Homework AFTER this class
+* Continue your regular vocab homework (V2)
+** __Don't__ number them 1-10 or 1-15!
+** __Continue__ your numbering (11,12,13 or 16,17,18)
+** __DO NOT EMAIL.__ J
+** Just keep going - I will check again mid-term and the end of term. 
+* Continue your regular Quickwrite homework with QW2
+** __DO NOT SUBMIT.__ 
+** Just keep going - I will check again mid-term and the end of term. 
+* Start new regular SR homework
+** Do SR1 and SR2
+** Add your times and scores to your chart. 
+* Complete "Project Homework 2 - choose a topic"
+* [[Study Skills - make a participation plan]]
+* __EMAIL MALC__ your topic idea and your participation plan
+** Subject "Hiroko Sato - GCP - Topic and Participation plan"
+** [[Study Skills - write a well formatted email]] 
+
+
+

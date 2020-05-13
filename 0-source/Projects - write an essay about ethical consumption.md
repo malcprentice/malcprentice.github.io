@@ -10,10 +10,10 @@ By the end of this project you will be able to:
 ** Format (フォーマット) it well
 ** Cite your sources (出典を引用します) in "APA style" (アメリカ心理学会論文作成)
 
-# Project Unit 1 - Introduction 
+# Essay Project Unit 1 - Introduction 
 * You __do not have to submit anything__ for Homework 1. 
 * Just think, read, listen and __take notes__
-* Email me if you have questions. 
+* Email me if you have questions.
 
 ### 1A: Think and Understand
 * We buy/use a lot of different products every day
@@ -31,8 +31,6 @@ By the end of this project you will be able to:
 ** Were your cosmetics tested on animals?  https://en.wikipedia.org/wiki/Testing_cosmetics_on_animals
 ** Is there palm oil in your toothpaste? https://en.wikipedia.org/wiki/Social_and_environmental_impact_of_palm_oil
 ** Will your phone be recycled properly?: https://www.smithsonianmag.com/science-nature/burning-truth-behind-e-waste-dump-africa-180957597/
-
-
 
 ### 1B:  Watch this 11 min video
 Take notes. 
@@ -55,7 +53,7 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 ### Optional: Watch this TED Talk, it has the same Arrangement as this essay
 * https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
 
-# Project Unit 2 - (Choose topic, HW only, deadline April 23)
+# Essay Project Unit 2 
 * Just do a little research
 * Enough to decide - is your topic good or not?
 
@@ -114,7 +112,7 @@ Ask yourself:
 ** e.g. reduce, reuse, recycle
 ** e.g. stop buying, buy something else, 
 
-### Homework by next class (Deadline April 23): 
+### Homework by next class: 
 Email Malc your idea to check 
 You should be able to write:
 * "I chose TOPIC"
@@ -124,21 +122,16 @@ You should be able to write:
 
 For example
 > " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Central Adrica. __There three main problems -__ child soldiers, dangerous mines, and pollution. __There are three main solutions__ - fair trade phones, recycling, and UNICEF's work in the Congo"
-
-# Switch to Zoom! No project homework for April 27
-* Switching to Zoom, 
-* So from now all homework is for __following__ week, __after__ I explain it. 
-* I'll give both dates for a few weeks until it's clear. 
-
-# Project Unit 3 (Class April 27, Homework due May 11)
+ 
+# Essay Project Unit 3 
 ### Aim of class
 We will improve out outline
 * Outline templates
 * Arrangement - planning your essay
 
-Look at the outline. 
-* You have done the __BOLD BITS__ already. 
-* Homework is to add new <red>details</red> 
+* Find the simple outline on Google Classroom
+** You have done the __BOLD BITS__ already. 
+** Homework is to add new <red>details</red> 
 
 + Introduction (Paragraph I)
 ++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
@@ -169,7 +162,6 @@ Look at the outline.
 +++ <red>detail</red>
 +++ <red>detail</red>
 + Conclusion (Paragraph C)
-
 
 ### Homework
 * Find the template assignment on Google Classroom
@@ -265,7 +257,9 @@ Remember - solutions do not need to be specific
 
 
 
-# Project Unit 4 (Class May 11, Homework due May 18)
+# Project Unit 4 
+* SSB/ECS/EITC: Class May 11, Homework due May 18)
+* GCP: TBC
 ### In class
 * Check homework was submitted (outline draft 1)
 * Answer questions about your research
@@ -283,7 +277,7 @@ Remember - solutions do not need to be specific
 * Start fixing any outline problems, and changing references to APA style
 
 
-# Project Unit 5 (Class May 18, Homework due May 25)
+# Project Unit 5  
 ### In class
 * Check questions about outline draft 1 feedback
 * Learn about writing paragraph A
@@ -304,7 +298,7 @@ Remember - solutions do not need to be specific
 ** You will not be able to change it until I give feedback. 
  
 
-# Project Unit 6 (Class May 25, Homework due June 1)
+# Project Unit 6 
 ### In class
 * Check everyone submitted outline draft 2
 * Check everyone submitted A
@@ -313,7 +307,7 @@ Remember - solutions do not need to be specific
 ### For homework by next class
 * Read the feedback I sent on A. Feedback should be ready by Friday evening
 
-# Project Unit 7 (June 1)
+# Project Unit 7 
 ### In class
 * Ask questions about the feedback on A
 * Learn how to write B
@@ -325,7 +319,7 @@ Remember - solutions do not need to be specific
 ** A2: A draft 2 - <red>will be graded (10%)</red>
 ** B1: B draft 1 - will get feedback
 
-# Project Unit 8 (June 8)
+# Project Unit 8 
 ### In class
 * Check everyone sent A+B
 * Learn other Writing and Study skills (we start C next week)
@@ -334,7 +328,7 @@ Remember - solutions do not need to be specific
 * Read and understand your grade for A. Avoid making the same mistakes on B
 * Read the feedback I sent on B. Feedback should be ready by Friday evening
 
-# Project Unit 9  (June 15)
+# Project Unit 9 
 ### In class
 * Ask questions about the grade on A
 * Ask questions about the feedback on B
@@ -348,7 +342,7 @@ Remember - solutions do not need to be specific
 ** B2: B draft 2 - <red>will be graded (10%)</red>
 ** C1: C draft 1 - will get feedback
 
-# Project Unit 10 (June 22)
+# Project Unit 10 
 ### In class
 * Check everyone submitted essay again
 * Learn other Writing and Study skills (we start Intro/Conclusion next week)
@@ -357,7 +351,7 @@ Remember - solutions do not need to be specific
 * Read and understand your grade for B. Avoid making the same mistakes on C
 * Read the feedback I sent on C. Feedback should be ready by Friday evening
 
-# Project Unit 11 (June 29)
+# Project Unit 11 
 ### In class
 * Ask questions about the grade on B
 * Ask questions about the feedback on C
@@ -370,7 +364,7 @@ Remember - solutions do not need to be specific
 ** C2: C draft 2 - <red>will be graded (10%)</red>
 ** Intro and Conclusion, Draft 1 (will get feedback)
 
-# Project Unit 12 (July 6)
+# Project Unit 12 
 ### In class
 * Check everyone sent essay again
 * Learn other Writing and Study skills 
@@ -380,7 +374,7 @@ Remember - solutions do not need to be specific
 * Read the feedback I sent on Intro/Conclusion
 * Feedback should be ready by Friday evening
 
-# Project Unit 13 (July 13)
+# Project Unit 13 
 ### In class
 * Ask questions about the grade on C
 * Ask questions about the feedback on Intro/Conclusion
