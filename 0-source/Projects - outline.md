@@ -95,8 +95,21 @@ Anything related to topic OK!
 |Confirming this are |recent reports  		|by local NGOs 				|that X 								|
 |Casting doubt on this|,a recent report 		|by a government spokesperson|rejects X 							|
 
+### 2D) Response
+* CORRECTION! There is an error in the slides I sent. 
+* "REsponse" should not be on summary slide
+* Just TWO things on summary slide (one for lecture, one for reading)
+** TWO keywords in slide
+** TWO sentences in notes
+* Ignore "write a response: instructions
+* Response should only be on "Learning Reflection" slide
+* 
 
-### 2D) Write three good discussion questions
+### 2E) Learning Reflection
+* What was easy? What was difficult? Move the ticks. 
+* Write a personal response: http://alba-english.org/Style%20-%20write%20a%20response.html
+
+### 2F) Write three good discussion questions
 Good discussion questions must start THREE DISCUSSIONS about the topic!
 See [[Study Skills - ask good questions]] for example patterns
 * No quiz questions - questions with a "right answer" do not start a good discussion.
@@ -111,7 +124,7 @@ See [[Study Skills - ask good questions]] for example patterns
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
 
-### 2E) Add APA citations 
+### 2G) Add APA citations 
 * See [[Invention - use APA format in the text]]
 * TWO places for APA "In the text" citations:
 ** At the bottom of each slide. Make it clear which slides used which source
@@ -126,11 +139,18 @@ See [[Study Skills - ask good questions]] for example patterns
 
 # Step 3: Present
 * Present, including your summary and response
-** Notes OK, but will make eye contact more difficult 
-** A4 printed sheet is easiest. Tablet OK. Phone too small. Laptop too big.
-* Finish by 
-** reading your summary
-** leading a discussion using your questions
+* Presentations work best if you remember the material, and use the keywords on the slide to remind you about details and what to say
+* Notes are OK, but will make eye contact and gestures more difficult 
+** General tip: Make sure the text is big enough to read
+** Don't use "presenter notes" in PowerPoint or Google Slides on Zoom. For normal presentations they are OK.
+** If you can buy or make them, index cards work well: https://www.amazon.co.jp/s?k=index+cards
+** No floppy paper - A4 is too big. B5 notebook better
+** Devices OK: Tablets best. Phone usually too small. Laptops too big unless they are small foldable ones.
+
+* Finish
+** Read your summary
+** Quickly review "learning reflection" and response
+** Lead a discussion using your questions
 * Remember to SUBMIT your slides on Google Classroom. 
 ** Malc will check
 ** If this is practice, I will give feedback

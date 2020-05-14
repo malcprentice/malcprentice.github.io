@@ -2,6 +2,7 @@ academicearth.org: http://academicearth.org/
 alba-english.org: http://alba-english.org
 alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20for%20reference%20lists.html#
 alba-english.org: http://alba-english.org/Invention%20-%20use%20APA%20format%20in%20reference%20lists.html#
+alba-english.org: http://alba-english.org/Style%20-%20write%20a%20response.html
 archive.catholicherald.co.uk: http://archive.catholicherald.co.uk/article/20th-february-2009/12/dont-bully-the-faithful-into-buying-fairtrade
 azlyrics.com: http://azlyrics.com
 bigthink.com: http://bigthink.com/topics
@@ -396,6 +397,7 @@ translate.google.com: https://translate.google.com/translate?sl=auto&tl=ja&u=htt
 eb.archive.org: https://web.archive.org/web/20160602044625/http://www.qub.ac.uk/
 hc.unesco.org: https://whc.unesco.org/en/danger/
 ikis.engrade.com: https://wikis.engrade.com/apanumbers
+amazon.co.jp: https://www.amazon.co.jp/s?k=index+cards
 charitynavigator.org: https://www.charitynavigator.org
 cites.org: https://www.cites.org/
 codechef.com: https://www.codechef.com/
