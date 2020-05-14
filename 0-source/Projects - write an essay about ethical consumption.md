@@ -11,7 +11,7 @@ By the end of this project you will be able to:
 ** Cite your sources (出典を引用します) in "APA style" (アメリカ心理学会論文作成)
 
 # Essay Project Unit 1 - Introduction 
-* You __do not have to submit anything__ for Homework 1. 
+* You __do not have to submit anything__ for Unit 1. 
 * Just think, read, listen and __take notes__
 * Email me if you have questions.
 

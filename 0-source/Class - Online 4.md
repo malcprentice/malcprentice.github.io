@@ -27,19 +27,18 @@ Go to [[Projects - write an essay about ethical consumption]]
 ## Participation Plan
 * How to [[Study Skills - make a participation plan]]
 
-
 # Homework AFTER this class
 * Continue your regular vocab homework (V2)
 ** __Don't__ number them 1-10 or 1-15!
 ** __Continue__ your numbering (11,12,13 or 16,17,18)
-** __DO NOT EMAIL.__ J
+** __DO NOT SUBMIT__ 
 ** Just keep going - I will check again mid-term and the end of term. 
 * Continue your regular Quickwrite homework with QW2
 ** __DO NOT SUBMIT.__ 
 ** Just keep going - I will check again mid-term and the end of term. 
 * Start new regular SR homework
 ** Do SR1 and SR2
-** Add your times and scores to your chart. 
+** Add your times and scores to your chart regularly
 * Complete "Project Homework 2 - choose a topic"
 * [[Study Skills - make a participation plan]]
 * __EMAIL MALC__ your topic idea and your participation plan

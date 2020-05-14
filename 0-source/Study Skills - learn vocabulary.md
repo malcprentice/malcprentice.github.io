@@ -9,80 +9,57 @@ If you don't understand what to do:
 
 # 1) Find the recommended word list
 * The vocabulary sheet link will be posted in Google Classroom. 
-* If you can't find it, or you are early it is ALSO here: https://docs.google.com/spreadsheets/d/1H_Gt5v5A9-_r3Cne4mkiYKjg_WM1hxWzEaQ-REMV0as/edit?usp=sharing
-* __If__ you get the "request access" (権限が必要です) message:
-** __do not__ request access
-** go back to Gmail
-** check you are using @soka-u.jp
-** click the link again
 
 # 2) Choose words to learn
 * Read down the list
-* Ignore words you already know.  
-* __Choose words you don't know.__  
-* Keep going until you have enough words
+* Delete words you already know.  
+* Keep words you do know
+* Keep going until you have enough words for at least the next class
 
 __How many words?__
 * SSB, ECS, EITC
-** __10 words__ per class 
+** __10 words__ per class, 25 classes 
 ** (total 250)
 * GCP 
-** __15 words__ per class 
+** __15 words__ per class, 25 classes 
 ** (total 375)
 
-# 3) Copy the words you choose into your notebook
-* Copy three things: English+Japanese+品詞
-* Number your words 1,2,3,4,etc
 
-__It should look like this:__
-Number  |English  |Japanese  |POS (品詞)
----     |-------- |--------- |---------
-1       |hear     |聞く       |verb
-2       |several  |数個の     |adj
-3       |word     |単語       |noun
-4       |card     |カード     |noun
-etc.    |          |         | 
-
-* Notebook can be paper or electronic. I don't care. Just keep all your words together in one place. 
-* "Number" means __YOUR__ number, not Malc's list number
-
-
-# 4) Study!
+# 3) Study!
 * Don't just copy, study! 
 * Any method is OK. __Your choice.__ For example:
-** Just study your notebook - cover and check 
+** Just study your list - cover with your hand and check 
 ** Use Word cards (単語カード)
 ** Write sentences 
 ** Copy each word 10 times
-** Use Memrise: https://www.memrise.com/
-** Use  Quizlet: https://quizlet.com/
+** Upload your list to Memrise: https://www.memrise.com/
+** Upload your list to  Quizlet: https://quizlet.com/
 
-__Any method is OK, but <green> also keep your notebook</green>__ 
+__Any method is OK, but <green> also keep the original list</green>__ 
 * Your partner needs a list to test you in class 
 * We need a list in class 28 to make your vocab test 
 
 # HOMEWORK - What will be checked?
 ## First vocab homework (for class 3)
-* Finish your first list
-* Take a photo/screenshot of your notebook 
-* EMAIL it to Malc
-* Remember to [[Study Skills - write a well formatted email]]
-** Use "Example email 1: Here is my homework"
-** Homework code is V1
-** e.g. subject "Hiroko Sato - SSB/ECS/EITC/GCP - V1"
+* Submit Vocab 1 using Google Classroom
+* Malc will check your Google Classroom list and return it if it is OK
 
 ## Every class (for class 3, 4, 5, 6..., & 27)
-* If we are online 
-** Don't email a photo every week
-** Malc will ask to check your notebook occasionally 
-** Just keep studying. 
-
+* DO not submit on Google Classroom, just keep going
+* If we are online, just keep studying. 
 * If we are on campus
 ** You will test your partner 
 ** Forget homework = -1 point from "Participation" grade
 
+## Mid-term check
+* Submit for the second time on Google Classroom
+* Malc will check your Vocab again - have you done __half__ the minimum?
+
 ## At the end of term (class 28)
-### On campus
+* Submit for the final time on Google Classroom
+* Malc will check your Vocab again - have you __finished__ the minimum?
+
+### On campus? Test!
 * One test (10%) on YOUR words. 
 ** Randomly chosen from all your words
 ** 5 words Japanese-English translation
@@ -91,15 +68,11 @@ __Any method is OK, but <green> also keep your notebook</green>__
 ** Must be correct POS (品詞)
 ** Translations with same meaning OK
 
-### Still online at the end of term?
+### Online? No test.
 There will be no test - I will grade your notebook 
 * Is it complete?
-** Enough words
-** Correct information (Number+English+Japanese+品詞)
+** Enough words?
 ** Word difficulty matches your level (e.g. students with a 300+ TOEIC score shouldn't be learning "red" or "cat")
-
-
-
 
 # Advanced class options
 ## Finished the lists? 
