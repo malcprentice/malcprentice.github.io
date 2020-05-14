@@ -50,8 +50,8 @@ Anything related to topic OK!
 * In step 2, you will learn how to Arrange and Present your notes
 
 
-# Step 2: Get your Presentation ready
-### 2A) Find the template
+# Step 2: Get your Presentation ready (9 slides minimum)
+### Find the template
 * I will share "Template for Outline" on Google Classroom later
 * Read the notes! 
 * Read the rubric 
@@ -59,9 +59,18 @@ Anything related to topic OK!
 ** "Hiroko Sato - SSB - RR1"
 ** "Hiroki Sato - ECS - RR2"
 ** "Hiroki Sato - GCP - RR3"
+
+### Slide 1
 * Change the Title, information
 
-### 2B) Type up your notes in correct format
+### Slide 2
+Give 3 keywords
+* General background e.g. Global warming, Canada, Penguins
+* Specific background e.g. Typhoons increasing, Toronto, Emperor penguins
+* Importance background - optional - only if it is not clear why I should care about penguins
+
+
+### Slide 3/4/5) Type up your notes in correct format
 * Use the template to get proper formatting
 ** No lonely bullet points!
 ** No strange font sizes or colours. Formatting has meaning!
@@ -69,47 +78,31 @@ Anything related to topic OK!
 ** Notes are keywords. 
 ** Sentences are only for Questions and Summary
 * No copy pasting! [[Invention - recognise and avoid plagiarism]]
+* Don't forget the APA citation
+* NO penguins! Change the images. 
+** Images can just be for decoration, no APA citation necessary
+** Charts and maps etc are better, but if you use one give the APA citation
 
-### 2C) Write a summary
+### Slide 6) Write a summary
 * One summary sentence for the lecture 
 * One summary sentence for the reading
 * Make the link between them CLEAR (support? disagree? disprove? add detail?)
 * See [[Style - write a summary sentence]]
 * Don't forget to cite BOTH articles in the summary
 
-|However, 		|Suzuki (2018, February 1) 	|says that
-|In fact, 		|Suzuki (2018, February 1) 	|notes that
-|Additionally, 	|Suzuki (2018, February 1) 	|points out that
-|For example, 	|Suzuki (2018, February 1) 	|describes
-
-|Link 				|SOURCE TYPE 			|source  					|citation word+  reading summary 		|Citation
-|--------------------|---------------		|---------------------------|---------------------------------------|---------------
-|However 			|, an article 			|in the Washington Post 	|notes that this is not true because X	|(Smith, 2019, January 1)
-|Despite this 		|, a law 				|passed by the US congress 	|has banned X 							|(Yamada, n.d.)
-|Meanwhile, 			|, protestors 			|are claiming that  		|this will have (no/real) impact, as X  |(UNESCO, 2017)
-|On the other hand 	|, data collected  		|by a survey agency 		|shows this is (un)true, since 			|("UNESCO," 2017)
-|Elsewhere, however 	|, similar work 		|by another GROUP 			|(does not) confirm this to be the case	|("Trees," 2016b)
-|In fact 		  	|, recent research by 	|scientists working for the UN|has (dis)proved 						|("Newts," 2018, June 3)
-|In addition			|, a report 			|by the Department of Work	|suggests otherwise, as X				|("Penguins," n.d.)
-|Supporting this 	|, recent evidence from |satellite imaging 			|clearly indicates that X 				|(Suzuki, 2017)
-|Confirming this are |recent reports  		|by local NGOs 				|that X 								|
-|Casting doubt on this|,a recent report 		|by a government spokesperson|rejects X 							|
-
-### 2D) Response
-* CORRECTION! There is an error in the slides I sent. 
-* "REsponse" should not be on summary slide
+### Slide 6 CORRECTION! There is an error in the Summary slide I sent. 
+* "Response" should not be on summary slide
 * Just TWO things on summary slide (one for lecture, one for reading)
-** TWO keywords in slide
-** TWO sentences in notes
-* Ignore "write a response: instructions
-* Response should only be on "Learning Reflection" slide
-* 
+** TWO keywords in summary slide
+** TWO sentences in summary notes
+* Ignore "write a response" 
+* Response should only be on "Learning Reflection" slide below
 
-### 2E) Learning Reflection
-* What was easy? What was difficult? Move the ticks. 
-* Write a personal response: http://alba-english.org/Style%20-%20write%20a%20response.html
+### Slide 7) Learning Reflection
+* What was easy? What was difficult? Move the green ticks. 
+* Write a personal response on THIS slide at bottom: http://alba-english.org/Style%20-%20write%20a%20response.html
 
-### 2F) Write three good discussion questions
+### Slide 8) Write three good discussion questions
 Good discussion questions must start THREE DISCUSSIONS about the topic!
 See [[Study Skills - ask good questions]] for example patterns
 * No quiz questions - questions with a "right answer" do not start a good discussion.
@@ -123,8 +116,7 @@ See [[Study Skills - ask good questions]] for example patterns
 ** e.g. this is banned: "How do you feel about TOPIC"
 ** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
-
-### 2G) Add APA citations 
+### Slide 9) Add APA citations 
 * See [[Invention - use APA format in the text]]
 * TWO places for APA "In the text" citations:
 ** At the bottom of each slide. Make it clear which slides used which source
