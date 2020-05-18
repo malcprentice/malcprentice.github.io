@@ -3,7 +3,7 @@ This is the simple version, for your first two essay projects
 * [[Projects - write an essay about ethical consumption]]
 * [[Projects - write an essay about endangered animals]]
 
-# Examples
+# Examples 
 First, read the GREEN example paragraph of each essay
 * [[Examples - example ethical consumption essay]]
 * [[Examples - example endangered animals essay]]
