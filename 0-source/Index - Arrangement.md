@@ -6,6 +6,7 @@
 [[Arrangement - write a detail sentence]]
 [[Arrangement - write a paragraph summary-link]]
 [[Arrangement - write a paragraph topic sentence]]
+[[Arrangement - write a problems paragraph]]
 [[Arrangement - write a sectional essay]]
 [[Arrangement - write a specific genre]]
 [[Arrangement - write a summary-response]]

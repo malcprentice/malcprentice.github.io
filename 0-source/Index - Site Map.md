@@ -9,6 +9,7 @@
 [[Arrangement - write a detail sentence]]
 [[Arrangement - write a paragraph summary-link]]
 [[Arrangement - write a paragraph topic sentence]]
+[[Arrangement - write a problems paragraph]]
 [[Arrangement - write a sectional essay]]
 [[Arrangement - write a specific genre]]
 [[Arrangement - write a summary-response]]
@@ -17,8 +18,6 @@
 [[Arrangement - write an introduction - overview]]
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
-##Arrrangement
-[[Arrrangement - write a problems paragraph]]
 ##Class
 [[Class - Online 1 - basics for online]]
 [[Class - Online 2 - understand the course]]

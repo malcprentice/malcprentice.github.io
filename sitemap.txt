@@ -11,6 +11,7 @@ http://www.alba-english.org/Arrangement - write a description paragraph.html
 http://www.alba-english.org/Arrangement - write a detail sentence.html
 http://www.alba-english.org/Arrangement - write a paragraph summary-link.html
 http://www.alba-english.org/Arrangement - write a paragraph topic sentence.html
+http://www.alba-english.org/Arrangement - write a problems paragraph.html
 http://www.alba-english.org/Arrangement - write a sectional essay.html
 http://www.alba-english.org/Arrangement - write a specific genre.html
 http://www.alba-english.org/Arrangement - write a summary-response.html
@@ -19,7 +20,6 @@ http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
 http://www.alba-english.org/Arrangement - write an introduction paragraph background.html
 http://www.alba-english.org/Arrangement - write an introduction thesis statement.html
-http://www.alba-english.org/Arrrangement - write a problems paragraph.html
 http://www.alba-english.org/Class - Online 1 - basics for online.html
 http://www.alba-english.org/Class - Online 2 - understand the course.html
 http://www.alba-english.org/Class - Online 3.html
