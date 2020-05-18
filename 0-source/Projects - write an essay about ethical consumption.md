@@ -287,7 +287,7 @@ Remember - solutions do not need to be specific
 
 ### For homework by next class
 * Finish and submit outline (draft 2).
-** <red>This __will be graded (10%)__</red>
+** <red>This __will be graded (10%)__ </red>
 ** You must use APA style
 * Find "Template for Essay" on Google Classroom
 * Change your name, title, etc
