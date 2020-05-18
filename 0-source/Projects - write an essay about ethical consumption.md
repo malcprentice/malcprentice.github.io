@@ -1,4 +1,4 @@
-#Aim 
+# Aim 
 We will write an essay about ethical consumption (倫理的消費) and learn why we need to think carefully about people and the environment before we buy things.
 
 By the end of this project you will be able to:
@@ -280,67 +280,70 @@ Remember - solutions do not need to be specific
 # Project Unit 5  
 ### In class
 * Check questions about outline draft 1 feedback
-* Learn about writing paragraph A
+* Learn about writing paragraph P (green in example)
 ** I will share the template for writing
 ** I will explain about Style
 ** I will review Presentation
 
 ### For homework by next class
 * Finish and submit outline (draft 2).
-** <red>This will be graded (10%)</red>
+** <red>This __will be graded (10%)__</red>
 ** You must use APA style
 * Find "Template for Essay" on Google Classroom
 * Change your name, title, etc
-* Write paragraph A ("Problems")
+* Write <green>paragraph P </green>("Problems") - the <green>green</green> one in the example
+** See [[Arrangement - write a problems paragraph]]
 ** 12 sentences minimum, 15 maximum
-** DO NOT WRITE ALL FIVE PARAGRAPHS NOW. JUST PARAGRAPH A
+** DO NOT WRITE ALL FIVE PARAGRAPHS NOW. JUST <green>PARAGRAPH P</green>
 ** Click "SUBMIT" on Google Classroom when you are done
 ** You will not be able to change it until I give feedback. 
- 
+
+
+
 
 # Project Unit 6 
 ### In class
 * Check everyone submitted outline draft 2
-* Check everyone submitted A
-* Learn other Writing and Study skills (we start B next week)
+* Check everyone submitted <green>P</green>
+* Learn other Writing and Study skills (we start S next week)
 
 ### For homework by next class
-* Read the feedback I sent on A. Feedback should be ready by Friday evening
+* Read the feedback I sent on <green>P</green>. Feedback should be ready by Friday evening
 
 # Project Unit 7 
 ### In class
-* Ask questions about the feedback on A
-* Learn how to write B
+* Ask questions about the feedback on <green>P</green>
+* Learn how to write Paragraph <red>S</red> - the red one in the example
 
 ### For homework by next class
 * Fix A 
-* Write B
+* Write S
 * Submit your essay again, including 
-** A2: A draft 2 - <red>will be graded (10%)</red>
-** B1: B draft 1 - will get feedback
+** P2: <green>P draft 2</green> - __will be graded (10%)__
+** S1: <red>S draft 1</red> - will get feedback
 
 # Project Unit 8 
 ### In class
-* Check everyone sent A+B
-* Learn other Writing and Study skills (we start C next week)
+* Check everyone sent <green>P draft 2</green> + <red>S draft 1</red>
+* Learn other Writing and Study skills (we start <blue>D</blue> next week)
 
 ### For homework by next class
-* Read and understand your grade for A. Avoid making the same mistakes on B
-* Read the feedback I sent on B. Feedback should be ready by Friday evening
+* Read and understand your grade for <green>P</green>. Avoid making the same mistakes on <red>S</red>
+* Read the feedback I sent on <red>S</red>. Feedback should be ready by Friday evening
 
 # Project Unit 9 
 ### In class
-* Ask questions about the grade on A
-* Ask questions about the feedback on B
-* Learn how to write C
+* Ask questions about the grade on P
+* Ask questions about the feedback on <red>S</red>
+* Learn how to write <blue>D</blue>
 
 ### For homework by next class
-* Fix B
-* Add C
+* Fix <red>S</red>
+* Add <blue>D</blue>
 * Submit your essay again, including 
 ** A (finished)
-** B2: B draft 2 - <red>will be graded (10%)</red>
-** C1: C draft 1 - will get feedback
+** S2: <red>S</red> draft 2 -  __will be graded (10%)__ 
+** D1: <blue>D draft 1</blue> - will get feedback
 
 # Project Unit 10 
 ### In class
@@ -348,20 +351,20 @@ Remember - solutions do not need to be specific
 * Learn other Writing and Study skills (we start Intro/Conclusion next week)
 
 ### For homework by next class
-* Read and understand your grade for B. Avoid making the same mistakes on C
-* Read the feedback I sent on C. Feedback should be ready by Friday evening
+* Read and understand your grade for <red>S</red>. Avoid making the same mistakes on D
+* Read the feedback I sent on <blue>D</blue>. Feedback should be ready by Friday evening
 
 # Project Unit 11 
 ### In class
-* Ask questions about the grade on B
-* Ask questions about the feedback on C
+* Ask questions about the grade on <red>S</red>
+* Ask questions about the feedback on <blue>D</blue>
 * Learn how to write Intro/Conclusion
 
 ### For homework by next class
 * Submit your essay again, including 
-** A (finished)
-** B (finished)
-** C2: C draft 2 - <red>will be graded (10%)</red>
+** P (finished)
+** <red>S</red> (finished)
+** D2: <blue>D</blue> draft 2 - __will be graded (10%)__ 
 ** Intro and Conclusion, Draft 1 (will get feedback)
 
 # Project Unit 12 
@@ -370,18 +373,18 @@ Remember - solutions do not need to be specific
 * Learn other Writing and Study skills 
 
 ### For homework by next class
-* Read and understand your grade for C. Avoid making the same mistakes in future
+* Read and understand your grade for <blue>D</blue>. Avoid making the same mistakes in future
 * Read the feedback I sent on Intro/Conclusion
 * Feedback should be ready by Friday evening
 
 # Project Unit 13 
 ### In class
-* Ask questions about the grade on C
+* Ask questions about the grade on <blue>D</blue>
 * Ask questions about the feedback on Intro/Conclusion
 * Learn other Writing and Study skills 
 
 ### For homework by deadline
-* Submit FULL essay  (Intro-C-A-B-Conclusion)
-* Intro and Conclusion <red>will be graded (10%)</red>
+* Submit FULL essay  (Intro-<blue>D</blue>-<green>P</green>-<red>S</red>-Conclusion)
+* Intro and Conclusion __will be graded (10%)__ 
 * See syllabus for deadline
 

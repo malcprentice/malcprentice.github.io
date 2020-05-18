@@ -17,6 +17,8 @@
 [[Arrangement - write an introduction - overview]]
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
+##Arrrangement
+[[Arrrangement - write a problems paragraph]]
 ##Class
 [[Class - Online 1 - basics for online]]
 [[Class - Online 2 - understand the course]]
