@@ -286,17 +286,17 @@ Remember - solutions do not need to be specific
 ** I will review Presentation
 
 ### For homework by next class
-* Finish and submit outline (draft 2).
-** <red>This __will be graded (10%)__ </red>
-** You must use APA style
-* Find "Template for Essay" on Google Classroom
-* Change your name, title, etc
-* Write <green>paragraph P </green>("Problems") - the <green>green</green> one in the example
-** See [[Arrangement - write a problems paragraph]]
-** 12 sentences minimum, 15 maximum
-** DO NOT WRITE ALL FIVE PARAGRAPHS NOW. JUST <green>PARAGRAPH P</green>
-** Click "SUBMIT" on Google Classroom when you are done
-** You will not be able to change it until I give feedback. 
+* 1) Finish and submit outline (draft 2).
+** This __will be graded (10%)__
+** You must use APA style this time
+* 2) Find "Template for Essay" on Google Classroom
+** Change your name, title, etc
+** Write <green>paragraph P </green>("Problems") - the <green>green</green> one in the example
+*** See [[Arrangement - write a problems paragraph]]
+*** 12 sentences minimum, 15 maximum
+*** DO NOT WRITE ALL FIVE PARAGRAPHS NOW. JUST <green>PARAGRAPH P</green>
+*** Click "SUBMIT" on Google Classroom when you are done
+*** You will not be able to change it until I give feedback. 
 
 
 
