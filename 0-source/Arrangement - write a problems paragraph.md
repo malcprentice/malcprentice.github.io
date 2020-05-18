@@ -16,36 +16,39 @@ This is the simple version - just copy and change.
 For more advanced options, see the bottom
 
 + <green>Problems paragraph P </green>
-+ Sentence 1: "This paragraph looks at three ways in which production of X causes problems - KEYWORD1, KEYWORD2, and KEYWORD3."
-+ Sentence 2: Cohesion "The first problem is KEYWORD"
-+ Sentence 3: Detail sentence of KEYWORD 1 (APA reference)
-+ Sentence 4: LINK WORD + second detail sentence of KEYWORD 1
-+ Sentence 5: Cohesion "The second problem is KEYWORD 2"
-+ Sentence 6: Detail sentence of KEYWORD 2
-+ Sentence 7: LINK WORD + second detail sentence of KEYWORD 2
-+ Sentence 8: Cohesion "The third problem is KEYWORD 3"
-+ Sentence 9: Detail sentence of KEYWORD 3
-+ Sentence 10: LINK WORD + second detail sentence sentences of KEYWORD 3
-+ Sentence 11: Summary ("In summary, there are three main problems - KEYWORD1, KEYWORD2, and KEYWORD3 - of which the most serious is [CHOOSE ONE KEYWORD]")
-+ Sentence 12: Link to solutions paragraph ("However, the next paragraph examines some possible solutions to these issues.")
+++ __Sentence 1:__ "This paragraph looks at three ways in which production of X causes problems - KEYWORD 1, KEYWORD 2, and KEYWORD 3."
+++ __Sentence 2:__ "The first problem is KEYWORD 1"
++++ __Sentence 3:__ Detail sentence of KEYWORD 1 (APA reference). 
++++ __Sentence 4:__ LINK WORD + second detail sentence of KEYWORD 1 (APA reference). 
+++ __Sentence 5:__ "The second problem is KEYWORD 2"
++++ __Sentence 6:__ Detail sentence of KEYWORD 2 (APA reference). 
++++ __Sentence 7:__ LINK WORD + second detail sentence of KEYWORD 2 (APA reference). 
+++ __Sentence 8:__ "The third problem is KEYWORD 3"
++++ __Sentence 9:__ Detail sentence of KEYWORD 3 (APA reference). 
++++ __Sentence 10:__ LINK WORD + second detail sentence sentences of KEYWORD 3 (APA reference). 
+++ __Sentence 11:__ Summary ("In summary, there are three main problems - KEYWORD1, KEYWORD2, and KEYWORD3 - of which the most serious is [CHOOSE ONE KEYWORD]. ")
+++ __Sentence 12:__ Link to solutions paragraph ("However, the next paragraph examines some possible solutions to these issues. ")
 
 ## What is a KEYWORD?
 * Simple answer: use only noun or short noun phrase
 * Advanced options: [[Style - use keywords]]
 
 ## What is a "LINK WORD"
-* "For example" or "However" or "In addition"
+* Tell me how your detail 1 and detail 2 sentences are connected
+* e.g. "For example" or "However" or "In addition"
 * See [[Style - use cohesion]]
 
 # Advanced options
 ## 1) Add up to 3 more sentences
-If you have more to say, you could add one more detail sentence to each keyword, for a maximum of 15 sentences. Any more and it will start getting too long. 
+* If you have more to say, you could add more detail sentences 
+* No more than one per point (after sentence 4, 7, or 10)
+* Maximum of 15 sentences total.   
 
 ## 2) Try other sentence styles 
 There are other ways of writing each sentence. 
 * For example, your topic sentence:
 ** You could write instead "This paragraph looks at three ways in which people making X are experiencing problems - KEYWORD1, KEYWORD2, and KEYWORD3"
 ** For more examples, see [[Arrangement - write a paragraph topic sentence]]
-* FOr example your paragraph summary (sentence 11): 
+* See [[Index - Style]] for options on various sentence types.
 
  
