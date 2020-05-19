@@ -16,10 +16,10 @@ By the end of this page, you will know
 
 What you do                     |How to do it                                   |How to prove it 					|<red>Online 2020</red>
 --------------------------------|---------------                                |----------------					|-------------------------
-English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  |VIP card(EF 印鑑)///or EF sheet		|Probably OK ///I will confirm later
-Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑)///or WF sheet 	|Probably not OK ///I will confirm later
-Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|No
-Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|No
+English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  |VIP card(EF 印鑑)///or EF sheet		|Yes
+Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑)///or WF sheet 	|Yes
+Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|Yes
+Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|Yes
 Official Exam (TOEIC or TOEFL)  |See PLAS announcements. ///Only December is free  |Show/Email me your score 		|Maybe, but only December is free
 Attend Malc's office hour       |[[Schedules - Malc's schedule]]///Email for appointment |Attend! 					|Yes! By Zoom. ///Email for appointment
 
