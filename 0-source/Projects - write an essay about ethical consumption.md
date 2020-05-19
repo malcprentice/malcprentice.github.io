@@ -87,7 +87,7 @@ Do not choose:
 ** not tantalum (the video)
 
 ### 4) Claim your topic 
-* Check the group list on the scratchpad
+* Check the group list on Classroom
 * If you someone has already chosen your topic, choose a new topic
 * If not, claim your topic by writing it on the list ("Hiroko - Cotton")
 

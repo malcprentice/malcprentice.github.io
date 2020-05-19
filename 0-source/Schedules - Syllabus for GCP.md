@@ -12,11 +12,11 @@ Objectives are same for both semesters, but more is expected in semester two.
 # Evaluation/Assessment
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
-Drafting process A          |10%    |Given in class
-Project A (Research Paper)  |10%    |Given in class
-Drafting process B          |10%    |Given in class
-Project B (Research Paper)  |10%    |Given in class    
-Project C (Presentation)    |10%    |Given in class
+Drafting process (outline)  |10%    |Given in class
+Paragraph P  				|10%    |Given in class
+Paragraph S 				|10%    |Given in class    
+Paragraph D 				|10%    |Given in class   
+Paragraphs I&C 				|10%    |Given in class   
 Participation               |10%    |[[Study Skills - make a participation plan]]    
 Mini presentations          |10%    |Given in class///Number depends on class size
 Vocabulary Project (V)      |10%    |Minimum 375 words///See [[Study Skills - learn vocabulary]]
