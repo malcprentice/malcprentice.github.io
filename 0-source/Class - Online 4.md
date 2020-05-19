@@ -24,8 +24,10 @@ In this class, you will learn how to:
 * Continue your regular vocab homework (V2, words 16, 17, 18, etc)
 * Continue regular homework (QW2, V2) but __DO NOT SUBMIT.__  I will check again mid-term.
 * Do SR1 and SR2. Add your times and scores to your chart
-* Complete "Project Homework 2 - choose a topic". BE ready to explain your topic in class next week
-* Email Malc: [[Study Skills - make a participation plan]]
+* Complete "Project Homework 2 - choose a topic". Be ready to explain your topic next class
+* Email Malc your participation plan: 
+** [[Study Skills - make a participation plan]]
+** Remember to [[Study Skills - write a well formatted email]]
 
 
 
