@@ -54,8 +54,9 @@ Mbubi, B. (2012, April). Demand a Fair Trade Cell Phone. Retrieved from <a href 
 * https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
 
 # Essay Project Unit 2 
-* Just do a little research
-* Enough to decide - is your topic good or not?
+* In this unit you will 
+** Review homework
+** Learn how to do the homework - Choose your topic and do a little research. 
 
 ### 1) Make a list of products  
 * things you used this week
@@ -85,95 +86,76 @@ Do not choose:
 ** not palm oil (the example essay)
 ** not tantalum (the video)
 
-### 5) Research your topic A LITTLE
-For now, research __a little__ to check it is a good topic:
-* Google your topic
-* Research in Japanese/your language is OK. 
-* Read ANYTHING, even bad sources like Wikipedia
-* Notes in Japanese/your language are OK. 
+### 4) Claim your topic 
+* Check the group list on the scratchpad
+* If you someone has already chosen your topic, choose a new topic
+* If not, claim your topic by writing it on the list ("Hiroko - Cotton")
 
-Ask yourself: 
-* Does buying it cause __three__ problems?
-** e.g. pollution, child labour, conflict
-** e.g. poverty, dangerous working conditions
-* Please focus on problems
-** for the people who MAKE IT 
-** for the people who live where it is made
-** for the environment 
-** when it is recycled or thrown away
-* Please DO NOT focus on problems for people who buy it
-** Our problems are not the point. 
-** We can just stop buying it!
-** e.g. "tobacco farms use child labour", not "tobacco gives people cancer" 
-** e.g. "meat production causes global warming", not "eating hamburgers makes me fat"  
-
-* Does it have  __three__ solutions
-** e.g. NGO, NPO, making laws
-** e.g. reduce, reuse, recycle
-** e.g. stop buying, buy something else, 
 
 ### Homework by next class: 
-Email Malc your idea to check 
-You should be able to write:
-* "I chose TOPIC"
-* "TOPIC is ... It ..."
+Research your topic __a little__ to check it is a good topic:
+* Google your topic + "problem" or "solution" or the example keywords
+* Read Japanese/English/anything OK
+* Notes in English 
+* Read bad sources if you want (Wikipedia, Quora, etc) but no notes!
+* Complete the  <green>green</green>, and <red>red</red> parts of this 
+** You homework is only to  __find 6 keywords__ - 3 problems and 3 solutions
+** KEYWORD = NOUN or short noun phrase NOT sentences. 
+** If you can't find 6 keywords, __change your topic!__
+
+### Example outline (step 2)
++ Problems
+++ Problem 1: <green>KEYWORD</green>
+++ Problem 2: <green>KEYWORD</green>
+++ Problem 3: <green>KEYWORD</green>
++ Solutions
+++ Solution 1: <red>KEYWORD</red>
+++ Solution 2: <red>KEYWORD</red>
+++ Solution 3: <red>KEYWORD</red> 
+
+### Example keywords
+* Problems 
+** (probably NOUNS)
+** child/slave labour, conflict, poverty, dangerous working conditions, deforestation, air/water/sea/soil pollution 
+* Solutions 
+** (probably GROUP NAMES or ING verbs)
+** e.g. NGO name (UNICEF), NPO name (Fair Trade), making laws, reducing, reusing, recycling, buying X instead, campaigning
+
+  
+
+### IMPORTANT TIPS
+* 1) Focus on problems and solutions for people who make it (workers, farmers) and the environment. NOT on people who buy it (they can just stop) or large companies. For example, "tobacco farms use child labour" rather than "tobacco gives you cancer" or "tobacco company profits will go down"
+* 2) Solutions do not need to match problems exactly. For example, if your problem is "water pollution", you might not need a "clean water" solution. You could instead focus on recycling, poverty, global warming, trade laws - anything that stops the water in that area getting polluted in the first place.
+
+ 
+# Essay Project Unit 3 
+### Homework before class
+You should be ready to tell the class
+* "I chose TOPIC" _(+definition if others students don't know that word)_
 * "There are three main problems - 1, 2, and 3"
 * "There are three main solutions - 1, 2, and 3."
 
 For example
-> " __I chose__ Tantalum. Tantalum __is__ a kind of metal used in electronic devices. It comes from Central Adrica. __There three main problems -__ child soldiers, dangerous mines, and pollution. __There are three main solutions__ - fair trade phones, recycling, and UNICEF's work in the Congo"
- 
-# Essay Project Unit 3 
-### Aim of class
-We will improve out outline
-* Outline templates
-* Arrangement - planning your essay
+> " __I chose__ Tantalum. _Tantalum is a metal used to make electronics like mobile phones._  __There three main problems -__ child soldiers, dangerous mines, and pollution. __There are three main solutions__ - fair trade phones, recycling, and UNICEF's work in the Congo"
 
-* Find the simple outline on Google Classroom
-** You have done the __BOLD BITS__ already. 
-** Homework is to add new <red>details</red> 
 
-+ Introduction (Paragraph I)
-++ GENERAL TOPIC __(things we buy, e.g. mobile phone)__
-++ SPECIFIC TOPIC __(one thing in a phone = Tantalum)__
-+ DESCRIPTION of topic (paragraph D)
-++ Definition __("Kind of metal used in electronic devices")__
-++ Time order <red>detail</red> (how is it made?)
-++ Other detail __("Comes from Central Africa")__
-++ Other <red>detail</red>
-+ Three PROBLEMS (paragraph P)
-++ 1 __(Child soldiers)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-++ 2 __(Dangerous mines)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-++ 3 __(Pollution)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-+ Three SOLUTIONS (Paragraph S)
-++ 1 __(Fair Trade)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-++ 2 __(Recycling)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-++ 3 __(UNICEF's work)__
-+++ <red>detail</red>
-+++ <red>detail</red>
-+ Conclusion (Paragraph C)
+### Homework after class
+* Add more detail to <green>problems</green> and <red>solutions</red>
+* Start using the online outline (Google Classroom)
+** Homework is to add more detail
+
 
 ### Homework
 * Find the template assignment on Google Classroom
 * Read the suggestions below (and read the example essay again if it is confusing)
-* Read 6-8 things - 3-4 English, 3-4 your language
+* Read 6-8 more things - 3-4 English, 3-4 your language
 * Take notes only in English
 * Research three paragraphs: 
 ** Description (What is your topic, how is it made)
 ** Problems (more detail on your chosen problems)
 ** Solutions (summmaries of your 3 chosen solutions + if they  work well or not)
 ** Not necessary to research Introduction or Conclusion
-* TYPE your new <red>details</red> into the red bits of the outline I sent
+* TYPE your new details into the red, blue, and green bits of the outline
 ** Keywords and short phrases! 
 ** Don't write sentences yet!
 * Deadline is next WRITING class (May 11), not next class
@@ -185,62 +167,60 @@ We will improve out outline
 ** Do not copy-paste English notes!
 ** Read, understand, and write your own notes
 ** Advanced version: [[Invention - recognise and avoid plagiarism]]
+ 
+### Example outline (step 3)
+You chose the __BOLD KEYWORDS__ already, last week. However, if you find something better, you can change them. Or even change your topic. Check with me first though.  
 
++ Introduction (Paragraph I)
+++ GENERAL TOPIC (things we buy, e.g. mobile phone)
+++ SPECIFIC TOPIC (one thing in a phone = Tantalum)
++ DESCRIPTION of topic (paragraph <blue>D</blue>)
+++ Definition ("Kind of metal used in electronic devices")
+++ Time order detail (how is it made?)
+++ Other detail ("Comes from Central Africa")
+++ Other detail
++ Three PROBLEMS (paragraph <green>P</green>)
+++ 1 __(child soldiers)__
++++ <green>detail</green>
++++ <green>detail</green>
+++ 2 __(dangerous mining conditions)__
++++ <green>detail</green>
++++ <green>detail</green>
+++ 3 __(water pollution)__
++++ <green>detail</green>
++++ <green>detail</green>
++ Three SOLUTIONS (Paragraph <red>S</red>)
+++ 1 __(buying a Fair Trade phone)__
++++ <red>summary of solution</red>
++++ <red>response (is solution working?)</red>
+++ 2 __(recycling electronics better)__
++++ <red>summary of solution</red>
++++ <red>response (is solution working?)</red>
+++ 3 __(making new laws)__
++++ <red>summary of solution</red>
++++ <red>response (is solution working?)</red>
++ Conclusion (Paragraph C)
 
-
-### Suggestions for researching "What is your topic?" (paragraph D)
-* What kind of thing is it? ("Definition")
-* How many kinds are there ("Partition")
-* Is it the same as something we know ("Comparison")
-* How is it made?  ("Time Order")
-* What is it's history? ("Time Order")
-* What else do you know? ("Details"). For example:
+### Suggestions for researching <blue>Description paragraph</blue>
+* One of these (you choose):
+** What kind of thing is it? ("Definition")
+** How many kinds are there ("Partition")
+* One of these (you choose):
+** Is it the same as something we know ("Comparison")
+** How is it made?  ("Time Order")
+** What is it's history? ("Time Order")
+* One "Other detail" fact about anything:
 ** Where does it come from?
 ** Who makes it?
 ** What is it used for?
 ** When was it discovered?
+* One "Other detail showing size of problem" fact:
+** How much/many are made
+** How often? 
+** How few?
 
-### Suggestions for researching "Problems" (paragraph P)
-** Preparation (e.g. deforestation by fire)
-** Collection (e.g. mining pollution, slave labour)
-** Production (e.g. suicide by workers, factory collapses)
-** Recycling (e.g. pollution http://edition.cnn.com/2013/05/30/world/asia/china-electronic-waste-e-waste/) 
-* Think about the effect on people
-** People producing/collecting/assemblingrt/recycling it
-** People living near where it is made/recycled
-* Think about the effect on the environment
-** animals
-** plants
-** soil
-** air
-** water
-
-### Suggestions for researching SOLUTIONS (paragraph S part 1)
-* Things NGOs, governments can do
-** UN treaties (CITES)
-** International Laws (trade, customs)
-** Country Laws (import bans)
-** NGO for specific issue (Tantalum) or are (Congo)
-** NGO for general problem (UNICEF, MDF, MSF)
-* Things companies can do
-** Labels (FairTrade, Rainforest Alliance, Dolphin Safe)
-** Part of purchase goes to charity e.g. http://www.red.org/en/
-** Companies codes (e.g. Starbucks beans)
-* Things students can do
-** Reduce, Reuse Recycle, 
-** Campaign/Awareness solutions (letter writing).
-** Boycott / Protest
-
-Remember - solutions do not need to be specific
-* If cotton problems are about pollution, water, and working conditions
-** ...then solutions CAN be specific (pollution, water, and working conditions)
-** ...but solutions can ALSO be general (Fair Trade, recycle)
-* If refugee problems are food, health, and security...
-** ...then solutions CAN be specific (food, health, and security)
-** ...but solutions can ALSO be general (repatriation, resettlement, changing asylum policy)
-
-### Suggestions for researching RESPONSES (paragraph S part 2)
-* Are your solutions working well? How do you know? Try to give a number
+### Suggestions for Solution paragraph <red>response (is solution working?)</red> 
+ * Are your solutions working well? How do you know? Try to give a number
 ** "cases of X decreased by 60% in 2018"
 ** "number of X increased from 40% to 75% in 2019"
 ** "250,000 students have received X since 2015"
@@ -258,8 +238,6 @@ Remember - solutions do not need to be specific
 
 
 # Project Unit 4 
-* SSB/ECS/EITC: Class May 11, Homework due May 18)
-* GCP: TBC
 ### In class
 * Check homework was submitted (outline draft 1)
 * Answer questions about your research

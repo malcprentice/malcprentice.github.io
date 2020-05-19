@@ -1,5 +1,6 @@
 [[Examples - TOEFL Independent essay]]
 [[Examples - TOEFL Integrated essay]]
+[[Examples - essay outline step 1]]
 [[Examples - example argumentative essay]]
 [[Examples - example country case study]]
 [[Examples - example cover letter]]
