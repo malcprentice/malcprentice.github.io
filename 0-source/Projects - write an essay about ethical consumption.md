@@ -158,7 +158,7 @@ For example
 * TYPE your new details into the red, blue, and green bits of the outline
 ** Keywords and short phrases! 
 ** Don't write sentences yet!
-* Deadline is next WRITING class (May 11), not next class
+* Deadline is next WRITING class, next week, not next class
 * Use good sources
 ** Take notes on newspapers, government report, NGO site
 ** Don't use Dictionary,  Wikipedia, Question sites (e.g. About.com)
