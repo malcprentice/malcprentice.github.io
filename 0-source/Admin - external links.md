@@ -175,6 +175,7 @@ how-to-learn-any-language.com: http://www.how-to-learn-any-language.com/forum/fo
 humantrafficking.org: http://www.humantrafficking.org/combat_trafficking
 hurriyetdailynews.com: http://www.hurriyetdailynews.com/
 iibc-global.org: http://www.iibc-global.org/toeic/test/lr/about/format/sample01.html
+immi-moj.go.jp: http://www.immi-moj.go.jp/english/tetuduki/kanri/shyorui/07.html
 imuna.org: http://www.imuna.org/twenty-first-session-governing-council-un-habitat-what-are-slums-and-why-do-they-exist
 independent.co.uk: http://www.independent.co.uk/life-style/food-and-drink/features/why-is-fruit-so-expensive-in-japan-9605105.html
 informationisbeautiful.net: http://www.informationisbeautiful.net/visualizations/rhetological-fallacies/
@@ -323,6 +324,7 @@ yourlogicalfallacyis.com: http://yourlogicalfallacyis.com
 atap.google.com: https://atap.google.com/soli/
 beatthetest.wordpress.com: https://beatthetest.wordpress.com/2007/02/05/100-writing-topics/
 blogit.itu.dk: https://blogit.itu.dk/ethos/wp-content/uploads/sites/14/2016/03/8-06SRSOverview.jpg
+boct.org: https://boct.org/10-facts-about-zimbabwe-refugees/
 busuu.com: https://busuu.com/enc/
 calendar.google.com: https://calendar.google.com/calendar/selfsched?sstoken=UUxxNkFzS3dLSW1WfGRlZmF1bHR8ODliNTZlZGIxYmQzMWMyOTAxMTI3ZTA1YmMzNGY4YjY</td></tr>
 chains.cc: https://chains.cc/
@@ -368,6 +370,7 @@ itsupport.soka.ac.jp: https://itsupport.soka.ac.jp/ssl/office365.html
 itunes.apple.com: https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8
 itunes.apple.com: https://itunes.apple.com/jp/app/now-then-pro-time-tracker/id504129864?mt=8
 ja.wikipedia.org: https://ja.wikipedia.org/wiki/%E7%B4%80%E8%A6%81
+japansociology.com: https://japansociology.com/2013/06/03/japans-refugee-policy-its-problems-and-solutions/
 maps.me: https://maps.me
 msu.edu: https://msu.edu/~defores1/gre/sufx/gre_suffx.htm
 netacnext.soka.ac.jp: https://netacnext.soka.ac.jp/anetn/Student/stlogin
@@ -452,6 +455,7 @@ npr.org: https://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us
 nytimes.com: https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0
 reference.com: https://www.reference.com/home-garden/many-kwh-average-home-use-28cc32f433d1bd69
 refugee.or.jp: https://www.refugee.or.jp/for_refugees/retrieval_ja.shtml
+reuters.com: https://www.reuters.com/investigates/special-report/japan-kurds/
 ryanair.com: https://www.ryanair.com
 savetherhino.org: https://www.savetherhino.org/rhino_info/thorny_issues/poisoning_rhino_horns
 seiburailway.jp: https://www.seiburailway.jp/delay/
