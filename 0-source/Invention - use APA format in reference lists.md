@@ -47,7 +47,7 @@ Brown, M., & Smith, P. (2010). _Book with two authors._ Oxford: Oxford Universit
 
 ## Book Chapters
 <ref>
-Author, I. (Year). Chapter title no italics no title case. In A. Editor (Ed.) _Title of Book in Italics with Title Case_ (pp. startpage-finishpage).
+Author, I. (Year). Chapter title no italics no title case. In A. Editor (Ed.) _Title of Book in Italics with Title Case_ (pp. startpage-finishpage). City: Publisher.
 Brown, M., & Smith, P. (2010). Book chapter with two authors. In M. Baker (Ed.) _Book of Penguin Chess_ (pp. 221-256). Oxford: OUP.
 
  </ref>

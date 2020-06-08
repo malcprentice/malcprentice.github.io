@@ -158,6 +158,7 @@ For example
 * TYPE your new details into the red, blue, and green bits of the outline
 ** Keywords and short phrases! 
 ** Don't write sentences yet!
+* You need enough detail that I know you can write the sentences from these notes without doing more research. Enough detail that I know, for example, if your responses are good or bad. 
 * Deadline is next WRITING class, next week, not next class
 * Use good sources
 ** Take notes on newspapers, government report, NGO site
@@ -170,6 +171,8 @@ For example
  
 ### Example outline (step 3)
 You chose the __BOLD KEYWORDS__ already, last week. However, if you find something better, you can change them. Or even change your topic. Check with me first though.  
+
+
 
 + Introduction (Paragraph I)
 ++ GENERAL TOPIC (things we buy, e.g. mobile phone)
@@ -294,71 +297,72 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 * Learn how to write Paragraph <red>S</red> - the red one in the example
 
 ### For homework by next class
-* Fix A 
-* Write S
-* Submit your essay again, including 
-** P2: <green>P draft 2</green> - __will be graded (10%)__
-** S1: <red>S draft 1</red> - will get feedback
+* Fix and submit <green>P draft 2</green> (P2) __for grading (10%)__
+* Write and submit <red>S draft 1</red> (S1) for feedback
+ 
 
 # Project Unit 8 
 ### In class
 * Check everyone sent <green>P draft 2</green> + <red>S draft 1</red>
-* Learn other Writing and Study skills (we start <blue>D</blue> next week)
+* Start learning about <blue>paragraph D</blue> 
 
 ### For homework by next class
 * Read and understand your grade for <green>P</green>. Avoid making the same mistakes on <red>S</red>
 * Read the feedback I sent on <red>S</red>. Feedback should be ready by Friday evening
+* Write the two difficult sentence types from your Description paragraph
+** EITHER [[Style - write a definition sentence]] OR [[Style - write a partition sentence]]
+** EITHER  [[Style - write a compare-contrast sentence]]  OR [[Style - write a time-order sentence]]
 
 # Project Unit 9 
 ### In class
 * Ask questions about the grade on P
 * Ask questions about the feedback on <red>S</red>
-* Learn how to write <blue>D</blue>
+* Check the sentences your wrote for <blue>D</blue>
+* Review other sentences for <blue>D</blue>
 
 ### For homework by next class
-* Fix <red>S</red>
-* Add <blue>D</blue>
-* Submit your essay again, including 
-** A (finished)
-** S2: <red>S</red> draft 2 -  __will be graded (10%)__ 
-** D1: <blue>D draft 1</blue> - will get feedback
+** Fix and submit <red>S draft 2 </red> (S2)-  __for grading (10%)__ 
+** Write and submit <blue>D draft 1</blue> (D1) - for feedback
 
 # Project Unit 10 
 ### In class
-* Check everyone submitted essay again
-* Learn other Writing and Study skills (we start Intro/Conclusion next week)
+* Check everyone submitted <red>S draft 2 </red>
+* Check everyone submitted <blue>D draft 1</blue> 
+* Start learning about Intro/Conclusion
 
 ### For homework by next class
 * Read and understand your grade for <red>S</red>. Avoid making the same mistakes on D
-* Read the feedback I sent on <blue>D</blue>. Feedback should be ready by Friday evening
+* Read the feedback I sent on <blue>D1</blue>. Feedback should be ready by Friday evening
+* Write the difficult sentences for Intro and Conclusion
+** GB, SB, IB: [[Arrangement - write an introduction paragraph background]]
+** Your "Final Comment" sentence (last one in [[Arrangement - write a conclusion paragraph]] )
 
 # Project Unit 11 
 ### In class
-* Ask questions about the grade on <red>S</red>
-* Ask questions about the feedback on <blue>D</blue>
-* Learn how to write Intro/Conclusion
+* Ask questions about the grade on <red>S2</red>
+* Ask questions about the feedback on <blue>D1</blue>
+* Continue learning how to write Intro/Conclusion
+* Check the sentences you wrote
 
 ### For homework by next class
-* Submit your essay again, including 
-** P (finished)
-** <red>S</red> (finished)
-** D2: <blue>D</blue> draft 2 - __will be graded (10%)__ 
-** Intro and Conclusion, Draft 1 (will get feedback)
+** Fix and submit  <blue>D draft 2 </blue> (D2) __for grading (10%)__ 
+** Write and submit Intro and Conclusion, Draft 1 (IC1) (for feedback)
 
 # Project Unit 12 
 ### In class
-* Check everyone sent essay again
+* Check everyone sent <blue>D draft 2 </blue>
+* Check everyone sent Intro and Conclusion, Draft 1 (IC1)
 * Learn other Writing and Study skills 
 
 ### For homework by next class
 * Read and understand your grade for <blue>D</blue>. Avoid making the same mistakes in future
-* Read the feedback I sent on Intro/Conclusion
+* Read the feedback on IC1
 * Feedback should be ready by Friday evening
 
 # Project Unit 13 
 ### In class
-* Ask questions about the grade on <blue>D</blue>
-* Ask questions about the feedback on Intro/Conclusion
+* Ask questions about the grade on <blue>D2</blue>
+* Ask questions about the feedback on IC1
 * Learn other Writing and Study skills 
 
 ### For homework by deadline
