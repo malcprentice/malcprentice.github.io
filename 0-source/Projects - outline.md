@@ -188,15 +188,15 @@ In Zoom presentations, no gestures
 
 
 ## Style for a short presentation
-Hello, my name is NAME.
-Today, I'm going to tell you about TOPIC.
-I will talk about these things (SHOWING YOUR BACKGROUND SLIDE)
-To begin with, SLIDE TITLE 1.  
-Next, SLIDE TITLE 2.  
-Finally, SLIDE TITLE 3.  
-"In summary, in this talk the speaker talked about X. However/For example the article Y"
-Thank you for listening. Any questions?
- 
+* Hello, my name is NAME.
+* Today, I'm going to tell you about TOPIC.
+* I will talk about these things (SHOWING YOUR BACKGROUND SLIDE)
+* To begin with, SLIDE TITLE 1.  
+* Next, SLIDE TITLE 2.  
+* Finally, SLIDE TITLE 3.  
+* In summary, in this talk the speaker talked about X. However/For example the article Y
+* Thank you for listening. Any questions?
+
 
 Other options and in-class version here: [[Style - give a clear presentation]]
 
