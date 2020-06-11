@@ -121,8 +121,6 @@ Research your topic __a little__ to check it is a good topic:
 ** (probably GROUP NAMES or ING verbs)
 ** e.g. NGO name (UNICEF), NPO name (Fair Trade), making laws, reducing, reusing, recycling, buying X instead, campaigning
 
-  
-
 ### IMPORTANT TIPS
 * 1) Focus on problems and solutions for people who make it (workers, farmers) and the environment. NOT on people who buy it (they can just stop) or large companies. For example, "tobacco farms use child labour" rather than "tobacco gives you cancer" or "tobacco company profits will go down"
 * 2) Solutions do not need to match problems exactly. For example, if your problem is "water pollution", you might not need a "clean water" solution. You could instead focus on recycling, poverty, global warming, trade laws - anything that stops the water in that area getting polluted in the first place.

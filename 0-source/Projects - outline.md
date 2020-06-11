@@ -148,4 +148,60 @@ See [[Study Skills - ask good questions]] for example patterns
 ** If this is practice, I will give feedback
 ** If graded, I will give a grade
 
+# Presentation rules, Zoom version
+## Preparing before class
+* Practice doing your presentation 3-4 times for fluency
+* Use Zoom on laptop not ipad/phone if possible
+* Use Chrome or Firefox, not Edge, and NEVER USE INTERNET EXPLORER FOR ANYTHING!
+* Download slides  so the presentation is smoother
+** Google Sheets "File->Make Available Offline"
+** OR if you are having problems with that, download as PowerPoint
+
+## Preparing in class
+* Change your name to add your team A or B e.g. "Hiroko Sato (B)"
+* Presenters, turn your video on so everyone can make eye contact
+* At least one audience member turn on video too if possible
+* Presenters - put your audience videos near your camera
+* Use full screen (Play, CTRL- F11, look in view menu for "Full screen" or otherwise make the slide as big as possible)
+
+
+## Timing: 15 minutes per speaker 
+* 1 minute to setup
+* 4-5 minutes presentation (link for options)
+** Use short presentation "Style" (below)
+** Pay attention to "Delivery" (below)
+* 1-2 minute questions and feedback 
+** Questions from audience if something not clear
+** Feedback: [[Style - give good feedback]]
+* 5-6 minute discussion (if presentation short, discuss for longer)
+** Presenter ask FIRST discussion question
+** Audience
+*** ANSWER the discussion question. 
+*** ADD a detail (who what where why when)
+*** PASS the conversation to another group member ("How about you Daiki?")
+** Audience silent? Presenter - get people talking ("How about you Daiki?")
+
+## Delivery - this will be graded
+In Zoom presentations, no gestures 
+* Eye contact
+** Speak at the camera, not your notes. Look down, read, look up and speak
+** Put notes down in front of camera (e.g. on keyboard) not to the side. 
+* Voice
+** try to speak in phrases, fewer hesitations
+** Interesting voice!
+** Don't make a script and read it - makes your voice boring
+
+
+## Style for a short presentation
+Hello, my name is NAME.
+Today, I'm going to tell you about TOPIC.
+I will talk about these things (SHOWING YOUR BACKGROUND SLIDE)
+To begin with, SLIDE TITLE 1.  
+Next, SLIDE TITLE 2.  
+Finally, SLIDE TITLE 3.  
+"In summary, in this talk the speaker talked about X. However/For example the article Y"
+Thank you for listening. Any questions?
+ 
+
+Other options and in-class version here: [[Style - give a clear presentation]]
 

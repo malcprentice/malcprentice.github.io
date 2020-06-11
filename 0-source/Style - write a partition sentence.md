@@ -1,5 +1,5 @@
 # Things you can partition
-|A product (essay 1)			|There are three main types of tea - green black, and oolong - of which black is the most difficult to consume ethically, and is the topic of this essay
+|A product (essay 1)			|There are three main types of tea - green, black, and oolong - of which black is the most difficult to consume ethically, and is the topic of this essay
 |An animal (essay 2)			|There are seven types of tiger, including Siberian and Bengal, of which the most endangered is the Shikoku Tiger. 
 |A process 					|There are three main steps in making X - 1,2, and 3 - of which the most difficult is 2. 
 |Areas 						|THere are two main cotton producing areas - Shikoku and Kazakhstan - of which Shikoki is the most famous.	 						
