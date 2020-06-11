@@ -129,26 +129,7 @@ See [[Study Skills - ask good questions]] for example patterns
 ** It makes mistakes - check it by hand for errors
 ** It words on Google Docs and Word, but not Slides. You'll need to copy-paste the references. 
 
-# Step 3: Present
-* Present, including your summary and response
-* Presentations work best if you remember the material, and use the keywords on the slide to remind you about details and what to say
-* Notes are OK, but will make eye contact and gestures more difficult 
-** General tip: Make sure the text is big enough to read
-** Don't use "presenter notes" in PowerPoint or Google Slides on Zoom. For normal presentations they are OK.
-** If you can buy or make them, index cards work well: https://www.amazon.co.jp/s?k=index+cards
-** No floppy paper - A4 is too big. B5 notebook better
-** Devices OK: Tablets best. Phone usually too small. Laptops too big unless they are small foldable ones.
-
-* Finish
-** Read your summary
-** Quickly review "learning reflection" and response
-** Lead a discussion using your questions
-* Remember to SUBMIT your slides on Google Classroom. 
-** Malc will check
-** If this is practice, I will give feedback
-** If graded, I will give a grade
-
-# Presentation rules, Zoom version
+# Step 3: Present (Zoom version)
 ## Preparing before class
 * Practice doing your presentation 3-4 times for fluency
 * Use Zoom on laptop not ipad/phone if possible
@@ -156,9 +137,22 @@ See [[Study Skills - ask good questions]] for example patterns
 * Download slides  so the presentation is smoother
 ** Google Sheets "File->Make Available Offline"
 ** OR if you are having problems with that, download as PowerPoint
+* Decide whether or not to use notes. T
+** Best option is not to need notes 
+** KNOW the topic very well
+** use the slide KEYWORDS to remind you what is next
+** notes just for numbers, names, other things it's hard to remember 
+* If you need longer notes
+** BE CAREFUL. They will make eye contact and gestures more difficult 
+** "Presenter notes" in PowerPoint or Google Slides don't work on Zoom
+** Make sure the text is big enough to read
+** No floppy paper - A4 is too big. B5 notebook better
+** Index cards work well: https://www.amazon.co.jp/s?k=index+cards
+** Devices OK: Tablets good. Phones too small. Laptops usually too big. 
+* Before class, remember to SUBMIT your slides on Google Classroom. 
 
 ## Preparing in class
-* Change your name to add your team A or B e.g. "Hiroko Sato (B)"
+* Change your Zoom name to add your team A or B e.g. "Hiroko Sato (B)"
 * Presenters, turn your video on so everyone can make eye contact
 * At least one audience member turn on video too if possible
 * Presenters - put your audience videos near your camera
@@ -170,6 +164,7 @@ See [[Study Skills - ask good questions]] for example patterns
 * 4-5 minutes presentation (link for options)
 ** Use short presentation "Style" (below)
 ** Pay attention to "Delivery" (below)
+** Don't forget your summary
 * 1-2 minute questions and feedback 
 ** Questions from audience if something not clear
 ** Feedback: [[Style - give good feedback]]
@@ -181,7 +176,7 @@ See [[Study Skills - ask good questions]] for example patterns
 *** PASS the conversation to another group member ("How about you Daiki?")
 ** Audience silent? Presenter - get people talking ("How about you Daiki?")
 
-## Delivery - this will be graded
+## Voice/Non Verbal Delivery - this will be graded
 In Zoom presentations, no gestures 
 * Eye contact
 ** Speak at the camera, not your notes. Look down, read, look up and speak
