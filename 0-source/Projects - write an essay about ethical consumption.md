@@ -251,7 +251,7 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 
 ### For homework by next class
 * Malc will comment on your research outline draft 1
-* Feedback should be ready by Friday evening
+* Feedback should be ready by Sunday
 * Read the feedback on outline draft 1. 
 * Start fixing any outline problems, and changing references to APA style
 
@@ -287,7 +287,7 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 * Learn other Writing and Study skills (we start S next week)
 
 ### For homework by next class
-* Read the feedback I sent on <green>P</green>. Feedback should be ready by Friday evening
+* Read the feedback I sent on <green>P</green>. Feedback should be ready by Sunday
 
 # Project Unit 7 
 ### In class
@@ -306,7 +306,7 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 
 ### For homework by next class
 * Read and understand your grade for <green>P</green>. Avoid making the same mistakes on <red>S</red>
-* Read the feedback I sent on <red>S</red>. Feedback should be ready by Friday evening
+* Read the feedback I sent on <red>S</red>. Feedback should be ready by Sunday
 * Write the two difficult sentence types from your Description paragraph
 ** EITHER [[Style - write a definition sentence]] OR [[Style - write a partition sentence]]
 ** EITHER  [[Style - write a compare-contrast sentence]]  OR [[Style - write a time-order sentence]]
@@ -330,7 +330,7 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 
 ### For homework by next class
 * Read and understand your grade for <red>S</red>. Avoid making the same mistakes on D
-* Read the feedback I sent on <blue>D1</blue>. Feedback should be ready by Friday evening
+* Read the feedback I sent on <blue>D1</blue>. Feedback should be ready by Sunday
 * Write the difficult sentences for Intro and Conclusion
 ** GB, SB, IB: [[Arrangement - write an introduction paragraph background]]
 ** Your "Final Comment" sentence (last one in [[Arrangement - write a conclusion paragraph]] )
@@ -355,7 +355,7 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 ### For homework by next class
 * Read and understand your grade for <blue>D</blue>. Avoid making the same mistakes in future
 * Read the feedback on IC1
-* Feedback should be ready by Friday evening
+* Feedback should be ready by Sunday
 
 # Project Unit 13 
 ### In class
