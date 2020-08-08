@@ -26,6 +26,18 @@ Speed Reading (SR)          |10%    |See [[Study Skills - do a speed reading]]
 
 Read this: [[Resources - grading system]]
 
+# Evaluation/Assessment for FALL DRAFT
+Name                        |%      |Instructions
+----------------------------|-------|-------------
+Essay 1  					|20%    |Given in class
+Essay 2  					|20%    |Given in class
+Participation               |10%    |[[Study Skills - make a participation plan]]    
+Mini presentations          |30%    |Given in class///Number depends on class size
+Vocabulary Project (V)      |10%    |Minimum 375 words///See [[Study Skills - learn vocabulary]]
+Quickwrite Activities (QW)  |10%    |See [[Study Skills - do a quickwrite]]    
+SR 							|0%		|For participation only (max 1 book, 5 points)
+
+
 
 # Projects Overview
 |Essay		|Topic						 										|Style
