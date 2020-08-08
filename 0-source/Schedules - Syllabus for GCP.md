@@ -12,16 +12,13 @@ Objectives are same for both semesters, but more is expected in semester two.
 # Evaluation/Assessment
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
-Drafting process (outline)  |10%    |Given in class
-Paragraph P  				|10%    |Given in class
-Paragraph S 				|10%    |Given in class    
-Paragraph D 				|10%    |Given in class   
-Paragraphs I&C 				|10%    |Given in class   
+Project 1                   |20%    |Given in class
+Project 2                   |20%    |Given in class
+Mini presentations          |20%    |Three presentations, one graded (10% video, 10% slides)
 Participation               |10%    |[[Study Skills - make a participation plan]]    
-Mini presentations          |10%    |Given in class///Number depends on class size
 Vocabulary Project (V)      |10%    |Minimum 375 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |See [[Study Skills - do a quickwrite]]    
-Speed Reading (SR)          |10%    |See [[Study Skills - do a speed reading]]    
+Speed Reading (SR)          |5%     |See [[Study Skills - do a speed reading]]    
 
 
 Read this: [[Resources - grading system]]

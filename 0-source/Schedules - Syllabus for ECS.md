@@ -46,6 +46,8 @@ a) Less practice presentations
 ** now 3 presentations in (Team ABC -  once every 3 weeks)
 b) final presentation is was 10%, now 20% (10% slides, 10% video)
 c) essay outline was 10%, now not assessed
+d) Less speed readings
+e) Free TOEIC test in December is required (5%)
 
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
@@ -57,8 +59,8 @@ Participation               |10%    |[[Study Skills - make a participation plan]
 Mini presentations          |20%    |Three presentations, one graded (10% for slides, 10% for video).  
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Speed Reading (SR)          |10%    |Two books per term///Minimum 40///See [[Study Skills - do a speed reading]]
-
+Speed Reading (SR)          |5%     |One book per term///Minimum 40///See [[Study Skills - do a speed reading]]
+Free December TOEIC test    |5%     |See PLAS. Screenshot results. 
 
 
 

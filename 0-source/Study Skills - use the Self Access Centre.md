@@ -28,7 +28,7 @@ Check the website for details, but basically
 
 # If you are REQUIRED to do something
 * It gets really busy later in term. Go early!
-* REservations are necessary for CCC, EF, iBT, ECR and WC
+* Reservations are necessary for CCC, EF, Speaking test centre, ECR and WC
 * Reserve two weeks ahead on PLAS, under under "WLC service": http://plas.soka.ac.jp/csp/plas/login.csp
 * Cancel at least 3 days in advance
 * Instructions on the back of the log sheets

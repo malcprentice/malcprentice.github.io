@@ -17,7 +17,7 @@ Name                        |%      |Instructions
 Paragraph A     		    |10%    |Given in class  
 Paragraph B   			  	|10%    |Given in class  
 Paragraph C                 |10%    |Given in class  
-IntroConclusion paragraphs  |10%    |Given in class 
+Intro/Conclusion paragraphs |10%    |Given in class 
 Drafting Process            |10%    |Given in class 
 Participation               |10%    |[[Study Skills - make a participation plan]] 
 Mini presentations          |10%    |Given in class///Number depends on class size///Might change if we stay online
@@ -29,12 +29,11 @@ Speed Reading (SR)  		|10%    |One per class///Minimum 25///See [[Study Skills -
 # Evaluation/Assessment Fall DRAFT - WILL DISCUSS AGAIN IN FALL
 Name                        |%      |Instructions
 ----------------------------|-------|-------------
-Project 1: Essay            |20%    |Given in class
-Project 2: Group Research 	|20%? 	|Given in class
-Project 3: TBC 				|10%? 	|Given in class
+Project 1                   |20%    |Given in class
+Project 2               	|20% 	|Given in class
+Mini presentations          |20%    |Three presentations, one graded (10% video, 10% slides)
 Participation               |10%    |[[Study Skills - make a participation plan]]   
-Mini presentations          |10%    |Three presentations, one graded. 
-Vocabulary Project (V)      |10%?    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
+Vocabulary Project (V)      |10%?   |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |5%    	|One per week (Monday/Wednesday teams)///Minimum 14///See [[Study Skills - do a quickwrite]]    
 Reading/Listing Log    		|5%    	|One per week (Monday/Wednesday teams)///Minimum 14  
 Speed Reading (SR)          |10%    |Two books per term///Minimum 40///See [[Study Skills - do a speed reading]]
@@ -42,7 +41,7 @@ Speed Reading (SR)          |10%    |Two books per term///Minimum 40///See [[Stu
 
 
 #Weekly Schedule
-* Moved to soka-u.jp GOogle Drive: https://docs.google.com/spreadsheets/d/1BoHB55TCboOwq4NSiE5unKyZWXZLBnyv3yzrHU4HDdQ/edit?usp=sharing
+* Moved to soka-u.jp Google Drive: https://docs.google.com/spreadsheets/d/1BoHB55TCboOwq4NSiE5unKyZWXZLBnyv3yzrHU4HDdQ/edit?usp=sharing
 * I hope this is clearer, with dates, separated homework, etc
 
 

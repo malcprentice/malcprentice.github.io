@@ -10,15 +10,20 @@
 
 # Rules for Participation points
 * See [[Study Skills - make a participation plan]] for points system
-** 2 points for  "フルサイズ模擬試験" (2 hrs)
-** 1 point for "ハーフサイズ模擬試験" (1hr) 
-* Date must be THIS TERM. 
-* Test time must be OK (フルサイズ in 30 minutes = cheating)
-* To get points, the end of term:
+* ALC is a "try it once" point, so no points for longer tests or more tests. Just show me you tried it and made an effort at least once this term. 
+* See "Participation Plan Template" for example screenshot
+* Screenshot must include
+** Date from THIS TERM. 
+** Your NAME at the top
+** Appropriate "Time Needed" (e.g. フルサイズ in 45 minutes = not trying)
+** Appropriate score. Scores around 25% show you are GUESSING not trying. In C and D level classes or GCP, your real TOEIC scores are over 395. So ALC scores <30% = not trying = no point). This is not a requirement for B or lower level classes. 
+* Can't find your score? 
 ** 1) Find the menu bar "全体 / All 学習 / Units テスト / Tests"
 ** 2) Choose "Tests"
 ** 3) Click the Green clock under "履歴 / Learning Records". It should show:
-** Print that page as PDF (name, scores, times). Email it to me. 
+** Screenshot that page, and paste it into your Participation Plan. 
+
+
 
 
 
