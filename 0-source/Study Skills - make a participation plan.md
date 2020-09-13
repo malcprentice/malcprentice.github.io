@@ -6,8 +6,9 @@ By the end of this page, you will know
 # What are participation points?
 * You WIN points mostly by doing extra work and trying new things
 * You LOSE points mostly by missing homework/class 
-* There are currently 19 possible points
-* You only need to choose 10 (unless you're absent or late)
+* There are at least 18 possible points. Just choose 10!
+* If you're absent or late, do more than 10 to get lost points back.
+* TO get points, post a photo of the proof into your Google Classroom "Participation Plan"
 
 # Option 1: Score "try it" points 
 * Try useful things around the university
@@ -24,17 +25,17 @@ WLC-SAC Event/Lecture/Festival  |See PLAS or in-class announcements             
 <red>Early term </red>office hour|Email BEFORE mid-term for an appointment      |No need - I'll be there            |No need - I'll be there    
 
 __Some rules__
-* Don't attend a Global Village where that language is your first language!
-* If Japanese is not your first language, ask me about Nihongo Dojo
-* No points for office hours after mid term. I want you to ask a question, not scramble for a last-minute point. 
+* Is Japanese your second language? Nihongo Dojo is also 1 point. No point for GV in your own language though!
+* No points for office hours after mid term. It's for asking question, not scrambling for last-minute point. 
+* No points for ECR - not enough staff. Only go if you have an actual question
+* See [[Study Skills - use the Self Access Centre]] for information on each centre
+
 
 # Option 2: Do extra quickwrites (max 5 points)
 * Wait until I teach how to [[Study Skills - do a quickwrite]] in class
 * You get points for doing MORE than the minimum (25)
 ** 1 point for each 3 EXTRA quickwrites
 ** 5 points max for EXTRA quickwrites
-** <red>Usually,</red> 25 NORMAL + 15 EXTRA = maximum 40 TOTAL for 5 participation points
-** <red> In 2020</red>, 25 normal + 30 extra = maximum 55 total for 10 participation points. 
 * All quickwrites, minimum or extra, must be > minimum word count
 
 
@@ -52,7 +53,7 @@ In either case, prove it using screenshot(s) in your participation plan, showing
 
 # Option 4: ALC Net Academy (max 5 points)
 * See [[Study Skills - use ALC NetAcademy]]    
-* <red>New 2020 Fall</red> low scores (<30%) and unrealistic "time needed" are not accepted. Put some effort in or you won't get the point. 
+* <red>New 2020 Fall</red> low scores (<30%) and unrealistic "time needed" are not accepted. Put some effort in or you won't get the point! 
 
 
 # How to lose participation points (aka NG points)

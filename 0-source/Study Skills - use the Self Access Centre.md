@@ -7,7 +7,9 @@ All of these instructions -
 * Website: https://www.soka.ac.jp/en/wlc/programs/
 
 # What can I do there?
-## CCC and EF
+## Chit Chat Club (CCC) and English Forum (EF)
+* CCC is for TOEIC< 300 
+* EF is for TOEIC >300 
 * You can book a session and practice conversations:
 ** Chit Chat Club (CCC) explanation: https://www.youtube.com/watch?v=LW3crRibeoQ
 ** Chit Chat Club rules: https://www.youtube.com/watch?v=5_dXSewBzJQ
@@ -19,8 +21,8 @@ All of these instructions -
 ** Centre introduction: https://youtu.be/xPtwyTcrrYc
 ** Take pen, paper and a USB stick
 
-## Writing Centre
-* You can get your writing checked in the writing centre (WC)
+## Writing Centre (WC)
+* You can get your writing checked 
 ** WC explanation: https://www.youtube.com/watch?v=ZaHSqkNeHsI
 ** WC rules: https://www.youtube.com/watch?v=hOt3qCD9UKo&t=39s
 ** Show them the correct example [[Index - Examples]]
@@ -29,14 +31,16 @@ All of these instructions -
 ** Recommended: Take it BEFORE my first check
 ** Take it AFTER my first check to get help fixing the comments I made
 
-## ECR
+## English Consultation room (ECR)
 * You can ask for advice in the English Consultation Room (ECR)
 * No participation points for this one - not enough sessions are available. So only go if you actually have a question. 
 ** Advice on self-study
 ** e.g. "How can I improve my Listening/Writing/TOEFL/etc?"
+
+## GLobal Village (GV)
 * You can practice other languages in the Global Village (GV)
 ** Languages vary, but usually French, Chinese, Korean, Spanish, Italian
-** Sometimes we also have Turkish, Portuguese, Russian. 
+** Sometimes we also have others, e.g. Turkish, Portuguese, Russian. 
 
 ## Other resources
 * AV Library - Borrow/watch a DVD, an exam study guide, a magazine/newspaper/book, an audiobook
