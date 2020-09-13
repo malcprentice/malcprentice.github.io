@@ -20,13 +20,11 @@ http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
 http://www.alba-english.org/Arrangement - write an introduction paragraph background.html
 http://www.alba-english.org/Arrangement - write an introduction thesis statement.html
-http://www.alba-english.org/Class - Online 1 - basics for online.html
 http://www.alba-english.org/Class - Online 2 - understand the course.html
 http://www.alba-english.org/Class - Online 3.html
-http://www.alba-english.org/Class - Online 4.html
-http://www.alba-english.org/Class - Online 5.html
 http://www.alba-english.org/Class - basics 1.html
 http://www.alba-english.org/Class - basics 2.html
+http://www.alba-english.org/Class - basics 3.html
 http://www.alba-english.org/Class - last class.html
 http://www.alba-english.org/Class - penultimate class.html
 http://www.alba-english.org/Examples - TOEFL Independent essay.html
@@ -83,7 +81,6 @@ http://www.alba-english.org/Resources - Training - Activities.html
 http://www.alba-english.org/Resources - Training - choose a learning focus.html
 http://www.alba-english.org/Resources - Training - handle mixed level classes.html
 http://www.alba-english.org/Resources - can do.html
-http://www.alba-english.org/Resources - class contract.html
 http://www.alba-english.org/Resources - editing code list.html
 http://www.alba-english.org/Resources - good reason for absence.html
 http://www.alba-english.org/Resources - grading system.html

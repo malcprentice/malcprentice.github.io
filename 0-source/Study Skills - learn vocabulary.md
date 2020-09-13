@@ -58,8 +58,6 @@ __Any method is OK, but <green> also keep the original list</green>__
 ## At the end of term (class 28)
 * Submit for the final time on Google Classroom
 * Malc will check your Vocab again - have you __finished__ the minimum?
-
-### On campus? Test!
 * One test (10%) on YOUR words. 
 ** Randomly chosen from all your words
 ** 5 words Japanese-English translation
@@ -67,12 +65,8 @@ __Any method is OK, but <green> also keep the original list</green>__
 ** One spelling mistake OK (not two)
 ** Must be correct POS (品詞)
 ** Translations with same meaning OK
+** If online, video ON and eyes covered to make sure no-one accidentally cheats
 
-### Online? No test.
-There will be no test - I will grade your notebook 
-* Is it complete?
-** Enough words?
-** Word difficulty matches your level (e.g. students with a 300+ TOEIC score shouldn't be learning "red" or "cat")
 
 # Advanced class options
 ## Finished the lists? 
@@ -81,7 +75,7 @@ There will be no test - I will grade your notebook
 * If learning vocab is not useful any more:
 ** Just read and [[Study Skills - guess word meanings]]
 ** Tell me and you are excused this homework. 
-** But I will do a test on all list words to check!
+** But I will do a test on ALL 5673 list words to check!
 
 ## Learn more about words 
 __1) One word = many words__

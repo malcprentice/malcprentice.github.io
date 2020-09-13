@@ -19,13 +19,11 @@
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
 ##Class
-[[Class - Online 1 - basics for online]]
 [[Class - Online 2 - understand the course]]
 [[Class - Online 3]]
-[[Class - Online 4]]
-[[Class - Online 5]]
 [[Class - basics 1]]
 [[Class - basics 2]]
+[[Class - basics 3]]
 [[Class - last class]]
 [[Class - penultimate class]]
 ##Examples
@@ -77,7 +75,6 @@
 [[Resources - Training - choose a learning focus]]
 [[Resources - Training - handle mixed level classes]]
 [[Resources - can do]]
-[[Resources - class contract]]
 [[Resources - editing code list]]
 [[Resources - good reason for absence]]
 [[Resources - grading system]]

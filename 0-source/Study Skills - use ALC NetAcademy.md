@@ -6,13 +6,11 @@
 * "フルサイズ模擬試験" (2 hrs) 
 * "ハーフサイズ模擬試験" (1hr)
 
+ 
 
-
-# Rules for Participation points
-* See [[Study Skills - make a participation plan]] for points system
-* ALC is a "try it once" point, so no points for longer tests or more tests. Just show me you tried it and made an effort at least once this term. 
-* See "Participation Plan Template" for example screenshot
-* Screenshot must include
+# Rules for using ALC for Participation points
+* See [[Study Skills - make a participation plan]]
+* Screenshot must include:
 ** Date from THIS TERM. 
 ** Your NAME at the top
 ** Appropriate "Time Needed" (e.g. フルサイズ in 45 minutes = not trying)
@@ -22,7 +20,6 @@
 ** 2) Choose "Tests"
 ** 3) Click the Green clock under "履歴 / Learning Records". It should show:
 ** Screenshot that page, and paste it into your Participation Plan. 
-
 
 
 

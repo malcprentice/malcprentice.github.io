@@ -5,13 +5,11 @@ By the end of this page, you will know
 
 # What are participation points?
 * You WIN points mostly by doing extra work and trying new things
-* You LOSE points mostly by missing work/class 
-* There are many ways to score points 
-* YOU choose how to get participation points
+* You LOSE points mostly by missing homework/class 
+* There are currently 19 possible points
+* You only need to choose 10 (unless you're absent or late)
 
-
-
-# Option 1: Score "try it" points
+# Option 1: Score "try it" points 
 * Try useful things around the university
 * Maximum one point each!
 * See "Participation Plan Template" for screenshot examples. Follow carefully. 
@@ -22,8 +20,6 @@ English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  
 Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑)                 	|PLAS booking screenshot
 Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|PLAS booking screenshot
 Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|PLAS booking screenshot
-Official Exam (TOEIC or TOEFL)  |See PLAS. Only if not required                 |Screenshot (score,date,name) 		|Screenshot (score,date,name)   
-<red>ALC Net Academy</red>      |See [[Study Skills - use ALC NetAcademy]]      |Screenshot (score,name,time needed)|Screenshot (score,name,time needed)  
 WLC-SAC Event/Lecture/Festival  |See PLAS or in-class announcements             |Ask - depends on event             |Ask - depends on event       
 <red>Early term </red>office hour|Email BEFORE mid-term for an appointment      |No need - I'll be there            |No need - I'll be there    
 
@@ -31,12 +27,8 @@ __Some rules__
 * Don't attend a Global Village where that language is your first language!
 * If Japanese is not your first language, ask me about Nihongo Dojo
 * No points for office hours after mid term. I want you to ask a question, not scramble for a last-minute point. 
-* <red>If TOEIC is required </red>
-** (e.g. I'm giving you 5%, or another teacher is requiring it)
-** then to get the "try it" point, you would need to do ANOTHER test and send TWO screenshots (required+extra)]
 
-
-# Option 2: Do extra quickwrites
+# Option 2: Do extra quickwrites (max 5 points)
 * Wait until I teach how to [[Study Skills - do a quickwrite]] in class
 * You get points for doing MORE than the minimum (25)
 ** 1 point for each 3 EXTRA quickwrites
@@ -44,6 +36,23 @@ __Some rules__
 ** <red>Usually,</red> 25 NORMAL + 15 EXTRA = maximum 40 TOTAL for 5 participation points
 ** <red> In 2020</red>, 25 normal + 30 extra = maximum 55 total for 10 participation points. 
 * All quickwrites, minimum or extra, must be > minimum word count
+
+
+# Option 3: Official TOEIC or TOEFL test (max 3 points)
+* <red>If TOEIC is required</red>
+** (e.g. I'm giving you 5%, or another teacher is requiring it)
+** Then, you can't get participation points for a required test
+** To get participation points, do a SECOND test (TOEIC or TOEFL) and submit TWO screenshots
+
+* If TOEIC is NOT required:
+** I'll give you <red>3</red> participation points for doing it. 
+
+In either case, prove it using screenshot(s) in your participation plan, showing name and date. 
+
+
+# Option 4: ALC Net Academy (max 5 points)
+* See [[Study Skills - use ALC NetAcademy]]    
+* <red>New 2020 Fall</red> low scores (<30%) and unrealistic "time needed" are not accepted. Put some effort in or you won't get the point. 
 
 
 # How to lose participation points (aka NG points)

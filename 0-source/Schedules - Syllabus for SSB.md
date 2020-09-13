@@ -57,61 +57,68 @@ Mini presentations (slides) |10%    |Three presentations - two practice, third g
 Mini presentations (video)  |10%    |Three presentations - two practice, third graded
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Free TOEIC test in December |5%     |Send me a screenshot of your results in January
+Official TOEIC (December)   |5%     |Send me a screenshot of your results in January
 Speed Reading (SR)          |5%     |ONE book per term///Minimum 20///See [[Study Skills - do a speed reading]]
 
 
 Read this: [[Resources - grading system]]
 
  
+# Changes in Fall 2020
+## 1) Less essay assignments
+* Outlines not assessed - total 40% not 50%
 
-## 1) Changes to presentations
-** cut to 3 presentation, once every 3 weeks (Teams A, B, & C) 
+## 2) Less presentations
+** Was 4, now 3 presentation
+** Once every 3 weeks (Teams A, B, & C) 
 ** Two practice, one graded
-** final presentation was 10%, now 20% (10% slides, 10% video)
-** Hard to grade eye contact in Spring - video will be face (not slides with tiny face)
+** Final presentation was 10%, now 20% (10% slides, 10% video)
+** It was hard to grade eye contact in Spring - video will be face only (not slides with tiny face)
 
-## 2) Changes to essay
-* outlines not assessed  - total 40% not 50%
-
-## 4) Changes to SR
-* Let's just do ONE book this term
-* If your reading speed is still slow, then feel free to do more books. No points though. 
+## 4) Less SR
+* Was 2 books (40), now 1 book (20).  
 * Half the work, so half the grade: 5% 
 
-## 5) TOEIC in winter
+## 5) TOEIC required in winter
 * In December there will be an online TOEIC test. This is free, and required.
-* 5% to encourage you to sign up and take the test. 
-* No bonus points unless you take ANOTHER test (e.g. TOEFL, another TOEIC). 
+* 5% for signing up and taking the test. 
+* No bonus points unless you take ANOTHER test (e.g. TOEFL+TOEIC, or two TOEIC). 
+* If for some reason you can't take it that day, do 2 hours "Time needed" of ALC instead. Low scores not accepted - make an effort. 
 
-## 6) No changes to QW
+## 6) No changes to QW, but word count goes up 
 * You can repeat topics but change content (e.g. "my favourite movie" but talk about a different movie)
-* Minimum word count starts at 150. Read instructions for increases in Fall. 
+* Minimum word count __starts__ at 150. Read instructions for increases in Fall. 
 
-## 7) Changes to participation
-* Max 1 point for ALC. No more points for doing multiple tests or longer tests. Too many students were not making effort on later tests. I know what your real TOIEC scores are and/or some students dropped from 60%+ on test 1 to around 25% on tests 2 and 3. When this happens (and it happened a lot) I know you're not trying. There is no completely reliable way for me to check effort, so instead I'm just limiting ALC to maximum 1 point ( a "try it" point). One (correct) screenshot only. 
-* ... so you should replace ALC with more QW, or EF, WC, etc. 
-* Not a change, but remember that EF, WC, GV etc is MAXIMUM ONE POINT
+## 7) Changes to participation - ALC 
+* Max 2 points for ALC. 
+* Too many students were not making effort (e.g. student with 490 TOEIC score dropped from 60%+ on test 1 to around 25% on tests 2). 
+* ... so if you need points, do more SAC or QW. 
 
-In other words, to score 10/10, do something like this:
-* 30 extra quickwrites
-* 27 extra quickwrites plus 1 EF  
-* 24 extra quickwrites plus 1 EF, 1 ALC
-* 21 extra quickwrites plus 1 EF, 1 ALC, 1WC
-* 18 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 
-* 15 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 1 STC
-
-No bonus points for taking TOEIC - it's now part of the course (5%). However, I will give you a point if you also do TOEFL or take a second TOEIC test (not free). 
+## 8) Changes to participation - free TOEIC test now required
+* You now get 5% for doing the December free TOEIC test
+* So to get points for official tests, you must take ANOTHER TOEIC test or a TOEFL test and submit TWO scores. 
+* 1 point is too stingy for a 2 hour exam, so I will give 3 points if you do a second test. 
 
 
 ## 8) Changes to Vocab
 * No change in learning method - just continue with lists or collecting new words
 * Tests will be required video ON, eyes COVERED. I can't think of any other way to do this fairly. 
 
+## Participation Example: In other words, to score 10/10, do something like this:
+* 30 extra quickwrites
+* 27 extra quickwrites plus 1 EF  
+* 24 extra quickwrites plus 1 EF, 1 ALC
+* 21 extra quickwrites plus 1 EF, 1 ALC, 1WC
+* 21 extra quickwrites plus a TOEFL test
+* 21 extra quickwrites plus a SECOND TOEIC test (not December)
+* 21 extra quickwrites plus a SECOND TOEIC test (not December)
+* 18 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 
+* 15 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 1 STC
+
+
 
 
 # Weekly Schedule
-* Moved to soka-u.jp Google Drive: https://docs.google.com/spreadsheets/d/10AXFz6nV4BI6aTHE3Qa98_9f8dJBC2YakG-8e-6KL7g/edit?usp=sharing
-* I hope this is clearer, with dates, separated homework, etc
+Link here: https://docs.google.com/spreadsheets/d/10AXFz6nV4BI6aTHE3Qa98_9f8dJBC2YakG-8e-6KL7g/edit?usp=sharing
 
 
