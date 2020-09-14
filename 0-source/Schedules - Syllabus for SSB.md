@@ -57,8 +57,9 @@ Mini presentations (slides) |10%    |Three presentations - two practice, third g
 Mini presentations (video)  |10%    |Three presentations - two practice, third graded
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Official TOEIC (December)   |5%     |Send me a screenshot of your results in January
-Speed Reading (SR)          |5%     |ONE book per term///Minimum 20///See [[Study Skills - do a speed reading]]
+Free December TOEIC test    |5%     |See PLAS. Screenshot results. 
+Speed Reading (SR)          |5%     |One book per term///Minimum 20///See [[Study Skills - do a speed reading]]
+
 
 
 Read this: [[Resources - grading system]]
@@ -109,9 +110,8 @@ Read this: [[Resources - grading system]]
 * 27 extra quickwrites plus 1 EF  
 * 24 extra quickwrites plus 1 EF, 1 ALC
 * 21 extra quickwrites plus 1 EF, 1 ALC, 1WC
-* 21 extra quickwrites plus a TOEFL test
-* 21 extra quickwrites plus a SECOND TOEIC test (not December)
-* 21 extra quickwrites plus a SECOND TOEIC test (not December)
+* 21 extra quickwrites plus a TOEFL test (not December TOEIC)
+* 21 extra quickwrites plus a SECOND TOEIC test (not December TOEIC)
 * 18 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 
 * 15 extra quickwrites plus 1 EF, 1 ALC, 1WC, 1GV, 1 STC
 
