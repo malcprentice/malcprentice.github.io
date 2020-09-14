@@ -79,7 +79,7 @@ Read this: [[Resources - grading system]]
 
 ## 6) No changes to QW, but word count goes up 
 * You can repeat topics but change content (e.g. "my favourite movie" but talk about a different movie)
-* Minimum word count __starts__ at 150. Read instructions for increases in Fall. 
+* Minimum word count __starts__ at 175. Read instructions for increases in Fall. 
 
 ## 7) Changes to participation - ALC 
 * Max 2 points for ALC. 
