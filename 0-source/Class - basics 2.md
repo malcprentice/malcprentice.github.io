@@ -3,7 +3,10 @@
 # In class
 * [[Study Skills - make small talk]]
 * [[Study Skills - ask good questions]]
+* Introduction to regular homework
 * Introduction to [[Index - Projects]]
+* Participation PLan
+* Class contract
 * Main writing projects for semester
 * Presentation projects for semester
 
