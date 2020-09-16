@@ -19,17 +19,13 @@
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
 ##Class
-[[Class - Online 2 - understand the course]]
-[[Class - Online 3]]
 [[Class - basics 1]]
 [[Class - basics 2]]
-[[Class - basics 3]]
 [[Class - last class]]
 [[Class - penultimate class]]
 ##Examples
 [[Examples - TOEFL Independent essay]]
 [[Examples - TOEFL Integrated essay]]
-[[Examples - essay outline step 1]]
 [[Examples - example argumentative essay]]
 [[Examples - example country case study]]
 [[Examples - example cover letter]]

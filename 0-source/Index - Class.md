@@ -1,7 +1,4 @@
-[[Class - Online 2 - understand the course]]
-[[Class - Online 3]]
 [[Class - basics 1]]
 [[Class - basics 2]]
-[[Class - basics 3]]
 [[Class - last class]]
 [[Class - penultimate class]]
