@@ -20,10 +20,6 @@ http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
 http://www.alba-english.org/Arrangement - write an introduction paragraph background.html
 http://www.alba-english.org/Arrangement - write an introduction thesis statement.html
-http://www.alba-english.org/Class - basics 1.html
-http://www.alba-english.org/Class - basics 2.html
-http://www.alba-english.org/Class - last class.html
-http://www.alba-english.org/Class - penultimate class.html
 http://www.alba-english.org/Examples - TOEFL Independent essay.html
 http://www.alba-english.org/Examples - TOEFL Integrated essay.html
 http://www.alba-english.org/Examples - example argumentative essay.html
@@ -35,10 +31,8 @@ http://www.alba-english.org/Examples - example endangered animals essay.html
 http://www.alba-english.org/Examples - example ethical consumption essay.html
 http://www.alba-english.org/Examples - example refugees and asylum seekers essay.html
 http://www.alba-english.org/Index - Arrangement.html
-http://www.alba-english.org/Index - Class.html
 http://www.alba-english.org/Index - Examples.html
 http://www.alba-english.org/Index - Invention.html
-http://www.alba-english.org/Index - Notes.html
 http://www.alba-english.org/Index - Projects.html
 http://www.alba-english.org/Index - Resources.html
 http://www.alba-english.org/Index - Schedules.html

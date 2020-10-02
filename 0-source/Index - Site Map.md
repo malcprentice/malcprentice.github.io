@@ -18,11 +18,6 @@
 [[Arrangement - write an introduction - overview]]
 [[Arrangement - write an introduction paragraph background]]
 [[Arrangement - write an introduction thesis statement]]
-##Class
-[[Class - basics 1]]
-[[Class - basics 2]]
-[[Class - last class]]
-[[Class - penultimate class]]
 ##Examples
 [[Examples - TOEFL Independent essay]]
 [[Examples - TOEFL Integrated essay]]
