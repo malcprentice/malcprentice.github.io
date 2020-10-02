@@ -74,7 +74,6 @@ http://www.alba-english.org/Resources - can do.html
 http://www.alba-english.org/Resources - editing code list.html
 http://www.alba-english.org/Resources - good reason for absence.html
 http://www.alba-english.org/Resources - grading system.html
-http://www.alba-english.org/Resources - list of conversation starters.html
 http://www.alba-english.org/Resources - list of useful situations and functions.html
 http://www.alba-english.org/Resources - marking rubric for RR report.html
 http://www.alba-english.org/Resources - marking rubric for essay.html
@@ -108,7 +107,6 @@ http://www.alba-english.org/Schedules - Syllabus for British Culture.html
 http://www.alba-english.org/Schedules - Syllabus for ECS.html
 http://www.alba-english.org/Schedules - Syllabus for EITC.html
 http://www.alba-english.org/Schedules - Syllabus for GCP.html
-http://www.alba-english.org/Schedules - Syllabus for Global Village training.html
 http://www.alba-english.org/Schedules - Syllabus for SSB.html
 http://www.alba-english.org/Schedules - Syllabus for intensive Communication.html
 http://www.alba-english.org/Schedules - Syllabus for intensive TOEIC.html

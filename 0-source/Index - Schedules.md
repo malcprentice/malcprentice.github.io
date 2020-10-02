@@ -5,7 +5,6 @@
 [[Schedules - Syllabus for ECS]]
 [[Schedules - Syllabus for EITC]]
 [[Schedules - Syllabus for GCP]]
-[[Schedules - Syllabus for Global Village training]]
 [[Schedules - Syllabus for SSB]]
 [[Schedules - Syllabus for intensive Communication]]
 [[Schedules - Syllabus for intensive TOEIC]]

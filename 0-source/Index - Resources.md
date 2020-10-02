@@ -6,7 +6,6 @@
 [[Resources - editing code list]]
 [[Resources - good reason for absence]]
 [[Resources - grading system]]
-[[Resources - list of conversation starters]]
 [[Resources - list of useful situations and functions]]
 [[Resources - marking rubric for RR report]]
 [[Resources - marking rubric for essay]]
