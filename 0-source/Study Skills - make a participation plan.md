@@ -21,6 +21,7 @@ English Forum (EF)              |[[Study Skills - use the Self Access Centre]]  
 Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  |VIP card(WC 印鑑)                 	|PLAS booking screenshot
 Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|PLAS booking screenshot
 Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|PLAS booking screenshot
+Try Quizlet                     |See scratchpad                                 |X                                  |I will confirm later. 
 WLC-SAC Event/Lecture/Festival  |See PLAS or in-class announcements             |Ask - depends on event             |Ask - depends on event       
 <red>Early term </red>office hour|Email BEFORE mid-term for an appointment      |No need - I'll be there            |No need - I'll be there    
 

@@ -511,5 +511,6 @@ zotero.org: https://www.zotero.org/
 2.nhk.or.jp: https://www2.nhk.or.jp/gogaku/english/
 3.nhk.or.jp: https://www3.nhk.or.jp/nhkworld/
 3.nhk.or.jp: https://www3.nhk.or.jp/nhkworld/ja/app/
+youtu.be: https://youtu.be/D6QUK0-xFDI
 youtu.be: https://youtu.be/UL4zoo8xijc?list=PLxf-CDjxvNVoZKENhMCvztSafqPefRxmw
 youtu.be: https://youtu.be/xPtwyTcrrYc

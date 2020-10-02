@@ -2,7 +2,7 @@ All of these instructions -
 
 # What is this?
 * The WLC Self Access Centre (SAC) is in SPACe (2nd floor of the West Tower in Global Square)
-* Overview video: https://www.youtube.com/watch?v=Dff_MfrRiCw
+* Overview video: https://youtu.be/D6QUK0-xFDI
 * Facebook page: https://www.facebook.com/WLCSOKA/
 * Website: https://www.soka.ac.jp/en/wlc/programs/
 
@@ -11,20 +11,13 @@ All of these instructions -
 * CCC is for TOEIC< 300 
 * EF is for TOEIC >300 
 * You can book a session and practice conversations:
-** Chit Chat Club (CCC) explanation: https://www.youtube.com/watch?v=LW3crRibeoQ
-** Chit Chat Club rules: https://www.youtube.com/watch?v=5_dXSewBzJQ
-** English Forum (EF) explanation: https://www.youtube.com/watch?v=D_sTlHXmuiw&t=4s
-** English Forum rules: https://www.youtube.com/watch?v=14YhCVke3lI
 
 ## Exam speaking centre
 * You can book and practice for speaking exams (TOEFL iBT, IELTS)
-** Centre introduction: https://youtu.be/xPtwyTcrrYc
-** Take pen, paper and a USB stick
+* Take pen, paper and a USB stick
 
 ## Writing Centre (WC)
 * You can get your writing checked 
-** WC explanation: https://www.youtube.com/watch?v=ZaHSqkNeHsI
-** WC rules: https://www.youtube.com/watch?v=hOt3qCD9UKo&t=39s
 ** Show them the correct example [[Index - Examples]]
 ** Show them the correct project: [[Index - Projects]] 
 * Either
@@ -53,23 +46,6 @@ All of these instructions -
 
 # If you are REQUIRED to do something
 * It gets really busy later in term. Go early!
-* Reservations are necessary for CCC, EF, Speaking test centre, ECR and WC
-* Reserve two weeks ahead on PLAS, under under "WLC service": http://plas.soka.ac.jp/csp/plas/login.csp
+* Reservations are necessary for most centres
+* Reserve two weeks ahead on PLAS
 * Cancel at least 3 days in advance
-* Instructions on the back of the log sheets
-* How to make Reservations: https://www.youtube.com/watch?v=DW1UnMD59H8
-* Take care of your stamp sheet if you need one (CCC/EF/WC)
-** If you lose it, you have no proof of attendance. You will have to start again
-** Take a photo of it on your phone every time you go so you have proof
-** I do not accept "Replacement Slips". Get them put on your main sheet
-
-# VIP system
-* Video explanation: https://www.youtube.com/watch?v=mS_VFg9VZjs
-* Often separate from class OK points
-** For required visits, use a sheet (EF, WC, only some classes)
-** For "Try it one time" visits, I will check your VIP card stamp collection
-
-
-
-
-

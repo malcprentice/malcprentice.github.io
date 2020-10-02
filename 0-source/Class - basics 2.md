@@ -1,14 +1,11 @@
 (Some of this will be moved to class 3) 
 
 # In class
-* [[Study Skills - make small talk]]
-* [[Study Skills - ask good questions]]
-* Introduction to regular homework
-* Introduction to [[Index - Projects]]
-* Participation PLan
+* Review regular homework
+* Participation Plan
 * Class contract
-* Main writing projects for semester
-* Presentation projects for semester
+* Introduction to writing project
+* Introduction to presentation project 
 
 # Task 1 - Do your first Vocab homework (V1)
 * Go to [[Study Skills - learn vocabulary]]

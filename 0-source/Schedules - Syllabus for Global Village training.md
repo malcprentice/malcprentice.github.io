@@ -1,29 +1,23 @@
 # Training 1
-* Peer teaching - self introductions
-* Responsibilities as a teacher
-** Prepare well
-** Start on time, finish on time, and do your paperwork on tie
-** Behave professionally
-** Keep all student information confidential
-** Be aware of the cultural differences (e.g. personal distance)
-** Avoid inappropriate topics and materials
-** Try to recruit 
-* Materials online (soka-u.jp only): https://drive.google.com/drive/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE?usp=sharing
-* If you need help...
+* Peer teaching - self introductions 
+* Asking for help
+* Materials online (soka-u.jp): https://drive.google.com/drive/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE?usp=sharing
 * Planning a class
-** How to use the Class Plan Template
+** Class Plan Template (PPP)
+** Alternatives to whiteboard
+** Example lesson (Dictogloss)
 ** [[Resources - Training - choose a learning focus]]
-** [[Resources - websites for learning a third language]]
+** [[Resources - Training - handle mixed level classes]]
+** [[Resources - Training - Activities]]  (work in progress)
+* Some other resources
 ** [[Resources - survival phrases]]
+** [[Resources - websites for learning a third language]]
 ** [[Resources - list of useful situations and functions]]
 ** [[Resources - list of conversation starters]]
-** [[Resources - Training - handle mixed level classes]]
-* Example lesson (Dictogloss)
+** [[Resources - sources of free images and clipart]]
 * If time: Plan and share own first lesson
 * Common Problems 
-* Shared materials folder: https://drive.google.com/drive/u/2/folders/0BzKt6sceTvHRdV9ZZUJLRWxObkE (only accessible if you have soka-u.jp account logged in)
-* Some [[Resources - sources of free images and clipart]]
-* Activities list: [[Resources - Training - Activities]]
+* Homework: use the blank Class Plan Template
 
 # Training 2 - prepare and share activities that work
 ### What to prepare

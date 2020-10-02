@@ -1,7 +1,4 @@
 How handle mixed level classes:
-
-
-
 1) Peer Teaching (have upper level teach/help lower levels) but not too much or too often - it get boring for them. 
 2) Prepare survival sheets for the lower level to help them keep up
 3) Prepare a worksheet for upper levels to work on while you are doing the Presentation/Practice sections with lower levels. 
