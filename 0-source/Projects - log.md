@@ -1,5 +1,6 @@
 This is almost the same as "outline", but much less formal - summary and question only. No slides, no APA, etc. The idea is to practice the conversation situation where you are telling your friend about something interesting your read or heard. 
  
+ 
 
 # 1) Find something to read or listen to. 
 * Must be ENGLISH

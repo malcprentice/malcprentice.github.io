@@ -7,6 +7,7 @@
 |Fri     |X                         |X                              |X                      		|X                      	|X
 
 
+
 <red>During online period for COVID19, the above is maybe not accurate. Just email me</red>
 
 ## Index

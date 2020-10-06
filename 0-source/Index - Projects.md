@@ -1,3 +1,4 @@
+[[Projects - log]]
 [[Projects - outline]]
 [[Projects - plan an overseas trip]]
 [[Projects - write a CV and cover letter]]
