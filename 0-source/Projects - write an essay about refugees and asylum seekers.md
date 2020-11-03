@@ -16,14 +16,14 @@ Try the UNHCR website: http://www.unhcr.org/
 
 ### 2) Choose and research one UNHCR emergency area
 Choose one of these: http://data.unhcr.org/
-Do NOT choose large areas "Mediterranean"/"Central America"
-* Choose one country producing refugees in that area. 
-* Write section 1 (Background) about that specific country, as the reasons people are fleeing might be different
-* Write section 2 and 3 (Problems/Solutions) about refugee camps they end up in, but you don't need to loook for articles about that country, as people in the camps are experiencing the same issues, with nationalities mixed together, and articles might not mention where they are all from.  
+Do NOT write section 1 about "Mediterranean"/"Central America"
+* Write section 1 (Background) about a specific ORIGIN country in that area, as the reasons people are fleeing might be different
+* Write section 2 and 3 (Problems/Solutions) about issues experienced in the HOST country. Nationalities are maybe mixed together, so write about general issues of HOST country, no need to google specifically about origin country. 
+* For example, El Salvador, Honduras and Guatemala all have slightly different issues to describe in Section 1, so choose one (e.g. El Salvador) and explain that history in Section 1. Howeve, people from all three countries have a shared experience on the journey through Mexico into the US, so your Problems and Solutions sections will be about that, not specifically about the experience in Mexico/the US of people from El Salvador.
 
 ### Follow the essay pattern
 * Essay section 1: What happened that your area is producing asylum seekers and refugees (3 time order stages OR 3 reasons/causes OR 3 groups)
-* Essay section 2/3: Problems and Solutions experienced by refugees or asylum seekers in one place they end up.
+* Essay section 2: Problems and Solutions experienced by refugees or asylum seekers in one place they end up.
 * YOu need to CHOOSE what kind of essay you will write. Either write about problems experience by refugees in camps in nearby countries, or write about problems experienced by asylum seekers and refugees who escape the problems in those camps by going to the first world
 ** Camp problems are usually lack of food/water/medicine/education for children/sanitation/overcrowding/disease/recruitment as child soldiers/human trafficking. Here are a some example links: http://www.ted.com/talks/barat_ali_batoor_my_desperate_journey_with_a_human_smuggler http://www.newstatesman.com/politics/2015/05/what-it-s-be-somali-refugee-kenya 
 ** First world asylum seeker problems ( in germany, UK, Japan) are usually language, lack of acceptance, racist attacks, losy paperwork, inability to work while applying, nowhere to sleep, lack of access to help. 
@@ -63,9 +63,9 @@ Remember this is a SECTIONAL 11 paragraph essay with subheadings. I will send yo
 ++ _"The second stage was /cause is/group is KEY2"_
 ++ _"The final stage was /cause is/group is KEY3"_
 ++  Summary not recommended. Link to next section (e.g. _“The next section focuses on three problems facing refugees who flee to other countries, using the example of COUNTRY."_ )
-+ Section 2 (New Subheading __Problems faced by refugees in TARGET COUNTRY NAME__ )
++ Section 2 (New Subheading __Problems faced by refugees in HOST COUNTRY NAME__ )
 ++ Paragraph 1 (section intro + Paragraph 1)
-+++ Thesis statement for __section__ - ("Many refugees from ORIGIN COUNTRY flee to to other places in their country, across the border into nearby countries, or to other countries around the world. This section describes the kinds of problems faced by refugees in these areas, focusing on the example of RECEIVING COUNTRY")
++++ Thesis statement for __section__ - ("Many refugees from ORIGIN COUNTRY flee to to other places in their country, across the border into nearby countries, or to other countries around the world. This section describes the kinds of problems faced by refugees in these areas, focusing on the example of HOST COUNTRY")
 +++ Keyword  sentence for __section__ ("There are three main problems facing refugees in COUNTRY - 1, 2, and 3. ")
 +++ Topic sentence for __paragraph 1__   "The first problem is"_  (not a new paragraph, just continue from section intro)
 +++ Detail on problem 1
@@ -81,7 +81,7 @@ Remember this is a SECTIONAL 11 paragraph essay with subheadings. I will send yo
 +++ Detail on problem 3 (no summary, no link, paragraph must be 4 lines minimum)
 +++ Summary for problems SECTION ("In summary there are three problems - 1, 2, and 3 - of which the most serious is 2.")
 +++ Link to next section (e.g. _"The next section looks at some possible..."_ )
-+ Section 3 (New Subheading Solutions to problems faced by refugees in TARGET COUNTRY NAME__ )
++ Section 3 (New Subheading Solutions to problems faced by refugees in HOST COUNTRY NAME__ )
 ++ Paragraph 1 (section intro + Paragraph 1)
 +++ Thesis statement for __section__ - ("This section outlines some solutions to the issues above.")
 +++ Keyword  sentence for __section__ ("There are three main solutions - 1, 2, and 3. ")
@@ -104,7 +104,7 @@ Remember this is a SECTIONAL 11 paragraph essay with subheadings. I will send yo
 ++ Summary
 +++ DO NOT write a summary like your previous essays ("In summary there are three... of which...three... of which...three.. of which...three...of which...") it will sound terrible. 
 +++ Be creative. Try to summarize your whole essay in one sentence. You can drop the solutions for now, and use them in your final comment instead. 
-++ [[Style - write a final comment sentence]] You can separate it into what to do overseas, and maybe add a second recommendation for asylum seekers in Japan e.g. _"People who want to help should do two things. To help refugees in camps in TARGET COUTRY NAME, they should... At the same time, to improve conditions for asylum seekers in Japan, they should"_
+++ [[Style - write a final comment sentence]] You can separate it into what to do overseas, and maybe add a second recommendation for asylum seekers in Japan e.g. _"People who want to help should do two things. To help refugees in HOST COUTRY NAME, they should... At the same time, to improve conditions for asylum seekers in Japan, they should"_
 
 # Style
 See the sheets from previous essays. 
