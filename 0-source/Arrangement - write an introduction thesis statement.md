@@ -48,7 +48,10 @@ Keep it simple. Copy the example.
 
 ### Endangered animals
 * This essay first describes the SPECIES NAME in detail, then looks at some problems it faces, and finally some outlines possible solutions to those problems
-* This essay first describes the Saola in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
+* Either talk about the singular species, or the plural animals, but don't mix:
+** SINGULAR version for SPECIES: This essay first describes the red panda in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
+** PLURAL version for Animals:  This essay first describes red pandas in detail, then looks at some problems they face, and finally outlines some possible solutions to those problems
+
 
 * Be careful about species and individuals
 ** Talking about a species: use "it" and "the panda"

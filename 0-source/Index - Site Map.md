@@ -58,7 +58,9 @@
 [[Projects - write an essay about voluntourism]]
 [[Projects - write an essay about world heritage]]
 ##Quiz
+[[Quiz - APA Quiz 2]]
 [[Quiz - APA quiz 1]]
+[[Quiz - sentence cohesion test]]
 ##README
 [[README]]
 ##Resources
