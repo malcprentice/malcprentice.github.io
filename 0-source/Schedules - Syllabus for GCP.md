@@ -28,8 +28,9 @@ Name                        |%      |Instructions
 ----------------------------|-------|-------------
 Essay 1  					|20%    |Given in class
 Essay 2  					|20%    |Given in class
+Essay 2 presentation         |10%    |Given in class
 Participation               |10%    |[[Study Skills - make a participation plan]]    
-Mini presentations          |30%    |Given in class///Number depends on class size
+Mini presentations          |20%    |Three presentations, one graded (10% video, 10% slides)
 Vocabulary Project (V)      |10%    |Minimum 375 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |See [[Study Skills - do a quickwrite]]    
 SR 							|0%		|For participation only (max 1 book, 5 points)

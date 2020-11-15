@@ -51,8 +51,7 @@ Participation               |10%    |[[Study Skills - make a participation plan]
 Mini presentations          |20%    |Three presentations, one graded (10% for slides, 10% for video).  
 Vocabulary Project (V)      |10%    |Test at end of term///Minimum 250 words///See [[Study Skills - learn vocabulary]]
 Quickwrite Activities (QW)  |10%    |One per class///Minimum 25///See [[Study Skills - do a quickwrite]]    
-Free December TOEIC test    |5%     |See PLAS. Screenshot results. 
-Speed Reading (SR)          |5%     |One book per term///Minimum 20///See [[Study Skills - do a speed reading]]
+Speed Reading (SR)          |10%     |Two books per term///Minimum 40///See [[Study Skills - do a speed reading]]
 
 Read this: [[Resources - grading system]]
  
