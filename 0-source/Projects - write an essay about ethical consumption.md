@@ -245,8 +245,6 @@ You chose the __BOLD KEYWORDS__ already, last week. However, if you find somethi
 * Share your research with other students
 * Invention - using sources in academic essays
 ** [[Invention - use APA format in the text]]
-** [[Invention - use APA format in reference lists]]
-** [[Invention - avoid common APA format problems]]
 ** [[Invention - use APA format for Japanese sources]]
 
 ### For homework by next class

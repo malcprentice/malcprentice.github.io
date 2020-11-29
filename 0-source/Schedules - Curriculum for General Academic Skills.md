@@ -29,14 +29,12 @@ __By the end of this course you will be able to:__
 * cite your sources properly
 ** [[Invention - quote and paraphrase]]
 ** [[Invention - use APA format in the text]]
-** [[Invention - use APA format in reference lists]]
 *** cite a book
 *** cite a newspaper article
 *** cite a journal article
 *** cite a website
 *** cite sources without names or dates
 *** cite sources in Japanese
-** [[Invention - avoid common APA format problems]]
 ** [[Invention - recognise and avoid plagiarism]]
 
 

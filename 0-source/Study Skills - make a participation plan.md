@@ -22,8 +22,10 @@ Writing Centre (WC)             |[[Study Skills - use the Self Access Centre]]  
 Speaking Test Centre            |[[Study Skills - use the Self Access Centre]]  |VIP card(SC 印鑑)                	|PLAS booking screenshot
 Global Village (GV)             |[[Study Skills - use the Self Access Centre]]  |VIP card(GV 印鑑)                	|PLAS booking screenshot
 Try Quizlet                     |See scratchpad                                 |X                                  |I will confirm later. 
-WLC-SAC Event/Lecture/Festival  |See PLAS or in-class announcements             |Ask - depends on event             |Ask - depends on event       
+WLC-SAC Event/Lecture/Festival  |See PLAS or in-class announcements             |Ask - depends on event             |Ask - depends on event 
 <red>Early term </red>office hour|Email BEFORE mid-term for an appointment      |No need - I'll be there            |No need - I'll be there    
+
+SAC Events say "Ask - depends on event ", but as a backup, take a screenshot including the speaker, and your romaji name in the participants list. 
 
 __Some rules__
 * Is Japanese your second language? Nihongo Dojo is also 1 point. No point for GV in your own language though!

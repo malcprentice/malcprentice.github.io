@@ -375,6 +375,7 @@ maps.me: https://maps.me
 msu.edu: https://msu.edu/~defores1/gre/sufx/gre_suffx.htm
 netacnext.soka.ac.jp: https://netacnext.soka.ac.jp/anetn/Student/stlogin
 openclipart.org: https://openclipart.org/
+owl.english.purdue.edu: https://owl.english.purdue.edu/owl
 owl.english.purdue.edu: https://owl.english.purdue.edu/owl/resource/560/01/
 quizlet.com: https://quizlet.com/
 scholar.google.co.jp: https://scholar.google.co.jp/

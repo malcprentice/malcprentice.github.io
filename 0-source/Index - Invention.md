@@ -1,4 +1,3 @@
-[[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
 [[Invention - check source quality]]
 [[Invention - find good sources]]

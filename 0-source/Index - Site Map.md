@@ -13,6 +13,7 @@
 [[Arrangement - write a sectional essay]]
 [[Arrangement - write a specific genre]]
 [[Arrangement - write a summary-response]]
+[[Arrangement - write a survey research presentation script]]
 [[Arrangement - write a time-order]]
 [[Arrangement - write an argument]]
 [[Arrangement - write an introduction - overview]]
@@ -30,7 +31,6 @@
 [[Examples - example ethical consumption essay]]
 [[Examples - example refugees and asylum seekers essay]]
 ##Invention
-[[Invention - avoid common APA format problems]]
 [[Invention - avoid fallacies]]
 [[Invention - check source quality]]
 [[Invention - find good sources]]

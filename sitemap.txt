@@ -15,6 +15,7 @@ http://www.alba-english.org/Arrangement - write a problems paragraph.html
 http://www.alba-english.org/Arrangement - write a sectional essay.html
 http://www.alba-english.org/Arrangement - write a specific genre.html
 http://www.alba-english.org/Arrangement - write a summary-response.html
+http://www.alba-english.org/Arrangement - write a survey research presentation script.html
 http://www.alba-english.org/Arrangement - write a time-order.html
 http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
@@ -39,7 +40,6 @@ http://www.alba-english.org/Index - Schedules.html
 http://www.alba-english.org/Index - Site Map.html
 http://www.alba-english.org/Index - Study Skills.html
 http://www.alba-english.org/Index - Style.html
-http://www.alba-english.org/Invention - avoid common APA format problems.html
 http://www.alba-english.org/Invention - avoid fallacies.html
 http://www.alba-english.org/Invention - check source quality.html
 http://www.alba-english.org/Invention - find good sources.html
