@@ -121,6 +121,7 @@ bbc.com: http://www.bbc.com/news/world-asia-china-27155441
 bbc.com: http://www.bbc.com/news/world-asia-india-29009234
 bbc.com: http://www.bbc.com/news/world-middle-east-29255315
 belfasttelegraph.co.uk: http://www.belfasttelegraph.co.uk/
+bibme.org: http://www.bibme.org
 bibsonomy.org: http://www.bibsonomy.org/
 bitoffun.com: http://www.bitoffun.com/video_vault/yuriko-kotani-ish.htm
 bps.org.uk: http://www.bps.org.uk/publications

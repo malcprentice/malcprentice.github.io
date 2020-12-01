@@ -10,7 +10,6 @@
 [[Arrangement - write a sectional essay]]
 [[Arrangement - write a specific genre]]
 [[Arrangement - write a summary-response]]
-[[Arrangement - write a survey research presentation script]]
 [[Arrangement - write a time-order]]
 [[Arrangement - write an argument]]
 [[Arrangement - write an introduction - overview]]

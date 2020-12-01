@@ -15,7 +15,6 @@ http://www.alba-english.org/Arrangement - write a problems paragraph.html
 http://www.alba-english.org/Arrangement - write a sectional essay.html
 http://www.alba-english.org/Arrangement - write a specific genre.html
 http://www.alba-english.org/Arrangement - write a summary-response.html
-http://www.alba-english.org/Arrangement - write a survey research presentation script.html
 http://www.alba-english.org/Arrangement - write a time-order.html
 http://www.alba-english.org/Arrangement - write an argument.html
 http://www.alba-english.org/Arrangement - write an introduction - overview.html
@@ -48,12 +47,12 @@ http://www.alba-english.org/Invention - recognise and avoid plagiarism.html
 http://www.alba-english.org/Invention - recognise source bias and quality.html
 http://www.alba-english.org/Invention - recognise types of evidence.html
 http://www.alba-english.org/Invention - use APA format for Japanese sources.html
+http://www.alba-english.org/Invention - use APA format for reference lists.html
 http://www.alba-english.org/Invention - use APA format for tables and figures.html
 http://www.alba-english.org/Invention - use APA format in reference lists.html
 http://www.alba-english.org/Invention - use APA format in the text.html
 http://www.alba-english.org/Invention - use APA title case and italics.html
 http://www.alba-english.org/Invention - use IEEE format for sources.html
-http://www.alba-english.org/Invention - use tools for managing and formatting references.html
 http://www.alba-english.org/Projects - log.html
 http://www.alba-english.org/Projects - outline.html
 http://www.alba-english.org/Projects - plan an overseas trip.html
