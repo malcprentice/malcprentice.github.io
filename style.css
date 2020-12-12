@@ -179,8 +179,6 @@ p.clickable {
     line-height: 150%;
 }
 
-
-
 blockquote {
     margin: 2vw 3vw 2vw 3vw;
     padding: 0;
@@ -198,6 +196,8 @@ blockquote {
 
 ref p {
     font-family: "Times New Roman", serif;
+    font-size: 2.5vw;
+    line-height: 5vw;
     padding: 0 0 0 2vw;
     text-indent: -2vw;   margin: 0 0 0 2vw;
     color: #000000;
