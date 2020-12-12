@@ -51,7 +51,7 @@ Remember this is a SECTIONAL 11 paragraph essay with subheadings. I will send yo
 + Introduction (one paragraph, No subheading)
 ++ General Background (e.g. a recent global number of refugees) 
 ++ Specific Background:  NAME your country and give ONE detail (e.g. _"One of the countries from which large numbers of refugees come is X, which is experiencing/due to the recent/as a result of ongoing conflict/famine/civil war"_ )
-++ Importance Background (why should reader care and read further - "Tjis is a problem / important because")
+++ Importance Background (why should reader care and read further - "This is a problem / important because". For refigees essay, most likely this answers the question "why did you choose this country out of all possible options? Why is this in particular a useful exampleto write an essay about?" e.g. most refugees, second most refugees, worst journey, worst response by first world host country, most common nationality of refugees who continue on to Japan? )
 ++ Thesis Statement for __Essay__: e.g. _"Therefore this essay first gives some background on the situation in COUNTRY, then looks at the problems faced by refugees, and finally outlines some possible solutions."_
 + Section 1 (New Subheading __Background__ (12pt bold)).  
 ++ Topic Sentence (e.g. "This section looks at how the current crisis in COUNTRY came about.")
