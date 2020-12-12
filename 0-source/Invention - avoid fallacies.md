@@ -55,8 +55,8 @@ Bananas are shaped like they are so humans can eat them
 
 ## Confusing Cause and effectw
 You might hear people say: Correlation is not causation 
-** "I started sneezing when I saw her, so she must have given me a cold" (cum hoc)
-** "I started sneezing after I saw her, so she must have given me a cold" (post hoc)
+    * "I started sneezing when I saw her, so she must have given me a cold" (cum hoc)
+    * "I started sneezing after I saw her, so she must have given me a cold" (post hoc)
 * Panda populations are decreasing. Temperature are doing up. Pandas cool the world. (Ignoring common cause)  
 * (Denying the antecedent)
 * (Affirming the Consequent)

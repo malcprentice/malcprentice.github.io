@@ -32,6 +32,6 @@ Look at [[Index - Style]] index - after you describe the graph, you can
 * [[Style - write a partition sentence]] to separate multiple features in the table/figure
 * [[Style - use hedging]] to cast doubt on the reliability of the data
 * Summarize the graph
-** see [[Style - use cohesion]] for summary language
-** Also see the page on how to [[Arrangement - write a summary-response]]
+    * see [[Style - use cohesion]] for summary language
+    * Also see the page on how to [[Arrangement - write a summary-response]]
 * [[Style - write a time-order sentence]] to describe a change graph in more detail

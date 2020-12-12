@@ -56,9 +56,9 @@ Use the SECTIONAL essay template in the shared materials folder.
 * Please choose something outside Japan. 
 * Please choose a specific project a student could volunteer on (i.e not something you need to be a doctor for)
 * For ideas, try:
-** SUJ volunteer website: http://www.soka.ac.jp/sp/international/outbound/program/volunteer/
-** Global Festa: https://www.facebook.com/globalfesta2014
-** Idealist: http://idealist.org
+    * SUJ volunteer website: http://www.soka.ac.jp/sp/international/outbound/program/volunteer/
+    * Global Festa: https://www.facebook.com/globalfesta2014
+    * Idealist: http://idealist.org
 
 
 ###  <red>VERY IMPORTANT</red>
@@ -97,17 +97,17 @@ You CAN choose a travel agency, as there are good ones and bad ones, but your cr
 * Travel agencies are not directly responsible for research, sustainability, leading volunteers. 
 * They are only responsible for CHOOSING projects/people responsibly and carefully before allowing them on teir list of projects
 * Travel agencies criteria (what they are responsible for) are for example:
-** Choosing and/or preparing volunteers well 
-*** A bad agency has no requirements (anyone can volunteer with no training or qualifications) 
-*** A bad agency has no background checks, even if the project works with children.
-*** A bad agency has no training or pre-trip education except maybe a pamphlet. 
-** Choosing and monitoring projects well
-*** A bad agency has no criteria of their own (transparency, sustaiability, impact) for choosing which projecs they have on their site (e.g. Cambodian orphanages fine)
-*** A bad agency has no process for regular checks on the project
-** Own transparency
-*** is it clear how they use those fees they collect? 
-*** Is the description of each project true and clear? 
-*** Is it clear they are a for-profit travel agency? Or are they pretending to be an NGO travel agency. 
+    * Choosing and/or preparing volunteers well 
+        * A bad agency has no requirements (anyone can volunteer with no training or qualifications) 
+        * A bad agency has no background checks, even if the project works with children.
+        * A bad agency has no training or pre-trip education except maybe a pamphlet. 
+    * Choosing and monitoring projects well
+        * A bad agency has no criteria of their own (transparency, sustaiability, impact) for choosing which projecs they have on their site (e.g. Cambodian orphanages fine)
+        * A bad agency has no process for regular checks on the project
+    * Own transparency
+        * is it clear how they use those fees they collect? 
+        * Is the description of each project true and clear? 
+        * Is it clear they are a for-profit travel agency? Or are they pretending to be an NGO travel agency. 
 
 
 ## 4) Choose three important criteria (traits)
@@ -129,23 +129,23 @@ You CAN choose a travel agency, as there are good ones and bad ones, but your cr
 * Google "Review"+ their name
 * Read about them on other websites reviewing charities and NGOs.
 * International groups:
-** Check their review on Charity Navigator: http://www.charitynavigator.org/
-** Check for a review on GuideStar: http://www.guidestar.org
+    * Check their review on Charity Navigator: http://www.charitynavigator.org/
+    * Check for a review on GuideStar: http://www.guidestar.org
 
 ## 6) Start putting your research into the template outline
 
 # Style
 * Watch the plural - one criterION, two criteriA
 * Be careful of your main vocab word - volunteer
-** A volunteer, two volunteers. Volunteers are people!
-** When talking about the topic, use "this volunteer organisation" or "experience" or "project"
-** Voluntourism is a BAD thing, from the TED video.
+    * A volunteer, two volunteers. Volunteers are people!
+    * When talking about the topic, use "this volunteer organisation" or "experience" or "project"
+    * Voluntourism is a BAD thing, from the TED video.
 * Your criteria are suggestions and processes (check X, shuold check X. In order to do this fiurst check X then Y.)
 * ANALYSIS DETAILS ARE PAST TENSE RESEARCH FINDINGS ("I found out that they do not show financial info")
 * Some phrases for anlaysis
-** the X was (not) available / very detailed
-** Y could not not be confirmed /
-** their website (did not) show Z
+    * the X was (not) available / very detailed
+    * Y could not not be confirmed /
+    * their website (did not) show Z
 
 
 # Arrangement for Slides
@@ -153,17 +153,17 @@ See template, but:
 + TItle slide
 + Overview slide
 + Criteria slide
-++ WHat is your criteria?
-++ How can you check it in practice?
+    + WHat is your criteria?
+    + How can you check it in practice?
 + Criteria slide
 + Criteria slide
 + DEscription of project slide
 + Analysis according to Criteria 1 slide
-++ Maybe a graph 
-++ Maybe a table
-++ Maybe a“good/bad” list
-++ Maybe a list of what was checked and the result
-++ Maybe a list of what was checked and that nothing was found. 
+    + Maybe a graph 
+    + Maybe a table
+    + Maybe a“good/bad” list
+    + Maybe a list of what was checked and the result
+    + Maybe a list of what was checked and that nothing was found. 
 + Analysis according to Criteria 1 slide
 + Analysis according to Criteria 1 slide
 + Conclusion slide
@@ -173,58 +173,58 @@ See template, but:
 
 # Arrangement for Essay
 + INTRO
-++ GB/SB
-+++ e.g. Many students want to help others/ one way is volunteer
-+++ e.g. Many students want to volunteer / most want to go abroad
-+++ If possible, cite a number (how many volunteer)
-++ IB: Not all volunteer experiences good / some can make things worse (cite)
-++ THESIS
-+++ For presentation start "As such, today I will"
-+++ For essay, start "This essay "
-+++ Finish "outline three criteria for choosing a good volunteer organisation, then describe and analyse one organisation using those criteria
+    + GB/SB
+        + e.g. Many students want to help others/ one way is volunteer
+        + e.g. Many students want to volunteer / most want to go abroad
+        + If possible, cite a number (how many volunteer)
+    + IB: Not all volunteer experiences good / some can make things worse (cite)
+    + THESIS
+        + For presentation start "As such, today I will"
+        + For essay, start "This essay "
+        + Finish "outline three criteria for choosing a good volunteer organisation, then describe and analyse one organisation using those criteria
 + Criteria section (3 slides/paragraphs)
-++ Criterion 1
-+++ Section thesis ("The three most important criteria for choosing a good volunteer organisation are 1, 2, and 3")
-+++ Paragraph topic (aka slide title): "The first...")
-+++ WHAT to check
-++++ (e.g. sustainability = long term plans, repair training, post-project funding).
-++++ Probably a kind DEFINITION e.g. "Sustainability IS A  characteristic of planning WHICH exists when / Transparency IS A requirement of FINANCIAL REPORTING, showing that an organisation has"
-+++ HOW to check
-++++ (e.g. website, review website, volunteer blogs, govt reports)
-++++ e.g. "In order to check this, it is necessary to"
-++ Criterion 2
-+++ Paragraph topic (aka slide title)
-+++ WHAT to check
-+++ HOW to check it
-++ Criterion 3
-+++ Paragraph topic (aka slide title)
-+++ WHAT to check
-+++ HOW to check it
+    + Criterion 1
+        + Section thesis ("The three most important criteria for choosing a good volunteer organisation are 1, 2, and 3")
+        + Paragraph topic (aka slide title): "The first...")
+        + WHAT to check
+            + (e.g. sustainability = long term plans, repair training, post-project funding).
+            + Probably a kind DEFINITION e.g. "Sustainability IS A  characteristic of planning WHICH exists when / Transparency IS A requirement of FINANCIAL REPORTING, showing that an organisation has"
+        + HOW to check
+            + (e.g. website, review website, volunteer blogs, govt reports)
+            + e.g. "In order to check this, it is necessary to"
+    + Criterion 2
+        + Paragraph topic (aka slide title)
+        + WHAT to check
+        + HOW to check it
+    + Criterion 3
+        + Paragraph topic (aka slide title)
+        + WHAT to check
+        + HOW to check it
 + Analysis section (4 slides/paragraphs)
-++ Paragraph 1: Thesis and Description
-+++ Section thesis ("This section first describes one organisation - NAME - in detail, then analyses it in terms of ther criteria outlined above.")
-+++ 2-4 Description points (WHAT is theiraim, WHAT do they do exactly, WHERE do they do it, WHEN did they start, WHO does what, etc)
-+++ link to next paragraph ("THe remainder of this section analyses...")
-++ Analysis 1
-+++ Paragraph topic (aka slide title)
-+++ 2-3 points
-++++ What exactly did you check? ("In order to confirm TOPIC, X was checked for Y")
-++++ What exactly did you find? ("It was found that Y was / was not available/detailed. In addition, it (could not) be confirmed that Z")
-++++ Explanation and or Summary: What does this mean - does the organisation meet the criterion or not? ("As such, because ..., this organisation does not meet this criterion")
-++ Analysis 2
-+++ Paragraph topic (aka slide title)
-++++ What exactly did you check?
-++++ What exactly did you find?
-++++ Explanation and or Summary
-++ Analysis 3
-+++ Paragraph topic (aka slide title)
-++++ What exactly did you check?
-++++ What exactly did you find?
-++++ Explanation and or Summary
+    + Paragraph 1: Thesis and Description
+        + Section thesis ("This section first describes one organisation - NAME - in detail, then analyses it in terms of ther criteria outlined above.")
+        + 2-4 Description points (WHAT is theiraim, WHAT do they do exactly, WHERE do they do it, WHEN did they start, WHO does what, etc)
+        + link to next paragraph ("THe remainder of this section analyses...")
+    + Analysis 1
+        + Paragraph topic (aka slide title)
+        + 2-3 points
+            + What exactly did you check? ("In order to confirm TOPIC, X was checked for Y")
+            + What exactly did you find? ("It was found that Y was / was not available/detailed. In addition, it (could not) be confirmed that Z")
+            + Explanation and or Summary: What does this mean - does the organisation meet the criterion or not? ("As such, because ..., this organisation does not meet this criterion")
+    + Analysis 2
+        + Paragraph topic (aka slide title)
+            + What exactly did you check?
+            + What exactly did you find?
+            + Explanation and or Summary
+    + Analysis 3
+        + Paragraph topic (aka slide title)
+            + What exactly did you check?
+            + What exactly did you find?
+            + Explanation and or Summary
 + Discussion
-++ Topic sentence (Thesis in other words and past tense)
-++ Summary
-+++ EITHER two sentences, one about each section ("In summary there are three..of which this organisation met one and partially met two. The results of the analysis showed that...")
-++ Final comment  (Should I volunteer with them or not? Use "should" or other recommendation language) e.g. "In conclusion, despite some issues with X, this is a good organisation to volunteer with in terms of Y and Z and students should consider it when they are deciding where to volunteers."
+    + Topic sentence (Thesis in other words and past tense)
+    + Summary
+        + EITHER two sentences, one about each section ("In summary there are three..of which this organisation met one and partially met two. The results of the analysis showed that...")
+    + Final comment  (Should I volunteer with them or not? Use "should" or other recommendation language) e.g. "In conclusion, despite some issues with X, this is a good organisation to volunteer with in terms of Y and Z and students should consider it when they are deciding where to volunteers."
 
 

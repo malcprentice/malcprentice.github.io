@@ -55,9 +55,9 @@ I want a cat, specifically either A, B, or C
 Read this: [[Style - use a parenthetical statement]]
 Two warnings if you use keywords this way:
 * No commas for lists. They are confusing
-** ~~The three problems, A, B, and C, are bad~~
+    * ~~The three problems, A, B, and C, are bad~~
 * No brackets for important information or new keywords. 
-** ~~The three problems (A, B, and C) are bad~~
+    * ~~The three problems (A, B, and C) are bad~~
 
 Hyphen style is safest:
 * The three problems - A, B, and C - are bad

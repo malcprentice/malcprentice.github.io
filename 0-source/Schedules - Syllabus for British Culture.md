@@ -3,23 +3,23 @@ This course is a content-based communicative class that introduces British Cultu
 
 ### By the end of this course, students will be able to:
 * Research effectively
-** set goals and manage time effectively
-** identify an interesting and researchable topic
-** locate good sources
-** read effectively and take good notes
-** quote, paraphrase, and summarize sources
-** cite sources properly
-** share and discuss research with others
+    * set goals and manage time effectively
+    * identify an interesting and researchable topic
+    * locate good sources
+    * read effectively and take good notes
+    * quote, paraphrase, and summarize sources
+    * cite sources properly
+    * share and discuss research with others
 * Express ideas clearly
-** communicate in an academic environment
-** make a poster presentation
-** work cooperatively and give a group presentation
-** write a short essay
-*** share ideas clearly in writing
-*** use peer and teacher feedback to improve draft work
-*** format written work properly
-*** follow academic conventions
-*** use cohesion to join  ideas
+    * communicate in an academic environment
+    * make a poster presentation
+    * work cooperatively and give a group presentation
+    * write a short essay
+        * share ideas clearly in writing
+        * use peer and teacher feedback to improve draft work
+        * format written work properly
+        * follow academic conventions
+        * use cohesion to join  ideas
 
 ### In addition, the learning goals as future teachers are:
 * To be able to explain British Culture to others
@@ -47,35 +47,35 @@ Students will approach British Culture through four perspectives – Places, Wor
 # Materials (使用書 / 参考書)
 * No textbook. Materials provided by teacher.
 * Students will need:
-** a B5 notebook
-** an A4 plastic pocket folder
+    * a B5 notebook
+    * an A4 plastic pocket folder
 
 # Assessment (評価方法)
 * Participation (10%)
 * Weekly research based homework (50%).
 * One assessed project per section (40%)
-** one essay (10%)
-** one group presentation(10%)
-** one poster presentations (10%)
-** one independent task with choice of formats: poster, essay or individual presentation (10%)
+    * one essay (10%)
+    * one group presentation(10%)
+    * one poster presentations (10%)
+    * one independent task with choice of formats: poster, essay or individual presentation (10%)
 
 # Syllabus (授業計画) for Semester 1
 In each 3/4 week cycle, students will research a topic, present findings to a partner, discuss and choose an interesting aspect of the topic, then prepare a presentation for the group. There will be homework for each class, either researching a topic or preparing a presentation/essay.
 
 ## Class 1: Introduction
 * Overview of syllabus
-** What is culture?
-** A look at cultural stereotypes
+    * What is culture?
+    * A look at cultural stereotypes
 * How to do well in class
 * Note-taking & Research strategies.
 * Introduction to "Places" task and British World Heritage sites.
 
 ### HW1: Choose and research a British World Heritage site.
 * Take notes on a British World Heritage Site
-** Choose a CULTURAL (yellow diamond) World Heritage site: http://whc.unesco.org/en/statesparties/g
-** Research it online.
-** Take notes using suggested format
-** Come to class ready to tell your group about your chosen place.
+    * Choose a CULTURAL (yellow diamond) World Heritage site: http://whc.unesco.org/en/statesparties/g
+    * Research it online.
+    * Take notes using suggested format
+    * Come to class ready to tell your group about your chosen place.
 
 ## Class 2: Places: Sharing research
 * Presentation Skills
@@ -87,10 +87,10 @@ In each 3/4 week cycle, students will research a topic, present findings to a pa
 ### HW2: Write an essay about a world heritage site
 * Download the example and template
 * Write a 3 paragraph essay (at least 200 words)
-** Read more sources if you have to
-** Follow the template outline and example
-** Don't forget your name, number and the sources (numbered style)
-** Print it and bring it to class
+    * Read more sources if you have to
+    * Follow the template outline and example
+    * Don't forget your name, number and the sources (numbered style)
+    * Print it and bring it to class
 
 ## Class 3. Places: Checking.
 * How to give feedback
@@ -100,15 +100,15 @@ In each 3/4 week cycle, students will research a topic, present findings to a pa
 ### HW3: Draft 2 of essay
 * Draft 2 of your essay.
 * Write a 3 question quiz (one question per paragraph)
-** Do NOT write the answers on your draft
-** Print and bring TWO copies to class
+    * Do NOT write the answers on your draft
+    * Print and bring TWO copies to class
 
 ## Class 4. Words: Introduction to British authors.
 * Places Quiz
-** Give one copy of your paragraph/quiz to the teacher
-** Stick one to the wall.
-** Form groups of 6
-** As teams, compete to answer all the questions as quickly as possible
+    * Give one copy of your paragraph/quiz to the teacher
+    * Stick one to the wall.
+    * Form groups of 6
+    * As teams, compete to answer all the questions as quickly as possible
 * Submit copy 2 of your essay to the teacher
 
 * Introduction to project 2: "Stories"
@@ -116,20 +116,20 @@ In each 3/4 week cycle, students will research a topic, present findings to a pa
 ### HW4: Choose and research one lesser known British author.
 * Look at the list of authors on the link on the worksheet
 * Choose one.
-** If your author is well known, choose one of their less famous books
-** Your presentation next week must tell your partners something they don't know
+    * If your author is well known, choose one of their less famous books
+    * Your presentation next week must tell your partners something they don't know
 * Research the author's life
 * Choose a story by that author. Research it.
 * Choose a research option to match your ENglish ability:
-** Option 1: Read the story
-** Option 2: Read the extensive reader version
-** Option 3: Read ABOUT the story online
-** Option 4: Read the story in Japanese
-** Option 5: Read ABOUT the story in Japanese
-** Option 6: Watch a movie version (in English, with English subtitles)
+    * Option 1: Read the story
+    * Option 2: Read the extensive reader version
+    * Option 3: Read ABOUT the story online
+    * Option 4: Read the story in Japanese
+    * Option 5: Read ABOUT the story in Japanese
+    * Option 6: Watch a movie version (in English, with English subtitles)
 * Next week, come ready to tell your group
-** about the author
-** about their most famous book
+    * about the author
+    * about their most famous book
 
 ## Class 5. Words: Sharing Research
 Start preparing your group presentation about the author and the book.
@@ -143,10 +143,10 @@ HW5
 * Next week, put your work together
 * In two weeks, you will practice
 * In three weeks, you will perform
-** You need notes for the presentation
-** Student 1: Tell us about the author
-** Student 2: Tell us about the story
-** Student 3: Tell us why the story is important/famous.
+    * You need notes for the presentation
+    * Student 1: Tell us about the author
+    * Student 2: Tell us about the story
+    * Student 3: Tell us why the story is important/famous.
 * You also need a script for the sketch
 * Do draft 3 of your essay from project 1
 
@@ -171,15 +171,15 @@ Perform your pieces for the class
 * Get into groups of 6-8 students
 * Look at the topics on the next page
 * These are STARTER questions. Your job is to tell the class something
-** A) That they do not know
-** B) That is interesting
-** e.g. a good U.K. Sport to research is Hurly, not Football.
+    * A) That they do not know
+    * B) That is interesting
+    * e.g. a good U.K. Sport to research is Hurly, not Football.
 * The ideas are just to guide you. You don't need to follow all the suggestions.
-** Each group member chooses a different topic.
-** Search the internet.
-** Find AT LEAST TWO interesting articles on your topic
-*** Print them, Read them, and Take Notes in recommended style
-*** Get ready to explain your topic to your group next week
+    * Each group member chooses a different topic.
+    * Search the internet.
+    * Find AT LEAST TWO interesting articles on your topic
+        * Print them, Read them, and Take Notes in recommended style
+        * Get ready to explain your topic to your group next week
 
 ### Topic Starter Questions
 * How old do you have to be to smoke, drink, drive, vote?
@@ -199,34 +199,34 @@ Perform your pieces for the class
 * How to give a poster presentation
 * How to make a poster
 * How to use Powerpoint
-** Good slide practice
-** Printing different versions of slides
+    * Good slide practice
+    * Printing different versions of slides
 
 * Share your research and get ideas
-** Explain your topic to your partner, using your notes
-** Take a note of their questions
-** Take a note of anything they do not understand
-** Repeat with another partner
+    * Explain your topic to your partner, using your notes
+    * Take a note of their questions
+    * Take a note of anything they do not understand
+    * Repeat with another partner
 
 ### HW: Prepare your poster
 * Use the questions to improve your notes
 * Make a powerpoint poster presentation
 * Remember - the poster has BASIC information, plus pictures/graphs/charts/diagrams
 * Your notes - what you speak - should have EXTRA information
-** You should have a title slide
-** You should have 5 content slides
-** Your should a “References” slide
-** Print one A4 copy for the wall
-** Stick your A4 copies together, so putting them up is faster and they don’t curl
-** Buy some tape, between a group or two
-** Print one “notes” copy to hold with your extra information
+    * You should have a title slide
+    * You should have 5 content slides
+    * Your should a “References” slide
+    * Print one A4 copy for the wall
+    * Stick your A4 copies together, so putting them up is faster and they don’t curl
+    * Buy some tape, between a group or two
+    * Print one “notes” copy to hold with your extra information
 
 ## Class 10. Society: Practice
 * How to give a good presentation.
 * Check and practice your poster presentations
 * In pairs, practice your presentation
-** Give each other feedback
-** Practice asking and answering questions
+    * Give each other feedback
+    * Practice asking and answering questions
 
 
 ### HW: Finish & Practice your Presentation

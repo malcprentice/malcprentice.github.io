@@ -16,18 +16,18 @@ This is the simple version - just copy and change.
 For more advanced options, see the bottom
 
 + <green>Problems paragraph P </green>
-++ __Sentence 1:__ "This paragraph looks at three ways in which production of X causes problems - KEYWORD 1, KEYWORD 2, and KEYWORD 3."
-++ __Sentence 2:__ "The first problem is KEYWORD 1"
-+++ __Sentence 3:__ Detail sentence of KEYWORD 1 (APA reference). 
-+++ __Sentence 4:__ LINK WORD + second detail sentence of KEYWORD 1 (APA reference). 
-++ __Sentence 5:__ "The second problem is KEYWORD 2"
-+++ __Sentence 6:__ Detail sentence of KEYWORD 2 (APA reference). 
-+++ __Sentence 7:__ LINK WORD + second detail sentence of KEYWORD 2 (APA reference). 
-++ __Sentence 8:__ "The third problem is KEYWORD 3"
-+++ __Sentence 9:__ Detail sentence of KEYWORD 3 (APA reference). 
-+++ __Sentence 10:__ LINK WORD + second detail sentence sentences of KEYWORD 3 (APA reference). 
-++ __Sentence 11:__ Summary ("In summary, there are three main problems - KEYWORD1, KEYWORD2, and KEYWORD3 - of which the most serious is [CHOOSE ONE KEYWORD]. ")
-++ __Sentence 12:__ Link to solutions paragraph ("However, the next paragraph examines some possible solutions to these issues. ")
+    + __Sentence 1:__ "This paragraph looks at three ways in which production of X causes problems - KEYWORD 1, KEYWORD 2, and KEYWORD 3."
+    + __Sentence 2:__ "The first problem is KEYWORD 1"
+        + __Sentence 3:__ Detail sentence of KEYWORD 1 (APA reference). 
+        + __Sentence 4:__ LINK WORD + second detail sentence of KEYWORD 1 (APA reference). 
+    + __Sentence 5:__ "The second problem is KEYWORD 2"
+        + __Sentence 6:__ Detail sentence of KEYWORD 2 (APA reference). 
+        + __Sentence 7:__ LINK WORD + second detail sentence of KEYWORD 2 (APA reference). 
+    + __Sentence 8:__ "The third problem is KEYWORD 3"
+        + __Sentence 9:__ Detail sentence of KEYWORD 3 (APA reference). 
+        + __Sentence 10:__ LINK WORD + second detail sentence sentences of KEYWORD 3 (APA reference). 
+    + __Sentence 11:__ Summary ("In summary, there are three main problems - KEYWORD1, KEYWORD2, and KEYWORD3 - of which the most serious is [CHOOSE ONE KEYWORD]. ")
+    + __Sentence 12:__ Link to solutions paragraph ("However, the next paragraph examines some possible solutions to these issues. ")
 
 ## What is a KEYWORD?
 * Simple answer: use only noun or short noun phrase
@@ -47,8 +47,8 @@ For more advanced options, see the bottom
 ## 2) Try other sentence styles 
 There are other ways of writing each sentence. 
 * For example, your topic sentence:
-** You could write instead "This paragraph looks at three ways in which people making X are experiencing problems - KEYWORD1, KEYWORD2, and KEYWORD3"
-** For more examples, see [[Arrangement - write a paragraph topic sentence]]
+    * You could write instead "This paragraph looks at three ways in which people making X are experiencing problems - KEYWORD1, KEYWORD2, and KEYWORD3"
+    * For more examples, see [[Arrangement - write a paragraph topic sentence]]
 * See [[Index - Style]] for options on various sentence types.
 
  

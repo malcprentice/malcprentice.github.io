@@ -60,9 +60,9 @@ d) lots of practice
 * write a TOEFL iBT independent essay
 * write a TOEFL iBT integrated essay
 * take notes
-** [[Projects - outline]]
-** summarize
-** paraphrase
+    * [[Projects - outline]]
+    * summarize
+    * paraphrase
 ## Reading
 
 
@@ -85,17 +85,17 @@ d) lots of practice
 
 # 5) Content
 Content is learning about a topic using the language:
-** The aim is not language
-** The aim is understanding the topic
-** If necessary, use more Japanese for this focus
+    * The aim is not language
+    * The aim is understanding the topic
+    * If necessary, use more Japanese for this focus
 * Culture
-** food
-** music
-** customs
-** family
-** being a guest
-** seasons
-** etc
+    * food
+    * music
+    * customs
+    * family
+    * being a guest
+    * seasons
+    * etc
 
 # Quiz
 Here is the list of GV topics.

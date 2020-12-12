@@ -1,7 +1,7 @@
 # General Description
 * This course is a 8-day, TWO credit, intensive Communication and TOEIC skills course. 
-** In the Communication section, students will practice speaking, listening, reading and writing on topics that are useful for everyday situations. Students will give presentations in English.
-** In the TOEIC section of the course, students will learn and practice test-taking strategies to improve their TOEIC scores. 
+    * In the Communication section, students will practice speaking, listening, reading and writing on topics that are useful for everyday situations. Students will give presentations in English.
+    * In the TOEIC section of the course, students will learn and practice test-taking strategies to improve their TOEIC scores. 
 * This syllabus is for the COMMUNICATION section of the course with Malc.
 * Credit for the course is optional (if you get a failing grade and you don't want it, you can cancel the course even after it is finished). 
 
@@ -25,8 +25,8 @@ Total is 50% from Communication (Malc), including:
 ## 10% Presentation 2 (Day 8)
 * Details in class
 * If you are absent day 8, your score is zero unless you
-** do it day 7 or
-** contact Malc on day 8 and submit a video presentation later. 
+    * do it day 7 or
+    * contact Malc on day 8 and submit a video presentation later. 
 
 ## 10% Vocab (Homework)
 * 10 words per day starting day 2 = 70 words total
@@ -34,34 +34,34 @@ Total is 50% from Communication (Malc), including:
 * Less than 70 words on day 8 = lose participation points
 * Tested on day 8: 10 words chosen by Malc from 70
 * If you are absent Day 8, your score is 0 unless you:
-** finish your work by day 7 and ask Malc to check it
-** contact Malc by email <red>ON day 8 </red> to arrange a check
+    * finish your work by day 7 and ask Malc to check it
+    * contact Malc by email <red>ON day 8 </red> to arrange a check
 
 ## 10% Quickwrites (QW) 
 * One each day in class (total 8).
 * One each day for homework (total 7) starting day 2
 * Forget this HW = lose participation points
 * 10% is for submitting all (8+ 7=15) in last class. 
-** Less than 15 QW on day 8? Lose 1% per missing QW
+    * Less than 15 QW on day 8? Lose 1% per missing QW
 * If you are absent Day 8, your score is 0 unless you:
-** finish your work by day 7 and ask Malc to check it
-** contact Malc <red>ON day 8</red> to arrange a check
+    * finish your work by day 7 and ask Malc to check it
+    * contact Malc <red>ON day 8</red> to arrange a check
 * Do >15 only for participation points (see below)
 
 # 10% Participation
-** Start with 10/10 (perfect score)
-** absent = minus one point (if no __official__ excuse)
-** forget homework = minus one point
-** other NG points  = minus 1 point
-*** speak too much Japanese
-*** sleep in class
-*** etc
-** extra QW = + 1 per 3 QW (100 words minimum)
-*** So to get the max 10/10 for participation, either:
-*** Don't be absent, late, and don't forget anything, or....
-*** Lose one points and do 3 extra quickwrites (Total 18)
-*** Lose two points and do 6 extra quickwrites (Total 21)
-*** etc
+    * Start with 10/10 (perfect score)
+    * absent = minus one point (if no __official__ excuse)
+    * forget homework = minus one point
+    * other NG points  = minus 1 point
+        * speak too much Japanese
+        * sleep in class
+        * etc
+    * extra QW = + 1 per 3 QW (100 words minimum)
+        * So to get the max 10/10 for participation, either:
+        * Don't be absent, late, and don't forget anything, or....
+        * Lose one points and do 3 extra quickwrites (Total 18)
+        * Lose two points and do 6 extra quickwrites (Total 21)
+        * etc
 
 # Attendance Policy
 * After the start of class you are <orange>late</orange>
@@ -73,11 +73,11 @@ Total is 50% from Communication (Malc), including:
 ## If you are absent, also note:
 Absences/Lateness also reduce your participation score, but:
 * If you have an official excuse:
-** Check this: [[Resources - good reason for absence]]
-** submit your proof = no minus point and no absence. 
+    * Check this: [[Resources - good reason for absence]]
+    * submit your proof = no minus point and no absence. 
 * Otherwise:
-** Use one of your 10 possible absences. 
-** You will lose a participation point, but if your score is important, you can get it back by doing 3 quickwrites 
+    * Use one of your 10 possible absences. 
+    * You will lose a participation point, but if your score is important, you can get it back by doing 3 quickwrites 
 
 
 
@@ -201,8 +201,8 @@ Absences/Lateness also reduce your participation score, but:
 * Final Vocab Test (1-70) <red>(10% of grade!) </red>
 * Short presentations <red>(10% of grade) </red>
 * Collect all QW 
-** (8 in class+  7HW = 15 minimum
-**  plus any extra QW for participation points
+    * (8 in class+  7HW = 15 minimum
+    *  plus any extra QW for participation points
 * Assign Communication Grade
 * Questionnaire
 * Credit/No credit decision

@@ -3,13 +3,13 @@
 This page is about how to plan and organise a cause-effect PARAGRAPH.
 
 * Paragraph 3 of first-year essays are cause-effect
-** the "Problems" paragraph of "ethical consupmtion" and "endangered animal" essays
-** download templates and examples from Shared Materials folder 
+    * the "Problems" paragraph of "ethical consupmtion" and "endangered animal" essays
+    * download templates and examples from Shared Materials folder 
 * Cause-effect is not just for your Problems paragraph
-** Past Effect: 	What happened when the UK banned smoking in 2012? What happened as a result of the 2011 Earthquake?
-** Past Cause:		What made the UK ban smoking in 2012? What caused the Fukushima nuclear disaster?
-** Future Effect:	What would happen if we banned smoking? What will happen if we turn the nuclear power stations back on?
-** Future Cause:	How can we get the government to ban smoking?
+    * Past Effect: 	What happened when the UK banned smoking in 2012? What happened as a result of the 2011 Earthquake?
+    * Past Cause:		What made the UK ban smoking in 2012? What caused the Fukushima nuclear disaster?
+    * Future Effect:	What would happen if we banned smoking? What will happen if we turn the nuclear power stations back on?
+    * Future Cause:	How can we get the government to ban smoking?
 
 # Invention - Visual Organisers
 Use these to guide your brainstorm

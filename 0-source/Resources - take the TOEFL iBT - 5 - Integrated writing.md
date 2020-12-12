@@ -29,24 +29,24 @@ See [[Examples - TOEFL Integrated essay]]
 * Suggested length is 150-225 words, but no penalty for more
 * NO personal opinions, examples etc..
 * DO NOT PLAGIARIZE
-** Do not copy phrases from the reading or quote. 
-** Paraphrase! 
-** See [[Invention - quote and paraphrase]]
+    * Do not copy phrases from the reading or quote. 
+    * Paraphrase! 
+    * See [[Invention - quote and paraphrase]]
 
 
 # Scoring
 YOu are scored on
 * Development 
-** Select the IMPORTANT info from the lecture  
-** Always MATCH the 3 listening points to the 3 reading points 
+    * Select the IMPORTANT info from the lecture  
+    * Always MATCH the 3 listening points to the 3 reading points 
 * Organization
-** Write in paragraphs 
-** Use transitions 
-** Don't repeat points 
+    * Write in paragraphs 
+    * Use transitions 
+    * Don't repeat points 
 * Language use 
-** Sentence structure   
-** Choosing the right words
-** Spelling and Grammar don’t need to be perfect 
+    * Sentence structure   
+    * Choosing the right words
+    * Spelling and Grammar don’t need to be perfect 
 
 
 # Arrangement and Style
@@ -103,31 +103,31 @@ Great! But don't use it 3 times in the essay.
 ## 5 paragraph template
 
 + Intro (30-40 words)
-++ General Background
-++ Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. However, the lecture disagreed. 
+    + General Background
+    + Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. However, the lecture disagreed. 
 + Body Paragraph (50-80 words)
-++ Topic sentence - "This paragraph looks at the first point, KEYWORD"
-++ Summary of reading - "The article said/claimed that SUMMARY"
-++ SUmmary of listening - "However, the lecture disagreed, and instead suggested that.  
+    + Topic sentence - "This paragraph looks at the first point, KEYWORD"
+    + Summary of reading - "The article said/claimed that SUMMARY"
+    + SUmmary of listening - "However, the lecture disagreed, and instead suggested that.  
 + Body Paragraph (50-80 words)
-++ Topic sentence - "The second point covered in these materials, KEYWORD"
-++ Summary of reading - "The reading passage noted that SUMMARY"
-++ SUmmary of listening - "However, the lecture suggested instead that. 
+    + Topic sentence - "The second point covered in these materials, KEYWORD"
+    + Summary of reading - "The reading passage noted that SUMMARY"
+    + SUmmary of listening - "However, the lecture suggested instead that. 
 + Body Paragraph (50-80 words)
-++ Topic sentence - "The last point of disareement was KEYWORD"
-++ Summary of reading - "The author of the article described SUMMARY"
-++ SUmmary of listening - "However, the lecture was dubious about this, instead pointing out that. (50-80 words)
+    + Topic sentence - "The last point of disareement was KEYWORD"
+    + Summary of reading - "The author of the article described SUMMARY"
+    + SUmmary of listening - "However, the lecture was dubious about this, instead pointing out that. (50-80 words)
 + Conclusion
-++ In summary, this set of materials presented contradictory points of view on TOPIC. 
-++ Overall, the reading was OVERALL KEYWORDS SUMMARY while the listening was OVERALL KEYWORD SUMMARY
-++ As such, FUZZY CONCLUSION  (30-40 words)
+    + In summary, this set of materials presented contradictory points of view on TOPIC. 
+    + Overall, the reading was OVERALL KEYWORDS SUMMARY while the listening was OVERALL KEYWORD SUMMARY
+    + As such, FUZZY CONCLUSION  (30-40 words)
 
 FUZZY CONCLUSION is 
 * Something I never want to see in your actual essays...
 * ..but since here you aren't allowed to come to your own conclusion ...
 * ... and a conclusion paragraph looks strange ending with a just a summary, try somethign like:
-** As such, while there are arguments on both sides, it is hard to agree with either of the sources without further research. 
-** This means that neither the reading nor the listening is entirely convincing, and those who are interested should investigate more. 
+    * As such, while there are arguments on both sides, it is hard to agree with either of the sources without further research. 
+    * This means that neither the reading nor the listening is entirely convincing, and those who are interested should investigate more. 
 
 
 # Practice
@@ -140,27 +140,27 @@ The following is an example from Longman - the Homeschooling listening is on pag
 ### Reading Notes 
 + BACKGROUND: Homeschooling becoming more popular. 
 + DEFINITION: Homeschooling is:
-++ keep children out of traditional classes
-++ (traditional = 1 teacher-20/30 children)
-++ parents educate kids at home
+    + keep children out of traditional classes
+    + (traditional = 1 teacher-20/30 children)
+    + parents educate kids at home
 + TS: Homeschooling not good
-++ Reason 1-  not learn as much
-+++ trad. schools - must learn huge amount of material
-+++ home = no requirement to master X before moving to new level
-++ Reason 2 - Less social interaction
-+++ parents and a few brothers/sisters only
-++ Reason 3 - Less broad curriculum. Trad. sch have:
-+++ more established curriculum
-+++ more variety of subjects
+    + Reason 1-  not learn as much
+        + trad. schools - must learn huge amount of material
+        + home = no requirement to master X before moving to new level
+    + Reason 2 - Less social interaction
+        + parents and a few brothers/sisters only
+    + Reason 3 - Less broad curriculum. Trad. sch have:
+        + more established curriculum
+        + more variety of subjects
 
 ### Listening Notes 
 + TS: not true - part of panel - disagree
 + IDEA 1 not proven that learn less
-++ many studies proved learn far more
+    + many studies proved learn far more
 + IDEA 2 lots of interaction - 
-++ parents arrange it with other homeschooled children
-++ could be MORE interaction, as can happen any time
+    + parents arrange it with other homeschooled children
+    + could be MORE interaction, as can happen any time
 + IDEA 3 Variety of curriculum MORE 
-++ because not limited by school boards, can teach anything
-++ e.g. astronomy, medicine, Chinese
+    + because not limited by school boards, can teach anything
+    + e.g. astronomy, medicine, Chinese
   

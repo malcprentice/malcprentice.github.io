@@ -14,14 +14,14 @@ Two Title Case. Two sentence case. Which is which?
 
 # Which Words should be Title Case?
 * (大文字)
-** Nouns, Verbs, Adjectives, Adverbs
-** Long Words (>4 letters)
+    * Nouns, Verbs, Adjectives, Adverbs
+    * Long Words (>4 letters)
 * (小文字) 
-** and, or, not, but, 
-** a, an, the, 
-** as, at, by, for, in, of, on, to, if, do
-** will, do, be, can, have, had 
-** other short and grammar words
+    * and, or, not, but, 
+    * a, an, the, 
+    * as, at, by, for, in, of, on, to, if, do
+    * will, do, be, can, have, had 
+    * other short and grammar words
 
 ### Don't break normal capital letter (大文字) rules:
 Title case or not, always capitalise (大文字にする):

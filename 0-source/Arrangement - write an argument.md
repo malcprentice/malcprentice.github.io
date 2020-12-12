@@ -13,20 +13,20 @@ Arguments are often found as:
 
 # Example topic types
 * X exists
-** Nessie exists
-** Aliens exist
+    * Nessie exists
+    * Aliens exist
 * X is better than Y
-** Glasses are better than contacts
-** Tokyo is better than Osaka
+    * Glasses are better than contacts
+    * Tokyo is better than Osaka
 * X is the best Y
-** Saizeriya is the best family restaurant
-** Yokohama is the best city in Japan to live in
+    * Saizeriya is the best family restaurant
+    * Yokohama is the best city in Japan to live in
 * X should Y
-** Malc should give us 4 hours of homework every week
-** Japanese students should learn Chinese in JHS.
+    * Malc should give us 4 hours of homework every week
+    * Japanese students should learn Chinese in JHS.
 * X should not Y
-** Students should not have part time jobs
-** We should not keep pets.
+    * Students should not have part time jobs
+    * We should not keep pets.
 
 ### Think
 * A good topic has points for and against and is difficult to decide. Can you think of 3 reasons for/against the topics above?
@@ -37,14 +37,14 @@ Arguments are often found as:
 ## One paragraph outline
 + [[Arrangement - write a paragraph topic sentence]] with keyword A, B, and C
 + Reason A
-++ Details about A
-++ Detail about A
+    + Details about A
+    + Detail about A
 + Reason B
-++ Details about B
-++ Detail about B
+    + Details about B
+    + Detail about B
 + Reason C.
-++ Detail about C
-++ Detail about C
+    + Detail about C
+    + Detail about C
 + [[Arrangement - write a paragraph summary-link]]
 
 # Style (not finished)

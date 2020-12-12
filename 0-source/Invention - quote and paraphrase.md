@@ -6,9 +6,9 @@
 "Quote" = Use the writer’s EXACT words in quotemarks ("")
 * After this, he <blue>"</blue>renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton<blue>"</blue> (Nobel Foundation, 1922)
 * Don't quote too often. 
-** It's type 5 "patchwriting" plagiarism  
-** Only quote a few phrases, where the exact words are important
-** Usually, you should paraphrase. 
+    * It's type 5 "patchwriting" plagiarism  
+    * Only quote a few phrases, where the exact words are important
+    * Usually, you should paraphrase. 
 * If you quote somethign with pages, give the page number (Smith, 2006, p. 72)
 
 
@@ -20,22 +20,22 @@ You can make SMALL changes to quotes if they don't change the meaning:
 
 # Option 2: Paraphrase
 * Paraphrase - use your own words and grammar
-** Change the words.
-** CHange the word order
-** Fix the grammar for your new version
+    * Change the words.
+    * CHange the word order
+    * Fix the grammar for your new version
 
 * The best way to paraphrase is to 
-** take notes in Japanese (only keywords in English) 
-** then write in English without looking at original
+    * take notes in Japanese (only keywords in English) 
+    * then write in English without looking at original
 * The worst way to paraphrase is to:
-** copy paste a chunk
-** Change the words e.g.  using a thesaurus:http://www.wordhippo.com/what-is/another-word-for/
-** Change the word order
-** Why? Because if you do it this way you will probably
-*** Break the grammar
-*** Use the wrong synonym ("same meaning word")
-*** Forget and accidentally plagiarize
-*** Fail to learn anything
+    * copy paste a chunk
+    * Change the words e.g.  using a thesaurus:http://www.wordhippo.com/what-is/another-word-for/
+    * Change the word order
+    * Why? Because if you do it this way you will probably
+        * Break the grammar
+        * Use the wrong synonym ("same meaning word")
+        * Forget and accidentally plagiarize
+        * Fail to learn anything
 
 
 Sometimes you need to change tense if you remove quotes

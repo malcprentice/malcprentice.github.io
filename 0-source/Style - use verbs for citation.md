@@ -3,12 +3,12 @@
 Bored of "said", "found" and "noted"? Choose another!
 ## 1) Choose based on your field (Brexina, 2012)
 * Arts Writers
-** Most common: _pointed out, noted, argued, suggested, stated, observed, explained_
-** Also used: _claimed, said, remarked, maintained, showed, proposed, stressed, mentioned_
+    * Most common: _pointed out, noted, argued, suggested, stated, observed, explained_
+    * Also used: _claimed, said, remarked, maintained, showed, proposed, stressed, mentioned_
 
 * Science Writers use fewer verbs more often:
-** Most common:  _pointed out, showed_
-** Also used:    _argued, emphasized, observed, discussed_
+    * Most common:  _pointed out, showed_
+    * Also used:    _argued, emphasized, observed, discussed_
 
 ## 2) Choose based on your meaning
 ### These verbs mean "You and the author are both confident about the information":

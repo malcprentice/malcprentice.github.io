@@ -25,11 +25,11 @@ News articles have shorter sentences than essays. Dissertation sentences can be 
 
 # Exceptions
 * Keyword) sentences can be short (although it's better if they're not). THese are OK:
-** The third problem is pollution.
-** The second solution is reducing costs.
-** This paragraph describes three possible solutions
+    * The third problem is pollution.
+    * The second solution is reducing costs.
+    * This paragraph describes three possible solutions
 * Quote sentence can be short.
-** As Martin Luther King said, "I have a dream".
+    * As Martin Luther King said, "I have a dream".
 
 # Solution
 * Join sentences together (but/and/so/because/etc)

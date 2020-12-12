@@ -40,23 +40,23 @@ Keep it simple. Copy the example.
 * This essay first describes __Tantalum__ in detail, then looks at some problems __its production__ causes, and then finally outlines some possible solutions to those problems.
 
 * Be careful about causes and effects
-** is the product itself is dangerous (e.g. mercury/plastic)
-** or is just __"its production"__ dangerous (e.g. diamonds/cotton/paper)
+    * is the product itself is dangerous (e.g. mercury/plastic)
+    * or is just __"its production"__ dangerous (e.g. diamonds/cotton/paper)
 * Be careful about plurals and countable nouns?
-** Uncountable? Use "its" (Tantalum, cotton)
-** Countable? Use "their" (bananas, tuna)
+    * Uncountable? Use "its" (Tantalum, cotton)
+    * Countable? Use "their" (bananas, tuna)
 
 ### Endangered animals
 * This essay first describes the SPECIES NAME in detail, then looks at some problems it faces, and finally some outlines possible solutions to those problems
 * Either talk about the singular species, or the plural animals, but don't mix:
-** SINGULAR version for SPECIES: This essay first describes the red panda in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
-** PLURAL version for Animals:  This essay first describes red pandas in detail, then looks at some problems they face, and finally outlines some possible solutions to those problems
+    * SINGULAR version for SPECIES: This essay first describes the red panda in detail, then looks at some problems it faces, and finally outlines some possible solutions to those problems
+    * PLURAL version for Animals:  This essay first describes red pandas in detail, then looks at some problems they face, and finally outlines some possible solutions to those problems
 
 
 * Be careful about species and individuals
-** Talking about a species: use "it" and "the panda"
-** Talking about all individuals : use "they" and "pandas"
-** both OK, but don't mix!
+    * Talking about a species: use "it" and "the panda"
+    * Talking about all individuals : use "they" and "pandas"
+    * both OK, but don't mix!
 
 ### Voluntourism: Criteria-Analysis
 * This essay first suggests three criteria for a good X, and then analyses one X (name) in terms of those criteria.

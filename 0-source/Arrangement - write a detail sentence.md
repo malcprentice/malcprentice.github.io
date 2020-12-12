@@ -19,12 +19,12 @@ Style: Clearly signal which kind of detail it is
 ## Specifically, for 1st year essay description paragraphs
 * Detail sentence 1 - can be anything - any interesting fact
 * Detail sentence 2 - please give a number indicating the size of the problem
-** e.g. for ethical consupmtion
-*** how many tonnes of conflict mineral are produced
-*** how much pesticide is used
-** e.g. for endangered animals
-*** when will the animals become extinct
-*** how many animals are left
+    * e.g. for ethical consupmtion
+        * how many tonnes of conflict mineral are produced
+        * how much pesticide is used
+    * e.g. for endangered animals
+        * when will the animals become extinct
+        * how many animals are left
 
 ## Specifically, for 1st year essay problems pargraphs
 * Detail sentence 1 - summarise the problem

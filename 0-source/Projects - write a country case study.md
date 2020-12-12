@@ -25,13 +25,13 @@ Alternatively: Choose any country, but make sure they have 3 causes/effects/solu
 # Invention
 ### Remember you have two options:
 * look at three problems caused by lack of access to X. For example
-** lack of access to healthcare causes unnecessary epidemics
-** lack of access to healthcare causes educational issues
-** lack of access to (affordable) healthcare causes poverty
+    * lack of access to healthcare causes unnecessary epidemics
+    * lack of access to healthcare causes educational issues
+    * lack of access to (affordable) healthcare causes poverty
 * look at three problems that cause lack of access to X
-** lack of access to healthcare is caused by corruption
-** lack of access to healthcare is caused by lack of roads
-** lack of access to healthcare is caused by poverty
+    * lack of access to healthcare is caused by corruption
+    * lack of access to healthcare is caused by lack of roads
+    * lack of access to healthcare is caused by poverty
 
 ### Not all solutions are for individual problems.
 For example, lack of water could be solved by:
@@ -67,10 +67,10 @@ Download __TEMPLATE for ESSAY OUTLINE - Sectional Case Study 1 location.docx__
 
 ### Link Collection
 * Video series in English on slums and homelessness in Japan (check descriptions for sources. Try to identify the genres used compare-contrast, causes, problems, solutions, case study):  
-** part 1 https://www.youtube.com/watch?v=eK--oCVP18A  
-** part 2 https://www.youtube.com/watch?time_continue=49&v=-9RgkZebW1s 
-** part 3 https://www.youtube.com/watch?v=kBPyN3LE65g
-** part 4 https://www.youtube.com/watch?v=OUNo06G3BeQ
+    * part 1 https://www.youtube.com/watch?v=eK--oCVP18A  
+    * part 2 https://www.youtube.com/watch?time_continue=49&v=-9RgkZebW1s 
+    * part 3 https://www.youtube.com/watch?v=kBPyN3LE65g
+    * part 4 https://www.youtube.com/watch?v=OUNo06G3BeQ
 
 ## Topic Suggestion 2: Access to Basic Education
 ### Background
@@ -102,18 +102,18 @@ Specific background: Define "Basic Education"
 
 ### Brainstorm from previous class
 * Issues include
-** In some areas, basic vaccines are not given
-** In some areas, necessary medicines are too expensive
-*** because companies will not reduce the price
-*** because the country is poor
-*** because corrupt officials are using the money for something else
-** not enough research because richer countries/people do not have a problem with that disease.
+    * In some areas, basic vaccines are not given
+    * In some areas, necessary medicines are too expensive
+        * because companies will not reduce the price
+        * because the country is poor
+        * because corrupt officials are using the money for something else
+    * not enough research because richer countries/people do not have a problem with that disease.
 * Medicine is available, but is not getting to the people who need it
-** no roads/cars to deliver them
-** no fridges to store them in
-** conflict - no-one can get in because it is too dangerous
-** Political barriers to importing medicine
-** Religious objections to certain kinds of treatment
+    * no roads/cars to deliver them
+    * no fridges to store them in
+    * conflict - no-one can get in because it is too dangerous
+    * Political barriers to importing medicine
+    * Religious objections to certain kinds of treatment
 
 
 ### Recommendations

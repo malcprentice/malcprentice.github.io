@@ -34,9 +34,9 @@
 I will use Microsoft Word comments. 
 * It's easier if you use the "Reviewing Pane"
 * If you don't understand my comment
-** come to office hours
-** Follow the email example "asking for feedback" [[Study Skills - write a well formatted email]] 
-** Ask in class: bring a printout or show me on laptop/tablet
+    * come to office hours
+    * Follow the email example "asking for feedback" [[Study Skills - write a well formatted email]] 
+    * Ask in class: bring a printout or show me on laptop/tablet
 
 # 6)Email me your final draft for grading
 i.e. A3/B4/C4 (if you did writing centre, version 4)

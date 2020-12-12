@@ -3,8 +3,8 @@ The last sentence of every paragraph should be either:
 * a link (e.g. "The next paragraph...")
 * both (e.g. "In summary....The next paragraph...")
 * neither (introductions paragraph, or longer essays)
-** if you have 10 paragraphs in one section of one chapter of your dissertation, don't summarise every paragraph! 
-** That isn't true in this class though. Let's practice summaries and links!
+    * if you have 10 paragraphs in one section of one chapter of your dissertation, don't summarise every paragraph! 
+    * That isn't true in this class though. Let's practice summaries and links!
 
 |Paragraph                                                       |Link, summary, both,or neither ?
 |Introduction                                                    |Neither - [[Arrangement - write an introduction thesis statement]]
@@ -33,16 +33,16 @@ The last sentence of every paragraph should be either:
 * Once you have more than 5 paragraphs, the rules change. 
 * See [[Arrangement - write a sectional essay]] for details
 * In summary, though, you can: 
-** have a separate conclusion paragraph for the section
-** just glue 3 sentences to the end of the last section body paragraph:
+    * have a separate conclusion paragraph for the section
+    * just glue 3 sentences to the end of the last section body paragraph:
 
 ## If you DO NOT use a section conclusion paragraph
 The last three sentences of the last paragraph in the section:
 * <red>summarize the last paragraph in the section</red>
 * <green>summarize the section<green?
 * <blue>link
-** link to the next SECTION, not the next paragraph
-** don't link into the conclusion section</blue>
+    * link to the next SECTION, not the next paragraph
+    * don't link into the conclusion section</blue>
 * e.g. <red>"In summary, the problem of heavy metal pollution is serious, both for miners and people living near the mine.</red> <green>Overall, __this section__ has shown that production of X causes a number of issues - A, B, and C - of which the most effective is C.</green> <blue>However, the next paragraph examines some possible solutions to these issues"</blue>
 
 ## If you DO use a section conclusion paragraph

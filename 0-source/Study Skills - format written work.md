@@ -6,14 +6,14 @@ The easiest way to get formatting right is:
 # Times New Roman, 12 pt font.
 * Check _everything,_ including title and references
 * The template is in colour, but the essay should be printed __black__
-** do NOT just print it black (orange comes out grey).
-** Actually change the colour before you print
+    * do NOT just print it black (orange comes out grey).
+    * Actually change the colour before you print
 
 
 # Double space body text
-** MENU: 書式--->段落---> 行間---> 二行)
-** RIBBON: ホーム--->段落 ---> 行間---> 二行)
-** DO NOT double space info or outlines.
+    * MENU: 書式--->段落---> 行間---> 二行)
+    * RIBBON: ホーム--->段落 ---> 行間---> 二行)
+    * DO NOT double space info or outlines.
 
 # Normal sized margins (余白)
 * 2.54cm (one inch) margins on all sides (レイアウト→余白)

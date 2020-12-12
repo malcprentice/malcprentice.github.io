@@ -31,25 +31,25 @@ Plus names of things to buy:         (e.g. Water, SIM card, map, ticket to somew
 * Stop here.
 * Can I have a (single/return) to ... , please.
 * Language for speicifc places
-** Bus
-** Train
-** Underground
-** Airport
+    * Bus
+    * Train
+    * Underground
+    * Airport
 
 # 4. Ordering food
 * Names of supermarket foods
-** How to read the labels
-** how to find them
-** What the cashier is likely to ask
+    * How to read the labels
+    * how to find them
+    * What the cashier is likely to ask
 * Restaurants
-** Names of dishes they should try if they go to your country.
-** How to order them.
-** ordering/asking for the bill
+    * Names of dishes they should try if they go to your country.
+    * How to order them.
+    * ordering/asking for the bill
 * Getting food at a stall
 * Ingredients
-** Names of basic ingredients ("What is in this?" +  answers
-** Talking about dietary restrictions, and how likely these are to be met.
-*** (e.g. "Are there any peanuts in this" / "Is there meat in this? I'm a vegetarian")
+    * Names of basic ingredients ("What is in this?" +  answers
+    * Talking about dietary restrictions, and how likely these are to be met.
+        * (e.g. "Are there any peanuts in this" / "Is there meat in this? I'm a vegetarian")
 * Phrases to start and end a meal in a home/restaurant, if any (e.g. "Bon Appetit"..."That was delicious"..."Gochisosama")
 
 # 5. Answering questions about yourself

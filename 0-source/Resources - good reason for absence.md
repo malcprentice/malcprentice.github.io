@@ -14,7 +14,7 @@ Proof needed: 遅延証明書, paper or screenshot showing date from:
 * Metro - e.g. https://www.tokyometro.jp/lang_en/delay/history/namboku.html
 * JR - https://traininfo.jreast.co.jp/delay_certificate/
 * Tokyu - http://syoumeisyo.tokyu.co.jp/
-* TObu - http://railway.tobu.co.jp/useful/delay/
+* Tobu - http://railway.tobu.co.jp/useful/delay/
 * Odakyu - http://www.odakyu.jp/program/emg/index.html
 * Seibu - https://www.seiburailway.jp/delay/
 * Toei - https://www.kotsu.metro.tokyo.jp/subway/schedule/delay.html    
@@ -46,5 +46,5 @@ Proof needed: Official certificate
 * School announces these by email/PLAS in term. WLC announces these by email for holiday intensives
 * No announcement = no excused absence!
 * However, here are some websites to help you guess what will happen if you spot snow:
-** Trains: https://traininfo.jreast.co.jp/train_info/e/kanto.aspx
-** Weather: https://www.jma.go.jp/en/warn/index.html
+    * Trains: https://traininfo.jreast.co.jp/train_info/e/kanto.aspx
+    * Weather: https://www.jma.go.jp/en/warn/index.html

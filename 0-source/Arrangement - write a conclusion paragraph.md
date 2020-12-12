@@ -5,16 +5,16 @@ The last paragraph of an essay often has the pattern:
 
 # First two essays (endangered animals and ethical consumption)
 * Copy the example in the template. 
-** Copy paste the topic sentence from the template. Make sure your "is/are causing/experiencing" is correct
-** Copy the summaries from your problems and solutions paragraphs (NOT your description)
-** The only tricky part is learning to [[Style - write a final comment sentence]]
+    * Copy paste the topic sentence from the template. Make sure your "is/are causing/experiencing" is correct
+    * Copy the summaries from your problems and solutions paragraphs (NOT your description)
+    * The only tricky part is learning to [[Style - write a final comment sentence]]
 
 # Other essays
 ## A) Topic Sentence for Conclusion
 * The LAST sentence of your introduction becomes the FIRST sentence of your conclusion. Change it:
-** Make it past tense
-** Paraphrase it
-** (e.g. "will outline some solutions" in intro becomes "looked at some answers" in the conclusion. 
+    * Make it past tense
+    * Paraphrase it
+    * (e.g. "will outline some solutions" in intro becomes "looked at some answers" in the conclusion. 
 
 ### Some useful patterns
 |Genre				| Example Topic Sentence

@@ -14,18 +14,18 @@ There are two basic types of integrated speaking
 
 # Marking (Same for all RLS/LS)
 * Delivery
-** Fluent pace
-** Pronunciation 
-** Intonation
+    * Fluent pace
+    * Pronunciation 
+    * Intonation
 * Language use
-** Decent grammar (not perfect OK)
-** Decent vocab (not perfect OK)
-** Understandable (intonation/pronunciation)
-** Fluent
+    * Decent grammar (not perfect OK)
+    * Decent vocab (not perfect OK)
+    * Understandable (intonation/pronunciation)
+    * Fluent
 * Topic Development
-** Complete answers
-** Organised - clear structure
-** [[Style - use cohesion]] to connect your ideas (be careful - some of those phrases are writing only)
+    * Complete answers
+    * Organised - clear structure
+    * [[Style - use cohesion]] to connect your ideas (be careful - some of those phrases are writing only)
   
 
 
@@ -41,21 +41,21 @@ There are two basic types of integrated speaking
 ## Arrangement
 * In this set of materials, the reading passage describes___X_____ 
 * , and the listening passage....   
-** a) provides additional information about _____X___. 
-** b) describes a specific kind of _____X___.
-** c) describes a special aspect of _____X___.
+    * a) provides additional information about _____X___. 
+    * b) describes a specific kind of _____X___.
+    * c) describes a special aspect of _____X___.
 * The reading passage describes _____X___.  
-** It notes that 
-** It defines X as 
-** It says that 
-** It points out that
-** ...which means that
-** It adds that
+    * It notes that 
+    * It defines X as 
+    * It says that 
+    * It points out that
+    * ...which means that
+    * It adds that
 * PAUSE!
 * The listening passage 
-** gives additional information about _____X___, which is that 
-** describes one particular kind of _____X___, which is called
-** describes one special aspect of _____X___, which is that
+    * gives additional information about _____X___, which is that 
+    * describes one particular kind of _____X___, which is called
+    * describes one special aspect of _____X___, which is that
 
 
 ## Examples
@@ -111,8 +111,8 @@ In this set of materials, the reading passage describes a migration by one cultu
 # Arrangement/Style
 * In this listening passage, the problem described is that SUMMARY. There are 2 possibilities: either A  (Summary A) or B (Summary B).  (20-30s)
 * I think this A/B is the best choice.
-** My first reason is  REASON1+ DETAILS (15-20s)
-** My second reason is REASON2+ DETAILS (15-20s)
+    * My first reason is  REASON1+ DETAILS (15-20s)
+    * My second reason is REASON2+ DETAILS (15-20s)
  
 
  
@@ -128,11 +128,11 @@ In this set of materials, the reading passage describes a migration by one cultu
 
 ## Suggested Structure
 * In this listening passage, the professor gives
-** two definitions of X - KEYWORD1 and KEYWORD 2.
-** two ways X do Y - KEYWORD 1 and KEYWORD 2.
-** two ways X can help Y - KEYWORD 1 and KEYWORD 2.
-** two main characteristics of X - KEYWORD 1 and KEYWORD 2
-** two sources of X - 1 and 2
+    * two definitions of X - KEYWORD1 and KEYWORD 2.
+    * two ways X do Y - KEYWORD 1 and KEYWORD 2.
+    * two ways X can help Y - KEYWORD 1 and KEYWORD 2.
+    * two main characteristics of X - KEYWORD 1 and KEYWORD 2
+    * two sources of X - 1 and 2
 * The first is KEYWORD 1. This....
 * The second is KEYWORD 2. This...
  

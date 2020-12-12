@@ -3,17 +3,17 @@ Sometimes it is obvious that a source is not good. SOmetimes it is not.
 # Checking academic articles
 ## Basics
 * Is it being used?
-** Check if anyone has cited it (Google Scholar).
-** If no-one has and it isn't ¥new, ask why.
+    * Check if anyone has cited it (Google Scholar).
+    * If no-one has and it isn't ¥new, ask why.
 * Is it recent? Only cite older articles if they are: 
-** "Classics" - things everyone cites.
-** in topics that do not change much (philosophy)
-** in a unpopular field
+    * "Classics" - things everyone cites.
+    * in topics that do not change much (philosophy)
+    * in a unpopular field
 * You will learn the big journals in your area, but for now:
 * Google "most influential journals in FIELD"
 * Check "Impact" of what you find:
-** how often it is cited, and by who
-** http://www.journalindicators.com/indicators
+    * how often it is cited, and by who
+    * http://www.journalindicators.com/indicators
 
 
 
@@ -21,23 +21,23 @@ Sometimes it is obvious that a source is not good. SOmetimes it is not.
 Academic articles can also be low quality.
 Carefully peer-reviewed articles/books are usually found on:
 * Large university publishers¥:
-** Cambridge University press: http://www.cambridge.org/        
-** University of Chicago: http://www.press.uchicago.edu/
+    * Cambridge University press: http://www.cambridge.org/        
+    * University of Chicago: http://www.press.uchicago.edu/
 * Large academic organisation websites
-** JALT: http://jalt.org/main/publications   
-** BPS: http://www.bps.org.uk/publications
-** APA: http://www.apa.org
+    * JALT: http://jalt.org/main/publications   
+    * BPS: http://www.bps.org.uk/publications
+    * APA: http://www.apa.org
 * Large open-source publishing projects: 
-** PLOSONE: http://www.plosone.org/            
-** BMJOPEN: http://bmjopen.bmj.com/
+    * PLOSONE: http://www.plosone.org/            
+    * BMJOPEN: http://bmjopen.bmj.com/
 * Carefully managed indexes and databases: 
-** JSTOR: http://jstor.org 
-** APA: http://www.apa.org/pubs/databases/
+    * JSTOR: http://jstor.org 
+    * APA: http://www.apa.org/pubs/databases/
 * Large academic publishing companies: 
-** Sciencedirect    
-** Degruyter       
-** Ingenta 
-** Wiley
+    * Sciencedirect    
+    * Degruyter       
+    * Ingenta 
+    * Wiley
 
 
 
@@ -91,8 +91,8 @@ Hamel, I. (2006, August 3). Fairtrade Firm Accused of Foul Play. <em>Swiss Info.
 When you do not read critically enough, sometimes you even believe things that are written to be funny.
 * For example, some people shared this article with their friends thinking it was real: http://www.theonion.com/article/emergency-crews-attempt-to-rescue-olympic-figure-s-35313
 * Even real newspaper sometimes unthinkingly reprint articles that were meant as jokes:
-** Example 1: http://news.bbc.co.uk/2/hi/8237558.stm
-** Example 2: http://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-cry
+    * Example 1: http://news.bbc.co.uk/2/hi/8237558.stm
+    * Example 2: http://www.npr.org/2012/12/01/166293306/the-onion-so-funny-it-makes-us-cry
 
 ## Your turn
 Of these articles, some are jokes and some are real. Can you tell the difference? How?
@@ -116,9 +116,9 @@ However, even reliable sources sometimes print things that are not true (either 
 
 ## Solution: Triangulate
 Check AT LEAST TWO other DIFFERENT sources, to see if it is also reported there.
-** If it is about a country, read the papers from other countries
-** If it is political, read papers biased to more than one side
-** If it is a new science article, check for replication or similar research. Many new findings are not reliable until the experiment has been repeated a few times. Wait, or report carefully
+    * If it is about a country, read the papers from other countries
+    * If it is political, read papers biased to more than one side
+    * If it is a new science article, check for replication or similar research. Many new findings are not reliable until the experiment has been repeated a few times. Wait, or report carefully
 
 
 

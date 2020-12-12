@@ -64,12 +64,12 @@ However, other patterns are sometimes better style. Try:
 ## Pattern 7: Inserted method
 You can also insert methods into other sentences. See [[Style - use a parenthetical statement]]
 * For example, pattern 2 with inserted method
-** Smith (1999) found, using a survey of 134 High school students, that X is Y
-** Smith (1999) discovered, using a autobiographical diary study, that X is Y
-** Smith (1999) surveyed 230 University student, and discovered that X is Y
+    * Smith (1999) found, using a survey of 134 High school students, that X is Y
+    * Smith (1999) discovered, using a autobiographical diary study, that X is Y
+    * Smith (1999) surveyed 230 University student, and discovered that X is Y
 * For example, using "and" or "ing"
-** Smith (1999) did an interview study, and found that X is Y
-** Smith (1999) did an interview study, find _ing_ that X is Y
+    * Smith (1999) did an interview study, and found that X is Y
+    * Smith (1999) did an interview study, find _ing_ that X is Y
 
 ## Pattern 8: Block quote
 __For quotes longer than 40 words__
@@ -100,8 +100,8 @@ Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 * Always for Magazine names, Newspaper names, Video collection names (TED Talks)
 * Sometimes for books, but only if the COLLECT the work of multiple authors. So not for Harry Potter, for example, which is only one author. 
 * Some websites are hard to tell if they are collections (BBC News) or just websites. As a guide
-** Cite it as news/magazine if you see subscriptions "Buy this month's issue" 
-** Look it up on wikipedia. Is it called a newspaper?
+    * Cite it as news/magazine if you see subscriptions "Buy this month's issue" 
+    * Look it up on wikipedia. Is it called a newspaper?
 
 ## Other verbs
 Bored of "said", "found" and "noted"? Choose another!
@@ -178,12 +178,12 @@ Don't forget the last comma: _1, 2<red>,</red> & 3_  not _1, 2 & 3_
 * According to Suzuki (2013, April 16), something is something.
  
 ## If there is no author, use the PAGE title, not the website title!
-** Websites are libraries. You never cite the library
-** However, IF the website is an _organisation_ AND is the author, you can use its name.
-** For example on the UNICEF website:
-*** UNICEF is the author of official annual report. Use (UNICEF, 2013, April 3)
-*** UNICEF is NOT the author of every article in the blog section. Use ("Title of article," 2013, April 3)
-** <red> Use inside brackets style ONLY!</red> - no "According to" or "says" if there is no person's name
+    * Websites are libraries. You never cite the library
+    * However, IF the website is an _organisation_ AND is the author, you can use its name.
+    * For example on the UNICEF website:
+        * UNICEF is the author of official annual report. Use (UNICEF, 2013, April 3)
+        * UNICEF is NOT the author of every article in the blog section. Use ("Title of article," 2013, April 3)
+    * <red> Use inside brackets style ONLY!</red> - no "According to" or "says" if there is no person's name
 
 ## Only give a few words of the title if it is long
 Too long: ("The impact of global warming on river dolphins in the Amazon," n.d.)
@@ -213,8 +213,8 @@ That way people can use the cache or the wayback machine to access it.
 ## Text and references section should match 
 * If you have 6 citations in your essay, you need 6 in your references. 
 * Names should match
-** Use author name in text, I need to see it in references. 
-** Use title ("Penguins," n.d.) in text ( can be shortened) , I need to see full title under P for Penguin in references
+    * Use author name in text, I need to see it in references. 
+    * Use title ("Penguins," n.d.) in text ( can be shortened) , I need to see full title under P for Penguin in references
 
 ## What if a book has multiple editions?
 * e.g. First edition published in 1926, Second edition published ain 1952
@@ -225,15 +225,15 @@ Smith, J. (2013). _Book Title_ (3rd ed.). Oxford: OUP.
 
 ## How do volume (issue) numbers work?
 * Often one volume = one year
-** Journal of Writing, 3(2)     =   "second issue in the third book"
+    * Journal of Writing, 3(2)     =   "second issue in the third book"
 * If each issue starts on page 1,           there are several "page 23"s in one volume
-** please give the issue number so I can find the correct page
+    * please give the issue number so I can find the correct page
 * If each issue continues from the previous,    there is only one "page 23" in each volume
-** do not give the issue number
+    * do not give the issue number
 * Use italics for the thing you hold (see "Common Problem 8 below)
-** You hold the Journal volume, not the issue
-** YES  <em>Journal of Writing, 3</em><blue>(2)</blue>, 23-32
-** NO   <em>Journal of Writing, 3<red>(2)</red></em>, 23-32
+    * You hold the Journal volume, not the issue
+    * YES  <em>Journal of Writing, 3</em><blue>(2)</blue>, 23-32
+    * NO   <em>Journal of Writing, 3<red>(2)</red></em>, 23-32
 
 
  
@@ -258,8 +258,8 @@ Zod, G. (1999).
 ## What if it's an ebook? 
 * APA6: Add [Kindle version] in the same place you put [video file] for TED Talks etc, to show it's not paper
 * APA7: Don't do above. 
-** Instead, give publisher like a normal book (remember in APA7 there is no city)
-** Suzuki, A. (2010). _Book title._ Kodansha. 
+    * Instead, give publisher like a normal book (remember in APA7 there is no city)
+    * Suzuki, A. (2010). _Book title._ Kodansha. 
 
 
 ## What's a DOI?
@@ -296,8 +296,8 @@ Smith, M. (2015, May 5). Chapter title. In A. Editor and B. Editor (Eds.), <em>T
 * Don't use tab!
 * The templates have a "references" style you can use. Just type.
 * If it breaks, use the menu
-** format-paragraph-special-hanging
-** (書式-->段落-->最初の行-->ぶら下げ)
+    * format-paragraph-special-hanging
+    * (書式-->段落-->最初の行-->ぶら下げ)
 
 
 
@@ -356,14 +356,14 @@ Also, rules change - APA6 to APA7. Maybe your teachers wants MLA.
 So: 
 * Search Google (e.g. "How to cite YouTube in APA"). 
 * Best websites for clear examples and answers are:
-** Purdue Online: https://owl.english.purdue.edu/owl 
-** APA style blog: http://blog.apastyle.org
+    * Purdue Online: https://owl.english.purdue.edu/owl 
+    * APA style blog: http://blog.apastyle.org
 * For academic referneces, use Google Scholar citation function (but don't trust it). 
 * Copy from another article that uses the same or similar source.
 * Check the actual APA manual
-** I have one
-** The library has several
-**  http://www.amazon.com/Publication-American-Psychological-Association-Edition/dp/1433805618
+    * I have one
+    * The library has several
+    *  http://www.amazon.com/Publication-American-Psychological-Association-Edition/dp/1433805618
 * If you can't solve your problem, email me.
 
 

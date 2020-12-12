@@ -58,13 +58,13 @@ For the article title (the page title)
 
 ### Organisation websites hosting official reports
 * Use the Organisation name as AUTHOR, not title. 
-** So no italics
-** Not a collection but it __IS__ the name of something, 
-*** People, Organisation names get Title Case
-*** (Soka University, Children in Need, World Health Organisation)
+    * So no italics
+    * Not a collection but it __IS__ the name of something, 
+        * People, Organisation names get Title Case
+        * (Soka University, Children in Need, World Health Organisation)
 * For the report name
-** italics yes (you print it and hold it)
-** Title case no (does not contain a collection of similar work by different people)
+    * italics yes (you print it and hold it)
+    * Title case no (does not contain a collection of similar work by different people)
 
 # In summary
 |Type						|Title Case for Containers?		|Italics for the thing you hold?	|Example Title
@@ -89,18 +89,18 @@ In the library, there are many magazines, journals, and "kiyou" (university publ
 
  
 * Look at the volume number (113) 
-** Volume number usually = years
-** This journal started in 1912
-** "113" = 113 years old in 2014
+    * Volume number usually = years
+    * This journal started in 1912
+    * "113" = 113 years old in 2014
 * Look at the issue number (1). Here:
-** (1)=spring issue
-** (2)=summer issue
-** (3)=fall issue
-** (4)=winter issue
-** For  other journals it depends 
-*** 1-12 = monthly
-*** 1-52 = weekly
-*** 1-2 = every 6 months
+    * (1)=spring issue
+    * (2)=summer issue
+    * (3)=fall issue
+    * (4)=winter issue
+    * For  other journals it depends 
+        * 1-12 = monthly
+        * 1-52 = weekly
+        * 1-2 = every 6 months
  
 The reference for one of the articles on the cover is:
 
@@ -124,17 +124,17 @@ One book = one volume. The issues are now inside.
 boundjournalspine
 For most articles, you go to the library to find (and hold) the BOUND BOOK of the VOLUME, not the issue. 
 * The THING YOU HOLD gets italics 
-** You don't hold the articles - no italics for article titles 
-** You hold the journal - Journal Title gets italics
-** However, also, most issues are BOUND. 
-*** You don't hold the issues. No italics for issue number
-*** You hold that year's VOLUME book. Italics for volume number
+    * You don't hold the articles - no italics for article titles 
+    * You hold the journal - Journal Title gets italics
+    * However, also, most issues are BOUND. 
+        * You don't hold the issues. No italics for issue number
+        * You hold that year's VOLUME book. Italics for volume number
 
 ### Also
 * COLLECTIONS get title case
 * The journal COLLECTS several works by several author
-** The Journal name is Title Case
-** The article title is not.
+    * The Journal name is Title Case
+    * The article title is not.
 
 
 ### In summary
@@ -166,10 +166,10 @@ Prentice, M. (2011). MALL testing in the paperless classroom. In E. Forsythe et 
 </ref>
 
 * This book contains many chapters by different people
-** Book gets title case (it's a collection)
-** Book gets italics (you hold it)
-** Chapter (MALL testing) no italics (you don't hold it)
-** Chapter (MALL testing) no Title Case (not a collection)
+    * Book gets title case (it's a collection)
+    * Book gets italics (you hold it)
+    * Chapter (MALL testing) no italics (you don't hold it)
+    * Chapter (MALL testing) no Title Case (not a collection)
  
 
 

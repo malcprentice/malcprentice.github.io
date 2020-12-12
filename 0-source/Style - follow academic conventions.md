@@ -5,11 +5,11 @@ For example, Engineering is usually stricter on using "I" than Education.
 * "This essay argues"
 * "This essay has showed"
 * Using your own experience as an example is OK
-** Still, don't use "I" - use "The author was/went/saw"
-** But even, then, only talk about facts, not opinions i.e. never use "The author believes/thinks"
+    * Still, don't use "I" - use "The author was/went/saw"
+    * But even, then, only talk about facts, not opinions i.e. never use "The author believes/thinks"
 * Sometimes "I" is OK
-** NO: Science/Law/Engineering
-** MAYBE: Education, some Letters.
+    * NO: Science/Law/Engineering
+    * MAYBE: Education, some Letters.
 
 # Do not use "you" or "we"
 Unless you mean EVERYONE:

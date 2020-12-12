@@ -49,8 +49,8 @@ While you are speaking, use words like this to fill silences
 You can also just stretch sounds ("I think you shouuuuuuuuld read more")
 
 * Example:
-** I went to the park
-** "Well, I like uhh just sorta went ummm to theeeEEE park, yknow?"
+    * I went to the park
+    * "Well, I like uhh just sorta went ummm to theeeEEE park, yknow?"
 
 * "Middle" = before (sometimes after) a verb or adjective
 * This is not good in a formal situation (e.g. presentation, meeting).

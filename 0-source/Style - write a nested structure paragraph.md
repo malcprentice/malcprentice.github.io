@@ -3,9 +3,9 @@ Sometimes you have an paragraph organisation like this
 + Topic Sentence
 + Problem 1 - Child labour
 + Problem 2 - Pollution
-++  Air pollution
-++  Soil pollution
-++  Sea pollution
+    +  Air pollution
+    +  Soil pollution
+    +  Sea pollution
 + Problem 3 - Poverty
 + Summary and Link
 
@@ -20,9 +20,9 @@ Sometimes you have an paragraph organisation like this
 
 * THe first problem is
 * The second problem is
-** One
-** Another
-** A further
+    * One
+    * Another
+    * A further
 * The third problem is
 
 ### Example, fixed

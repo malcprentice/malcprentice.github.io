@@ -6,8 +6,8 @@ Don't steal people's work!
 ### Here are the sources:
 * Google Images: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=book&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&safe=images&tbs=sur:fc
 * Flickr Creative Commons: https://www.flickr.com/creativecommons/by-nc-sa-2.0/
-** Actually, Flickr's search engine is not very fast.
-** Try Google images instead, limited to Flickr: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=volunteering&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=flickr.com&safe=images&tbs=sur:fc
+    * Actually, Flickr's search engine is not very fast.
+    * Try Google images instead, limited to Flickr: https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=volunteering&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=flickr.com&safe=images&tbs=sur:fc
 * OpenCLipart: https://openclipart.org/
 * Icons from the noun project: https://thenounproject.com/
 * Wikimedia commons: https://commons.wikimedia.org/wiki/Main_Page

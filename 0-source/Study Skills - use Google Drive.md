@@ -4,8 +4,8 @@
 * If I make a comments, it's important. I want you to understand the problem, fix it and mark it resolved. Then try not to do it again. 
 * If I suggest a change, it means it's not so important (e.g. spelling). Just click the tick and accept it. 
 3) Never  "request access". You have access.
-** It's your document, you're just not logged in to the right account
-** Log in to soka-u.jp 
+    * It's your document, you're just not logged in to the right account
+    * Log in to soka-u.jp 
 
 # Asking  questions about comments
 * If you have a question about my comment, you can click on the comment and reply. It will email me. 

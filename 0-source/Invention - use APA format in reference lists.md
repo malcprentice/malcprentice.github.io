@@ -23,8 +23,8 @@ We use "APA" style in this class. Not everyone does. Other common styles are:
 # Basic rules
 * The Reference list should be in <red>alphabetical order (ABC).</red>
 * The reference list matches the references used.
-** Nothing in text that isn't in list.
-** Nothing in list that isn't in the text
+    * Nothing in text that isn't in list.
+    * Nothing in list that isn't in the text
 * Be careful to [[Style - use title case]]
 * Be careful with capitals
 * Be careful witb commas and periods. 

@@ -2,8 +2,8 @@ Exact formatting is hard to describe - while you read this, look at the example 
 
 # APA rules for Tables and Figures
 * Always refer to ANY figure/table at least once in the text 
-** ("As Figure 1 shows", "As Table 3 indicates")
-** See [[Style - describe figures and tables]]
+    * ("As Figure 1 shows", "As Table 3 indicates")
+    * See [[Style - describe figures and tables]]
 * Don't forget units (kg,m,s)
 * Explain any abbreviations in a note BELOW the item. Start the note with "Note." I should be able to understand your table/figure without reading the article
 * Don't use titles built into Excel/Word graphs. Delete that and add your own typed title.
@@ -30,13 +30,13 @@ For figures (graphs/charts/maps/photos/diagrams)
 * Title should stand alone,
 * Include the raw data in an appendix if you can
 * Use the right type of chart/graph
-** Pie charts = 100% of something
-** Graphs = change over time
-** Bar charts = comparing amounts
-** Label axes (Number of students passing)
-** Don’t distort the scale
-** x axis is for independent variable
-** Use totals, not percentages
+    * Pie charts = 100% of something
+    * Graphs = change over time
+    * Bar charts = comparing amounts
+    * Label axes (Number of students passing)
+    * Don’t distort the scale
+    * x axis is for independent variable
+    * Use totals, not percentages
 
 
 

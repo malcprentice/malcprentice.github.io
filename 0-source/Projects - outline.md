@@ -6,9 +6,9 @@ The aim of outline practice is:
 * Write a summary 
 * Present in pairs, groups, or to the class
 * Discuss
-** Write good discussion questions
-** Lead a discussion
-** Participate in a discussion
+    * Write good discussion questions
+    * Lead a discussion
+    * Participate in a discussion
 * Learn to use APA References
 * Learn to summarise
 
@@ -23,9 +23,9 @@ The aim of outline practice is:
 ### 1B) When you have chosen a talk
 * Listen to 20 seconds, English only.
 * Too difficult?
-** Try English subtitles or transcript
-** Try Japanese subtitles or transcript
-** But try later ONE more time later in English 
+    * Try English subtitles or transcript
+    * Try Japanese subtitles or transcript
+    * But try later ONE more time later in English 
 
 
 ### 1C) Google the topic covered in the talk. Find one thing to READ
@@ -35,10 +35,10 @@ Anything related to topic OK!
 * Song lyrics
 * Something that agrees or disagrees - both OK
 * It doesn't have to be an exact match
-** For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about any combination of:
-** a) The Galapagos 
-** b) OR penguins 
-** c) OR global warming
+    * For example if talk is _"problem caused for penguins in Galapagos by global warming",_ your reading could be about any combination of:
+    * a) The Galapagos 
+    * b) OR penguins 
+    * c) OR global warming
 * Advanced option: Read [[Invention - find good sources]]
 
 ### 1D) Take notes on the TED Talk AND the article
@@ -56,9 +56,9 @@ Anything related to topic OK!
 * Read the notes! 
 * Read the rubric 
 * Rename the file
-** "Hiroko Sato - SSB - RR1"
-** "Hiroki Sato - ECS - RR2"
-** "Hiroki Sato - GCP - RR3"
+    * "Hiroko Sato - SSB - RR1"
+    * "Hiroki Sato - ECS - RR2"
+    * "Hiroki Sato - GCP - RR3"
 
 ### Slide 1
 * Change the Title, information
@@ -72,16 +72,16 @@ Give 3 keywords
 
 ### Slide 3/4/5) Type up your notes in correct format
 * Use the template to get proper formatting
-** No lonely bullet points!
-** No strange font sizes or colours. Formatting has meaning!
+    * No lonely bullet points!
+    * No strange font sizes or colours. Formatting has meaning!
 * No sentences in notes. 
-** Notes are keywords. 
-** Sentences are only for Questions and Summary
+    * Notes are keywords. 
+    * Sentences are only for Questions and Summary
 * No copy pasting! [[Invention - recognise and avoid plagiarism]]
 * Don't forget the APA citation
 * NO penguins! Change the images. 
-** Images can just be for decoration, no APA citation necessary
-** Charts and maps etc are better, but if you use one give the APA citation
+    * Images can just be for decoration, no APA citation necessary
+    * Charts and maps etc are better, but if you use one give the APA citation
 
 ### Slide 6) Write a summary
 * One summary sentence for the lecture 
@@ -93,8 +93,8 @@ Give 3 keywords
 ### Slide 6 CORRECTION! There is an error in the Summary slide I sent. 
 * "Response" should not be on summary slide
 * Just TWO things on summary slide (one for lecture, one for reading)
-** TWO keywords in summary slide
-** TWO sentences in summary notes
+    * TWO keywords in summary slide
+    * TWO sentences in summary notes
 * Ignore "write a response" 
 * Response should only be on "Learning Reflection" slide below
 
@@ -111,23 +111,23 @@ See [[Study Skills - ask good questions]] for example patterns
 * No questions that need research to answer e.g. "How can we reduce water pollution in Bangladesh?"
 * Don't ask "Do you know TOPIC" (of course they do - you just explained it
 * No lazy questions (questions which work for any topic). Be SPECIFIC
-** e.g. this is banned: "What do you think about this topic?"
-** e.g. this is banned: "What is your image of TOPIC"
-** e.g. this is banned: "How do you feel about TOPIC"
-** Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
+    * e.g. this is banned: "What do you think about this topic?"
+    * e.g. this is banned: "What is your image of TOPIC"
+    * e.g. this is banned: "How do you feel about TOPIC"
+    * Instead, be specific - "Do you think TOPIC is SPECIFIC QUESTION"
 
 ### Slide 9) Add APA citations 
 * See [[Invention - use APA format in the text]]
 * TWO places for APA "In the text" citations:
-** At the bottom of each slide. Make it clear which slides used which source
-** In the summary in the speaker notes, after each sentence.
+    * At the bottom of each slide. Make it clear which slides used which source
+    * In the summary in the speaker notes, after each sentence.
 * ONE References section
-** Look on last slide
-** See [[Invention - use APA format in reference lists]]
+    * Look on last slide
+    * See [[Invention - use APA format in reference lists]]
 * Consider trying Zotero
-** Download here: https://www.zotero.org/
-** It makes mistakes - check it by hand for errors
-** It words on Google Docs and Word, but not Slides. You'll need to copy-paste the references. 
+    * Download here: https://www.zotero.org/
+    * It makes mistakes - check it by hand for errors
+    * It words on Google Docs and Word, but not Slides. You'll need to copy-paste the references. 
 
 # Step 3: Present (Zoom version)
 ## Preparing before class
@@ -135,20 +135,20 @@ See [[Study Skills - ask good questions]] for example patterns
 * Use Zoom on laptop not ipad/phone if possible
 * Use Chrome or Firefox, not Edge, and NEVER USE INTERNET EXPLORER FOR ANYTHING!
 * Download slides  so the presentation is smoother
-** Google Sheets "File->Make Available Offline"
-** OR if you are having problems with that, download as PowerPoint
+    * Google Sheets "File->Make Available Offline"
+    * OR if you are having problems with that, download as PowerPoint
 * Decide whether or not to use notes. T
-** Best option is not to need notes 
-** KNOW the topic very well
-** use the slide KEYWORDS to remind you what is next
-** notes just for numbers, names, other things it's hard to remember 
+    * Best option is not to need notes 
+    * KNOW the topic very well
+    * use the slide KEYWORDS to remind you what is next
+    * notes just for numbers, names, other things it's hard to remember 
 * If you need longer notes
-** BE CAREFUL. They will make eye contact and gestures more difficult 
-** "Presenter notes" in PowerPoint or Google Slides don't work on Zoom
-** Make sure the text is big enough to read
-** No floppy paper - A4 is too big. B5 notebook better
-** Index cards work well: https://www.amazon.co.jp/s?k=index+cards
-** Devices OK: Tablets good. Phones too small. Laptops usually too big. 
+    * BE CAREFUL. They will make eye contact and gestures more difficult 
+    * "Presenter notes" in PowerPoint or Google Slides don't work on Zoom
+    * Make sure the text is big enough to read
+    * No floppy paper - A4 is too big. B5 notebook better
+    * Index cards work well: https://www.amazon.co.jp/s?k=index+cards
+    * Devices OK: Tablets good. Phones too small. Laptops usually too big. 
 * Before class, remember to SUBMIT your slides on Google Classroom. 
 
 ## Preparing in class
@@ -162,29 +162,29 @@ See [[Study Skills - ask good questions]] for example patterns
 ## Timing: 15 minutes per speaker 
 * 1 minute to setup
 * 4-5 minutes presentation (link for options)
-** Use short presentation "Style" (below)
-** Pay attention to "Delivery" (below)
-** Don't forget your summary
+    * Use short presentation "Style" (below)
+    * Pay attention to "Delivery" (below)
+    * Don't forget your summary
 * 1-2 minute questions and feedback 
-** Questions from audience if something not clear
-** Feedback: [[Style - give good feedback]]
+    * Questions from audience if something not clear
+    * Feedback: [[Style - give good feedback]]
 * 5-6 minute discussion (if presentation short, discuss for longer)
-** Presenter ask FIRST discussion question
-** Audience
-*** ANSWER the discussion question. 
-*** ADD a detail (who what where why when)
-*** PASS the conversation to another group member ("How about you Daiki?")
-** Audience silent? Presenter - get people talking ("How about you Daiki?")
+    * Presenter ask FIRST discussion question
+    * Audience
+        * ANSWER the discussion question. 
+        * ADD a detail (who what where why when)
+        * PASS the conversation to another group member ("How about you Daiki?")
+    * Audience silent? Presenter - get people talking ("How about you Daiki?")
 
 ## Voice/Non Verbal Delivery - this will be graded
 In Zoom presentations, no gestures 
 * Eye contact
-** Speak at the camera, not your notes. Look down, read, look up and speak
-** Put notes down in front of camera (e.g. on keyboard) not to the side. 
+    * Speak at the camera, not your notes. Look down, read, look up and speak
+    * Put notes down in front of camera (e.g. on keyboard) not to the side. 
 * Voice
-** try to speak in phrases, fewer hesitations
-** Interesting voice!
-** Don't make a script and read it - makes your voice boring
+    * try to speak in phrases, fewer hesitations
+    * Interesting voice!
+    * Don't make a script and read it - makes your voice boring
 
 
 ## Style for a short presentation

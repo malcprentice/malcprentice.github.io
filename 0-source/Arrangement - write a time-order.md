@@ -26,9 +26,9 @@ Instructional
 
 ### Keywords
 * If you have more than 5 steps, don't list all keywords - it's too long
-** ("..in 7 steps - soaking, cooking, peeling, mixing, drying, frying, and decorating.")
+    * ("..in 7 steps - soaking, cooking, peeling, mixing, drying, frying, and decorating.")
 * Instead, just list __first and last__
-** ("...in 7 steps, __from__ soaking __to__ decorating.")
+    * ("...in 7 steps, __from__ soaking __to__ decorating.")
 
 ### Details for Instructional
 * Detail in same sentence OK: "Secondly, mix it well - you should use a spoon."

@@ -1,7 +1,7 @@
 "Final comment" could also be called "a conclusion", but
-** we also call the paragraph "a conclusion"
-** the last part of non-academic essays is not always a conclusion - for example, sometimes it is a quote.
-** So, I call this part the "final comment" to avoid confusion
+    * we also call the paragraph "a conclusion"
+    * the last part of non-academic essays is not always a conclusion - for example, sometimes it is a quote.
+    * So, I call this part the "final comment" to avoid confusion
 
 # For first year essays
 ### Final comments should be aimed at the READER
@@ -46,9 +46,9 @@ All this lends support to the notion that
 
 ### CAUSE EFFECT signals
 * If you use cause and effect "transition" like "As a result":
-** It must come JUST AFTER a summary of your evidence
-** e.g. "In summary..... As a result of these points, it is recommended that".
-** For more: [[Style - write a cause-effect sentence]]
+    * It must come JUST AFTER a summary of your evidence
+    * e.g. "In summary..... As a result of these points, it is recommended that".
+    * For more: [[Style - write a cause-effect sentence]]
 
 # Other Genres
 ### iBT TOEFL independent essays

@@ -16,36 +16,36 @@
 * Why are you Xing?  =   I am Xing because next year I will Y
 6) Study Tips for all speaking (independent AND integrated)
 * Record yourself speaking.
-** Transcribe yourself and look for problems
-** Do the same speech again and again - faster and smoother
+    * Transcribe yourself and look for problems
+    * Do the same speech again and again - faster and smoother
 * See http://www.ets.org/s/toefl for example answers
 * Don’t repeat to fill time
-** add something
-** Practice filling the time until you get it right
+    * add something
+    * Practice filling the time until you get it right
 
 
 # Grading
 * Delivery
-** Speak clearly and fluently, but not too quickly
-** No repetition (all the way through without repeating)
-** Pronunciation & Intonation
+    * Speak clearly and fluently, but not too quickly
+    * No repetition (all the way through without repeating)
+    * Pronunciation & Intonation
 * Language use
-** Accurate Grammar/Vocab, rather than complicated.
-** A few minor errors OK
+    * Accurate Grammar/Vocab, rather than complicated.
+    * A few minor errors OK
 * Topic development
-** State opinion clearly at beginning
-** Give at least two reasons/examples/details
-** Be clear
-** [[Style - use cohesion]] to connect your ideas be careful not to use writing-oncly phrases
+    * State opinion clearly at beginning
+    * Give at least two reasons/examples/details
+    * Be clear
+    * [[Style - use cohesion]] to connect your ideas be careful not to use writing-oncly phrases
 
 # Arrangement
 * I think...
-** My first reason is....because...
-** My second reason is... for example....
+    * My first reason is....because...
+    * My second reason is... for example....
 
 * I have a number of examples that show....
-** My first example is
-** My second example is
+    * My first example is
+    * My second example is
 
 # Style
 See [[Style - use cohesion]] for more, but not all of those work in speech. 

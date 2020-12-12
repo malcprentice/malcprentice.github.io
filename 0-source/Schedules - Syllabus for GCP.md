@@ -49,8 +49,8 @@ SR 							|0%		|For participation only (max 1 book, 5 points)
 
 * 50% of all sources should be English.
 * There is no word limit as such, but you must have:
-** Minimum number of sentences-per-paragraph (see template)
-** No short sentences
+    * Minimum number of sentences-per-paragraph (see template)
+    * No short sentences
 
 
 

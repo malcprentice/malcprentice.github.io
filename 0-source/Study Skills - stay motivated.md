@@ -10,8 +10,8 @@ However, if you look at your plan and want to do nothing, try one of these trick
 
 # Trick 2: Starting is hardest. So just start.
 * Just take the first step
-** Open Word and write the title.
-** Pack a bag and go to the Gym or the Library
+    * Open Word and write the title.
+    * Pack a bag and go to the Gym or the Library
 * Promise yourself that you can stop there if you want
 * However, once you started, it's easier to continue
 
@@ -25,21 +25,21 @@ However, if you look at your plan and want to do nothing, try one of these trick
 
 # Trick 4: Compete
 * Compete with yourself
-** Track your important scores (QW word count, time to run 5km, study time)
-** There are apps for exercise: steps walked (FitBit), cycling distance (Strava)
-** Keep a chart. There are lots of apps for this, but paper is sometimes easier.
-** Every week, try to beat yourself (less TV, faster 5km, more words)
+    * Track your important scores (QW word count, time to run 5km, study time)
+    * There are apps for exercise: steps walked (FitBit), cycling distance (Strava)
+    * Keep a chart. There are lots of apps for this, but paper is sometimes easier.
+    * Every week, try to beat yourself (less TV, faster 5km, more words)
 * Also compete with others!
-** Every week, try to beat your friends
+    * Every week, try to beat your friends
 
 # Trick 5: Form a Study Group
 * If someone is waiting for you, you have to go study.
 * If you don't understand, someone else does
 * Combine it with tracking (Trick 4)
-** Compete with your friends! Who can study the most?
-** Compete with other groups! Which _group_ can study the most?
+    * Compete with your friends! Who can study the most?
+    * Compete with other groups! Which _group_ can study the most?
 * If you can't meet in person, try an app.
-** FOr vocab, for example, try Memrise: https://www.memrise.com/
+    * FOr vocab, for example, try Memrise: https://www.memrise.com/
 
 # Trick 6: Reduce Distractions
 * Turn off notifications from Line, etc.

@@ -12,8 +12,8 @@ I use the tools below to find a flight, not sure which is best
 * Skyscanner: https://www.skyscanner.com
 * Google Flights: https://www.google.co.jp/flights/# flt=/m/07s8_ct..2019-05-22* ./m/07s8_ct.2019-05-26;c:JPY;e:1;ls:1w;sd:0;t:h
 * Some European budget airlines ("LCC") DON'T always appear in search, check them separately 
-** Easyjet (Europe): https://www.easyjet.com 
-** Ryanair (Europe): https://www.ryanair.com
+    * Easyjet (Europe): https://www.easyjet.com 
+    * Ryanair (Europe): https://www.ryanair.com
 * Asian LCCs like Scoot and AIr Asia usually appear in search, but if they don't maybe check. 
 
 ## Actually booking flights
@@ -42,10 +42,10 @@ I like trains -
 
 ## Shares
 * AirBNB ( http://www.airbnb.com/c/mprentice39 ) are:
-** Cheap if you share, almost as much as hotels if you don't
-** A good deal if you want a kitchen and a washing machine. 
+    * Cheap if you share, almost as much as hotels if you don't
+    * A good deal if you want a kitchen and a washing machine. 
 * Housesitting: https://www.nomadicmatt.com/travel-blogs/house-sitting/
-** Haven't tried it yet, but if you have 2 weeks and like cats...
+    * Haven't tried it yet, but if you have 2 weeks and like cats...
 
 
 ## Hostels

@@ -6,9 +6,9 @@
 * Breaking News English: http://breakingnewsenglish.com/
 * VOA: http://learningenglish.voanews.com/
 * News in Levels: http://www.newsinlevels.com/
-** Level 1 = Vocab list 1-3
-** Level 2 = Vocab list 1-6
-** Level 3 = All lists+ 
+    * Level 1 = Vocab list 1-3
+    * Level 2 = Vocab list 1-6
+    * Level 3 = All lists+ 
 
 # Japanese
 * NHK World http://www3.nhk.or.jp/nhkworld/
@@ -66,10 +66,10 @@
 
 # ESP news sources (difficult) 
 * Science Magazines
-** New Scientist: http://www.newscientist.com/
-** Scientific American: http://www.scientificamerican.com/section/lateststories/
-** Science Daily: http://www.sciencedaily.com
-** Science Magazine: http://www.sciencemag.org/content/338/6114.subject-index
+    * New Scientist: http://www.newscientist.com/
+    * Scientific American: http://www.scientificamerican.com/section/lateststories/
+    * Science Daily: http://www.sciencedaily.com
+    * Science Magazine: http://www.sciencemag.org/content/338/6114.subject-index
 * Economics: http://www.economist.com/
 * Monga Bay: https://www.mongabay.com/ (Students researching animals often use this source)
 # American University Newspapers (for TOEFL campus language)

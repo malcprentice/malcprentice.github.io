@@ -2,11 +2,11 @@
 # General tips for listening to lectures
 ## Tips for listening to a lecture
 * Prepare:
-** Read the description and the titles.
-** Try to guess what the speaker will say
-** Review what you already know about the topic - read your notes or just think
-** If you have time, read something about the topic, and learn any special vocabulary.
-** If you will have time later and it is important, record the talk on your phone
+    * Read the description and the titles.
+    * Try to guess what the speaker will say
+    * Review what you already know about the topic - read your notes or just think
+    * If you have time, read something about the topic, and learn any special vocabulary.
+    * If you will have time later and it is important, record the talk on your phone
 
 
 ## What to listen for.
@@ -17,44 +17,44 @@ You do not usually quote lectures, so you do not need to copy every word.
 * Which ideas are old, and which are new
 * The lecturer’s attitude to a topic.  (You can disagree, but don’t ignore)
 * Structure words so you know where you are in the lecture or if you have missed something
-** First/Next/Finally/In conclusion/Last
-** There are three reasons - A, B, and C
-** Firstly, A
+    * First/Next/Finally/In conclusion/Last
+    * There are three reasons - A, B, and C
+    * Firstly, A
 * Important causes and effects
-** X is a result of Y
-** Y, because X
-** X causes Y
+    * X is a result of Y
+    * Y, because X
+    * X causes Y
 * Rhetorical question answers. Usually happens just before summary or overview. After phrases like:
-** So, what happens when ....
-** Now, what do we know about X?  Well.....
-** So, what would be an example of X?  One example would be...
-** What did we learn today? Well,...\
+    * So, what happens when ....
+    * Now, what do we know about X?  Well.....
+    * So, what would be an example of X?  One example would be...
+    * What did we learn today? Well,...\
 * Important TERMS and DEFINITIONS - write as X = Y
-** X means DEFINITION
-** X, which is DEFINITION
-** X, that is when DEFINITION
-** X, also called Y
+    * X means DEFINITION
+    * X, which is DEFINITION
+    * X, that is when DEFINITION
+    * X, also called Y
 * Examples - write as “e.g.”
-** For example
-** A second example is
-** For instance
+    * For example
+    * A second example is
+    * For instance
 * Summaries
-** 	The central/main/key point is
-** 	In conclusion / To conclude
-** 	What this means is...
+    * 	The central/main/key point is
+    * 	In conclusion / To conclude
+    * 	What this means is...
 * Important Authors / Books / Articles you should read next
-** You should read
-** You have to look at
+    * You should read
+    * You have to look at
 * Homework!
-** You need to write
-** Read / Look at / Write
+    * You need to write
+    * Read / Look at / Write
 
 ## Taking notes on lectures
 * Lectures are too fast and too hard to take 100% English notes
-** Copy only short quotes in English.
-** Take most notes as summary (paraphrase) in Japanese
-** For your RR outline, type up your notes IN ENGLISH
-** For reading log, handwritten Japanese/English notes are OK, but you will present IN ENGLISH, so take a note of any English words you will need
+    * Copy only short quotes in English.
+    * Take most notes as summary (paraphrase) in Japanese
+    * For your RR outline, type up your notes IN ENGLISH
+    * For reading log, handwritten Japanese/English notes are OK, but you will present IN ENGLISH, so take a note of any English words you will need
 * Lectures are fast - use short-cuts when writing common words. For example
 |	"is" 		|	=
 |	"is not"	|	≠

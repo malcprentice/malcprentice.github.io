@@ -23,21 +23,21 @@ Remember - you're not presenting, you're answering questions (except if someone 
 
 # Assessment in class
 * You are (usually) not assessed on your slides
-** Your slides should be perfect - we've checked them several times. 
-** However, you will get a minus point for any mistake I pointed out that you didn't fix on the slides.
+    * Your slides should be perfect - we've checked them several times. 
+    * However, you will get a minus point for any mistake I pointed out that you didn't fix on the slides.
 * In class, I'll use "Can you tell me more about KEYWORD"
 * You start with 6 points, as usual
 * You are assessed on the INVENTION of you answer (+ 1,0,-1)
-** You need to be able to say something for each keyword.
-** You need to tell me something that is not on the slide
-** YOu need to be understandable 
+    * You need to be able to say something for each keyword.
+    * You need to tell me something that is not on the slide
+    * YOu need to be understandable 
 * You are assessed on DELIVERY of your answer
-** Delivery = control of eye contact, body language, and voice (+ 1, 0, -1 each)
-** Talk to the whole audience, not just the person who asked the question. 
-** Talk to humans, not your poster!
-** Control of notes is part of body language. 
-*** Cue cards are best
-*** Any other notes also OK, but don't hold a full size laptop
+    * Delivery = control of eye contact, body language, and voice (+ 1, 0, -1 each)
+    * Talk to the whole audience, not just the person who asked the question. 
+    * Talk to humans, not your poster!
+    * Control of notes is part of body language. 
+        * Cue cards are best
+        * Any other notes also OK, but don't hold a full size laptop
 
 
 Difficult part is remembering to continue eye contact, gestures, etc when answering questions.

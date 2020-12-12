@@ -5,8 +5,8 @@ For tips on writing a compare-contrast _paragraph_, see [[Arrangement - write a 
 
 ### Cohesion - introducing a comparison section
 * X is very similar to the better known Y in that SIMILARITY, however while X is/can/has/does X-ONLY-QUALITY, Y is/can/has/does Y-ONLY-QUALITY. As such, Optional Cause-Effect comment. 
-** The Russian Desman is very similar to the better known mole in that it lives underground and burrows very well, however while the mole cannot swim, the Desman is very good in rivers. As such it eats fish, whereas the Mole only eats worms and KFC.
-** The Green Sea Turtle is very similmar to the better known Box Turtle (which can be seen in any pet shop) in that it is a amphibious fish eater with a hard shell. However, whil the EBT grows to no more than 5cm, the GST can be up to 3 meters in length. As such, the Green Sea Turtle would not make a good pet. 
+    * The Russian Desman is very similar to the better known mole in that it lives underground and burrows very well, however while the mole cannot swim, the Desman is very good in rivers. As such it eats fish, whereas the Mole only eats worms and KFC.
+    * The Green Sea Turtle is very similmar to the better known Box Turtle (which can be seen in any pet shop) in that it is a amphibious fish eater with a hard shell. However, whil the EBT grows to no more than 5cm, the GST can be up to 3 meters in length. As such, the Green Sea Turtle would not make a good pet. 
 
 ### Compare - alternatives to "And"
 |Both            |A and B        |are///can be   | expensive

@@ -14,8 +14,8 @@
 * Choose something with a population in the wild - NOT extinct or extinct in wild. 
 * Choose something with multiple problems (e.g. hunting AND food AND pollution)
 * Choose something with multiple solutions 
-** e.g. trade laws, special nets, and education
-** e.g. 3 different NGOs doing different things
+    * e.g. trade laws, special nets, and education
+    * e.g. 3 different NGOs doing different things
 
 # Step 2: Research your animal
 Read 3 articles about your animal. Follow the requirements in your syllabus homework for number and type of reference. Start with the WWF page or the IUCN page. YOu can read the wikipedia page in ENglish or Japanese, but it DOES NOT COUNT for your 3 articles, and you CANNOT cite it. 
@@ -38,25 +38,25 @@ This is the THIRD paragraph of five, but we will write it first because it is ea
 * See [[Arrangement - write a cause-effect]]
 Some common problems include:
 * Threat to Habitat (wetlands, forests, mangroves, coastal areas)
-** by population increase - people move into animals' areas
-** by development of industry/forestry/farms/plantations
-** by development of infrastructure (e.g. roads,
-** by development for tourism (e.g. coastal hotels, artificial beaches)
-** by human usage leading to soil erosion, deforestation, etc
-** by climate change, leading to drought, fires, floods, desertification,
-** by pollution (oil spills, chemical spills, heavy metals in food chain, air pollution, )
+    * by population increase - people move into animals' areas
+    * by development of industry/forestry/farms/plantations
+    * by development of infrastructure (e.g. roads,
+    * by development for tourism (e.g. coastal hotels, artificial beaches)
+    * by human usage leading to soil erosion, deforestation, etc
+    * by climate change, leading to drought, fires, floods, desertification,
+    * by pollution (oil spills, chemical spills, heavy metals in food chain, air pollution, )
 * Other
-** competition with invasive species
-** something that indirectly makes things worse
-*** conflict (i.e. wars) stopping assistance reaching the area
-*** Unemployment/Poverty (e.g. which makes people turn to poaching)
-*** Political Instability
-*** Corruption
-*** Smaller world leading to diseases spreading more easily
-** hunting
-*** for food (Over-fishing, Over-hunting)
-*** for pet ndustry
-*** for animal parts (fur, souvenirs, medicine)
+    * competition with invasive species
+    * something that indirectly makes things worse
+        * conflict (i.e. wars) stopping assistance reaching the area
+        * Unemployment/Poverty (e.g. which makes people turn to poaching)
+        * Political Instability
+        * Corruption
+        * Smaller world leading to diseases spreading more easily
+    * hunting
+        * for food (Over-fishing, Over-hunting)
+        * for pet ndustry
+        * for animal parts (fur, souvenirs, medicine)
 
 
 ### <blue>Paragraph B: SUMMARY/RESPONSE</blue>
@@ -64,28 +64,28 @@ This is the FOURTH paragraph of five, but we will write it second
 * describe and critically analyse the solutions
 * See [[Arrangement - write a summary-response]]
 * Example solutions from previous essays
-** Ecotourism
-** De-extinction
-** Sustainable Development
-** Consumer pressure / Consumer awareness
-** Zoo breeding programs keeping in zoo
-** Zoo breeding programs returning to wild: http://www.chroniclelive.co.uk/news/north-east-news/return-lynx-kielder-forest-backed-9128738
+    * Ecotourism
+    * De-extinction
+    * Sustainable Development
+    * Consumer pressure / Consumer awareness
+    * Zoo breeding programs keeping in zoo
+    * Zoo breeding programs returning to wild: http://www.chroniclelive.co.uk/news/north-east-news/return-lynx-kielder-forest-backed-9128738
 * NGO
-** for the specific animal or animal type
-** for the animal type (e.g. saving orangutans)
-** for the habitat (e.g. saving forests, which saves orangutans)
-** for the general problem (e.g. stopping global warming, which saves forest, which saves orangutans)
+    * for the specific animal or animal type
+    * for the animal type (e.g. saving orangutans)
+    * for the habitat (e.g. saving forests, which saves orangutans)
+    * for the general problem (e.g. stopping global warming, which saves forest, which saves orangutans)
 * Laws (National or International)
-** e.g. a demand side law by Japanese government banning trade in endangered animals
-** e.g. a supply-side law by the Indonesian government banning trade in endangered animals
-** e.g. an international law, like CITES https://www.cites.org/ banning trade in endangered animals
+    * e.g. a demand side law by Japanese government banning trade in endangered animals
+    * e.g. a supply-side law by the Indonesian government banning trade in endangered animals
+    * e.g. an international law, like CITES https://www.cites.org/ banning trade in endangered animals
 * Monitoring Programs
 * Reduce, Reuse, Recycle
 * Refuse (i.e. just stop buying it)
 * Activism
-** Letter writing campaign
-** Boycott
-** Protest
+    * Letter writing campaign
+    * Boycott
+    * Protest
 
 
 ### Paragraph C: <blue>DESCRIPTION paragraph</blue>
@@ -95,21 +95,21 @@ However, it is difficult so we will write it last
 * See  [[Arrangement - write a description paragraph]]
 * Remember - the animal is _experiencing_ a problem, not _causing_ one
 * Be careful about plurals
-** You can say "the Amur tiger IS" (the species)
-** You can say "Amur tigerS ARE" (all the individuals)
-** You CANNOT say "Amur Tigers is" or "the Amur Tiger are"
+    * You can say "the Amur tiger IS" (the species)
+    * You can say "Amur tigerS ARE" (all the individuals)
+    * You CANNOT say "Amur Tigers is" or "the Amur Tiger are"
 * Be careful about capitals. Only place names get capitals
-** The giant panda (NOT Giant or Panda)
-** The Amur tiger (Amur is a place)
+    * The giant panda (NOT Giant or Panda)
+    * The Amur tiger (Amur is a place)
 * Avoid boring definitions. Which of these is boring?
-** e.g. "The Amur tiger is a kind of tiger" 
-** e.g. "The Amur tiger is the only member of the big cat family which lives in Kyushu" 
+    * e.g. "The Amur tiger is a kind of tiger" 
+    * e.g. "The Amur tiger is the only member of the big cat family which lives in Kyushu" 
 * Consider using a partition 
-** (e.g. "there are 2 kinds of panda - giant panda and red panda - of which the most endangered is..."")
-** see [[Style - write a partition sentence]]
+    * (e.g. "there are 2 kinds of panda - giant panda and red panda - of which the most endangered is..."")
+    * see [[Style - write a partition sentence]]
 * Define any unknown word or words with special meanings 
-** (e.g. "X is classified as "Critically Endangered" by the WWF, which means that less than......"")
-** see [[Style - write a definition sentence]]
+    * (e.g. "X is classified as "Critically Endangered" by the WWF, which means that less than......"")
+    * see [[Style - write a definition sentence]]
 
 ##  Sectional Essay Version (GCP)
 Read the five paragraph version first. This is a NINE paragraph version of that

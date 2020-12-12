@@ -19,8 +19,8 @@ In this essay, lets look at some sites that are in danger.
 * Do NOT choose anything that is an example on this site
 * Choose something with multiple problems (e.g. too many tourists AND overdevelopemtn AND pollution)
 * Choose something with multiple solutions 
-** (seperate, or three organisations
-** prefereably at different levels e.g. International, national, and local NGOs)
+    * (seperate, or three organisations
+    * prefereably at different levels e.g. International, national, and local NGOs)
 
 # Step 2: Research your site
 Read 3 articles about your site. 
@@ -57,69 +57,69 @@ I recommend you :
 * MAYBE a Compare-contrast ("Angkor Wat is similar to Kinkakuji in that....however...")
 * DEFINITELY a historical Time order ("Angkor Wat was built in the 12th century by...becuase.... After that... then... However...")
 * A couple of other interesting details, one a number
-** A random detail
-** A number showing the size of the problem (things lost, area destroyed, tourist numbers, etc)
+    * A random detail
+    * A number showing the size of the problem (things lost, area destroyed, tourist numbers, etc)
 * Link (for essay)
 
 ## Common problems
 * pollution
 * tourists
-** garbage
-** graffiti
-** vandalism
-** erosion by feet
+    * garbage
+    * graffiti
+    * vandalism
+    * erosion by feet
 * theft 
-** for local construction
-** for souvenirs
+    * for local construction
+    * for souvenirs
 * disrepair 
 * disagreement over ownership
 * destructive/intrusive/reckless development (roads, dams, hotels)
 * Natural 
-** Natural disasters (e.g. earthquake)
-** climate change
-** erosion (destruction by normal rain and wind)
-** invasive species
-** air pollution
-** acide rain
+    * Natural disasters (e.g. earthquake)
+    * climate change
+    * erosion (destruction by normal rain and wind)
+    * invasive species
+    * air pollution
+    * acide rain
 * something that indirectly makes things worse
-** lack of management
-** Unemployment/Poverty (e.g. which makes people turn to looting/selling pieces/using it for building materials)
-** Political Instability
-** Corruption
+    * lack of management
+    * Unemployment/Poverty (e.g. which makes people turn to looting/selling pieces/using it for building materials)
+    * Political Instability
+    * Corruption
 * conflict (i.e. civil war) 
-** stopping assistance reaching the area
-** allows looting
-** direct bombing damage
+    * stopping assistance reaching the area
+    * allows looting
+    * direct bombing damage
 
 
 ## Common solutions
 Think about BOTH prevention, and restoration
 * Organisations
-** NGOs
-** World Bank
-** International groups e.g. UNESCO
-** Local organisations
-** National culture organisations 
-** governments (National or International)
+    * NGOs
+    * World Bank
+    * International groups e.g. UNESCO
+    * Local organisations
+    * National culture organisations 
+    * governments (National or International)
 * Changes to tourism
-** Tourism rules
-** restricting the number of tourists
+    * Tourism rules
+    * restricting the number of tourists
 * transferring things to museums
 * Repairing
 * Restorating
 * Preventative maintenance/systems
 * Creating a management organisation
 * Solving related problems 
-** (poverty
-** involving local people and educating them
-** stopping conflict
-** stopping corruption
+    * (poverty
+    * involving local people and educating them
+    * stopping conflict
+    * stopping corruption
 * Resonsible/Sustainable Development
-** rules for appropriate building styles/materials 
+    * rules for appropriate building styles/materials 
 * Building necessary infrastructure
-** too many tourists = need new sewage system or garbage incineration
-** too many tourists driving = pollution = need new train
-** too many toursists drinking = need new water supply
+    * too many tourists = need new sewage system or garbage incineration
+    * too many tourists driving = pollution = need new train
+    * too many toursists drinking = need new water supply
 
 
 
@@ -127,12 +127,12 @@ Think about BOTH prevention, and restoration
 A common mistake is to say "This essay describes a world heritage."
 World heritage is an IDEA, like "history", not a place.
 When talking about the IDEA, "world heritage" on its own is OK
-** World heritage is important.
-** This organisation focuses on world heritage. 
+    * World heritage is important.
+    * This organisation focuses on world heritage. 
 HOWEVER, when talking about a specific place, you should say "World heritage +  NOUN" 
-** World heritage site
-** world heritage area
-** world heritage organisation
+    * World heritage site
+    * world heritage area
+    * world heritage organisation
 
 
 ##  Sectional Essay Version (GCP)

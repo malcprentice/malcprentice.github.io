@@ -35,8 +35,8 @@ Like the essays in this class, you can just use the thesis statement pattern for
 * Use "Firstly/Secondly" to show it is part of a series
 * Show it is making a similar point e.g. "Another reason..."
 * Show it is giving the other side
-** "Unlike in the previous paragraph"
-** "While above it was argued that X, some people think Y"
+    * "Unlike in the previous paragraph"
+    * "While above it was argued that X, some people think Y"
 4) Say what you want to say about the topic.
 5) This is still formal academic English - [[Style - follow academic conventions]]
 

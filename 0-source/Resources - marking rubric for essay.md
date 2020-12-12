@@ -41,12 +41,12 @@ Your grade is:
 
 ### Notes
 * Grading sections (Presentation, Arrangement, Style, Invention)
-** No problems in a section, the section is <green>G</green>
-** Only one problem per section, the section is <blue>OK</blue>
-** More than one problem per section (or one large problem like plagiarism), and the section is <red>NW</red>
+    * No problems in a section, the section is <green>G</green>
+    * Only one problem per section, the section is <blue>OK</blue>
+    * More than one problem per section (or one large problem like plagiarism), and the section is <red>NW</red>
 
 * Grading the homework
-** Your grade goes up or down from C(6) depending on how many NW or G _sections_ you get.
+    * Your grade goes up or down from C(6) depending on how many NW or G _sections_ you get.
 |<red>NW</red>       |"Needs Work" (-1)
 |<blue>OK</blue>     | "OK"
 |<green>G</green>    |"Good" (+ 1)

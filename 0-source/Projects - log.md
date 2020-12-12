@@ -6,15 +6,15 @@ This is almost the same as "outline", but much less formal - summary and questio
 * Must be ENGLISH
 * Must be INTERESTING
 * Must not be something you are reading for another class or task 
-** Not your essay reading
-** Not your outline TED talk or article
-** something NEW
+    * Not your essay reading
+    * Not your outline TED talk or article
+    * something NEW
 * Any type OK
-** TED Talk
-** News article
-** Song lyrics
-** Book chapter
-** etc. See "Resources"
+    * TED Talk
+    * News article
+    * Song lyrics
+    * Book chapter
+    * etc. See "Resources"
 
 # 2) Read or listen to it. Take notes
 

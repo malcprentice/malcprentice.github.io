@@ -4,15 +4,15 @@
 * Books and movies have genres (e.g. Horror, Romance)
 * Genre tells us what will happen and in what order. 
 * For example:
-**  __Horror:__ There will be a ghost/monster/evil person. We will not really know what/who it is until late in the movie. Someone will die. Someone will think they are safe. Then everything will get worse. At the end, most of the characters will be dead.
-**  __Romance:__ There will be two main characters. They meet. One or both of them like the other. Something goes wrong. They can't get together or break up. In the end, either everything works out OK (comedy) or someone/everyone dies (tragedy).
+    *  __Horror:__ There will be a ghost/monster/evil person. We will not really know what/who it is until late in the movie. Someone will die. Someone will think they are safe. Then everything will get worse. At the end, most of the characters will be dead.
+    *  __Romance:__ There will be two main characters. They meet. One or both of them like the other. Something goes wrong. They can't get together or break up. In the end, either everything works out OK (comedy) or someone/everyone dies (tragedy).
 
 ## Genre in essays
 * Essays also have genre (e.g. Problem-Solution)
 * Genre tells us what will happen and in what order
 * The Genre should be obvious from the thesis statement
-** When you read, knowing genre can help you __understand.__
-** When you write, knowing genre can help you __be understood.__
+    * When you read, knowing genre can help you __understand.__
+    * When you write, knowing genre can help you __be understood.__
 
 
 # Genre Patterns

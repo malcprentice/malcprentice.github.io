@@ -1,8 +1,8 @@
 # What is Cohesion?
 _Cohesion_ is when you use special English phrases to tell me:
 * Where I am in the essay outline ("Signposting")
-** e.g. "The first problem is", "As the previous noted,"
-** See [[Style - use signposting]] for more
+    * e.g. "The first problem is", "As the previous noted,"
+    * See [[Style - use signposting]] for more
 * What each sentence does ("Signalling")
 
 ### This page is about signalling:
@@ -124,7 +124,7 @@ In summary, there are three possible solutions - A, B, and C -
 * of which only A and B are effective.
 * of which only the first is effective.
 * of which only the second is effective.
-*** of which only the last is effective.
+        * of which only the last is effective.
 
 # Not in academic essays
 ## Adding a sad/happy/unusual point

@@ -20,11 +20,11 @@
 1) It's shorter
 * Less reading question  (3-4 readings, 10 questions each, not 12)
 * Less Listenings 
-** (3-4 lectures, not 4-6, same number of questions each)
-** No change to conversations
+    * (3-4 lectures, not 4-6, same number of questions each)
+    * No change to conversations
 * 4 speaking tasks (1 independent,  3 integrated), rather than six (2+ 4)
-** Removed Independent question # 1 (express a personal preference)  - only paired choice  type left
-** Removed old integrated question # 5 (campus situation; problem/solution) - only integrated lecture left
+    * Removed Independent question # 1 (express a personal preference)  - only paired choice  type left
+    * Removed old integrated question # 5 (campus situation; problem/solution) - only integrated lecture left
 * No change to writing section
 
 
@@ -44,11 +44,11 @@
 # General tips
 * Don't forget your ID with signature and name
 * You are expected to take notes. 
-** They will give you paper
-** It will be destroyed after the test. 
+    * They will give you paper
+    * It will be destroyed after the test. 
 * Do NOT listen to the directions. 
-** You should already know what you are doing. 
-** Click CONTINUE and spend your time on the questions/content.
+    * You should already know what you are doing. 
+    * Click CONTINUE and spend your time on the questions/content.
 * Get some sleep
 * Check your score breakdown, and work on your weakness
 

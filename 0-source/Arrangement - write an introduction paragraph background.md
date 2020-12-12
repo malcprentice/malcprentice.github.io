@@ -7,8 +7,8 @@ Prepare your reader by giving:
 
 ## 1) GB - General Background
 * Don't just suddenly shout "Tantalum!" or "Frogs!"
-** Catch my interest first
-** Name a wider topic I know (iPhones, endangered animals)
+    * Catch my interest first
+    * Name a wider topic I know (iPhones, endangered animals)
 
 ### Recommended GB phrases for academic essays
 |Type: 			|Example
@@ -34,11 +34,11 @@ Prepare your reader by giving:
 ## 2) SB - Specific Background
 * NAME your topic, if you haven't already.
 * Give information I need to understand the Thesis
-** e.g. what Tantalum is
-** e.g. what a Saola is
+    * e.g. what Tantalum is
+    * e.g. what a Saola is
 * Don't give too much detail!
-** One sentence is enough.
-** Especially if you are going to [[Arrangement - write a description paragraph]] later.
+    * One sentence is enough.
+    * Especially if you are going to [[Arrangement - write a description paragraph]] later.
 
 ### Recommended SB phrases
 | Type					| Example

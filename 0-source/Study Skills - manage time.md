@@ -69,7 +69,7 @@ Only use somethign that can send you notifications to annoy you into doing homew
 # Still having problems?
 Sometimes we do not notice how much time we waste on certain things. Find out where your time is going!
 * Write down __everything__ you do for one week.
-** There are apps for this e.g. https://itunes.apple.com/jp/app/now-then-pro-time-tracker/id504129864?mt=8
-** Or use the "TEMPLATE for WEEKLY SCHEDULE" blank
+    * There are apps for this e.g. https://itunes.apple.com/jp/app/now-then-pro-time-tracker/id504129864?mt=8
+    * Or use the "TEMPLATE for WEEKLY SCHEDULE" blank
 * How much time do you spend watching TV? Reading English? At the Gym?
 * Make changes to your schedule to limit useless activities.

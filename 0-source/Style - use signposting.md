@@ -8,10 +8,10 @@ Signposting says where you are in the essay, and what part of the essay you are 
 
 
 # Basic signposting for short essays
-** Firstly, KEYWORD.
-** The second theme/point/problem/solution/reason is KEYWORD.
-** The third theme/point/problem/solution/reason is  KEYWORD.
-** This brings us to the third theme, KEYWORD.
+    * Firstly, KEYWORD.
+    * The second theme/point/problem/solution/reason is KEYWORD.
+    * The third theme/point/problem/solution/reason is  KEYWORD.
+    * This brings us to the third theme, KEYWORD.
 
 
 

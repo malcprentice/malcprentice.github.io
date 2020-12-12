@@ -35,13 +35,13 @@ The abstract is basically like the words on the back of a book. It is there to h
 * Write the abstract LAST.
 * Read a few abstracts to get the style.
 * APA abstracts should be 150-250 words. You should include:
-** the topic
-** the research question from your INTRO
-** a summary of the RESULTS
-** a summary of your CONCLUSIONS.
-** a quick definition of any unusual terms/acronyms/abbreviations
+    * the topic
+    * the research question from your INTRO
+    * a summary of the RESULTS
+    * a summary of your CONCLUSIONS.
+    * a quick definition of any unusual terms/acronyms/abbreviations
 * You should not include
-** any citations
-** details on your methodology
+    * any citations
+    * details on your methodology
 
 Do not indent your abstract paragraph

@@ -18,22 +18,22 @@ If you don't understand what to do:
 
 __How many words?__
 * SSB, ECS, EITC
-** __10 words__ per class, 25 classes 
-** (total 250)
+    * __10 words__ per class, 25 classes 
+    * (total 250)
 * GCP 
-** __15 words__ per class, 25 classes 
-** (total 375)
+    * __15 words__ per class, 25 classes 
+    * (total 375)
 
 
 # 3) Study!
 * Don't just copy, study! 
 * Any method is OK. __Your choice.__ For example:
-** Just study your list - cover with your hand and check 
-** Use Word cards (単語カード)
-** Write sentences 
-** Copy each word 10 times
-** Upload your list to Memrise: https://www.memrise.com/
-** Upload your list to  Quizlet: https://quizlet.com/
+    * Just study your list - cover with your hand and check 
+    * Use Word cards (単語カード)
+    * Write sentences 
+    * Copy each word 10 times
+    * Upload your list to Memrise: https://www.memrise.com/
+    * Upload your list to  Quizlet: https://quizlet.com/
 
 __Any method is OK, but <green> also keep the original list</green>__ 
 * Your partner needs a list to test you in class 
@@ -48,8 +48,8 @@ __Any method is OK, but <green> also keep the original list</green>__
 * DO not submit on Google Classroom, just keep going
 * If we are online, just keep studying. 
 * If we are on campus
-** You will test your partner 
-** Forget homework = -1 point from "Participation" grade
+    * You will test your partner 
+    * Forget homework = -1 point from "Participation" grade
 
 ## Mid-term check
 * Submit for the second time on Google Classroom
@@ -59,13 +59,13 @@ __Any method is OK, but <green> also keep the original list</green>__
 * Submit for the final time on Google Classroom
 * Malc will check your Vocab again - have you __finished__ the minimum?
 * One test (10%) on YOUR words. 
-** Randomly chosen from all your words
-** 5 words Japanese-English translation
-** 5 words English-Japanese translation
-** One spelling mistake OK (not two)
-** Must be correct POS (品詞)
-** Translations with same meaning OK
-** If online, video ON and eyes covered to make sure no-one accidentally cheats
+    * Randomly chosen from all your words
+    * 5 words Japanese-English translation
+    * 5 words English-Japanese translation
+    * One spelling mistake OK (not two)
+    * Must be correct POS (品詞)
+    * Translations with same meaning OK
+    * If online, video ON and eyes covered to make sure no-one accidentally cheats
 
 
 # Advanced class options
@@ -73,9 +73,9 @@ __Any method is OK, but <green> also keep the original list</green>__
 * Use other lists (e.g. TOEFL)
 * Read more and choose words
 * If learning vocab is not useful any more:
-** Just read and [[Study Skills - guess word meanings]]
-** Tell me and you are excused this homework. 
-** But I will do a test on ALL 5673 list words to check!
+    * Just read and [[Study Skills - guess word meanings]]
+    * Tell me and you are excused this homework. 
+    * But I will do a test on ALL 5673 list words to check!
 
 ## Learn more about words 
 __1) One word = many words__

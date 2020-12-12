@@ -19,8 +19,8 @@ Normal verbs don't work: ~~"Secondly, run."~~
 
 ### If in doubt:
 * just use nounsor a short (2-4 word) phrase that ends in a noun
-** "pollution, child labour, and conflict"
-** "harmful air pollution, widespread child labour, and conflict between religious groups"
+    * "pollution, child labour, and conflict"
+    * "harmful air pollution, widespread child labour, and conflict between religious groups"
 
 ## 2) Keywords MUST MATCH
 Don't mix the types!
@@ -50,9 +50,9 @@ See [[Style - use cohesion]]
 
 ### Your Thesis statement needs one keyword per BODY PARAGRAPH
 * See [[Arrangement - write an introduction thesis statement]]
-** e.g. "This essay....description....problem....solution"
-** e.g. "This paragraph...similarities...differences"
-** e.g. "This paragraph looks at three problems penguins are facing: global warming, poaching, and a lack of onigiri"
+    * e.g. "This essay....description....problem....solution"
+    * e.g. "This paragraph...similarities...differences"
+    * e.g. "This paragraph looks at three problems penguins are facing: global warming, poaching, and a lack of onigiri"
 * A 5 para essay needs 3 keywords
 * Some teachers call Keywords for paragraphs "Controlling aspects" or "Controlling ideas"
 * Note that if you need to [[Arrangement - write a sectional essay]], the rules are slightly different

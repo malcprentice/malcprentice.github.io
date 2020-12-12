@@ -37,19 +37,19 @@ __Some rules__
 # Option 2: Do extra quickwrites (max 5 points)
 * Wait until I teach how to [[Study Skills - do a quickwrite]] in class
 * You get points for doing MORE than the minimum (25)
-** 1 point for each 3 EXTRA quickwrites
-** 5 points max for EXTRA quickwrites
+    * 1 point for each 3 EXTRA quickwrites
+    * 5 points max for EXTRA quickwrites
 * All quickwrites, minimum or extra, must be > minimum word count
 
 
 # Option 3: Official TOEIC or TOEFL test (max 3 points)
 * <red>If TOEIC is required</red>
-** (e.g. I'm giving you 5%, or another teacher is requiring it)
-** Then, you can't get participation points for a required test
-** To get participation points, do a SECOND test (TOEIC or TOEFL) and submit TWO screenshots
+    * (e.g. I'm giving you 5%, or another teacher is requiring it)
+    * Then, you can't get participation points for a required test
+    * To get participation points, do a SECOND test (TOEIC or TOEFL) and submit TWO screenshots
 
 * If TOEIC is NOT required:
-** I'll give you <red>3</red> participation points for doing it. 
+    * I'll give you <red>3</red> participation points for doing it. 
 
 In either case, prove it using screenshot(s) in your participation plan, showing name and date. 
 
@@ -68,8 +68,8 @@ If you do these things, you aren't participating:
 * Sleeping in class after a warning
 * Using too much Japanese in class after a warning
 * Using phone in class after warning
-** dictionary, research, showing photo of your dog OK
-** reading email, Line, etc not OK
+    * dictionary, research, showing photo of your dog OK
+    * reading email, Line, etc not OK
 
 <red> Online 2020: </red> email if you have a technical problem. 
 * No email + late to Zoom = late. 
@@ -84,9 +84,9 @@ If you do these things, you aren't participating:
 # Homework 
 * Read everything above
 * Make a plan that gets you 10 points
-** e.g.  "15 extra quickwrites (5 points), plus 1 for EF, 1 for  WC, 1 for  GV, 1 for  ALC, and 1 for  for the official TOEIC test"
-** e.g.  "30 extra quickwrites" (30 allowed in 2020, but usually max 15)
+    * e.g.  "15 extra quickwrites (5 points), plus 1 for EF, 1 for  WC, 1 for  GV, 1 for  ALC, and 1 for  for the official TOEIC test"
+    * e.g.  "30 extra quickwrites" (30 allowed in 2020, but usually max 15)
 * You can change your plan later 
-** e.g. "I hate ALC - I'm going to do more EF instead"
-** e.g. "I was absent (-1), so I will do 18 quickwrites instead of 15 (+1)"
+    * e.g. "I hate ALC - I'm going to do more EF instead"
+    * e.g. "I was absent (-1), so I will do 18 quickwrites instead of 15 (+1)"
 * Submit your "Participation Plan Template" for checking, then again at end of semester for grading

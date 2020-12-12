@@ -64,8 +64,8 @@ Pre-test for everyone
 * Learn how to [[Study Skills - do a quickwrite]]
 * Write, share, and discuss QW 1
 * Vocab homework
-** How to [[Study Skills - learn vocabulary]]
-** Vocab sheets are in Materials (@soka-u.jp only): https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
+    * How to [[Study Skills - learn vocabulary]]
+    * Vocab sheets are in Materials (@soka-u.jp only): https://drive.google.com/drive/folders/1sfGF6gKhXXjvAFaPfCvE4X28duj92Mp6?usp=sharing
 
 
 

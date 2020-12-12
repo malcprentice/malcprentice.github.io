@@ -39,16 +39,16 @@ We will use one coding website to solve some easy problems in English. Why?
 
 ### How to submit
 * Be ready to show it in class
-** Screenshot or print the problem
-** Screenshot or print your solution
+    * Screenshot or print the problem
+    * Screenshot or print your solution
 * In class
-** describe your problem
-** describe what you did
-** share your reflection on the problem
+    * describe your problem
+    * describe what you did
+    * share your reflection on the problem
 * Log
-** At the bottom of the log, same as book/news/TED logs
-** Give he name of the problem
-** Give your "How did it go?" sentence from above.
+    * At the bottom of the log, same as book/news/TED logs
+    * Give he name of the problem
+    * Give your "How did it go?" sentence from above.
 
 # Don't like HackerRank? Other choices include:
 * HackerEarth (tutorials only in C, otherwise similar): https://www.hackerearth.com/

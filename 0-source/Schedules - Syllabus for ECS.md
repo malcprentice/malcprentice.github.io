@@ -6,20 +6,20 @@ This course follows the [[Schedules - Curriculum for General Academic Skills]]
 The aim is to help you study in English at the university and overseas
 
 * By the end of this course, for writing and speaking, you will be able to:
-** collect ideas, take notes, and research effectively (Invention)
-** organise your ideas clearly (Arrangement)
-** express your ideas clearly (Style)
-** present your ideas well (Presentation)
+    * collect ideas, take notes, and research effectively (Invention)
+    * organise your ideas clearly (Arrangement)
+    * express your ideas clearly (Style)
+    * present your ideas well (Presentation)
 * You will also work on:
-** vocabulary
-** reading and listening fluency
-** critical thinking
-** goal setting and time management
-** communicating in an academic environment
-** directing your own learning
-** using software and online tools effectively
-** using learning strategies
-** learning vocabulary and handling unknown words
+    * vocabulary
+    * reading and listening fluency
+    * critical thinking
+    * goal setting and time management
+    * communicating in an academic environment
+    * directing your own learning
+    * using software and online tools effectively
+    * using learning strategies
+    * learning vocabulary and handling unknown words
 
 # Required Materials
 A4 40 pocket plastic folder
@@ -60,11 +60,11 @@ Read this: [[Resources - grading system]]
 * Outlines not assessed - total 40% not 50%
 
 ## 2) Less presentations
-** Was 4, now 3 presentation
-** Once every 3 weeks (Teams A, B, & C) 
-** Two practice, one graded
-** Final presentation was 10%, now 20% (10% slides, 10% video)
-** It was hard to grade eye contact in Spring - video will be face only (not slides with tiny face)
+    * Was 4, now 3 presentation
+    * Once every 3 weeks (Teams A, B, & C) 
+    * Two practice, one graded
+    * Final presentation was 10%, now 20% (10% slides, 10% video)
+    * It was hard to grade eye contact in Spring - video will be face only (not slides with tiny face)
 
 ## 4) Less SR
 * Was 2 books (40), now 1 book (20).  

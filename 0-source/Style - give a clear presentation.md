@@ -20,8 +20,8 @@
 # Style tips
 ## General Style Tips
 * Present for other students, not Malc: 
-** they didn't read what you did
-** define or avoid words they won’t know
+    * they didn't read what you did
+    * define or avoid words they won’t know
 * Make sure it is INTERESTING
 * Practice pronouncing words you do not know. Or just replace them
 * Use simple sentences you can remember

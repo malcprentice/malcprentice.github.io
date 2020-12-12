@@ -18,8 +18,8 @@ We are NOT doing that style. We practice semi-formal business/academic style
 * for logs, handwriting notes OK
 * for RR, type an [[Projects - outline]], 
 * for advanced and 2nd years, either
-** [[Study Skills - make a powerpoint slideshow]]
-** [[Study Skills - make a poster]]
+    * [[Study Skills - make a powerpoint slideshow]]
+    * [[Study Skills - make a poster]]
 5) You will practice eye contact, body language, and voice ("Delivery")
 6) You will answer questions
 7) You will get feedback
@@ -43,13 +43,13 @@ If you are using Powerpoint:
 
 # Arrangement
 * RR based: 
-** follow the RR templates. 
-** Just start "I read/listened to +  TITLE"
+    * follow the RR templates. 
+    * Just start "I read/listened to +  TITLE"
 * Project based
-** see the example PPT templates
-** Your thesis statement becomes sections
-** Your paragraph keywords become slide titles. 
-** Your points become slide bullet points. 
+    * see the example PPT templates
+    * Your thesis statement becomes sections
+    * Your paragraph keywords become slide titles. 
+    * Your points become slide bullet points. 
 
 # Style
 For Style, see [[Style - give a clear presentation]]
@@ -59,10 +59,10 @@ For Style, see [[Style - give a clear presentation]]
 * Scripts: Make your voice boring, ruins eye contact
 * Memorize: Not usually used or possible in real world 
 * Notes: In real world (business, academic), people read from notes
-** Keywords, not sentences
-** Small notes (index cards) let you move both hands (don't shrink the font to fit though)
-** Big notes (A4) - keep yout note hand still
-** Powerpoint “Speaker View” is usually a bad idea
+    * Keywords, not sentences
+    * Small notes (index cards) let you move both hands (don't shrink the font to fit though)
+    * Big notes (A4) - keep yout note hand still
+    * Powerpoint “Speaker View” is usually a bad idea
 
 
 # Delivery
@@ -87,9 +87,9 @@ First, ask questions for meaning
 * Anything you don’t understand
 * Anything you want to know more about.
 * Do NOT ask these boring, generic questions
-** “Do you like X?”
-** “What do you think about X?”
-** “Why did you choose this topic?”
+    * “Do you like X?”
+    * “What do you think about X?”
+    * “Why did you choose this topic?”
 
 ### For graded talks, every listener must ask one question
 * Can't (because you weren't listening)? = minus points.
@@ -97,16 +97,16 @@ First, ask questions for meaning
 
 ### Speakers
 * Was the question too quiet for everyone to hear?
-** repeat it louder
-** “The question is …..”
+    * repeat it louder
+    * “The question is …..”
 * Keep speaking to everyone, not just the asker
 * You are STILL BEING JUDGED ON DELIVERY
 * If you don’t know, 
-** it's ok!
-** say “I will get back to you on that”
+    * it's ok!
+    * say “I will get back to you on that”
 * Silence? 
-** If no-one asks, start yourself 
-** ("One question I’m often asked is…”)
+    * If no-one asks, start yourself 
+    * ("One question I’m often asked is…”)
 * Check: “Did that answer your question?”
 
 ### Speakers: Control interruptions

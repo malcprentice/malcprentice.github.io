@@ -1,11 +1,11 @@
 # Rules for Japanese sources in references list
 * Author names in romaji
 * Article titles in romaji +  translation in SQUARE brackets []
-** NO PERIOD between article title and translation
-** No italics for translations
+    * NO PERIOD between article title and translation
+    * No italics for translations
 * Newspaper/Journal title
-** Journal names and websites might have English version. Use them instead.
-** Otherwise, newspaper/journalin romaji, no translation
+    * Journal names and websites might have English version. Use them instead.
+    * Otherwise, newspaper/journalin romaji, no translation
 * More examples: http://commune.wilmina.ac.jp/content_uportal/studylink/Writing_Center/ReferencesCitationsnov17.pdf
 ## Templates
 <ref>
@@ -33,7 +33,7 @@ Basically, the reference list needs to be in alphabetical order
 * This is necessary to make references easy to find
 * If your language is mostly roman alphabet characters (French, Turkish), use your language
 * If you language is not mostly roman alphabet characters:
-** Any system is OK, but be consistent
-** Chinese: use pinyin
-** Korean: https://en.wikipedia.org/wiki/Romanization_of_Korean
-** Russian: https://en.wikipedia.org/wiki/Romanization_of_Russian# Transliteration_tabl
+    * Any system is OK, but be consistent
+    * Chinese: use pinyin
+    * Korean: https://en.wikipedia.org/wiki/Romanization_of_Korean
+    * Russian: https://en.wikipedia.org/wiki/Romanization_of_Russian# Transliteration_tabl
