@@ -18,11 +18,9 @@ __References__
 <em>Disadvantages of solar energy.</em> (n.d.). Conserve Energy. Retrieved October 25, 2016 from http://www.conserve-energy-future.com/Disadvantages_SolarEnergy.php
 <em>How many kWh does an average home use?</em> (n.d.). Reference.com. Retrieved October 19, 2018, from https://www.reference.com/home-garden/many-kwh-average-home-use-28cc32f433d1bd69
 Maehlum, M. (2015, May 26). <em>Top 10 benefits of going solar.</em> Energy Informative. http://energyinformative.org/benefits-of-solar-panels/4
-Shahan, Z. (2013, October 8). Advantages & disadvantages of solar tower. <em>Clean Technology Magazine.</em> http://cleantechnica.com/2013/10/08/
-advantages-disadvantages-solar-power/
+Shahan, Z. (2013, October 8). Advantages & disadvantages of solar tower. <em>Clean Technology Magazine.</em> http://cleantechnica.com/2013/10/08/advantages-disadvantages-solar-power/
 <em>Solar panel direction: what direction should solar panels face?</em> (n.d.). Sino Voltaics. Retrieved October 25, 2016 from http://sinovoltaics.com/learning-center/system-design/solar-panel-direction-what-direction-should-solar-panels-face/
 <em>Solar power-advantages and disadvantages.</em> (n.d.). Alternate Power. Retrieved October 25, 2016 from http://www.alternate-power.org/solar-power-advantages-and-disadvantages/
-<em>Top 10 renewable energy sources.</em> (2009, May 1). Listverse. http://listverse
-.com/2009/05/01/top-10-renewable-energy-sources/
+<em>Top 10 renewable energy sources.</em> (2009, May 1). Listverse. http://listverse.com/2009/05/01/top-10-renewable-energy-sources/
 Woodford, C. (2016, April 28).<em> Solar cells.</em> Explain that Stuff. http://www.explainthatstuff.com/solarcells.html
 </ref>
