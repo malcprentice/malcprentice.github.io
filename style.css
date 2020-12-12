@@ -181,6 +181,7 @@ p.clickable {
 
 ref {
     font-family: "Times New Roman", serif;
+    color: #000000;
     padding: 0 0 0 2vw;
     text-indent: -2vw;
 }
