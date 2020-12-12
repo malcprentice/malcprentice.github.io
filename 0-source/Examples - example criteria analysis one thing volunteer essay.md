@@ -38,21 +38,26 @@ Word Count: 1276
 <strong>Reference</strong>
 
 <ref>
-_Cambodia's orphans not really orphans._ (2011, March 24). Retrieved from http://fakewebsiteaddress.com/asdf.html
-_Financial report._ (n.d.).Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
-_How to make sure your volunteer program is sustainable._ (n.d.). Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Libraries in Asia._ (n.d.). Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Message from a representative._ (n.d.). Retrieved October 3, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Mid-term goals._ (n.d.). Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Our history._ (n.d.). Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Our mission._ (n.d.). Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html 
-_Sustainability is a goal._ (2014, March 24). Retrieved from http://fakewebsiteaddress.com/asdf.html
+_Cambodia's orphans._ (2011, March 24). Website Name in Title Case. http://fakewebsiteaddress.com/asdf.html
+_Financial report._ (n.d.). Website Name in Title Case. Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
+_How to make sure your volunteer program is sustainable._ (n.d.). Website Name in Title Case. Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Libraries in Asia._ (n.d.). Website Name in Title Case. Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Message from a representative._ (n.d.). Website Name in Title Case. Retrieved October 3, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Mid-term goals._ (n.d.). Website Name in Title Case. Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Our history._ (n.d.). Website Name in Title Case. Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Our mission._ (n.d.). Website Name in Title Case. Retrieved October 5, 2017, from http://fakewebsiteaddress.com/asdf.html 
+_Sustainability is a goal._ (2014, March 24). Website Name in Title Case. Retrieved from http://fakewebsiteaddress.com/asdf.html
 Suzuki, M. (2016, April 3). Why copy-pasting references without reading them is a bad idea. _Musasabi Daily._ Retrieved from http://fakewebsiteaddress.com/asdf.html
 Takahashi, R. (2015). _Just a reminder of how to cite a book._ Tokyo: Kodansha. 
-_Tourism-orphanages._ (2011, March 24). Retrieved from http://fakewebsiteaddress.com/asdf.html
-_Transparent about spending._ (2014, March 24). Retrieved from http://fakewebsiteaddress.com/asdf.html
-_Voice of children._ (n.d.). Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
-_Volunteer tourism:  A global analysis._  (2008, January). Retrieved July 7, 2014, from http://fakewebsiteaddress.com/asdf.html
-_What is sustainable volunteering?_ (n.d.). Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
-_What is Musasabi?_ (n.d.). Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Tourism-orphanages._ (2011, March 24). Website Name in Title Case. Retrieved from http://fakewebsiteaddress.com/asdf.html
+_Transparent about spending._ (2014, March 24). Website Name in Title Case. Retrieved from http://fakewebsiteaddress.com/asdf.html
+_Voice of children._ (n.d.). Website Name in Title Case. Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
+_Volunteer tourism:  A global analysis._  (2008, January). Website Name in Title Case. Retrieved July 7, 2014, from http://fakewebsiteaddress.com/asdf.html
+_What is sustainable volunteering?_ (n.d.). Website Name in Title Case. Retrieved October 2, 2017, from http://fakewebsiteaddress.com/asdf.html
+_What is Musasabi?_ (n.d.). Website Name in Title Case. Retrieved October 6, 2017, from http://fakewebsiteaddress.com/asdf.html
 </ref>
+
+
+
+
+

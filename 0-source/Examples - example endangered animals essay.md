@@ -17,17 +17,17 @@ See [[Projects - write an essay about endangered animals]]
  
 <ref>
 __References__
-<em>Basic facts about narwhals.</em> (n.d.). Retrieved October 12, 2014, from http://www.defenders.org/narwhal/basic-facts
 Adetail, D. (2016). Do not copy paste. <em>Journal of Plagiarism Studies, 6</em>(1), 322-345.
-<em>History of the narwhal.</em> (n.d.). Retrieved November 3, 2014, from http://www.narwhaltusks.com/history-of-the-narwhal.html
-International narwhal tusk smuggling ring busted. (2014, February 15). <em>IN Times.</em>Retrieved from http://www.ibtimes.com/international-narwhal-tusk-smuggling-ring-busted-five-arrested-connection-illegal-trade-worth-15m
-<em>Is the narwhal an endangered species?</em> (n.d.). Retrieved September 29, 2014, from http://classroom.synonym.com/narwhal-endangered-species-6257.html
-<em>Life at the edge - belugas and narwhals.</em> (n.d.). Retrieved October 18, 2014, from http://waterproof-expeditions.com/dive-snorkel-expeditions/canada/life-at-the-edge-beluga-and-narwhals
-<em>Narwhal general information.</em> (n.d.). Retrieved September 29, 2014, from http://www.narwhal-whales.com/
-<em>Narwhal.</em> (n.d. a). Retrieved September 29, 2014, from http://animals.nationalgeographic.com /animals/mammals/narwhal/
-<em>Narwhal.</em> (n.d. b). Retrieved September 29, 2014, from https://www.worldwildlife.org /species /narwhal
-Narwhals threatened by climate change. (2013, March 4). <em>The Crimson. </em>Retrieved from http://www.thecrimson.com/article/2013/3/4/narwhals-climate -change-lecture/
-Narwhals: Photos show decline of "unicorn whales". (2004, April 13). <em>National Geographic.</em> Retrieved from http://news.nationalgeographic.com/news/2004/04/0413_040413_narwhalwhales.html
+<em>Basic facts about narwhals.</em> (n.d.). Defenders. Retrieved October 12, 2014, from http://www.defenders.org/narwhal/basic-facts
+<em>History of the narwhal.</em> (n.d.). Narwhal Tusks. Retrieved November 3, 2014, from http://www.narwhaltusks.com/history-of-the-narwhal.html
+International narwhal tusk smuggling ring busted. (2014, February 15). <em>IN Times.</em> http://www.ibtimes.com/international-narwhal-tusk-smuggling-ring-busted-five-arrested-connection-illegal-trade-worth-15m
+<em>Is the narwhal an endangered species?</em> (n.d.). Synonym. Retrieved September 29, 2014, from http://classroom.synonym.com/narwhal-endangered-species-6257.html
+<em>Life at the edge - belugas and narwhals.</em> (n.d.). Waterproof Expeditions. Retrieved October 18, 2014, from http://waterproof-expeditions.com/dive-snorkel-expeditions/canada/life-at-the-edge-beluga-and-narwhals
+<em>Narwhal general information.</em> (n.d.). Narwhal Whales. Retrieved September 29, 2014, from http://www.narwhal-whales.com/
+<em>Narwhal.</em> (n.d. a). National Geographic. Retrieved September 29, 2014, from http://animals.nationalgeographic.com/animals/mammals/narwhal/
+<em>Narwhal.</em> (n.d. b). WWF. Retrieved September 29, 2014, from https://www.worldwildlife.org/species/narwhal
+Narwhals threatened by climate change. (2013, March 4). <em>The Crimson. </em>http://www.thecrimson.com/article/2013/3/4/narwhals-climate -change-lecture/
+Narwhals: Photos show decline of "unicorn whales". (2004, April 13). <em>National Geographic.</em> http://news.nationalgeographic.com/news/2004/04/0413_040413_narwhalwhales.html
 
 
 

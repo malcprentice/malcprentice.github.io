@@ -7,6 +7,7 @@ The examples and templates marked "ONE THING" or talking about choosing a good v
 
 # Example essay
 >Nowadays, many business people and many university students use online storage services (Kondo, 2014, April 20). The purpose of these is to back up data, to send large amounts of data, and share data with others (Kondo, 2014, April 20). If users can connect with Internet, they do not need to carry USB or portable hard disc. Knowing more about online storage services should help to choose better service. This essay compares the best online storage service for university students - Dropbox, Google Drive, and Onedrive.
+
 <strong>Criteria</strong>
 >This section outlines three criteria students should look for when choosing a good online storage services: storage size, tools, and security. The first criterion is storage size. The storage is like a warehouse, which keeps or saves data and files ("App Bank," 2014, April 25). The larger capacity of storage is, the more users can save or upload data and files. The amount of storage needed depends on the kind of files, for example video and picture files have much larger sizes than document files, such as Word or Excel ("App Bank," 2014, April 25). Actually, users can get more storage by paying money for the corporation providing online storage services("App Bank," 2014, April 25). However, in this report, this aspect is not considered because it is difficult to compare charging money system. Therefore, the default size of storage is made a comparison.
 
@@ -30,12 +31,19 @@ Word Count: 996
 
 ## References
 <ref>
-Kondo, K. (2014, April 20). <em>How difference between Google Drive and Dropbox.</em> Retrieved June 28, 2016, from http://news.mynavi.jp/articles/2014/04/20/026/002.html
-<em>Drastic comparison between online storage Services.</em> (2016, February 16). Retrieved from https://navi.dropbox.jp/online-storage-recommended/
-<em>Comparison Dropbox, Google Drive, and Onedrive.</em> (2014, April 25). Retrieved from http://www.appbank.net/2014/04/25/iphone-news/801758.php
-<em>Capacity, advantage convenience, and security are estimated of 5 stages!</em> (2015, October 22) Retrieved from http://boxil.jp/magazine/150925_cloud_storage/
-<em>The feature, reputation, and evaluation of OneDrive.</em> (n.d.). Retrieved from http://security-hikaku.com/index.php?OneDrive
-<em>Dropbox is wonderful.</em> (n.d.). Retrieved from http://www.getdropbox.jp/post-4.html
-Niwa, K. (2013, June 20). <em>Why is it Google Drive? 12 charm that you should know.</em>  Retrieved July 19, 2016, from http://www.master-apps.jp/column/drive_0620.html
-Shimada, H. (2016, January 15). <em>Introduction of Onedrive for beginners.</em> Retrieved July 19, 2016, from http://www.atmarkit.co.jp/ait/articles/1304/24/news105.html
+Kondo, K. (2014, April 20). <em>How difference between Google Drive and Dropbox.</em> MyNavi. http://news.mynavi.jp/articles/2014/04/20/026/002.html
+<em>Drastic comparison between online storage Services.</em> (2016, February 16). Dropbox. https://navi.dropbox.jp/online-storage-recommended/
+<em>Comparison Dropbox, Google Drive, and Onedrive.</em> (2014, April 25). Appbank. http://www.appbank.net/2014/04/25/iphone-news/801758.php
+Capacity, advantage convenience, and security are estimated of 5 stages! (2015, October 22). <em>Boxil Magazine.</em> http://boxil.jp/magazine/150925_cloud_storage/
+<em>The feature, reputation, and evaluation of OneDrive.</em> (n.d.). Hikaku Security. Retrieved July 19, 2016, from http://security-hikaku.com/index.php?OneDrive
+<em>Dropbox is wonderful.</em> (n.d.). Dropbox. Retrieved from http://www.getdropbox.jp/post-4.html
+Niwa, K. (2013, June 20). <em>Why is it Google Drive? 12 charm that you should know. Master Apps.</em> http://www.master-apps.jp/column/drive_0620.html
+Shimada, H. (2016, January 15). <em>Introduction of Onedrive for beginners.</em> AtMarkit. http://www.atmarkit.co.jp/ait/articles/1304/24/news105.html
 </ref>
+
+
+
+
+
+
+

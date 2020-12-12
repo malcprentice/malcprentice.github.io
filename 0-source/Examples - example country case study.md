@@ -26,22 +26,26 @@ __Conclusion__
 
 <ref>
 __References__
-<em>Agency’s mandate and functions.</em> (n.d.). Retrieved November 23, 2015, from http://www.philhealth.gov.ph/about_us/mandate.html
-AHRQ. (2014, October). <em>National healthcare quality report, 2011.</em> Retrieved from http://www.ahrq.gov/research/findings/nhqrdr/nhqr11/chap9.html
-Domingo, A. (2013, September 26). <em>Medical governance and health policy in the Philippines.</em> Retrieved from http://www.slideshare.net/aedomingo/medical-governance-and-health-policy-in-the-philippines
-<em>Filipin no iryoujijyou.</em> [Medical situation in the Philippines]. (2012). Retrieved from http://www.hcpg.jp/medicalinfo/south-asia/868.html
+<em>Agency’s mandate and functions.</em> (n.d.). Phillipines Health. Retrieved November 23, 2015, from http://www.philhealth.gov.ph/about_us/mandate.html
+AHRQ. (2014, October). <em>National healthcare quality report, 2011.</em> AHRQ. http://www.ahrq.gov/research/findings/nhqrdr/nhqr11/chap9.html
+Case study in the Philippines]. <em>Ferris University International Exchange Department Journal of Glocal, 11,</em> 1-14. 
+<em>The cost of medical care in the Philippines.</em> (n.d.). Money Monster. Retrieved October 31, 2015, from http://www.moneymonster.ph/news-and-tips/cost-medical-care-philippines/
+Domingo, A. (2013, September 26). <em>Medical governance and health policy in the Philippines.</em> http://www.slideshare.net/aedomingo/medical-governance-and-health-policy-in-the-philippines
+<em>Filipin no iryoujijyou.</em> [Medical situation in the Philippines]. (2012). HCPG. http://www.hcpg.jp/medicalinfo/south-asia/868.html
 Gold, M. (1998). Beyond coverage and supply: measuring access to healthcare in today's market. <em>Health Services Research, 33</em>(3), 625-652.
 GOVPH. (n.d.). <em>About the Philippines.</em> Retrieved November 23, 2015, from http://www.gov.ph/
-<em>Health and population.</em> (n.d.). Retrieved November 16, 2015, from http://www.investphilippines.info/arangkada/climate/health-and-population/
-Ishida, S., & Nakajima, S. (1985, March). <em>Sekai no rihabilite-shon.</em> [World rehabilitation]. Retrieved from http://www.dinf.ne.jp/doc/japanese/prdl/jsrd/rehab/r048/r048_025.
+<em>Health.</em> (n.d.).Retrieved November 4, 2015, from http://www.who.int/trade/glossary/story046/en/
+<em>Health and population.</em> (n.d.). Invest Philippines. Retrieved November 16, 2015, from http://www.investphilippines.info/arangkada/climate/health-and-population/
+Ishida, S., & Nakajima, S. (1985, March). <em>Sekai no rihabilite-shon.</em> [World rehabilitation]. DINF. http://www.dinf.ne.jp/doc/japanese/prdl/jsrd/rehab/r048/r048_025.
 html# D025
-<em>Key Facts: Poverty and poor health.</em> (n.d.). Retrieved October 29, 2015, from http://www.healthpovertyaction.org/info-and-resources/the-cycle-of-poverty-and-poor-health/key-facts/
-Ministry of Foreign Affairs of Japan. (2015, April 1). <em>Zaigaikoukan imukan jyouhou.　</em>[Information about medical officer]. Retrieved from http://www.mofa.go.jp/mofaj/toko/
+<em>Key Facts: Poverty and poor health.</em> (n.d.). Health Poverty Action. Retrieved October 29, 2015, from http://www.healthpovertyaction.org/info-and-resources/the-cycle-of-poverty-and-poor-health/key-facts/
+Ministry of Foreign Affairs of Japan. (2015, April 1). <em>Zaigaikoukan imukan jyouhou.　</em>[Information about medical officer]. Ministry of Foreign Affairs, Japan. http://www.mofa.go.jp/mofaj/toko/
 medi/asia/phili.html
-Philippine Statistics Authority. (2013, December 26). <em>Number of families, total and average annual family income and expenditure by region: 2012.</em> Retrieved from https://psa.gov.
-ph/content/2012-fies-statistical-tables
-Teshigawara, K. (2012). Chiiki no iryouakusesu to gurobarize-syon: firipin no nousontiiki wo jirei tosite. [Access to medical care and globalization: Case study in the Philippines]. <em>Ferris University International Exchange Department Journal of Glocal, 11,</em> 1-14. 
-<em>The cost of medical care in the Philippines.</em> (n.d.). Retrieved October 31, 2015, from http://www.moneymonster.ph/news-and-tips/cost-medical-care-philippines/
-WHO. (n.d.). <em>Health.</em> Retrieved November 4, 2015, from http://www.who.int/trade/glossary/story046/en/
-WHO. (2014). <em>Noncommunicable Diseases Country Profiles.</em> Retrieved from http://www.who.int/nmh/countries/phl_en.pdf
-</small></ref>
+Philippine Statistics Authority. (2013, December 26). <em>Number of families, total and average annual family income and expenditure by region: 2012.</em> Phillipines Government. https://psa.gov.ph/content/2012-fies-statistical-tables
+Teshigawara, K. (2012). Chiiki no iryouakusesu to gurobarize-syon: firipin no nousontiiki wo jirei tosite. [Access to medical care and globalization: <em>Noncommunicable Diseases Country Profiles.</em> (2014). WHO. http://www.who.int/nmh/countries/phl_en.pdf
+</ref>
+
+
+
+
+

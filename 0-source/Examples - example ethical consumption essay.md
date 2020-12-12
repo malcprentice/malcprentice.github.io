@@ -14,20 +14,23 @@ See [[Projects - write an essay about ethical consumption]]
  
 <ref>
 __References__
-<em>American Shea Butter Institute.</em> (2013). Retrieved from http://www.sheainstitute.com/asbi-library/21reasons/
-<em>Burkina Faso no takaramono to kadai</em> [Burkina Faso treasures and challenges]. (n.d.). Retrieved November 3, 2014, from http://www.a-danse.jp/burkinafaso/subject.html
-<em>Case 2: Ghana.</em> (n.d.). Retrieved November 19, 2014, from http://www.jica.go.jp/activities/schemes/priv_partner/other/csr_02.html
-<em>Charity – shea dream. </em>(2012). Retrieved from http://sheadream.com/?page_id=43
-<em>Ekomamu zissen</em> [Ekomamu practice]. (2014). Retrieved from http://business.nikkeibp.co.jp/ecomom/column/es/es_016.html
-<em>Fair trade toha?</em> [What is Fair Trade?]. (2007). Retrieved from https://www.wakachiai.com/shop/fairtrade.html
-<em>Mother Earth Shea butter.</em> (2006). Retrieved from http://www.mother-earth-site.com/product.html
-<em>Nigeria Ghana no shea butter tyousahoukokusyo</em> [Nigeria-Ghana shea butter investigation report]. (2005). Retrieved from http://www.jetro.go.jp/jfile/report/05000912/05000912_002_BUP_0.pdf
-<em>Olive</em> [olive]. (n.d.). Retrieved November 19, 2014, from http://www.fruitia.net/zuk/olive.html
-<em>Olive oil no miryoku</em> [The appeal of olive oil]. (2014). Retrieved from http://gurume-gurume.com/olive/
-<em>Olive no sodatekata</em> [How to grow olives]. (n.d). Retrieved November 3, 2014, from http://yasashi.info/o_00008.htm
-<em>Shea Butter.</em> (n.d). Retrieved November 3, 2014, from https://www.mountainroseherbs.com/products/shea-butter/profile
-<em>Shea Butter History.</em> (n.d). Retrieved November 3, 2014, from http://www.agbangakarite.com/shea_history.php
-<em>Shea butter ni tsuite</em> [About Shea butter]. (n.d.). Retrieved November 3, 2014, from http://www.africakobo.com/about/index.html
-<em>Shiabata no shuseibun to kouka</em> [Shea butter’s principal component and the effect]. (2014). Retrieved from http://sheabutter-sora.com/sheabutter/about-sheabutter/
-<em>Tnpinn inteliraimi</em> [Single item ineliraymi]. (2013). Retrieved from http://inti-raymi.net/worldbazaar/user_data/faithinyou.php?category_id=32
+<em>American Shea Butter Institute.</em> (2013). Shea Institute. http://www.sheainstitute.com/asbi-library/21reasons/
+<em>Burkina Faso no takaramono to kadai</em> [Burkina Faso treasures and challenges]. (n.d.). A Danse. Retrieved November 3, 2014, from http://www.a-danse.jp/burkinafaso/subject.html
+<em>Case 2: Ghana.</em> (n.d.). JICA. Retrieved November 19, 2014, from http://www.jica.go.jp/activities/schemes/priv_partner/other/csr_02.html
+<em>Charity – shea dream. </em>(2012). Shea Dream. http://sheadream.com/?page_id=43
+Ekomamu zissen[Ekomamu practice]. (2014). <em>Nikkei Business</em> http://business.nikkeibp.co.jp/ecomom/column/es/es_016.html
+<em>Fair trade toha?</em> [What is Fair Trade?]. (2007). Wakachiai. https://www.wakachiai.com/shop/fairtrade.html
+<em>Mother Earth Shea butter.</em> (2006). Mother Earth. http://www.mother-earth-site.com/product.html
+<em>Nigeria Ghana no shea butter tyousahoukokusyo</em> [Nigeria-Ghana shea butter investigation report]. (2005). JETRO. http://www.jetro.go.jp/jfile/report/05000912/05000912_002_BUP_0.pdf
+<em>Olive</em> [olive]. (n.d.). Fruitia. Retrieved November 19, 2014, from http://www.fruitia.net/zuk/olive.html
+<em>Olive oil no miryoku</em> [The appeal of olive oil]. (2014). GurumeGurume. http://gurume-gurume.com/olive/
+<em>Olive no sodatekata</em> [How to grow olives]. (n.d). Yasashi Info. Retrieved November 3, 2014, from http://yasashi.info/o_00008.htm
+<em>Shea Butter.</em> (n.d). Mountain Rose Herbs. Retrieved November 3, 2014, from https://www.mountainroseherbs.com/products/shea-butter/profile
+<em>Shea Butter History.</em> (n.d). Agbang Kurite. Retrieved November 3, 2014, from http://www.agbangakarite.com/shea_history.php
+<em>Shea butter ni tsuite</em> [About Shea butter]. (n.d.). Africa Kobo. Retrieved November 3, 2014, from http://www.africakobo.com/about/index.html
+<em>Shiabata no shuseibun to kouka</em> [Shea butter’s principal component and the effect]. (2014). Shea Butter Sora. http://sheabutter-sora.com/sheabutter/about-sheabutter/
+<em>Tnpinn inteliraimi</em> [Single item ineliraymi]. (2013). Intiraymi. http://inti-raymi.net/worldbazaar/user_data/faithinyou.php?category_id=32
 </ref>
+
+
+
