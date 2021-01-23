@@ -83,10 +83,14 @@ If you do these things, you aren't participating:
 
 # Homework 
 * Read everything above
-* Make a plan that gets you 10 points
-    * e.g.  "15 extra quickwrites (5 points), plus 1 for EF, 1 for  WC, 1 for  GV, 1 for  ALC, and 1 for  for the official TOEIC test"
-    * e.g.  "30 extra quickwrites" (30 allowed in 2020, but usually max 15)
+* Make a plan that gets you 10 points e.g.  "15 extra quickwrites (5 points), plus 1 for EF, 1 for  WC, 1 for  GV, 2 ALC points (1 full test)"
 * You can change your plan later 
-    * e.g. "I hate ALC - I'm going to do more EF instead"
+    * e.g. "I hated ALC - I'm going to do more EF instead"
     * e.g. "I was absent (-1), so I will do 18 quickwrites instead of 15 (+1)"
-* Submit your "Participation Plan Template" for checking, then again at end of semester for grading
+
+# Assessment
+* Submit your "Participation Plan Template" now for checking
+* I will check progress mid term (week7-8) on required items (minimum QW ), and if you are behind, give minus points. 
+* I will check progress at end of term, give points for extras and give minus points for missing required items. 
+
+
