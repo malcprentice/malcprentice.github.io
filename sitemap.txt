@@ -3,15 +3,6 @@ http://www.alba-english.org/Admin - Disclaimer.html
 http://www.alba-english.org/Admin - about.html
 http://www.alba-english.org/Admin - contact.html
 http://www.alba-english.org/Admin - external links.html
-http://www.alba-english.org/Index - Arrangement.html
-http://www.alba-english.org/Index - Examples.html
-http://www.alba-english.org/Index - Invention.html
-http://www.alba-english.org/Index - Projects.html
-http://www.alba-english.org/Index - Resources.html
-http://www.alba-english.org/Index - Schedules.html
-http://www.alba-english.org/Index - Site Map.html
-http://www.alba-english.org/Index - Study Skills.html
-http://www.alba-english.org/Index - Style.html
 http://www.alba-english.org/README.html
 http://www.alba-english.org/Resources - can do.html
 http://www.alba-english.org/index.html
