@@ -1,4 +1,4 @@
-This website is a collection of worksheets and resources used by students/trainees. 
+This website WAS a collection of worksheets and resources used by students/trainees. THey've all moved to a PDF version. 
 
 # Privacy 
 * There is no data retained (unless you're  manually submitting homework through the linked Google Classroom, Forms, etc). 
