@@ -1,1 +1,1 @@
-See the [[Admin - about]] page for details. 
+See the [[Admin - about]](About) page for details. 
