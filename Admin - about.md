@@ -5,6 +5,6 @@ There is no data retained (unless you're  manually submitting homework through t
 There is no tracking (i.e. no Google Analytics, etc)  
 
 Just in case, though:  
-* Read the boilerplate <a href="Admin - Disclaimer.html"> Disclaimer</a> 
+* Read the boilerplate [[Admin - Disclaimer]] Disclaimer 
 * That said, this site is mostly about writing essays - if you manage to write an essay bad enough to need a disclaimer, please send me a copy!  
 
