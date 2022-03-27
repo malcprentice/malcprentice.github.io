@@ -1,5 +1,6 @@
 theme: jekyll-theme-tactile
-title: Alba English
-author: MP
+title: [Alba English[
+show_downloads: [false]
+description: [Materials for class]
 navbar-links:
   About Me: "Admin - about"
