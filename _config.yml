@@ -1,6 +1,4 @@
 theme: jekyll-theme-tactile
-title: [Alba English[
-show_downloads: [false]
+title: [Alba English]
 description: [Materials for class]
-navbar-links:
-  About Me: "Admin - about"
+show_downloads: [false]
