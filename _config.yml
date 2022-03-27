@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
 title: Alba English
+author: MP
+navbar-links:
+  About Me: "Admin - about"
