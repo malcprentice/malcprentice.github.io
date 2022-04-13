@@ -51,4 +51,16 @@ Regards,
 YOUR NAME (student number)
 
 # Orientation Task 4 - Learn to ask good questions
-* [Link](Style - Ask Good Questions)
+
+
+
+# Orientation Task 5 - Learn to make Small Talk
+* [Small Talk](https://docs.google.com/document/d/1RWl0apMzOZQDMsv6HyAvT2G6M0ygK1klwQEYNl3bIKU/edit?usp=sharing)
+* [Ask GOod Questions](Style - Ask Good Questions)
+* [Communication Skills]([Instructions on Drive](https://docs.google.com/document/d/1uy8RdDHhpYnIO2SPeGp7W2pAbZACxnV8y22M3Dwr-lE/edit?usp=sharing)
+
+# Orientation Task 6 - Do a Quickwrite
+* (Only some classes!
+* [instructions on Drive] (https://docs.google.com/document/d/1ZILTkcv8nOrYRm11js5-KLiJZD0D0kmDnM8LiCH-MY4/edit?usp=sharing)
+
+
