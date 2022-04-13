@@ -1,8 +1,6 @@
-Communication Skills
+# Communication Skills
 
 ## "Active Listening"(相槌)
-Show you are listening! 
-
 * Just Listening (from the DSC book)
     * I see 
     * Uh-huh  
@@ -10,32 +8,24 @@ Show you are listening!
     * Right
     * Sure 
     * Really   
-* Good thing   
-    * Good
-    * Great
-    * Good stuff
-    * That sounds good
-* Surprised 
+    * Mmhmm
+* Other meanings 
+    * Great!
     * What??
     * Wow!!
     * That's amazing!!
     * You're kidding?!             
-* Bad thing
     * Oh no!
     * Ugh!
     * Oops!
-    * Yikes!
-* Other
-    * MmHmm
     * Huh?
-    * Meh.
-         
-## Tips
-* Happy voice! Or it sounds like sarcasm (皮肉)
-* You can also just repeat:
+* You can also just repeat
     * A: I went to the park
     * B: The park? 
     * A: Yes, and....
+         
+Show you are listening! Careful with tone. Happy voice! Tone changes meaning, and low-boring voice meaning is sarcasm (皮肉)
+
 
 # Listener - if you can’t understand
 ## ("Asking for repetition") 
