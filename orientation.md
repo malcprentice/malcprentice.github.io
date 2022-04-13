@@ -13,53 +13,16 @@ Orientation
    * Maybe [get the phone app](https://support.google.com/edu/classroom/answer/6118412?hl=ja)
 
 # Orientation Task 3: Learn to ask for help
-## Ask for help in class 
-* Excuse me? 
-* Once more please.  
-* What does "dog" mean? 
-* How can I say "犬"?
-* I don't know. 
-* I don't understand. 
-* I can't find.... 
-* Can you give an example? 
-
-
-## Ask for help in Office Hours
-* Want to book an office hour? 
-* Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login) then email for an appointment
-
-
-## Ask for help by email. 
-Change the **bold bits.**
+* [Ask for Help](Ask for Help)
 
 
 
-SUBJECT: CLASS - TASK CODE (e.g. "FK139 AdvEng - Project 2")
-
-Dear Malc, 
-
-
-I hope you can help. I have a question about **the Advanced English assignment Project B. Can you explain X again / Can you tell me if this is correct / Can you send me X / Can I book an office hour Wednesday at 12:35pm?**
-
-
-Thanks in advance.
-
-
-Regards, 
-
-
-YOUR NAME (student number)
-
-# Orientation Task 4 - Learn to ask good questions
-
-
-
-# Orientation Task 5 - Learn to make Small Talk
+# Orientation Task 4 - Learn to make Small Talk
 * [Small Talk](https://docs.google.com/document/d/1RWl0apMzOZQDMsv6HyAvT2G6M0ygK1klwQEYNl3bIKU/edit?usp=sharing)
-* [Ask GOod Questions](Style - Ask Good Questions)
+* [Ask Good Questions](Style - Ask Good Questions)
 * [Communication Skills]([Instructions on Drive](https://docs.google.com/document/d/1uy8RdDHhpYnIO2SPeGp7W2pAbZACxnV8y22M3Dwr-lE/edit?usp=sharing)
 
-# Orientation Task 6 - Do a Quickwrite
+# Orientation Task 5 - Do a Quickwrite
 * (Only some classes!
 * [instructions on Drive] (https://docs.google.com/document/d/1ZILTkcv8nOrYRm11js5-KLiJZD0D0kmDnM8LiCH-MY4/edit?usp=sharing)
 
