@@ -2,30 +2,37 @@
 
 Here are some patterns
 
-Use the patterns but change the content. 
-* e.g. When did you last **go shopping**? ---> When did you last **see a movie**?
-* Some content ideas for small talk: F
+* Use the patterns but change the content. 
+   * e.g. When did you last **go shopping**? ---> When did you last **see a movie**?
+   * * Do you have any **brothers and sisters?** ---> Do you have any **pets**
+* Some content ideas for small talk: 
     * Friends, Food and drink, Music, 
     * Pets, Shopping, Travel, TV and movies, 
     * Sports, Games, Gadgets, 
     * Work, Books, School
  
-# Future (Plans)
+# Future 
+(Plans, Predictions)
+
 * What are you going to eat tonight?
 * What game will you buy next?
 * What movie do you want to watch next
 
-# Present (Habits, daily life, personal questions)
+# Present 
+(Habits, daily life, personal questions)
+
 * What do you usually have for breakfast?
 * Do you often go to karaoke?
-* Do you have any pets/brothers and sisters?
+* Do you have any brothers and sisters?
 * How often do you watch music videos on YouTube?
 * How do you get to school?
 * Do you still see your HS friends?
 * How do you find new music? 
 * Can you play an instrument?
 
-# Past (Experiences)
+# Past, Present Perfect
+(Experiences)
+
 * What was your favourite TV show (when you were small)?
 * What’s the first CD you ever bought?
 * What’s the last movie you saw?
@@ -33,17 +40,13 @@ Use the patterns but change the content.
 * When did you last go shopping?
 * Where did you buy your shirt?
 * Where have you been in Japan?
-
-# Present Perfect (experiences)
 * Have you ever been to Okinawa?
 * Have you ever bought stuff at a flea market?
 
-# Recommendations
+# Recommendations, Likes
 * What’s a good place to buy English books?
 * Where do you think I should do a study abroad?
 * Which do you think is best – hotel or homestay?
-
-# Likes and dislikes
 * Do you like karaoke?
 * Do you prefer the country or the city?
 * Who’s your favourite Japanese artist?
@@ -60,7 +63,8 @@ Use the patterns but change the content.
 * Where would you like to go on holiday?
 
 # Common mistakes:  
-## Put **"category"** in right place 
+Put **"category"** in right place 
+
 * What **countries** have you been to?
 * What **kind of movie** do you watch?
 * Which **country** would you like to work in?
