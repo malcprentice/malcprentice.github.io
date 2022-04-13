@@ -19,7 +19,7 @@ Orientation
 
 
 # Task 4 - Learn to make Small Talk
-* [Small Talk](https://docs.google.com/document/d/1RWl0apMzOZQDMsv6HyAvT2G6M0ygK1klwQEYNl3bIKU/edit?usp=sharing)
+* [Small Talk](Small Talk)
 * [Ask Good Questions](Style - Ask Good Questions)
 * [Communication Skills](Communication Skills)
 
