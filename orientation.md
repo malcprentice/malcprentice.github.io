@@ -20,7 +20,7 @@ Orientation
 # Orientation Task 4 - Learn to make Small Talk
 * [Small Talk](https://docs.google.com/document/d/1RWl0apMzOZQDMsv6HyAvT2G6M0ygK1klwQEYNl3bIKU/edit?usp=sharing)
 * [Ask Good Questions](Style - Ask Good Questions)
-* [Communication Skills]([Instructions on Drive](https://docs.google.com/document/d/1uy8RdDHhpYnIO2SPeGp7W2pAbZACxnV8y22M3Dwr-lE/edit?usp=sharing)
+* [Communication Skills](Communication Skills)
 
 # Orientation Task 5 - Do a Quickwrite
 * (Only some classes!
