@@ -4,7 +4,9 @@ Orientation
 * Find your schedule (Use University login or Drive App)
     * [Advanced English](https://docs.google.com/document/d/10moADXSEd6NKBea0USmPEuw3r7wHuvyITKV6rsARb8U/edit?usp=sharing)
     * [English Communication 2](https://docs.google.com/document/d/1tSzk3ghyOK3ilXh7fd_fNtNRM-GZ7e_qtWh9_qjCDmo/edit?usp=sharing)
-* What is your homework for class 4? 
+    * [Discussion](https://docs.google.com/document/d/1JIbOQeynJY_pzw05XWhMG8orwUswx5WVddW3VfKWqME/edit?usp=sharing)
+    * [R&W](https://docs.google.com/document/d/1EPFvKcq3L5VTQ0KX8RT2KEKOvsh8j922auzHsFhxTtg/edit?usp=sharing)
+* What is the homework for next class? 
 * If you can't find it, ask for help! 
 
 # Task 2: Check you can use Google Classroom
@@ -19,12 +21,12 @@ Orientation
 
 
 # Task 4 - Learn to make Small Talk
-* [Small Talk](Small Talk)
-* [Ask Good Questions](Style - Ask Good Questions)
-* [Communication Skills](Communication Skills)
+* [Small Talk](Orientation-SmallTalk)
+* [Ask Good Questions](Orientation-AskGoodQuestions)
+* [Communication Skills](Orientation-CommunicationSkills)
 
 # Task 5 - Do a Quickwrite
-* (Only some classes!
+* (Advanced English, English Communication and R&W only). Not Discussion.
 * [Instructions on Drive](https://docs.google.com/document/d/1ZILTkcv8nOrYRm11js5-KLiJZD0D0kmDnM8LiCH-MY4/edit?usp=sharing)
 
 
