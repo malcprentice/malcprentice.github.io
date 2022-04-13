@@ -9,17 +9,16 @@
 * Can you give an example? 
 
 
-# Ask for help in Office Hours
-* Want to book an office hour? 
-* Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login) then email for an appointment
+# Need help in Office Hours?
+* Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login)  
+* email for an appointment
 
 
 # Ask for help by email. 
 Change the **bold bits.**
 
 
-
-SUBJECT: CLASS - TASK CODE (e.g. "FK139 AdvEng - Project 2")
+SUBJECT: **CLASS - TASK CODE (e.g. "FK139 AdvEng - Project 2")**
 
 Dear Malc, 
 
