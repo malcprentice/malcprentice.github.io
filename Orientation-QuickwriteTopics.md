@@ -29,45 +29,45 @@
 * A Sport/Hobby I want to try
 * My Favourite Teacher in (Junior) High School
 * My School Trips in JHS/HS
-* The Best Study-abroad Plan :thinking:
+* The Best Study-abroad Plan <--
 * The Best Food to Cook. * 
-* The Best Thing to do With 1,000,000 yen :thinking:
-* The Best Present I Ever Received :thinking:
-* What I Want to do After University :thinking:
-* The Best and Worst Thing about University Life :thinking:
-* A Celebrity I Would Like to Meet  :thinking:
-* My Most Important Possession  :thinking:
-* The Country I Would Like to Go to Most :thinking:
-* The Thing I Want to Buy Most :thinking:
-* The Place I Want to Visit Most in Japan :thinking:
-* If I Could Live Anywhere in the World, I Would Live in CITY NAME :thinking:
-* If I Could Change One Thing About (the university / Tokyo / my job / my house) :thinking:
-* If I Could Make One Thing Illegal :thinking:
-* Good and Bad Points of SNS :thinking:
-* If I Could Add any Feature to my Smartphone, I Would Add :thinking:
-* Do SNS like Facebook or Line damage our relationships with people? :thinking:
-* Should university students be required to do sports? :thinking:
-* Should university students have part-time jobs while they are studying? :thinking:
-* Should all University students should spend a year abroad? :thinking:
-* "Success is about hard work, not luck". Agree or disagree? :thinking:
-* Do you prefer the mountains or the sea? :thinking:
-* Would you prefer to work for a Japanese company or an overseas one? :thinking:
-* Would you prefer to work for yourself or work for a company? :thinking:
-* What are the qualities of a good friend?  :thinking:
-* What are the qualities of a good co-worker (e.g. for your part time job)? :thinking:
-* What are the qualities of a good place to live?  :thinking:
-* What are the qualities of a good boss? :thinking:
-* What are the qualities of a good teacher. :thinking:
-* What is most important when deciding choosing your first apartment (e.g. location, cost, shops). :thinking:
-* Your city is going to build a statue of a famous person. Who should it be? :thinking:
-* A friend is visiting your hometown and only has two days. What should they do? :thinking:
-* A tourist is visiting your country, and has only one week. What should they do? :thinking:
-* What are the good and bad points of online shopping? :thinking:
+* The Best Thing to do With 1,000,000 yen <--
+* The Best Present I Ever Received <--
+* What I Want to do After University <--
+* The Best and Worst Thing about University Life <--
+* A Celebrity I Would Like to Meet  <--
+* My Most Important Possession  <--
+* The Country I Would Like to Go to Most <--
+* The Thing I Want to Buy Most <--
+* The Place I Want to Visit Most in Japan <--
+* If I Could Live Anywhere in the World, I Would Live in CITY NAME <--
+* If I Could Change One Thing About (the university / Tokyo / my job / my house) <--
+* If I Could Make One Thing Illegal <--
+* Good and Bad Points of SNS <--
+* If I Could Add any Feature to my Smartphone, I Would Add <--
+* Do SNS like Facebook or Line damage our relationships with people? <--
+* Should university students be required to do sports? <--
+* Should university students have part-time jobs while they are studying? <--
+* Should all University students should spend a year abroad? <--
+* "Success is about hard work, not luck". Agree or disagree? <--
+* Do you prefer the mountains or the sea? <--
+* Would you prefer to work for a Japanese company or an overseas one? <--
+* Would you prefer to work for yourself or work for a company? <--
+* What are the qualities of a good friend?  <--
+* What are the qualities of a good co-worker (e.g. for your part time job)? <--
+* What are the qualities of a good place to live?  <--
+* What are the qualities of a good boss? <--
+* What are the qualities of a good teacher. <--
+* What is most important when deciding choosing your first apartment (e.g. location, cost, shops). <--
+* Your city is going to build a statue of a famous person. Who should it be? <--
+* A friend is visiting your hometown and only has two days. What should they do? <--
+* A tourist is visiting your country, and has only one week. What should they do? <--
+* What are the good and bad points of online shopping? <--
 
 
 # Opinion topics
 
-Topics marked ":thinking:" are also OK for "Opinion Quickwrite" (EngComm, Debate class)
+Topics marked "<--" are also OK for "Opinion Quickwrite" (EngComm, Debate class)
 
 * Start with "I think" + title in lower case
 * Optional: Give a SHORT description if it's something we don't know

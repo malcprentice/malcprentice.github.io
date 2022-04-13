@@ -10,12 +10,12 @@ It is important to be good at this, so we will start every class with practice.
 * Hiroko:     Not bad. Did you do anything at the weekend?
 * Emi:        Not really. How about you? 
 * Hiroko:     Not much. 
-* Emi:        Hey, MAIN TOPIC QUESTION :point_left:
-* Hiroko: :point_left:
+* Emi:        Hey, MAIN TOPIC QUESTION <--
+* Hiroko: <--
     * Answer. 
     * ADD DETAIL! 
     * Ask a new question
-* Emi: :point_left:
+* Emi: <--
     * Answer. 
     * ADD DETAIL!  
     * Ask a new question
@@ -23,7 +23,7 @@ It is important to be good at this, so we will start every class with practice.
 * Emi:        Mine too. See you later. Bye!
 * Hiroko:     Bye!
 
-(Skip the :point_left: part for "five second elevator" small talk)
+(Skip the <-- part for "five second elevator" small talk)
 
 # Make your own!
 A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change partners

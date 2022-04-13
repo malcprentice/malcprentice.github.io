@@ -26,32 +26,35 @@
          
 Show you are listening! Careful with tone. Happy voice! Tone changes meaning, and low-boring voice meaning is sarcasm (皮肉)
 
+## Listener - stop them if you don't understand
+* Excuse me.
+* Sorry
+* Can I just stop you there a second.
 
-# Listener - if you can’t understand
-## ("Asking for repetition") 
-* Excuse me? 
-* Once more please? 
+## Listener - "Once more please?"
 * Could you repeat that please?
 * Could you say that again?
-## ("Asking for Explanation")
-* Sorry, what does "WORD" mean?
-## ("Checking Understanding")
-* Sorry. I don’t understand
-* Sorry, I don't follow
-* Sorry, I didn't get that
-## ("Paraphrasing")
+* Can you explain X?
+* What does "WORD" mean?
+
+## Listener - Repeat to check ("Paraphrase")
 * Do you mean…
 * So, in other words,  
 * So are you saying (that)  
-* In other words,  
+* OK, so so you mean (that)
 
+## Listener - if that doesn't work, then:  
+* Sorry. I don’t understand
+* Sorry, I don't follow
+* Sorry, I didn't catch that
+* SOrry, I didn't quite get that. 
 
-# Speaker - if someone looks confused
-## Check if they are OK! 
+ 
+## Speaker - Check understanding 
 * Do you understand?
 * Do you follow?
 * Do you see what I mean?
-## Repeat yourself a new way ("Paraphrasing")
+## Speaker - Repeat yourself ("Paraphrase")
 * I mean..
 * What I mean is...
 * What I'm saying is
