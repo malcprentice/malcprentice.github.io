@@ -3,46 +3,48 @@ Communication Skills
 ## "Active Listening"(相槌)
 Show you are listening! 
 
-* Are you...
-* Listening (from the DSC book)
+* Just Listening (from the DSC book)
     * I see 
     * Uh-huh  
     * OK  
     * Right
     * Sure 
     * Really   
-    * MmHmm
-* Happy   
-    * Good!
-    * Great!
-    * Wow!
-    * That's amazing!
+* Good thing   
+    * Good
+    * Great
+    * Good stuff
+    * That sounds good
 * Surprised 
-    * What?
-    * Wow!
-    * You're kidding              
+    * What??
+    * Wow!!
+    * That's amazing!!
+    * You're kidding?!             
 * Bad thing
-    * Ohno!
-    * Ugh
-    * Oops
-    * Yikes
-
-
+    * Oh no!
+    * Ugh!
+    * Oops!
+    * Yikes!
+* Other
+    * MmHmm
+    * Huh?
+    * Meh.
          
 ## Tips
 * Happy voice! Or it sounds like sarcasm (皮肉)
 * You can also just repeat:
-   * A: I went to the park
-   * B: The park? 
-   * A: Yes, and....
+    * A: I went to the park
+    * B: The park? 
+    * A: Yes, and....
 
 # Listener - if you can’t understand
 ## ("Asking for repetition") 
+* Excuse me? 
 * Once more please? 
 * Could you repeat that please?
 * Could you say that again?
 ## ("Asking for Explanation")
-* What does "WORD" mean?
+* Sorry, what does "WORD" mean?
 ## ("Checking Understanding")
 * Sorry. I don’t understand
 * Sorry, I don't follow
