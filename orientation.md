@@ -15,11 +15,11 @@ Orientation
    * Maybe [get the phone app](https://support.google.com/edu/classroom/answer/6118412?hl=ja)
 
 # Task 3: Learn to ask for help
-* [Ask for Help](Style-AskForHelp.md)
+* [Ask for Help](Orientation-AskForHelp.md)
 
 
 # Task 4 - Learn to make Small Talk
-* [Small Talk](Small Talk.md)
+* [Small Talk](Small Talk)
 * [Ask Good Questions](Style - Ask Good Questions)
 * [Communication Skills](Communication Skills)
 

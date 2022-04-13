@@ -1,6 +1,7 @@
 Small Talk
 
 Everything (discussions, presentations, job interviews, meetings) starts with small talk. 
+
 It is important to be good at this, so we will start every class with practice.
 
 # Simple  
@@ -8,12 +9,13 @@ It is important to be good at this, so we will start every class with practice.
 * Emi:        Good. You?  
 * Hiroko:     Not bad. Did you do anything at the weekend?
 * Emi:        Not really. How about you? 
-* Hiroko:     Not much. Hey, MAIN TOPIC QUESTION
-* Emi: 
+* Hiroko:     Not much. 
+* Emi:        Hey, MAIN TOPIC QUESTION :point_left:
+* Hiroko: :point_left:
     * Answer. 
     * ADD DETAIL! 
     * Ask a new question
-* Hiroko: 
+* Emi: :point_left:
     * Answer. 
     * ADD DETAIL!  
     * Ask a new question
@@ -21,19 +23,29 @@ It is important to be good at this, so we will start every class with practice.
 * Emi:        Mine too. See you later. Bye!
 * Hiroko:     Bye!
 
-(Skip the middle part for "five second elevator" small talk)
+(Skip the :point_left: part for "five second elevator" small talk)
 
 # Make your own!
 A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change partners
 
 ## A) Hello +  greeting
-Hi  Hey     Morning     Afternoon   Evening 
+Hello   |Greeting
+---     |---
+Hi      |How's it going?
+Hey     |How are things?
+Morning |How’ve you been?
+Afternoon |What’s new?   
+Evening |What's up?
     
-How's it going? How are things? How’ve you been?    ->  Good. You?
-What’s new?     What's up?                      ->  Not much. You?
+
+There are many more, but usually: 
+
+* A safe answer to "How" questions is "Good. You?"
+* A safe answer to  "What" questions "Not much. You?"
                                              
 ## B) Small talk question
 Examples for people you just met:
+
 * What’s your name?       
 * Where are you from?                             
 * Where do you live   ?      
