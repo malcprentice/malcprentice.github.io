@@ -19,7 +19,7 @@ Orientation
 
 
 # Task 4 - Learn to make Small Talk
-* [Small Talk](Small Talk)
+* [Small Talk](Small Talk.md)
 * [Ask Good Questions](Style - Ask Good Questions)
 * [Communication Skills](Communication Skills)
 
