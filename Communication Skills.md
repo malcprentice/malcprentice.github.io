@@ -4,12 +4,13 @@ Communication Skills
 Show you are listening! 
 
 * Are you...
-* Listening
-    * I see (DSC)
-    * Uh-huh (DSC)
-    * OK (DSC)
-    * Right(DSC)
-    * Sure (DSC)
+* Listening (from the DSC book)
+    * I see 
+    * Uh-huh  
+    * OK  
+    * Right
+    * Sure 
+    * Really   
     * MmHmm
 * Happy   
     * Good!
@@ -19,7 +20,6 @@ Show you are listening!
 * Surprised 
     * What?
     * Wow!
-    * Really?  (DSC) 
     * You're kidding              
 * Bad thing
     * Ohno!

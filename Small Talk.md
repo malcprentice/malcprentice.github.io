@@ -34,23 +34,32 @@ What’s new?     What's up?                      ->  Not much. You?
                                              
 ## B) Small talk question
 Examples for people you just met:
-    What’s your name?       Where are you from?                             
-    Where do you live   ?       What's your major?          
-    What classes are you taking?    What circles are you in?         
+* What’s your name?       
+* Where are you from?                             
+* Where do you live   ?      
+* What's your major?          
+* What classes are you taking?    
+* What circles are you in?         
 
 Examples for people you see every week:
-    How was the weekend?            Any plans for the weekend? 
-    Do anything last night?             What are you up to tonight?
-    How was the holiday?            What will you do in the holiday?
-    How are classes going?          How's work? 
-    Or see "good questions" sheet.
+* How was the weekend?            
+* Any plans for the weekend? 
+* Do anything last night?             
+* What are you up to tonight?
+* How was the holiday?            
+* What will you do in the holiday?
+* How are classes going?          
+* How's work? 
+* Or see [ask good questions](Style - Ask Good Questions) sheet
+
 ## C) Change the topic
-Hey, 
-So…         
-By the way, ...                 
-Anyway….                
-Oh!                     That reminds me...                  
-Oh yeah,                did you hear about (+ news)
+* Hey, 
+* So…         
+* By the way, ...                 
+* Anyway….                
+* Oh!                     
+* That reminds me...                  
+* Oh yeah, did you hear about (+ news)
 
 ## D) Fill your silence
 Can't think of how to say something? Give yourself some time! Use English sounds!

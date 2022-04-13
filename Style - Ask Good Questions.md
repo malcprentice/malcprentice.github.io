@@ -2,9 +2,13 @@
 
 Here are some patterns
 
-Use the **bold parts** but change the content. 
+Use the patterns but change the content. 
 * e.g. When did you last **go shopping**? ---> When did you last **see a movie**?
-* Some content ideas for small talk: Friends, Food and drink, Music, Pets, Shopping, Travel, TV and movies, Sports, Games, Gadgets, Work, Books, School
+* Some content ideas for small talk: F
+    * Friends, Food and drink, Music, 
+    * Pets, Shopping, Travel, TV and movies, 
+    * Sports, Games, Gadgets, 
+    * Work, Books, School
  
 # Future (Plans)
 * What are you going to eat tonight?
@@ -62,9 +66,10 @@ Use the **bold parts** but change the content.
 * Which **country** would you like to work in?
 
 
-Writing good DISCUSSION questions
+# Writing good DISCUSSION questions
 A good discussion questions asks about OPINION or EXPERIENCE or PLANS.
-* This is not a quiz. No questionsthat have correct answers
+
+* This is not a quiz. No questions that have correct answers
    * How many people live in Tokyo?
    * What is the capital of Yemen?
 * This is not a dissertation (論文). No questions that need research
