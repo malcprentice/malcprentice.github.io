@@ -1,3 +1,5 @@
 * [Orientation](orientation)
-* Read the [About](Admin-about) page 
-* The [Contact](Admin-contact) page  
+* [Projects Index](Index-Projects)
+* [About](Admin-about) 
+* [Contact](Admin-contact)  
+

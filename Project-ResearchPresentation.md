@@ -32,7 +32,9 @@ The aim this project is to practice reading (news articles), listening (lectures
 
 ## Step 3: Check your notes
 * How long is your presentation? Do you have enough notes? 
-* You need at least 9 ideas (9 steps, times, reasons, problems, solutions) 
+* You need about 9 ideas 
+    * 3 steps, times, reasons, problems, solutions
+    * 3 detail keywords on each step
 * If you are short, read another article!
 * Remember to keep the URL (http addresses) of the talk and article
 
@@ -41,25 +43,25 @@ The aim this project is to practice reading (news articles), listening (lectures
 * I will share "Template for RR"
 * Follow the template carefully. 
 * I will review in class, but common mistakes are: 
-* Titles: keywords, in title case, consistent format
-* Every body slide needs EITHER
-    * Image and text
-    * Image and no text - if image has meaning (map, chart, graph, etc)
-* Try to use [free images search](https://www.google.com/search?q=penguin&tbm=isch&tbs=il:cl&hl=en)
-* Formatting has MEANING in presentations
-    * e.g. bottom right 14pt gray Arial = "this is a citation"
-    * Check size, colour, font, position is consistent
-* No more than 3s to read a slide
-* If you are going to SAY it don't WRITE it
-* No sentences! Keywords only 
-* Bullets are LISTS - use ≥2 or delete
+    * Titles: keywords, in title case, consistent format
+    * Every body slide needs EITHER
+        * Image and text
+        * Image and no text - if image has meaning (map, chart, graph, etc)
+    * Try to use [free images search](https://www.google.com/search?q=penguin&tbm=isch&tbs=il:cl&hl=en)
+    * Formatting has MEANING in presentations
+        * e.g. bottom right 14pt gray Arial = "this is a citation"
+        * Check size, colour, font, position is consistent
+    * No more than 3s to read a slide
+    * If you are going to SAY it don't WRITE it
+    * No sentences! Keywords only 
+    * Bullets are LISTS - use ≥2 or delete
 * Spellcheck and proof read!
 * No penguins!    
 * Script is optional
 * Question slide follow rule- [ask good questions](Orientation-AskGoodQuestions)
 * References slide 
     * in alphabetical order. 
-    * TWO citations  TED+News. No more, unless your presentation is too short 
+    * TWO citations - TED+News. Maybe three if your news article was short
 
 ## Step 5: Prepare to Present
 * Homework: Decide on script, notes, or nothing. I'll review the options in class. 
@@ -67,7 +69,7 @@ The aim this project is to practice reading (news articles), listening (lectures
 * Common mistakes include
     * No floppy A4 notes
     * No tiny scripts on your phone. 
-    * STart your presentation, don't just show your file
+    * Start your presentation, don't just show your file
     * During discussion, Keep speaking to everyone. You are STILL PRESENTING
 
 ## Step 6: Present
@@ -76,14 +78,15 @@ The aim this project is to practice reading (news articles), listening (lectures
 * Lead discussion
 
 # Assessment
-* Body Language (standing classroom only, not seated Zoom)
+* Body Language 
     * Control you hands - don't fiddle with your notes, clothes, hair 
     * Don't wave your notes. 
     * Don't shuffle your feet
 * Eye contact
-    * Speak at the audience/camera  
-    * Look down, read, look up and speak. Don't speak to your notes. 
+    * Speak at the audience 
+    * Look down, read, look up, then speak. Don't speak at your notes. 
     * Keep your notes near your eyes (in hand, or if Zoom on keyboard)
 * Voice
-    * try to speak in phrases, fewer hesitations
-    * Interesting voice! Don't just read the script word by word. 
+    * Speak in phrases, not word by word
+    * Interesting voice! 
+    * Practice until you have few hesitations
