@@ -6,13 +6,14 @@ Then we will write summary about it.
 * Must be fiction
 * Must be a graded reader 
     * You can find them in the library
-    * You can find them online (I will share instructions on Classroom)
+    * You can find them online (I will share how in class)
 * Read it and take notes. 
 * Prepare to answer the questions below
 
 
 ## Step 2: In class, ASK your partners about their book
 Ask and answer as many of these questions as you can:
+
 ### Questions
 1. What is the title?                          
 2. Who wrote it?                                
@@ -20,12 +21,13 @@ Ask and answer as many of these questions as you can:
 4. Who is the hero / MC / 主人公          
 5. What is the main character          
 6. Where is it set?                    
-7. Who are the other characters?       
+7. Who are the other characters (and how are they connected)?       
 8. How did it start?                
 9. What was the main problem?      
-10. What happened then?             
+10. What happened then? (2-3 main events max)
 11. Was there a moral (教訓)?             
 12. Is the book good, overall? (adjective/形容詞)
+
 
 
 ### Example 
@@ -35,7 +37,7 @@ Ask and answer as many of these questions as you can:
 4. Harry Potter
 5. wizard
 6. a magical school called Hogwarts
-7. Voldemort, Ron, Hermione, Lupin, 
+7. Voldemort (enemy), Ron, Hermione (friends), Lupin (teacher), 
 8. Went to school, saw dog
 9. Dementors, Scabbers
 10. patronus, reveal identity, win
@@ -46,8 +48,17 @@ Ask and answer as many of these questions as you can:
 ### Read the pattern
 
 > **This paragraph summarises a book called** "1", **which was written by** 2 **in** 3. **It's about** 4, **who is a** 5, **and is set in/at/on** 6.  **The other characters are** 7A (description), 7B (description) **and** 7C (description). **At the beginning of the book,** 8. **However,** 9. **No spoilers, but** 10. **I think the moral of the story is that** we should (not) 11. **In summary, this was a** 12 **book, so you should (not) read it.**
+
 ### Read the example
 > **This paragraph summarises a book called** "Harry Potter and the Prisoner of Azkaban", **which was written by** J.K. Rowling **in** 1999. **It's about** Harry Potter, **who is a** wizard, **and is set** in a magical school called Hogwarts.  **The other characters are** Ron (his friend), Hermione (another friend), Lupin (his godfather) **and** Voldemort (the enemy). **At the beginning of the book,** Harry as usual goes to school and takes classes. **However,** they learn that a prisoner called Sirius Black escaped and there are dementors everywhere. **No spoilers, but** they learn a new skill to defeat the enemy, and many secrets are revealed. **I think the moral of the story is that** we should not judge people by their appearances. **In summary, this was an** interesting **book, so you should read it.**
+
+### Some things to note
+* "This paragraph"
+    * This is the **Topic Sentence** of the paragraph
+    * Because there is *only one* paragraph, and it describes the *whole* assignment it is also the **thesis statement**
+* "In summary" - This is the **summary** or **concluding** sentence
+* All other sentences in the middle are **body** or **supporting** sentences
+
 
 
 ### Analyse the example and template
@@ -63,3 +74,7 @@ If your book doesn't match the pattern (e.g. there is only one character, there 
 * I will share the template in class. Don't break it! 
 * Write your own sentences. 
 * You will do a friend check next week
+
+
+
+
