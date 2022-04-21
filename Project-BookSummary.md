@@ -5,11 +5,15 @@ Then we will write summary about it.
 ## Step 1: Homework 1 - get a book and read it
 * Must be fiction
 * Must be a graded reader 
+    * You can check your level [here](http://www.macmillanreaders.com/level-test/) 
+    * Or just start reading - if there are many words you do not know, go down a level
     * You can find them in the library
-    * You can find them online (I will share how in class)
-* Read it and take notes. 
+    * You can find them [online](https://elib.maruzen.co.jp/elib/html/BookList?11)
+        * Search for your level word 
+        * e.g. "Beginner", "Elementary" or "Pre-intermediate"
+* Read the book and take notes. 
+* Try to finish the book this week, but if you don't it's OK. 
 * Prepare to answer the questions below
-
 
 ## Step 2: In class, ASK your partners about their book
 Ask and answer as many of these questions as you can:
