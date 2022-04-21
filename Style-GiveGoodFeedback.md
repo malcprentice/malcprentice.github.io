@@ -15,12 +15,12 @@
 
 
 ## Say something useful
-* 1) transition
+1) transition
     * , but in the future 
     * Perhaps you might try to    
     * However,    
     * That said, you should probably 
-* 2) Advice 
+2) Advice 
     * you could avoid touching/waving your notes
     * stop dropping your hand 
     * stand still/straight
@@ -33,6 +33,6 @@
     * practice pronouncing new words 
     * practice speaking in phrases
 
-## Say something else nice
-* Either another phrase from above
-* Or just "Overall, I really enjoyed it"
+3) Say something else nice
+    * Either another phrase from above
+    * Or just "Overall, I really enjoyed it"
