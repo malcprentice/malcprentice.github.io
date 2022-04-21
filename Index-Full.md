@@ -1,4 +1,3 @@
-
 # Orientation
 * [Ask For Help](Orientation-AskForHelp.md)
 * [Communication Skills](Orientation-CommunicationSkills.md)
@@ -26,7 +25,6 @@
 * [Book Summary](Project-BookSummary.md)
 * [Research Presentation](Project-ResearchPresentation.md)
 
-# Index
 
 # Style
 * [Give Good Feedback](Style-GiveGoodFeedback.md)

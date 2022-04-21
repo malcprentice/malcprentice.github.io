@@ -2,8 +2,8 @@
 import os
 import re
 root= "/Users/mp/Documents/GitHub/malcprentice.github.io/"
-indexlist = ["Orientation", "Resources", "Invention", "Admin", "Project", "Index", "Style"]
-indexfile = root + "Index-Full.md"
+indexlist = ["Orientation", "Resources", "Invention", "Admin", "Project", "Style"]
+indexfile = root + "index.md"
 indexfilestring = ""
 
 
@@ -37,5 +37,6 @@ with open(indexfile, "w") as f:
 #Chec what isn't indexed properly
 offindex = [e for e in fullpathlist if not e.split("-")[0] in indexlist]
 for item in offindex:
-    print("off index - " + item)
+    if not item.lower().startswith("index"):
+        print("off index - " + item)
 
