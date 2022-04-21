@@ -76,25 +76,11 @@ Examples for people you see every week:
 ## D) Fill your silence
 Can't think of how to say something? Give yourself some time! Use English sounds!
 
-* Any time    
-    * Ummmmm   
-    * Uh     
-    * Er
-    * I mean, 
-* Beginning       
-    * it's like
-    * Well, 
-    * See, 
-    * Maybe, 
-* Middle     
-    * sorta
-    * kinda
-    * like
-* End
-    * , yeah?
-    * , yknow?
-    * , right?
-    
+Any time        |Beginning  |Middle     |End
+---             |---        |---        |---
+Ummmmm          |It's like  |sorta      |, yeah?
+Uh              |Well,      |kinda      |, yknow?
+Er              |Maybe,     |like       |, right?         
 
 ### Tips
 * e.g. "I went to the park" = "Well, I like uhh just sorta went ummm to the park, yknow?" 
@@ -108,21 +94,11 @@ e.g. "Uh-huh", "I see", "Really", "Do you mean?"
 See the  [Communication Skills](Communication Skills)
  
 ## F) Finish the conversation (three parts)
-1) Stop signal,  reason    
-* Alright, I have to go. 
-* Oh, my class starting.   
-* Sorry! My mum's calling me.     
-* OK, this is my floor 
-* Got to run.     My bus is coming.   
-2) Promise to contact       
-* See you around!   
-* See you at lunch? 
-* I'll call you later.
-* Let's go to X later? 
-* Speak to you after 
-3) Goodbye
-* Bye
-* Goodbye
-* Bye then
-* Cheerio (UK)
+Stop signal,  reason            |Promise to contact         |Goodbye         
+---                             |---                        |---
+Alright, I have to go.          |See you around!            |Bye
+Oh, my class starting.          |See you at lunch?          |Goodbye
+Sorry! My mum's calling me.     |I'll call you later.       |Bye then
+OK, this is my floor            |Let's go to X later?       |Cheerio (UK)
+Got to run, my bus is coming.   |Speak to you after         |
         

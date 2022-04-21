@@ -19,7 +19,7 @@ Excellent           |volume         |- it was        |just right
     * , but in the future 
     * Perhaps you might try to    
     * However,    
-    * That said,  you should probably 
+    * That said, you should probably 
 * 2) Advice 
     * you could avoid touching/waving your notes
     * stop dropping your hand 
