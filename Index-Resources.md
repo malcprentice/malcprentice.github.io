@@ -1,5 +1,5 @@
-# Resources for Learning
-* [Resources for Listening](Resources-Listening)
-* [Resources for Reading](Resources-Reading)
-* [News readings](Resources-NewsSites)
-* [Images for presentations](Resources-Images) 
+# Resources
+* [Listening](Resources-Listening.md)
+* [Reading](Resources-Reading.md)
+* [News Sites](Resources-NewsSites.md)
+* [Images](Resources-Images.md)
