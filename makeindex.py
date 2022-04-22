@@ -17,7 +17,7 @@ for item in indexlist:
     sectionindexfilename = root + "Index-" + item + ".md"
     sectionindexstring = "# " + item + "\n"
     itemlen = len(item)+1
-    indexitemlist = [e for e in fullpathlist if e.startswith(item)]
+    indexitemlist = sorted([e for e in fullpathlist if e.startswith(item)])
     for entry in indexitemlist:
         pagetitle = entry[itemlen:][:-3]
         pagetitle = re.sub(r"(\w)([A-Z])", r"\1 \2", pagetitle)

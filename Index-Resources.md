@@ -1,5 +1,5 @@
 # Resources
-* [Listening](Resources-Listening.md)
-* [Reading](Resources-Reading.md)
-* [News Sites](Resources-NewsSites.md)
 * [Images](Resources-Images.md)
+* [Listening](Resources-Listening.md)
+* [News Sites](Resources-NewsSites.md)
+* [Reading](Resources-Reading.md)
