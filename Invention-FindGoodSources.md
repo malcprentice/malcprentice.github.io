@@ -36,6 +36,18 @@ For example, in animals essay, use the country-keyword combination
     * It's easier to take notes on a PDF
     * If the original article is moved,you still have it
 
+## 4) Avoid bad sources
+You can READ these for your own information, but don't USE them in your essay:
+
+* Dictionaries
+* Wikipedia
+    * Any other kind of Wiki that anyone can edit.
+    * Any other kind of "pedia", including normal Encyclopaedias.
+* Any "question answering" site, including:
+    * Quora answers
+    * Yahoo answers
+    * About.com
+
 ## Next, note taking! 
 * See note taking sheet. 
 
