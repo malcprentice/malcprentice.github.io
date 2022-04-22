@@ -1,10 +1,10 @@
-Small Talk
+# Small Talk
 
 Everything (discussions, presentations, job interviews, meetings) starts with small talk. 
 
 It is important to be good at this, so we will start every class with practice.
 
-# Simple  
+## Simple  
 * Hiroko:     Hi, how's it going? 
 * Emi:        Good. You?  
 * Hiroko:     Not bad. Did you do anything at the weekend?
@@ -25,10 +25,10 @@ It is important to be good at this, so we will start every class with practice.
 
 (Skip the <-- part for "five second elevator" small talk)
 
-# Make your own!
+## Make your own!
 A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change partners
 
-## A) Hello +  greeting
+### A) Hello +  greeting
 Hello   |Greeting
 ---     |---
 Hi      |How's it going?
@@ -43,7 +43,7 @@ There are many more, but usually:
 * A safe answer to "How" questions is "Good. You?"
 * A safe answer to  "What" questions "Not much. You?"
                                              
-## B) Small talk question
+### B) Small talk question
 Examples for people you just met:
 
 * What’s your name?       
@@ -62,9 +62,9 @@ Examples for people you see every week:
 * What will you do in the holiday?
 * How are classes going?          
 * How's work? 
-* Or see [ask good questions](Style - Ask Good Questions) sheet
+* Or see [ask good questions](Style-AskGoodQuestions) sheet
 
-## C) Change the topic
+### C) Change the topic
 * Hey, 
 * So…         
 * By the way, ...                 
@@ -73,7 +73,7 @@ Examples for people you see every week:
 * That reminds me...                  
 * Oh yeah, did you hear about (+ news)
 
-## D) Fill your silence
+### D) Fill your silence
 Can't think of how to say something? Give yourself some time! Use English sounds!
 
 Any time        |Beginning  |Middle     |End
@@ -82,18 +82,17 @@ Ummmmm          |It's like  |sorta      |, yeah?
 Uh              |Well,      |kinda      |, yknow?
 Er              |Maybe,     |like       |, right?         
 
-### Tips
 * e.g. "I went to the park" = "Well, I like uhh just sorta went ummm to the park, yknow?" 
-    * This is not good, but it's better than silence
-    * Use more than one! Not "like...like...like...like...like...like...like...like"
+* This is not good, but it's better than silence
+* Use more than one! Not "like...like...like...like...like...like...like...like"
 * You can sometimes stretch sounds ("I think you shouuuUUUld read more")
 
-## E) Active Listening
+### E) Active Listening
 Maybe you learned this in another class. Use it here too!
 e.g. "Uh-huh", "I see", "Really", "Do you mean?"
 See the  [Communication Skills](Communication Skills)
  
-## F) Finish the conversation (three parts)
+### F) Finish the conversation (three parts)
 Stop signal,  reason            |Promise to contact         |Goodbye         
 ---                             |---                        |---
 Alright, I have to go.          |See you around!            |Bye

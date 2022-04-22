@@ -1,3 +1,5 @@
+# Find Good Academic Sources
+
 * Some questions to ask:
     * Is anyone citing it? (Google Scholar has a count. Take into account age.)
     * Is it recent enough (philosophy and engineering articles age at different speeds)

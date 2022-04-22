@@ -1,4 +1,4 @@
-﻿Ask Good Questions
+﻿# Ask Good Questions
 
 Here are some patterns
 
@@ -11,14 +11,14 @@ Here are some patterns
     * Sports, Games, Gadgets, 
     * Work, Books, School
  
-# Future 
+## Future 
 (Plans, Predictions)
 
 * What are you going to eat tonight?
 * What game will you buy next?
 * What movie do you want to watch next
 
-# Present 
+## Present 
 (Habits, daily life, personal questions)
 
 * What do you usually have for breakfast?
@@ -30,7 +30,7 @@ Here are some patterns
 * How do you find new music? 
 * Can you play an instrument?
 
-# Past, Present Perfect
+## Past, Present Perfect
 (Experiences)
 
 * What was your favourite TV show (when you were small)?
@@ -43,7 +43,7 @@ Here are some patterns
 * Have you ever been to Okinawa?
 * Have you ever bought stuff at a flea market?
 
-# Recommendations, Likes
+## Recommendations, Likes
 * What’s a good place to buy English books?
 * Where do you think I should do a study abroad?
 * Which do you think is best – hotel or homestay?
@@ -57,12 +57,12 @@ Here are some patterns
 * Do you think it’s OK to keep animals in zoos?
 * (See discussion phrase sheet for more)
 
-# Imagination patterns ("conditionals") 
+## Imagination patterns ("conditionals") 
 * Would you ever become vegetarian?
 * What would you do if you got sick in another country?
 * Where would you like to go on holiday?
 
-# Common mistakes:  
+## Common mistakes:  
 Put **"category"** in right place 
 
 * What **countries** have you been to?
@@ -70,7 +70,7 @@ Put **"category"** in right place
 * Which **country** would you like to work in?
 
 
-# Writing good DISCUSSION questions
+## Writing good DISCUSSION questions
 A good discussion questions asks about OPINION or EXPERIENCE or PLANS.
 
 * This is not a quiz. No questions that have correct answers

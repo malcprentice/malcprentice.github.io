@@ -1,5 +1,6 @@
+# Asking for help
 
-# Ask for help in class 
+## Ask for help in class 
 * Excuse me? 
 * Once more please.  
 * What does "dog" mean? 
@@ -10,12 +11,12 @@
 * Can you give an example? 
 
 
-# Need help in Office Hours?
+## Need help in Office Hours?
 * Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login)  
 * email for an appointment
 
 
-# Ask for help by email. 
+## Ask for help by email. 
 Change the **bold bits.**
 
 

@@ -2,7 +2,9 @@
 import os
 import re
 root= "/Users/mp/Documents/GitHub/malcprentice.github.io/"
-indexlist = ["Orientation", "Project", "Resources", "Invention", "Style"]
+indexlist = ["Orientation", "Project", "Resources", "Invention", "Style", "Admin"]
+
+notfrontpage = ["Admin"]
 indexfile = root + "index.md"
 indexfilestring = ""
 
@@ -19,12 +21,13 @@ for item in indexlist:
     itemlen = len(item)+1
     indexitemlist = sorted([e for e in fullpathlist if e.startswith(item)])
     for entry in indexitemlist:
-        pagetitle = entry[itemlen:][:-3]
-        pagetitle = re.sub(r"(\w)([A-Z])", r"\1 \2", pagetitle)
-        #outputs clear spaced title for adding as link
-        #add to single main index file for now
-        indexfilestring += "* ["+ pagetitle + "]("+entry +")\n"
-        sectionindexstring += "* ["+ pagetitle + "]("+entry +")\n"
+            if not entry in notfrontpage:
+                pagetitle = entry[itemlen:][:-3]
+                pagetitle = re.sub(r"(\w)([A-Z])", r"\1 \2", pagetitle)
+                #outputs clear spaced title for adding as link
+                #add to single main index file for now
+                indexfilestring += "* ["+ pagetitle + "]("+entry +")\n"
+                sectionindexstring += "* ["+ pagetitle + "]("+entry +")\n"
     with open(sectionindexfilename, "w") as sf:
         sf.write(sectionindexstring)
 
@@ -34,7 +37,7 @@ with open(indexfile, "w") as f:
     f.write(indexfilestring)
 
 
-#Chec what isn't indexed properly
+#Check what isn't indexed properly
 offindex = [e for e in fullpathlist if not e.split("-")[0] in indexlist]
 for item in offindex:
     if not item.lower().startswith("index"):
