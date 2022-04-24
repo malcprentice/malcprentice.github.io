@@ -16,7 +16,9 @@
 {{< biblio-ref >}}
 
 Familyname, I. (2021, April 3). *Title of talk title case no but italics yes [Video].* Video Source Title Case yes but Italics no. http://videositelink.com/videlink/html 
+
 Suzuki, H. (2022, February). *My video title* [Video]. Ted Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
+
 Khobandeh, S. (2022, February). *Why people and AI make good business partners* [Video]. Ted Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
 
 {{< /biblio-ref >}}
