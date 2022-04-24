@@ -15,11 +15,11 @@
 ## References - references section/slide
 {{< biblio-ref >}}
 
-Familyname, I. (2021, April 3). *Title of talk title case no but italics yes [Video].* Video Source Title Case yes but Italics no. http://videositelink.com/videlink/html 
+Familyname, I. (2021, April 3). *Title of talk title case no but italics yes* [Video]. Video Source Title Case Yes but Italics No. http://videositelink.com/videlink/html 
 
-Suzuki, H. (2022, February). *My video title* [Video]. Ted Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
+Suzuki, H. (2022, February). *My video title* [Video]. TED Talks. https://www.ted.com/talks/hiroko_suzuki_my_video_title
 
-Khobandeh, S. (2022, February). *Why people and AI make good business partners* [Video]. Ted Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
+Khodabandeh, S. (2022, February). *Why people and AI make good business partners* [Video]. TED Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
 
 {{< /biblio-ref >}}
 
@@ -34,4 +34,4 @@ Khobandeh, S. (2022, February). *Why people and AI make good business partners* 
     * SECOND name is family name of there are two
     * Khodabandeh, S. (**NOT** Shervin, K.)
 * Don't forget burasage
-* Are they not using their real name? WAnt to cite a whole channel? or some other problem? Try these more detailed instructions: https://www.easybib.com/guides/citation-guides/apa-format/youtube-video/
+* Want to cite a whole channel? Some other complication? Try these more detailed instructions: https://www.easybib.com/guides/citation-guides/apa-format/youtube-video/
