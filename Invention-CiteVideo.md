@@ -3,9 +3,9 @@
 This is mostly for TED Talks. 
 
 ## Citation - on slide or in the text 
-* (Familyname, year, month date)
-* (Suzuki, 2021, April 3)
-* TED Talks don't have date, so (Suzuki, 2021, April)
+* (Familyname, year, date)
+* (Suzuki, 2021, April 3) for YouTube
+* (Suzuki, 2021, April) for TED Talks without date
 
 ## References - references section/slide
 {{< biblio-ref >}}
