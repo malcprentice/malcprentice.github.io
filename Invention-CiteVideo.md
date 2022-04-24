@@ -13,15 +13,17 @@
     * According to Khobandeh (2022, February)
 
 ## References - references section/slide
-{{< biblio-ref >}}
+<div style="text-indent: -40px; padding-left: 40px;">
 
 Familyname, I. (2021, April 3). *Title of talk title case no but italics yes* [Video]. Video Source Title Case Yes but Italics No. http://videositelink.com/videlink/html 
 
-Suzuki, H. (2022, February). *My video title* [Video]. TED Talks. https://www.ted.com/talks/hiroko_suzuki_my_video_title
-
 Khodabandeh, S. (2022, February). *Why people and AI make good business partners* [Video]. TED Talks. https://www.ted.com/talks/shervin_khodabandeh_why_people_and_ai_make_good_business_partners
 
-{{< /biblio-ref >}}
+Suzuki, H. (2022, February). *The title of my talk or lecture* [Video]. TED Talks. https://www.ted.com/talks/hiroko_suzuki_the_title_of_my_talk_or_lecture
+
+
+
+</div>
 
 ## Tips
 * Follow the [general rules](Invention-GeneralRules)
