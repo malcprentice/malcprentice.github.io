@@ -15,8 +15,8 @@ for item in filelist:
     if item.endswith("md"):
         fullpathlist.append(item)
 for item in indexlist:
-    indexfilestring += "\n# " + item + "\n"
     sectionindexfilename = root + "Index-" + item + ".md"
+    indexfilestring += "\n[" + item + "](Index-" + item + ")"
     sectionindexstring = "# " + item + "\n"
     itemlen = len(item)+1
     indexitemlist = sorted([e for e in fullpathlist if e.startswith(item)])
@@ -26,7 +26,9 @@ for item in indexlist:
                 pagetitle = re.sub(r"(\w)([A-Z])", r"\1 \2", pagetitle)
                 #outputs clear spaced title for adding as link
                 #add to single main index file for now
-                indexfilestring += "* ["+ pagetitle + "]("+entry +")\n"
+                #uncomment next line to get full index on front page
+                #indexfilestring += "* ["+ pagetitle + "]("+entry +")\n"
+
                 sectionindexstring += "* ["+ pagetitle + "]("+entry +")\n"
     with open(sectionindexfilename, "w") as sf:
         sf.write(sectionindexstring)
