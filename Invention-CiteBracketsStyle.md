@@ -20,3 +20,18 @@ No author or date?  |Title + n.d.           |("Title," n.d.)
 same name/year      |a b                    |(Suzuki, 2015a) ... (Suzuki, 2015b).
 Same no date?       |-a, -b                 |(Suzuki, n.d.-a) ... (Suzuki, n.d.-b).
 "Direct quote"?     |use page number        |"I have a dream" (King, 2015, p.23)
+
+
+## Common mistakes
+* Check spaces and commas and periods carefully!
+* Comma inside quotes
+    * ("Title," n.d.)
+    * ("Title", n.d.)
+* Family name, no initials
+    * OK: (Suzuki, 2012) 
+    * NO: ~~(Hiroki, S., 2012) ~~   
+    * NO: ~~(Suzuki, Hiroki, 2012)~~
+* Give the right amount of date. 
+    * Books are year only
+    * Newspapers are year, month day. 
+    * Others vary. Check the examples

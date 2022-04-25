@@ -27,4 +27,10 @@
     * Research by Suzuki (2021, April) suggests that
     * For details, see [Cite Sentence Style](Invention-CiteSentenceStyle)
 
-
+# Are you used to APA6? New in APA7 (from 2019)
+* Main changes: 
+    * Only use "Retrieved from" if the reference is "n.d.", otherwise just give the http://
+    * Never cite more than 2 authors, even first time. Go straight to "et al."
+    * Give up to 20 authors in references
+    * No city name for books, just publisher
+    * Give full https://doi.org/ link, not just the number
