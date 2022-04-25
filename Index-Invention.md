@@ -1,6 +1,10 @@
 # Invention
 * [Advanced Issues](Invention-AdvancedIssues.md)
+* [Citation General Rules](Invention-CitationGeneralRules.md)
+* [Cite Brackets Style](Invention-CiteBracketsStyle.md)
+* [Cite Other Language Sources](Invention-CiteOtherLanguageSources.md)
+* [Cite Sentence Style](Invention-CiteSentenceStyle.md)
 * [Cite Video](Invention-CiteVideo.md)
 * [Find Good Academic Sources](Invention-FindGoodAcademicSources.md)
 * [Find Good Sources](Invention-FindGoodSources.md)
-* [General Rules](Invention-GeneralRules.md)
+* [References General Rules](Invention-ReferencesGeneral Rules.md)
