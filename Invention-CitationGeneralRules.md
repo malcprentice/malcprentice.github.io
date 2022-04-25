@@ -1,7 +1,9 @@
 # Citation General Rules
 
-## Choose the style
+* This is for IN TEXT and ON SLIDE *citations*
+* For END OF ESSAY or LAST SLIDE *references*, see  the [Reverence General Rules](Invention-ReferencesGeneralRules)
 
+## Choose the style
 1) Brackets style
 * This is 
     * Easier
@@ -30,7 +32,12 @@
 # Are you used to APA6? New in APA7 (from 2019)
 * Main changes: 
     * Only use "Retrieved from" if the reference is "n.d.", otherwise just give the http://
-    * Never cite more than 2 authors, even first time. Go straight to "et al."
-    * Give up to 20 authors in references
+    * How many authors to name
+        * In text, cite 1-2 authors. If more, go straight to "et al."
+        * Give up to 20 authors in references
     * No city name for books, just publisher
-    * Give full https://doi.org/ link, not just the number
+        * APA7 Suzuki, H. (2002). *Title.* Macmillan.
+        * APA6 Suzuki, H. (2002). *Title.* New York: Macmillan. 
+    * DOI changes:
+        * APA7: https:/doi.org/10.1111/111-11-123-1234-1
+        * APA6: Retrieved from doi:/doi.org/10.1111/111-11-123-1234-1
