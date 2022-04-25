@@ -37,6 +37,13 @@ LOOK HARD, then decide
 * Brown, M., & Smith, P. (2010). How to cite an article from a journal or magazine in your reference list. *Journal of Writing, 3*(4), 221-256. https://doi.org/10.111111/asdf
 * Barbraud, C., & Weimerskirch, H. (2001). Emperor penguins and climate change. *Nature, 411*(6834), 183-186.
 
+
+## The reference list matches the references used. 
+* Nothing in text that isn't in list. 
+* Nothing in list that isn't in the text 
+* 5 names in text = 5  matching names in references
+
+
 ## Alphabetical order
 * Remember
     * Name order then date order.
@@ -59,11 +66,14 @@ LOOK HARD, then decide
     * Zod, G. (1999).
 
 ## Common Mistakes
-* Check the references list format
+* Double check the formatting
     * Times New Roman
     * 12 pt
     * Double spaced
     * Burasage
+* Double check you match the examples on:
+    * Title Case
+    * spaces, commas, and periods. 
 * Italics can be confusing. Follow the examples, but if you are wondering why something is italics, here is the rule:
     * Italics is for the thing you look for when you walk into the library
     * If you can pick it up from a shelf, it gets italics
@@ -96,3 +106,4 @@ LOOK HARD, then decide
     * OK: Suzuki, H. (2020)
     * NO: ~~Hiroki, S.~~ (2020)
     * NO: ~~Suzuki, Hiroki~~ (2020)
+
