@@ -92,6 +92,7 @@
             * Reuters / AP / AFPBBNews
 
 ### In summary: 
+
 |Type        | *You hold this = italics*                               | You do not hold = no italics
 |---         |---                                                      |---
 |Book        |*Title of the book* you hold                             |the chapter title you don't rip out

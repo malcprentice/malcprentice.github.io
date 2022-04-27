@@ -29,6 +29,7 @@ It is important to be good at this, so we will start every class with practice.
 A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change partners
 
 ### A) Hello +  greeting
+
 |Hello   |Greeting
 |---     |---
 |Hi      |How's it going?

@@ -9,6 +9,7 @@
 * More verbs available here: [Cite Sentence Verbs](Invention-CitationVerbs)
 
 ## Pattern 2: NVF (Name-Verb-Finding)
+
 |Name                    |Verb           |Finding
 |---                     |---            |---    
 |Smith (1999)            |stated (that)  |X is Y
@@ -16,6 +17,7 @@
 |Smith and Jones (2001)  |noted (that)    |"QUOTE"
 
 ## Pattern 3: ANVCF (As-Name-Verb-Comma-Finding)
+
 |Preposition |Name                   |Verb       |Finding
 |---         |---                    |---        |---         
 |As          |Smith (1999)           |stated,    |X is Y
@@ -23,6 +25,7 @@
 |            |Smith and Jones (2001) |noted,     |"QUOTE"
 
 ## Pattern 4: INCF (Intro-Name-Comma-Finding)
+
 |Intro           |Name WITH COMMA        |Finding
 |---             |---                    |---
 |According to    |Smith (1999),          |X is Y
@@ -30,6 +33,7 @@
 |To quote        |Smith and Jones (2001), |"QUOTE"
 
 ## Pattern 5: SNVF (Source Type - Name - Verb - Finding)
+
 |Source  |Type                   |Name                   |Verb (that)    |Finding
 |---     |---                    |---                    |---            |---
 |An      |article                |by Smith (1999)        |stated (that)  |X is Y
@@ -37,6 +41,7 @@
 |A       |survey conducted by    |Smith and Jones (2001) |noted (that)   |"QUOTE"
 
 ## Pattern 6: NCMCVF (Name - Comma - Method - Comma - Verb- Finding)
+
 |Source                  |Comma-Method-Comma                              |Verb (+ that)  |Finding
 |---                     |---                                             |---            |--- 
 |Smith (1999)            |, having interviewed 12 university students,    |said that      |X is Y
