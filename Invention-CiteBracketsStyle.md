@@ -24,9 +24,7 @@ Same no date?       |-a, -b                 |(Suzuki, n.d.-a) ... (Suzuki, n.d.-
 
 ## Common mistakes
 * Check spaces and commas and periods carefully!
-* Comma inside quotes
-    * ("Title," n.d.)
-    * ("Title", n.d.)
+
 * Family name, no initials
     * OK: (Suzuki, 2012) 
     * NO: ~~(Hiroki, S., 2012) ~~   
@@ -35,3 +33,13 @@ Same no date?       |-a, -b                 |(Suzuki, n.d.-a) ... (Suzuki, n.d.-
     * Books are year only
     * Newspapers are year, month day. 
     * Others vary. Check the examples
+* Title problems
+    * Comma inside quotes
+        * ("Title," n.d.)
+        * ("Title", n.d.)
+* Shorten long titles 
+    * 1 word is enough. 
+    * 6 words max. 3 words max if long words. 
+    * Use your judgement - is it making the sentence hard to read?
+    * This is too long ("The impact of global warming on river dolphins in the Amazon," n.d.)
+    * This is better ("The impact," n.d.) 

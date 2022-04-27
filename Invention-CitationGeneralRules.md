@@ -29,6 +29,10 @@
     * Research by Suzuki (2021, April) suggests that
     * For details, see [Cite Sentence Style](Invention-CiteSentenceStyle)
 
+## COmmon Mistakes
+
+
+
 # Are you used to APA6? New in APA7 (from 2019)
 * Main changes: 
     * Only use "Retrieved from" if the reference is "n.d.", otherwise just give the http://
