@@ -4,6 +4,7 @@
     * See [Citation General Rules](Invention-CitationGeneralRules) for alternatives. 
 
 ## Basics of Brackets style
+
 |Type                |Content                |Example
 |---                 |---                    |---
 |A book              |name and year          |(Suzuki, 2015)
@@ -24,7 +25,6 @@
 
 ## Common mistakes
 * Check spaces and commas and periods carefully!
-
 * Family name, no initials
     * OK: (Suzuki, 2012) 
     * NO: ~~(Hiroki, S., 2012) ~~   
