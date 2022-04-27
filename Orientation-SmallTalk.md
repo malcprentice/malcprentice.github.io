@@ -29,14 +29,14 @@ It is important to be good at this, so we will start every class with practice.
 A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change partners
 
 ### A) Hello +  greeting
-Hello   |Greeting
----     |---
-Hi      |How's it going?
-Hey     |How are things?
-Morning |How’ve you been?
-Afternoon |What’s new?   
-Evening |What's up?
-    
+|Hello   |Greeting
+|---     |---
+|Hi      |How's it going?
+|Hey     |How are things?
+|Morning |How’ve you been?
+|Afternoon |What’s new?   
+|Evening |What's up?
+
 
 There are many more, but usually: 
 
@@ -76,11 +76,11 @@ Examples for people you see every week:
 ### D) Fill your silence
 Can't think of how to say something? Give yourself some time! Use English sounds!
 
-Any time        |Beginning  |Middle     |End
----             |---        |---        |---
-Ummmmm          |It's like  |sorta      |, yeah?
-Uh              |Well,      |kinda      |, yknow?
-Er              |Maybe,     |like       |, right?         
+|Any time        |Beginning  |Middle     |End
+|---             |---        |---        |---
+|Ummmmm          |It's like  |sorta      |, yeah?
+|Uh              |Well,      |kinda      |, yknow?
+|Er              |Maybe,     |like       |, right?         
 
 * e.g. "I went to the park" = "Well, I like uhh just sorta went ummm to the park, yknow?" 
 * This is not good, but it's better than silence
@@ -93,11 +93,11 @@ e.g. "Uh-huh", "I see", "Really", "Do you mean?"
 See the  [Communication Skills](Communication Skills)
  
 ### F) Finish the conversation (three parts)
-Stop signal,  reason            |Promise to contact         |Goodbye         
----                             |---                        |---
-Alright, I have to go.          |See you around!            |Bye
-Oh, my class starting.          |See you at lunch?          |Goodbye
-Sorry! My mum's calling me.     |I'll call you later.       |Bye then
-OK, this is my floor            |Let's go to X later?       |Cheerio (UK)
-Got to run, my bus is coming.   |Speak to you after         |
-        
+|Stop signal,  reason            |Promise to contact         |Goodbye         
+|---                             |---                        |---
+|Alright, I have to go.          |See you around!            |Bye
+|Oh, my class starting.          |See you at lunch?          |Goodbye
+|Sorry! My mum's calling me.     |I'll call you later.       |Bye then
+|OK, this is my floor            |Let's go to X later?       |Cheerio (UK)
+|Got to run, my bus is coming.   |Speak to you after         |
+       

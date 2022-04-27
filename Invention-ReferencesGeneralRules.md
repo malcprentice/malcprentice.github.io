@@ -92,14 +92,14 @@
             * Reuters / AP / AFPBBNews
 
 ### In summary: 
-Type        | *You hold this = italics*                               | You do not hold = no italics
-            |---                                                      |---
-Book        |*Title of the book* you hold                             |the chapter title you don't rip out
-Magazine    |*Title of the magazine* you hold                         |the article title you don't rip out
-newspaper   |*Title of the newspaper* you hold                        |the article title you don't rip out
-news website |*Title of the article title* you *could* print and hold |the news group - you couldn't print the whole site
-normal website |*The title of the page* you *could* print and hold    |the site name - you couldn't print the whole site
-Journal article |*The journal NAME and bound VOLUME number*           |The issue, article, or page number
+|Type        | *You hold this = italics*                               | You do not hold = no italics
+|---         |---                                                      |---
+|Book        |*Title of the book* you hold                             |the chapter title you don't rip out
+|Magazine    |*Title of the magazine* you hold                         |the article title you don't rip out
+|newspaper   |*Title of the newspaper* you hold                        |the article title you don't rip out
+|news website |*Title of the article title* you *could* print and hold |the news group - you couldn't print the whole site
+|normal website |*The title of the page* you *could* print and hold    |the site name - you couldn't print the whole site
+|Journal article |*The journal NAME and bound VOLUME number*           |The issue, article, or page number
 
 ## A Closer Look at Title Case
 
@@ -107,14 +107,14 @@ Title Case can be Confusing. Follow the Examples, but if you are Wondering why i
 
 **Title Case in APA = the Name of a Collection**
 
-Type        |Collection - Title Case                    |Not a collection = no title case
-            |---                                        |---
-News        |*Newspaper Title*                          |article title
-Journal     |*Journal Title*                            |article title
-Video       |TED Talks                                  |*video title*
-Websites    |Website Name                               |*website page title*
-Normal book |Nothing - not a collection                 |*The book title.* 
-Book with chapters by different people  |*Book Name*    |Chapter in book
+|Type        |Collection - Title Case                    |Not a collection = no title case
+|---         |---                                        |---
+|News        |*Newspaper Title*                          |article title
+|Journal     |*Journal Title*                            |article title
+|Video       |TED Talks                                  |*video title*
+|Websites    |Website Name                               |*website page title*
+|Normal book |Nothing - not a collection                 |*The book title.* 
+|Book with chapters by different people  |*Book Name*    |Chapter in book
 
 * PAPER collections are *also italics*  
 * ONLINE collections are not italics
