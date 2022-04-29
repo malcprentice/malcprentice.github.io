@@ -76,9 +76,7 @@ Topics marked "<--" are also OK for "Opinion Quickwrite" (EngComm, Debate class)
 * E.g. 36 "I think that the thing I want to buy most is a ukelele. It is a kind of small guitar with four strings. There are several reasons why I want to buy one. 
 
 # Need more topics?
-* NYT650: 
-    * Use a New York Times 650 topic
-    * https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0
+* NYT650 [New York Times 650 topic](https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0)
 * RANDOM QUOTE 
     * http://www.quotationspage.com/random.php 
     * Click a few times ("Motivational" and "20th century" are easier collections)

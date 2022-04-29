@@ -16,7 +16,8 @@
 
 
 ## Say something useful
-1) transition
+
+1) Transition
     * , but in the future 
     * Perhaps you might try to    
     * However,    
