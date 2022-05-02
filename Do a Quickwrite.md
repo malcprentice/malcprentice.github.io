@@ -41,13 +41,10 @@ Quickwrite = How many words can you write in 10 minutes?
 * I will grade (10%) in WEEK 14 (Still any missing or short?-1 to QW score per problem)
 
 ## Having problems?
-
-Problems thinking of ideas? 
-* Relax! - I'm not checking! 
-* Maybe plan for 1 minute more, or do a little reading on the topic. 
-* Change the topic a little  ("last movie"  -> "next movie")
-
-
-In some classes (for exams, or if we are online), we will type.  If typing is the problem 
-* Take lessons so you don't get bad habits e.g. http://typingclub.com/ 
-* Then play some typing games to get faster e.g. http://phoboslab.org/ztype/ 
+* Problems thinking of ideas? 
+    * Relax! - I'm not checking! 
+    * Maybe plan for 1 minute more, or do a little reading on the topic. 
+    * Change the topic a little  ("last movie"  -> "next movie")
+* In some classes (for exams, or if we are online), we will type.  If typing is the problem 
+    * Take lessons so you don't get bad habits e.g. http://typingclub.com/ 
+    * Then play some typing games to get faster e.g. http://phoboslab.org/ztype/ 
