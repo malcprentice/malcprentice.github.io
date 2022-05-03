@@ -2,9 +2,9 @@
 
 ## Arrangement
 * Nothing is missing
-    * If no moral, another overall (全体的な)summary (まとめ) sentence
+    * If no moral, another overall (全体的な) / summary (まとめ) type sentence
     * If no "However", another time order sentence (時間順文)
-    * etc - replace missing with similar ideas. 
+    * etc - replace anything missing with similar ideas. 
 * Good order (正しい順序) - same as example or similar
 * First sentence is topic 
     * gives main idea e.g. "This paragraph summarises"
@@ -23,9 +23,10 @@ Every sentence:
     * (You could do past (過去, but present is better for fiction. 
     * Definitely don't mix!
 * Is ≥ 10 words
+* [Avoids repetition](Style-AvoidRepetition)
 * Is spellchecked and grammar checked
-    * No red underlines!
-    * No blue underlines!
+    * No red lines!
+    * No blue lines!
 
 ## Delivery
 * Font is: 
