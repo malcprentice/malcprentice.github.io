@@ -91,7 +91,7 @@
             * BBC News
             * Reuters / AP / AFPBBNews
 
-### In summary: 
+A summary: 
 
 |Type        | *You hold this = italics*                               | You do not hold = no italics
 |---         |---                                                      |---
@@ -119,4 +119,12 @@ Title Case can be Confusing. Follow the Examples, but if you are Wondering why i
 
 * PAPER collections are *also italics*  
 * ONLINE collections are not italics
- 
+
+* If your book cover  is written "MY DOG" or "My Dog" 
+    * It __doesn't matter!__ Ignore it!
+    * In your references, write "My dog" 
+* If your newspaper is written "JAPAN TIMES" or "japan times" or "Japan times"
+    * It __doesn't matter!__ Ignore it!
+    * In your references, write "Japan Times""
+
+     
