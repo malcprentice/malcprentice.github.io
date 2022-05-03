@@ -22,7 +22,7 @@ Every sentence:
     * (現在). 
     * (You could do past (過去, but present is better for fiction. 
     * Definitely don't mix!
-* Is ≥ 10 words
+* Is ≥ 10 words - [avoid short sentences](Style-AvoidShortSentences)
 * [Avoids repetition](Style-AvoidRepetition)
 * Is spellchecked and grammar checked
     * No red lines!
