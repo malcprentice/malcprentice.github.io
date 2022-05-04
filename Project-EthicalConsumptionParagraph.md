@@ -13,8 +13,7 @@ By the end of this project, you will be able to write a paragraph summarising yo
 * Style: Write clear sentences, using formal English in academic style 
 * Delivery: Format (フォーマット) an essay well (fonts, spacing, titles etc)
 
-## Essay Project Class 1
-### 1A: Think and Understand
+## Class 1 Task A: Think and Understand
 * We buy/use a lot of different products every day
     * food every day
     * clothes every month
@@ -31,13 +30,12 @@ By the end of this project, you will be able to write a paragraph summarising yo
     * Is there palm oil in your toothpaste?  
     * Will your phone be recycled properly?
 
-### 1B: Read this example paragraph 
-* This is adapted from the 5 paragraph APA version: example ethical consumption essay 
-* Bold bits can and should be copied
-* See how keywords (e.g. "poverty") are NOUNS and are used three times 
-* See how the main topic (shea butter) isn't repeated too often. 
+### Class 1 Task B: Read this example paragraph 
+* Bold bits can be copied
+* Keywords (e.g. "poverty") are NOUNS and are used three times 
+* The main topic (shea butter) isn't repeated too often. 
 
-> **Every day in Japan, people use** personal care products like soap and hand cream. **One important part of these products is** shea butter, **which is made** from a nut grown in West Africa. **However, not all** shea butter **is produced in an ethical way. This paragraph outlines three problems that** shea butter production **can cause** - poverty, lack of child education, and loss of trees. **The first problem is** poverty. Developed countries buy shea butter at too low a cost for farmers to have a stable income. **For this reason,** people sometimes make enough money, but sometimes experience poverty. **The second problem is** lack of child education. Due to a the lack of money, children sometimes have to work making shea butter rather than go to school. **As a result,** many of them cannot read or write, as situation which can lead to problems arranging export, negotiating, and getting information. **The third problem is** loss of trees. Some people cut down the shea trees in order to make charcoal, which is sold as a commodity, and people can get income quickly. **However,** the trees take a very long time to grow again, and until then people cannot make the butter. **In summary, there are three main problems -** poverty, lack of child education, and loss of trees **- of which the most serious is** lack of child education. **One thing that university students wanting to help could do is to** write a letter to their favourite shop asking for them to stock more Fair Trade shea butter goods.
+> This paragraph outlines three problems that** shea butter production **can cause** - poverty, lack of child education, and loss of trees. **The first problem is** poverty. Developed countries buy shea butter at too low a cost for farmers to have a stable income. **For this reason,** people sometimes make enough money, but sometimes experience poverty. **The second problem is** lack of child education. Due to a the lack of money, children sometimes have to work making shea butter rather than go to school. **As a result,** many of them cannot read or write, as situation which can lead to problems arranging export, negotiating, and getting information. **The third problem is** loss of trees. Some people cut down the shea trees in order to make charcoal, which is sold as a commodity, and people can get income quickly. **However,** the trees take a very long time to grow again, and until then people cannot make the butter. **In summary, there are three main problems -** poverty, lack of child education, and loss of trees **- of which the most serious is** lack of child education. 
 
 ## Homework for class 2 (or class 1 if we have time): Choose a topic and do some reading
 * Make a list of products  
@@ -107,16 +105,15 @@ Share your ideas in class. Only do the third line (definition) if your topic wor
 * **Thirdly,** pollution. **GIVE TWO DETAILS.**
 * **Any questions?**
 
-## Class 2 Task B: Introductions and Conclusions 
-* This is for the first three and the last two sentences of your paragraph. 
-* I will explain in class. 
+## Class 2
+In class, we will also talk about: 
 
-## Class 2 Task C: Summarising longer articles 
-* This is for the part of your plan that says "Problems (see above, 9 sentences)"
-* I will explain in class. 
+* Introduction and conclusion
+* Writing summary sentences
+* Formatting written work. 
+
 
 ## Homework for Class 3
 * Find the template online
-* Write your 15 sentences
-* Remember the basics of formatting (font, indent, etc)
+* Write your 11 sentences
 * Bring it to class for friend check next week. 
