@@ -1,11 +1,14 @@
 # Checklist - Book Summary
 
 ## Arrangement
-* Nothing is missing
+* No sentences are missing 
+    * (8 sentences, 12 pieces of inforamtion)
+    * 123, 456, 7, 8, 9, 10, 11, 12
+* If you had to change something, it fits well (文は段落によく合う). 
     * If no moral, another overall (全体的な) / summary (まとめ) type sentence
-    * If no "However", another time order sentence (時間順文)
+    * If no "However", another time order (時間順文) type sentence
     * etc - replace anything missing with similar ideas. 
-* Good order (正しい順序) - same as example or similar
+* No extra irrelevant (無関係) sentences
 * First sentence is topic 
     * gives main idea e.g. "This paragraph summarises"
     * gives topic (book name)
@@ -20,13 +23,14 @@ Every sentence:
     * E.g. "In summary"
 * Is in present tense
     * (現在). 
-    * (You could do past (過去, but present is better for fiction. 
+    * (You could do past (過去, but present is better for fiction). 
     * Definitely don't mix!
 * Is ≥ 10 words - [avoid short sentences](Style-AvoidShortSentences)
 * [Avoids repetition](Style-AvoidRepetition)
 * Is spellchecked and grammar checked
     * No red lines!
     * No blue lines!
+    * Make a deliberate mistake ("I like doags"). If it doesn't get a red underline, check your language settings.
 
 ## Delivery
 * Font is: 
