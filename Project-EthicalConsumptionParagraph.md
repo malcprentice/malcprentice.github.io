@@ -3,7 +3,7 @@
 ## Aim 
 We will write an essay about ethical consumption (倫理的消費) (why we need to think carefully about people and the environment before we buy things).
 
-By the end of this project, you will be able to write a problem-solution paragraph:
+By the end of this project, you will be able to write a paragraph summarising your reading on the problem:
 
 * Invention
     * Research a topic
@@ -31,39 +31,26 @@ By the end of this project, you will be able to write a problem-solution paragra
     * Is there palm oil in your toothpaste?  
     * Will your phone be recycled properly?
 
-### 1B:  Watch a video
-* Watch this: video [Trainers/Sneakers (5 mins)](https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en)
-* Turn on subtitles (字幕)  
-* Take notes.
-
-### 1C: Read this example paragraph 
+### 1B: Read this example paragraph 
 * This is adapted from the 5 paragraph APA version: example ethical consumption essay 
 * Bold bits can and should be copied
-* Bold underline italics bits should be changed to match ideas
-* See how keywords are used in beginning, middle, and end. poverty, lack of child education, and loss of trees.
+* See how keywords (e.g. "poverty") are NOUNS and are used three times 
 * See how the main topic (shea butter) isn't repeated too often. 
 
-> Every day in Japan, people use personal care products like soap, moisturiser, and creams. One important ingredient in many of these products is shea butter, which is made from a nut grown in West Africa. However, not all shea butter is produced in an ethical way. This paragraph outlines three problems that shea butter production can cause - poverty, lack of child education, and loss of trees. The first problem is poverty. Developed countries buy shea butter at too low a cost for farmers to have a stable income. For this reason, people sometimes make enough money, but sometimes experience poverty. The second problem is lack of child education. Due to a the lack of money, children sometimes have to work making shea butter rather than go to school. As a result, many of them cannot read or write, as situation which can lead to problems arranging export, negotiating, and getting information ("Burkina Faso," n.d.). The third problem is loss of trees. Some people cut down the shea trees in order to make charcoal, which is sold as a commodity, and people can get income quickly ("Charity – shea dream," 2012). However, the trees take a very long time to grow again, and until then people cannot make the butter ("Charity – shea dream," 2012). In summary, there are three main problems - poverty, lack of child education, and loss of trees - of which the most serious is lack of child education. One action that university students wanting to help could take is to donate to a group working with shea butter makers, such as the NGO Intiraymi, or write a letter to their favourite cosmetics shop asking for them to stock Fair Trade shea butter goods.
+> **Every day in Japan, people use** personal care products like soap and hand cream. **One important part of these products is** shea butter, **which is made** from a nut grown in West Africa. **However, not all** shea butter **is produced in an ethical way. This paragraph outlines three problems that** shea butter production **can cause** - poverty, lack of child education, and loss of trees. **The first problem is** poverty. Developed countries buy shea butter at too low a cost for farmers to have a stable income. **For this reason,** people sometimes make enough money, but sometimes experience poverty. **The second problem is** lack of child education. Due to a the lack of money, children sometimes have to work making shea butter rather than go to school. **As a result,** many of them cannot read or write, as situation which can lead to problems arranging export, negotiating, and getting information. **The third problem is** loss of trees. Some people cut down the shea trees in order to make charcoal, which is sold as a commodity, and people can get income quickly. **However,** the trees take a very long time to grow again, and until then people cannot make the butter. **In summary, there are three main problems -** poverty, lack of child education, and loss of trees **- of which the most serious is** lack of child education. **One thing that university students wanting to help could do is to** write a letter to their favourite shop asking for them to stock more Fair Trade shea butter goods.
 
-### Class 1 Task 3: Introduction to APA for News, Websites, and Japanese sources
-* If this is too difficult for now, we will skip it. 
-
-
-## Homework for class 2: Do a little research, choose a topic
+## Homework for class 2 (or class 1 if we have time): Choose a topic and do some reading
 * Make a list of products  
     * things you used this week or that you buy regularly
     * things you have at home
     * things you want to buy
 * Make a list of the MATERIALS (材料) used in the things on your list
     * e.g. palm oil in toothpaste
-    * e.g. tantalum in iPhones
     * e.g. cotton in t-shirts
-* Choose a good essay topic from 2B and
+* Choose a good essay topic from your list:
     * Must be a material (材料) or a very simple product
     * Do not choose complicated things (e.g. iPhone)
-    * Do not choose my example essay topic (shea butter)
-    * Do not choose the video topic (sneakers)
-    * Do not choose endangered animal products like tuna (that's a different essay)
+    * Do not choose my example  topic (shea butter)
 * Claim it online
     * TASK: Post on Classroom 
     * Read what your classmates have posted. 
@@ -72,11 +59,11 @@ By the end of this project, you will be able to write a problem-solution paragra
 * Do some research - is your topic OK? 
     * Research your topic a little. 
         * Read 3 things. Take notes
-        * Japanese OK!
+        * Japanese OK! This is writing practice, not reading practice!
         * Google your topic + "problem" or the example keywords below
-            * Find good sources []() (newspapers, government, NGO). 
-            * Avoid bad sources []() (wikipedia, dictionary, answer sites) 
-            * Avoid plagiarisism! []()(don't copy paste into your notes, it's dangerous)
+            * Find good sources (newspapers, government, NGO). 
+            * Avoid bad sources (wikipedia, dictionary, answer sites) 
+            * Avoid plagiarisism! (don't copy paste into your notes, it's dangerous)
     * Find 3 problem keywords
         * For people (workers, farmers) and environment NOT for you/companies. 
         * e.g."tobacco farms use child labour" not "tobacco gives us cancer"
@@ -90,12 +77,12 @@ By the end of this project, you will be able to write a problem-solution paragra
         * If you can't find 3 problems,  change your topic! 
         * In class next week you will share your topic and research. I want to see
             * notes on what you read 
-            * three links
+            * 9 lines minimum,  
+            * three http links
             * Japanese OK. 
 
 
-## Class 2 Task A: Share your Ideas 
-
+## Class 2 Task A - Share your Ideas 
 You should now have notes like this
 
 * Problems 
@@ -113,30 +100,23 @@ Share your ideas in class. Only do the third line (definition) if your topic wor
 
 * **My name is** Hiroko
 * **I chose** Tantalum. 
-* Tantalum is a kind of metal used to make electronics like mobile phones. 
+* (Tantalum **is a kind of** metal used to make electronics like mobile phones.)
 * **There are three main problems** - child soldiers, dangerous mines, and pollution.  
-* **Firstly,** child soldiers. **GIVE DETAIL.**
-* **Secondly,** dangerous mines. **GIVE DETAIL.**
-* **Thirdly,** pollution. **GIVE DETAIL.**
+* **Firstly,** child soldiers. **GIVE TWO DETAILS.**
+* **Secondly,** dangerous mines. **GIVE TWO DETAILS.**
+* **Thirdly,** pollution. **GIVE TWO DETAILS.**
 * **Any questions?**
 
-## Class 2 Task B: Add Intro and Conclusion
-You need to add an intro and a conclusion. Don't worry! These are easier to write.
+## Class 2 Task B: Introductions and Conclusions 
+* This is for the first three and the last two sentences of your paragraph. 
+* I will explain in class. 
 
-* Introduction sentences 
-    * General Background (We buy things)
-    * Specific Background (One of those is YOUR TOPIC)
-    * Thesis statement (This paragraph looks at some problems that X (production) causes
-* Problems (see above, 9 sentences)
-* Conclusion sentences 
-    * Summary ("In summary"
-    * Final Comment (so what should we do about it?)
-
-## Class 2 Task C: APA for websites, news, and Japanese
-* We 
+## Class 2 Task C: Summarising longer articles 
+* This is for the part of your plan that says "Problems (see above, 9 sentences)"
+* I will explain in class. 
 
 ## Homework for Class 3
-* Find the template
-* Write your 14 sentences
+* Find the template online
+* Write your 15 sentences
 * Remember the basics of formatting (font, indent, etc)
 * Bring it to class for friend check next week. 
