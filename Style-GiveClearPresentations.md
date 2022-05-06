@@ -47,11 +47,12 @@
     * **STOP AND SIT DOWN! The next part is not in a normal presentation**
     * "Here is my learning reflection for this talk"
     * "Can someone give me feedback on my slides or presenting style?"
+    * Audience - [give good feedback](Style-GiveGoodFeedback)
 * Discussion question slide
     * "Next let's have a discussion."
     * "OK, so, my first/second/third question is QUESTION 1"
     * "What do you think, Hiroki?"
-    * **(See Discussion Worksheets)**
+    * [See Discussion Worksheets](https://docs.google.com/document/d/1GYvDm-zW2psmE7hWrZGnvu2prgL6RsZClCEgwk8fa_w/edit?usp=sharing)
 
  
 ## Remember
