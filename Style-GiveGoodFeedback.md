@@ -17,12 +17,12 @@
 
 ## Say something useful
 
-1) Transition
+* **Transition**
     * , but in the future 
     * Perhaps you might try to    
     * However,    
     * That said, you should probably 
-2) Advice 
+* **Advice** 
     * you could avoid touching/waving your notes
     * stop dropping your hand 
     * stand still/straight
@@ -34,7 +34,6 @@
     * avoid making a fist 
     * practice pronouncing new words 
     * practice speaking in phrases
-
-3) Say something else nice
+* **Say something else nice**
     * Either another phrase from above
     * Or just "Overall, I really enjoyed it"
