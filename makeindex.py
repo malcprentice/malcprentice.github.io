@@ -2,7 +2,7 @@
 import os
 import re
 root= "/Users/mp/Documents/GitHub/malcprentice.github.io/"
-indexlist = ["Orientation", "Project", "Resources", "Invention", "Style", "Checklist", "Admin"]
+indexlist = ["Orientation", "Project", "Resources", "Invention", "Style", "Checklist", "Admin", "Examples"]
 
 notfrontpage = ["Admin"]
 indexfile = root + "index.md"
