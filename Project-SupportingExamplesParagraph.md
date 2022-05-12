@@ -37,7 +37,11 @@ Topic question: "What is a good way to save money?"
     * Buy bike parking ticket  
     * but need to fix my wheel
 
-## Examples 
+## Template Suggestion
+
+>**This paragraph responds to the question** ‘Copy your question here in sentence case?’, **giving three examples. The first example is** KEYWORD 名詞/動名詞.  Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The second example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The third example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **In summary, there are at least three ways to** TOPIC - KEYWORD1, KEYWORD2, and KEYWORD2 - **of which the best is KEYWORDX.**
+
+## Examples (Topic + first detail only)
 > This paragraph responds to the question ‘How do I get up early?’, giving three examples. The first example is setting an alarm.  The main thing you need to do is make sure you have set a high volume alarm so you can hear it. However, this does not always work, so some people should set more than one alarm, for example my friend Hiroko sets six alarms. The second example is going to Bed early.....
 
 
