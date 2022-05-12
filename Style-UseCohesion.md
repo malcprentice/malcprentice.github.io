@@ -108,7 +108,7 @@ Because works both ways, but be careful of the order
 
 ## Signal quote/research
 * e.g. "According to"
-* See Index-Invention sheets
+* See (sentence style citation)[Invention-CiteSentenceStyle]
 
 ## Signal Importance
 * It is important to note that
@@ -126,40 +126,29 @@ Because works both ways, but be careful of the order
 * To sum up
 * In summary,
 * In summary, we have learned that X
-*In short
-*In brief
+* In short
+* In brief
+* Other Summaries 
+    * Opposite viewpoint (some TOEFL iBT essays) While it is true that A, it is also important to note that B.
+    * Time order: In summary, the three stages are A, then B, and finally C. (process)
+    * Solutions 
+        * In summary, there are three possible solutions - A, B, and C -
+        * of which only C is effective.
+        * all of which work.
+        * however none of these work.
+        * of which only A and B are effective.
+        * of which only the first is effective.
+        * of which only the second is effective.
+        * of which only the last is effective.
 
+## Not in academic essays
+* Unfortunately, 
+* Surprisingly,
 
-###Summaries that include the opposite viewpoint
-*While it is true that A, it is also important to note that B.
-
-###Summary for time order paragraph
-*In summary, the three stages are A, then B, and finally C. (process)
-
-###Summary for Solution paragraph
-In summary, there are three possible solutions - A, B, and C -
-*of which only C is effective.
-*all of which work.
-*however none of these work.
-*of which only A and B are effective.
-*of which only the first is effective.
-*of which only the second is effective.
-***of which only the last is effective.
-
-#Not in academic essays
-##Adding a sad/happy/unusual point
-*Unfortunately, 
-*Surprisingly,
-
-###Spoken phrases
-*All things considered,
-*All in all,
-*To recap
-
-###Other unacademic languuage. See [[Style - follow academic conventions]]
-
-
-
+## Spoken only
+* All things considered,
+* All in all,
+* To recap
 
 
 
