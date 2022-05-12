@@ -14,22 +14,19 @@ Write at least four sentences like this:
 * What is a good way for GROUP to make/do/improve/help/support PERSON (e.g. University -> refugee students)
 
 ## For homework
-
 Choose one you can write about and make a plan 
 
-* Your topic is a QUESTION (starts "What" and ends "?")
+* Your topic is a QUESTION (starts "What.." and ends "?")
 * You will need THREE EXAMPLES 
-    * Examples should be Keywords
+    * Examples should be Keywords or short key phrases
     * Keywords should be 名詞 or 動名詞
     * Keywords should be SHORT (1-4 words)
 * Each example will need TWO DETAILS
-* Just notes. Japanese OK. No sentences yet. 
-* If you can't think of ideas, CHANGE TOPIC
+    * Just notes. Japanese OK. No sentences yet. 
+    * If you can't think of details, CHANGE TOPIC
 
 ## Homework example (minimum detail, more is better!)
-
 Topic question: "What is a good way to save money?"
-
 * Example 1) Make my own food and drink
     * Make my own bento, not conbini or cafe
     * Make my own coffee, not starbucks 
@@ -39,4 +36,18 @@ Topic question: "What is a good way to save money?"
 * Example 3) Ride my bike, no train/bus
     * Buy bike parking ticket  
     * but need to fix my wheel
+
+## Examples 
+> This paragraph responds to the question ‘How do I get up early?’, giving three examples. The first example is setting an alarm.  The main thing you need to do is make sure you have set a high volume alarm so you can hear it. However, this does not always work, so some people should set more than one alarm, for example my friend Hiroko sets six alarms. The second example is going to Bed early.....
+
+
+
+>This paragraph responds to the question ‘What is a good way to spend the weekend?’, giving three examples. The first example is going shopping.  My favourite kind of shopping is for clothes, and the best area to do that is Ikebukuro, especially Sunshine City. In particular, the best shops there are Pen-GUin and Uni-Penguin because their clothes are varied but cheap. The second example is having dinner...
+
+## Tips
+* Careful that the SECOND detail sentence needs a link
+* See [Use Cohesion](Style-UseCohesion)
+
+
+
         
