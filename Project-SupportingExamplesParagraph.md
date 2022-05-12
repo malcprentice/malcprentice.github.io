@@ -17,7 +17,11 @@ Write at least four sentences like this:
 
 Choose one you can write about and make a plan 
 
+* Your topic is a QUESTION (starts "What" and ends "?")
 * You will need THREE EXAMPLES 
+    * Examples should be Keywords
+    * Keywords should be 名詞 or 動名詞
+    * Keywords should be SHORT (1-4 words)
 * Each example will need TWO DETAILS
 * Just notes. Japanese OK. No sentences yet. 
 * If you can't think of ideas, CHANGE TOPIC
