@@ -1,0 +1,9 @@
+#Official ETS high scoring examples
+Here: https://www.ets.org/Media/Tests/TOEFL/pdf/SampleQuestions.pdf
+ 
+#A good example from a previous student
+_In answer to Homeschooling question, p251 in old purple Longman TOEFL prep book (p328 in new white edition)_
+<example>
+The lecture completely refutes the passage. While the reading states that homeschooling is not good, the lecture says that this is not true. The reading argues that homeschooled students will not learn as much as children at traditional school, because traditional school children must learn a topic well, whereas homeschooled students are not required to master subject before moving on. However the lecture notes that this is not proven, and in fact many studies proved homeschooled children learn far more. The second argument in the reading is that homeschooled students have less social interaction - that they will be able to meet parents, brothers and sisters only. The lecture contradicts this, noting that students have lots of interaction if their parents arrange it with other homeschooled children and they could in fact have more interaction, as it can happen any time. Finally, the reading states that the curriculum is narrower. It says that traditional schools have more established curriculum and more varieties of subjects. The lecture on the other hand argues that students who learn at home have more variety of topic because they are not limited by school boards. That is why parents can teach anything - for example astronomy, medicine and Chinese. For the above reasons, it is doubtful that homeschooling is bad. In fact, it could be more attractive and parents can give good education to children. 
+</example>
+_Thanks to my 2014 TOEFL class for the original samples the above is based on_
