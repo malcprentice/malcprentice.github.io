@@ -19,7 +19,7 @@
 * What each sentence does ("Signalling")
 
 ## For example
-|Signal                              | Example
+|Signal                              |Example
 |---                                 |---
 |This an example sentence            |"For example, ..."
 |This is another example             |"A second example of this would be..."
