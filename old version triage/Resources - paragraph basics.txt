@@ -5,7 +5,7 @@ The weather was terrible, and the food wasn’t so good, but there was a lot to 
 I saw some castles, some museums, got sick, and played hiking in some beatiful mountains.
 When I was younger I went to Kyoto - it had a castle too. 
 
-###Each paragraph below is the same, but one problem has been solved. What problem?
+### Each paragraph below is the same, but one problem has been solved. What problem?
 
 ###1
 The weather was terrible, and the food wasn’t so good, but there was a lot to see. I saw some castles, some museums, got sick, and played hiking in some beatiful mountains. When I was younger I went to Kyoto - it had a castle too.
