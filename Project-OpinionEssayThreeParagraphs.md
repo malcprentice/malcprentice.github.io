@@ -41,7 +41,7 @@
 ## Example notes/outline plan
 * __"This paragraph argues that__ everyone should do a Study Abroad"
     * The first reason is learning English.
-        * For example, my brother Hiroki said good
+        * For example, my brother = 2 weeks Canada, TOEIC up 93 points
         * Cite this: [link](https://www.kaplanpathways.com/blog/top-8-reasons-to-study-abroad/)
     * The second reason is learning about new cultures
         *  Local dances and music. 
