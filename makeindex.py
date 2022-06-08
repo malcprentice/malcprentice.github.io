@@ -2,7 +2,7 @@
 import os
 import re
 root= "/Users/mp/Documents/GitHub/malcprentice.github.io/"
-indexlist = ["Orientation", "Project", "Resources", "Invention", "Style", "Checklist", "Admin", "Examples"]
+indexlist = ["Orientation", "Project", "Resources", "Invention", "Arrangement", "Style", "Checklist", "Admin", "Examples"]
 
 notfrontpage = ["Admin"]
 indexfile = root + "index.md"
@@ -24,6 +24,7 @@ for item in indexlist:
             if not entry in notfrontpage:
                 pagetitle = entry[itemlen:][:-3]
                 pagetitle = re.sub(r"(\w)([A-Z])", r"\1 \2", pagetitle)
+                pagetitle = re.sub(r"([A-Z])([A-Z])", r"\1 \2", pagetitle)
                 #outputs clear spaced title for adding as link
                 #add to single main index file for now
                 #uncomment next line to get full index on front page

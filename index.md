@@ -7,6 +7,8 @@
 
 [Invention](Index-Invention)
 
+[Arrangement](Index-Arrangement)
+
 [Style](Index-Style)
 
 [Checklist](Index-Checklist)
