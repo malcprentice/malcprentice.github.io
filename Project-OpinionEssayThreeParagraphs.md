@@ -28,9 +28,7 @@
 * ~~Conclusion paragraph~~ (We will do later)
 
 
-
-
-## For homework 
+## Homework 1
 * AT LEAST 10 LINES OF NOTES IN ENGLISH ON A PIECE OF PAPER:
     * ONE OPINION
     * THREE REASONS  (to SUPPORT your opinion)
@@ -38,7 +36,7 @@
 * At least one ENGLISH newspaper article on the topic. 
 * NOTES and KEYWORDS, NOT SENTENCES YET. 
 
-## Example notes/outline plan
+## Homework 1 Example notes/outline plan
 * __"This paragraph argues that__ everyone should do a Study Abroad"
     * The first reason is learning English.
         * For example, my brother = 2 weeks Canada, TOEIC up 93 points
@@ -49,4 +47,58 @@
     * The third reason is eating new food. 
         * Example 1: Pizza
         * Example 2: Paprikash
+
+
+## Homework 2 - Write body paragraph 
+* "draft 0 (body paragraph only, NOT intro or conclusion)"
+* See examples and template. 
+
+## Homework 3 - draft 1 
+
+### Homework 3A - add introduction (4 sentences)
+
+Imagine your essay is "people should drink more water" or "Panda Ramen in Ikebukuro is best ramen"
+
+|Sentence                      |Example 1                                       |Example2
+|------                        |-----------                                     |-----------
+|1 General Background (GB)     |Health                                          |students hungry 
+|2 Specific Background (SB)    |get enough water                                |ramen
+|3 Importance Background (IB)  |dehydration is dangerous                        |if hungry, can't study
+|4 Thesis statement (opinion)  |people should drink 2l of water a day in summer |Panda Ramen in Ikebukuro is best ramen
+
+* __Write__ the introduction
+    * __Most people__ want to be healthy. __One of the best__ ways is to get enough water. __This is important because__ dehydration is dangerous. __This essay argues that__ people should drink two liters of water a day.
+    * A lot of students get hungry. __One of the best foods__ when you are hungry is ramen. __This is important because__ if we are hungry we can't study. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro. 
+* __Fix__ the introduction. 10 words minimum per sentence (but 10 won't get you a perfect score!)
+    * __Most people__ want to be healthy so that they can enjoy life and not worry. __One of the best__ ways is to get enough water into their bodies regularly. __This is important because__ dehydration is dangerous and can make us feel bad or even kill us. __This essay argues that__ people should drink at least two liters of water a day, especially in summer.
+    * A lot of students get hungry, especially at lunchtime or after class. __One of the best foods__ when you are hungry is ramen, whether it is miso, shoyu, or tonkotsu. __This is important because__ if we are hungry we can't study and we might fail our classes and make our parents sad. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro near the south gate.
+
+If you don't like _"most people" and "one of the best" and "This is important because",_ read the [full guide to writing an introduction](Style-WriteAnIntroductionParagraph) for more ideas
+
+
+### Homework 3B - add conclusion (3 sentences)
+* __In summary, this essay argued that__ OPINION. __There were three reasons why__ - KEYWORD1, KEYWORD2, and KEYWORD3 - __of which the most important is__ KEYWORDX. __If you__ ??? , __I recommend you__ SPECIFIC IDEA.
+* __In summary, this essay argued that__ people should drink 2l of water a day in summer. __There were three reasons why__ - blood pressure, good skin, and mental health - __of which the most important is__ mental health. __If you__ want to drink more water, __I recommend you__ carry your own bottle and bring ice from home.
+* __In summary, this essay argued that__ Panda Ramen in Ikebukuro is best ramen. __There were three reasons why__ - taste, price, and friendly staff - __of which the most important__ is taste. __If you__ want to go there, I recommend you try the tonkotsu ramen with extra onion and extra panda. 
+
+### Homework 3C - check for common mistakes
+
+Your friend will check 3C next week. Make their job easy!
+
+* Title in title case
+* Don't give your opinion in the GB. Only the SB
+* Times New Roman 12 pt black font. 
+* At least 10 words per sentence except ("The first" etc). More if you want a good score. 
+* Check spaces 
+    * space AFTER comma, period. 
+    * space AROUND hyphen - and BEFORE brackets (like this). 
+    * space BEFORE brackets () 
+* Count the sentences (4 intro, 10 body, 3 conclusion)
+* At least one APA reference
+
+
+
+
+
+
 

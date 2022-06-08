@@ -1,36 +1,22 @@
 # Arrangement - Write an Introduction Paragraph
-
-
 There are many ways to write an introduction. This is ONE way. 
 
 * Some teachers will use the word "funnel"
 * The idea is to start BIG and go SMALL. 
 * Introductions prepare your reader by giving 6 pieces of information:
-    * GB - General background
-        * name __category__ of topic, to catch interest. 
-        * __Don't name your actual topic__
-    * SB - Specific background - __name your topic__ and define it if necessary
-    * IB - Importance background - Why should I care?
-    * Thesis Statement (copy the example)
-
-|Section                         |content
-|--------------------------------|-----------------------------------
-|General Background (GB)         |seeing animals
-|Specific Background (SB)        |Zoos - good or bad
-|Importance Background (IB)      |don't pay for cruelty
-|Thesis statement - Topic        |Ueno Zoo
-|Thesis statement - Main idea    |argue
-|Paragraph keywords (e.g. your three reasons)     |lots of animals / nice homes / easy access
 
 
-> These days, it is hard to see animals in the wild. One place you can see animals is the zoo, which Japan has many of. However, it is important to choose a zoo that takes good care of animals, because if we give money to a bad zoo we are paying for animals to be badly treated. This essay argues that Ueno Zoo is the best in the world, for three reasons: they have lots of animals, the animals have nice homes, and it is easy to access.
+|Section                         |content                     |Example
+|--------------------------------|--------------------        |---------------
+|General Background (GB)         |__category__ of topic       |cheap clothes
+|Specific Background (SB)        |Name specific topic         |cotton
+|Importance Background (IB)      |Why care? Why important?    |causes suffering/pollution  
+|Thesis statement - Topic        |                            |cotton production
+|Thesis statement - Main idea    |compare? argue? how to?     |description-problems-solution
+|Keywords - optional             |one word per paragraph      |(main idea = keyword, so not needed)
+
 
 ## GB - General Background
-* Don't just suddenly start "Tantalum is bad!" or "Narwhals are in danger!"
-* DO NOT NAME YOUR TOPIC in GB. Save it for SB
-* Catch my interest first
-* Name a wider topic I know (iPhones, endangered animals)
-
 |Type:           |Example
 |----------------|---------------------------
 |"Many":         |Many people regularly use/drink/buy/wear X without thinking.
@@ -41,18 +27,9 @@ There are many ways to write an introduction. This is ONE way.
 |Quote:          |According to the WWF (2013) the world today is "addicted to oil".
 |List:           |1, 2, 3, and 4 are all products commonly use in Japan. All of these 
  
+ 
 
-In Academic Writing, avoid these:
-
-* Personal statements ("I..." /// "When I was young")
-* Definitions ("The Oxford dictionary defines imagination as....")
-* Questions ("Have you ever wondered where geniuses get their ideas?")
-
-(Personal and Questions are OK in other writing, like TOEFL iBT independent introductions, but most teachers hate GB definitions everywhere)
-
-## SB - Specific background
-Name (and maybe define) your topic
-
+## SB - Specific background - Name and define your topic
 |Type:           |Example
 |------------------------|-------------------
 |One of the most + ADJ   |One of the most endangered animals is the Harp Seal, which
@@ -77,17 +54,21 @@ Name (and maybe define) your topic
     * The results/information below should be useful to ...
     * Knowing more about X should help Y (do Z)
 
+## Tips
+* Sometimes thesis statement also has keywords - one per paragraph
+* DO NOT NAME YOUR TOPIC in GB. Save it for SB
+* Do not use these for GB:
+    * Personal statements ("I...", "When I was"). OK in TOEFL iBT, not here
+    * Definitions ("The Oxford dictionary defines imagination as....")
+    * Questions ("Do you know X?") - OK in speech, not writing
+* IB can be replaced with a definition or a partition if you haven't already used that in SB or in a description paragraph
+* Sometimes the order is GB-IB-SB-Thesis (if your SB isn't actually important)
 
-* Tips
-    * IB can be replaced with a definition or a partition if you haven't already used that in SB or in a description paragraph
-    * Sometimes the order is GB-IB-SB-Thesis (if your SB isn't actually important)
 
 
-
-
-## Thesis Statement
-For first year essays, keep it simple. Copy the example
-
+## THESIS STATEMENT
+* Opinion 
+    * "This essay argues that X, for three reasons - 1, 2, and 3."
 * Ethical consumption
     * Examples
         * This essay first describes X in detail, then summarizes some problems it/they/its production/their production causes/is causing, and finally outlines some possible solutions to those problems.
@@ -109,19 +90,18 @@ For first year essays, keep it simple. Copy the example
 
 
 ##  Full Examples
-> Many people use seasoning every day to make their food taste better. One of the most common seasonings used in Japan is salt. However, not all of this is made in an ethical way, and its production can cause problems. This essay first describes salt production in detail, then looks at some problems it causes and some possible solutions to those problems.
-
-
 > Many students in this University own leather products, mostly as bags or shoes. The most common animal used to make the leather for these is the cow. However, cow leather is often produced in a way that causes suffering for the cows and problems for the environment. This essay first describes how cow leather is made, then looks at some problems it causes and some possible solutions to those problems
-
-
-> In the world, there are 6.3 billion vehicles ("Cars," n.d.), and they all need fuel to drive. Most cars run on fossil fuels, however there are a number of biofuels, of which the most common is made from corn. However, not all of this is made in an ethical way, and its production can cause problems. This essay first describes how corn-based biofuel is made, then looks at some problems it causes and some possible solutions to those problems
-
 
 
 > As Prime Minister Abe noted recently, the Japanese economy is "improving rapidly". This is in part due to increased car exports in the developing world. Since the Japanese economy relies heavily on this industry, it is an important topic for the future. This essay compares the approach of two car makers to this expanding market - Mitsubishi and Suzuki. 
 
 
 > Most people in Japan take for granted that if they get sick, they can go to the hospital and get help. However, this is not always true in the developing world, where access to medicine and doctors can be difficult. This is a problem because if people cannot access medical help, it shortens their life and damages the economy of the country. This essay uses the example of one country - Afghanistan - as a case study to examine this problem, then looks at whether the lessons learned there can be applied elsewhere.
- 
+
+
+> In the world, there are 6.3 billion vehicles ("Cars," n.d.), and they all need fuel to drive. Most cars run on fossil fuels, however there are a number of biofuels, of which the most common is made from corn. However, not all of this is made in an ethical way, and its production can cause problems. This essay first describes how corn-based biofuel is made, then looks at some problems it causes and some possible solutions to those problems
+
+
+
+
  
