@@ -9,6 +9,6 @@
 * [Write A Definition Sentence](Style-WriteADefinitionSentence.md)
 * [Write A Detail Sentence](Style-WriteADetailSentence.md)
 * [Write A Partition Sentence](Style-WriteAPartitionSentence.md)
+* [Write A Summary Sentence](Style-WriteASummarySentence.md)
 * [Write A Time Order Sentence](Style-WriteATimeOrderSentence.md)
-* [Write Reading And Listening Reflections ](Style-WriteReadingAndListeningReflections .md)
-* [Write Summary Sentences](Style-WriteSummarySentences.md)
+* [Write Reading And Listening Reflections](Style-WriteReadingAndListeningReflections.md)
