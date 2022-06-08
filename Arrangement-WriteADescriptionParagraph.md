@@ -43,18 +43,19 @@ This is ONE structure of a description paragraph.
 > This paragraph describes TOPICs in detail. TOPICs are CATEGORY which UNIQUE FEATURE. There are three kinds of TOPICs - A, B, and C - of which the most ADJECTIVE, and the topic of this essay, is B. This species is similar to SIMILAR THING WE KNOW BETTER in that it is X, however unlike SIMILAR THING, it is Y. X was first discovered in Y ...then...in 1956 it became....After that...until at last in 2015 it.... A sentence with more detail. A sentence with more detail. The next paragraph looks at some problems which X are facing.
 
 
-> This paragraph describes Bengal Tigers in detail. The Tiger is a kind of big cat - it is the largest of these, famous for its striped coat ("Tiger," n.d.). There are six kinds of tiger - Bengal, Siberian, Sumatran, Malayan, Indochinese, and South Chinese - of which the most endangered, and the topic of this essay, is the Siberian. This species is similar to the more famous Bengal in that it has he same striped coat and approximate size ("Siberian Tiger," n.d.). However, they live in much colder weather, and hunt mostly students who do not do their homework, whereas the Bengal eats mostly natto ("Tiger," n.d.). TIME ORDER SKIPPED BECAUSE IT WOULD REPEAT INFORMATION GIVEN LATER IN "PROBLEMS". The Siberian Tiger enjoys playing tennis in summer, even though it has no thumbs ("Wimbledon success," n.d.). Additionally, most Siberian Tigers are fluent in both Russian and French ("Bonjour," n.d.). The next paragraph looks at three problems that are causing the Bengal tiger to become endangered.
+> This paragraph describes Bengal Tigers in detail. The Tiger is a kind of big cat - it is the largest of these, famous for its striped coat ("Tiger," n.d.). There are six kinds of tiger - Bengal, Siberian, Sumatran, Malayan, Indochinese, and South Chinese - of which the most endangered, and the topic of this essay, is the Siberian. This species is similar to the more famous Bengal in that it has he same striped coat and approximate size ("Siberian Tiger," n.d.). However, they live in much colder weather, and hunt mostly students who do not do their homework, whereas the Bengal eats mostly natto ("Tiger," n.d.). The Siberian Tiger enjoys playing tennis in summer, even though it has no thumbs ("Wimbledon success," n.d.). Additionally, most Siberian Tigers are fluent in both Russian and French ("Bonjour," n.d.). The next paragraph looks at three problems that are causing the Bengal tiger to become endangered.
 
-###Other examples
-See the templates and essay examples in the shared materials folder. 
+Note that this one has no time order. 
 
-#Tips
-1) Don't give obvious information ("Siberian Tigers are a kind of tiger that lives in Siberia")
-2) Careful with "First/Firstly...Secondly...Thirdly" 
-*It's OK with similar things (three problems, three solutions). 
-*It's NOT OK with different things without keywords (comparison, partition, process)
-*It IS OK inside the time order, though. ("To make X, first")
-3) Definition and partition don't combine well sometimes. 
-*Be careful if you use both! Define at a HIGHER level. 
-*"The Indian Elephant is a kind of elephant. There is only one kind of Indian elephant"
-*"The Elephant is the largest land mammal in the world. There are three kinds of elephant."
+
+## Tips
+
+* Don't give obvious information ("Siberian Tigers are a kind of tiger that lives in Siberia")
+* Careful with "First/Firstly...Secondly...Thirdly" 
+    * It's OK with similar things (three problems, three solutions). 
+    * It's NOT OK with different things without keywords (comparison, partition, process)
+    * It IS OK inside the time order, though. ("To make X, first")
+* Definition and partition don't combine well sometimes. 
+    * Be careful if you use both! Define at a HIGHER level. 
+    * "The Indian Elephant is a kind of elephant. There is only one kind of Indian elephant"
+    * "The Elephant is the largest land mammal in the world. There are three kinds of elephant."
