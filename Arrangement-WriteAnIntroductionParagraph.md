@@ -63,7 +63,7 @@ Name (and maybe define) your topic
 |Following a GB "List"   |All of these are/contain ...
 |Use a partition         |There are three main kinds of X - 1, 2, and 3 - of which
 
-## IB - Specific background
+## IB - Importance background
 * __However,__ not all X is made in an ethical way
 * __This is a__
     * This is a problem that needs solving because...
