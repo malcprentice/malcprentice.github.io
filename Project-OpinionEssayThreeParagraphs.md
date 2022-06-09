@@ -25,6 +25,7 @@
     * The third reason is KEYWORD
         * Detail sentence
         * Detail sentence
+    * Optional summary sentence
 * ~~Conclusion paragraph~~ (We will do later)
 
 
@@ -73,7 +74,7 @@ Imagine your essay is "people should drink more water" or "Panda Ramen in Ikebuk
     * __Most people__ want to be healthy so that they can enjoy life and not worry. __One of the best__ ways is to get enough water into their bodies regularly. __This is important because__ dehydration is dangerous and can make us feel bad or even kill us. __This essay argues that__ people should drink at least two liters of water a day, especially in summer.
     * A lot of students get hungry, especially at lunchtime or after class. __One of the best foods__ when you are hungry is ramen, whether it is miso, shoyu, or tonkotsu. __This is important because__ if we are hungry we can't study and we might fail our classes and make our parents sad. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro near the south gate.
 
-If you don't like _"most people" and "one of the best" and "This is important because",_ read the [full guide to writing an introduction](Style-WriteAnIntroductionParagraph) for more ideas
+If you don't like _"most people" and "one of the best" and "This is important because",_ read the [full guide to writing an introduction](Arrangement-WriteAnIntroductionParagraph) for more ideas
 
 
 ### Homework 3B - add conclusion (3 sentences)
@@ -93,7 +94,10 @@ Your friend will check 3C next week. Make their job easy!
     * space AFTER comma, period. 
     * space AROUND hyphen - and BEFORE brackets (like this). 
     * space BEFORE brackets () 
-* Count the sentences (4 intro, 10 body, 3 conclusion)
+* Count the sentences:
+    * 4 intro
+    * 10 body (11 if you wrote summary)
+    * 3 conclusion
 * At least one APA reference
 
 
