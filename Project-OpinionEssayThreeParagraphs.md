@@ -58,7 +58,6 @@
 
 ### Homework 3A - add introduction (4 sentences)
 
-Imagine your essay is "people should drink more water" or "Panda Ramen in Ikebukuro is best ramen"
 
 |Sentence                      |Example 1                                       |Example2
 |------                        |-----------                                     |-----------
@@ -69,10 +68,10 @@ Imagine your essay is "people should drink more water" or "Panda Ramen in Ikebuk
 
 * __Write__ the introduction
     * __Most people__ want to be healthy. __One of the best__ ways is to get enough water. __This is important because__ dehydration is dangerous. __This essay argues that__ people should drink two liters of water a day.
-    * A lot of students get hungry. __One of the best foods__ when you are hungry is ramen. __This is important because__ if we are hungry we can't study. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro. 
-* __Fix__ the introduction. 10 words minimum per sentence (but 10 won't get you a perfect score!)
+    * A lot of students get hungry. __One of the best foods__ when you are hungry is ramen. __This is important because__ if we are hungry we cannot study. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro. 
+* __Improve__ the introduction. (10 words minimum, more for a good score)
     * __Most people__ want to be healthy so that they can enjoy life and not worry. __One of the best__ ways is to get enough water into their bodies regularly. __This is important because__ dehydration is dangerous and can make us feel bad or even kill us. __This essay argues that__ people should drink at least two liters of water a day, especially in summer.
-    * A lot of students get hungry, especially at lunchtime or after class. __One of the best foods__ when you are hungry is ramen, whether it is miso, shoyu, or tonkotsu. __This is important because__ if we are hungry we can't study and we might fail our classes and make our parents sad. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro near the south gate.
+    * A lot of students often get hungry, especially at lunchtime or after class. __One of the best foods__ when you are hungry is ramen, whether it is miso, shoyu, or tonkotsu. __This is important because__ if we are hungry we cannot study and we might fail our classes and make our parents sad. __This essay argues that__ the best ramen place is Panda Ramen in Ikebukuro near the south gate.
 
 If you don't like _"most people" and "one of the best" and "This is important because",_ read the [full guide to writing an introduction](Arrangement-WriteAnIntroductionParagraph) for more ideas
 
@@ -82,23 +81,54 @@ If you don't like _"most people" and "one of the best" and "This is important be
 * __In summary, this essay argued that__ people should drink 2l of water a day in summer. __There were three reasons why__ - blood pressure, good skin, and mental health - __of which the most important is__ mental health. __If you__ want to drink more water, __I recommend you__ carry your own bottle and bring ice from home.
 * __In summary, this essay argued that__ Panda Ramen in Ikebukuro is best ramen. __There were three reasons why__ - taste, price, and friendly staff - __of which the most important__ is taste. __If you__ want to go there, I recommend you try the tonkotsu ramen with extra onion and extra panda. 
 
-### Homework 3C - check for common mistakes
+### Homework 3C
+* Add at least one APA reference
+* No author? Move the title
+* No date? Write (n.d.), and add "Retrieved June 1, 2022, from https://etc"
 
-Your friend will check 3C next week. Make their job easy!
+### Homework 3D - Check the list of common mistakes yourself. 
 
-* Title in title case
-* Don't give your opinion in the GB. Only the SB
-* Times New Roman 12 pt black font. 
-* At least 10 words per sentence except ("The first" etc). More if you want a good score. 
-* Check spaces 
-    * space AFTER comma, period. 
-    * space AROUND hyphen - and BEFORE brackets (like this). 
-    * space BEFORE brackets () 
-* Count the sentences:
-    * 4 intro
-    * 10 body (11 if you wrote summary)
-    * 3 conclusion
-* At least one APA reference
+* Check the Presentation (new template style)
+    * title 18pt,  bold,  center
+    * subtitle 16pt, bold, center
+    * text text 12 pt, double spaced, justified
+    * black only
+    * Title in [Title Case](Style-UseTitleCase)
+    * Correct name, etc, in subtitle
+* Check the Arrangement
+    * Count the sentences: 17
+        * Paragraph 1 (intro): 4 
+        * Paragraph 2 (body): 10 (move "In summary" from body to conclusion)
+        * Paragraph 3 (conclusion): 3
+    * Main opinion topic named in the Intro __second__ sentence (SB), not first (GB). 
+        * e.g. for "drink more water" example:
+        * __Most people__ want to be healthy ~~by drinking water.~~ __One of the best__ ways is to have a "My bottle"
+        * Topic of this essay is now "buy a My Bottle", not "drink more water"
+* Check the Style
+    * No repetition
+        * You should drink water because ~~water~~ is good
+        * You should drink water because __it__ is good
+    * No abbreviations: 
+        * ~~don't~~ __do not__ 
+        * ~~can't~~ __cannot__
+        * etc
+    * ≥ 10 words per sentence 
+        * (except "The first", "The second", "The third"). Short OK for those three. 
+        * Want a good score? 10 words not enough. Give more detail!
+    * Check spaces 
+        * space AFTER comma, period. 
+            * ~~I like cats,and dogs .I don't like cockroaches~~
+            * I like cats, and dogs. I don't like cockroaches.
+        * space AROUND hyphen 
+            * ~~three reasons-happiness~~ 
+            * three reasons - happiness
+        * space BEFORE brackets ()
+            * I like ~~cats(Suzuki,~~ 2009).
+            * I like cats (Suzuki, 2009). 
+* Check the Invention
+    * At least one reference
+    * (n.d.) references need "Retrieved June 1, 2022, from https://etc"
+
 
 
 
