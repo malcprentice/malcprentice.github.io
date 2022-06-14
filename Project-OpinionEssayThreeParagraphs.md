@@ -128,6 +128,8 @@ If you don't like _"most people" and "one of the best" and "This is important be
 * Check the Invention
     * At least one reference
     * (n.d.) references need "Retrieved June 1, 2022, from https://etc"
+    * link not hyperlink: [http://alba-english.com](http://alba-english.com) not [Alba English](http://alba-english.com)
+    * FAMILY name + initial - "Suzuki, H." not ~~"Suzuki, Hiroko" or "Hiroko Suzuki"~~
 
 
 
