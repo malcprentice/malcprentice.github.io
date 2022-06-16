@@ -86,55 +86,8 @@ If you don't like _"most people" and "one of the best" and "This is important be
 * No author? Move the title
 * No date? Write (n.d.), and add "Retrieved June 1, 2022, from https://etc"
 
-### Homework 3D - Check the list of common mistakes yourself. 
-
-* Check the Presentation (new template style)
-    * title 18pt,  bold,  center
-    * subtitle 16pt, bold, center
-    * text text 12 pt, double spaced, justified
-    * black only
-    * Title in [Title Case](Style-UseTitleCase)
-    * Correct name, etc, in subtitle
-* Check the Arrangement
-    * Count the sentences: 17
-        * Paragraph 1 (intro): 4 
-        * Paragraph 2 (body): 10 (move "In summary" from body to conclusion)
-        * Paragraph 3 (conclusion): 3
-    * Main opinion topic named in the Intro __second__ sentence (SB), not first (GB). 
-        * e.g. for "drink more water" example:
-        * __Most people__ want to be healthy ~~by drinking water.~~ __One of the best__ ways is to have a "My bottle"
-        * Topic of this essay is now "buy a My Bottle", not "drink more water"
-* Check the Style
-    * No repetition
-        * You should drink water because ~~water~~ is good
-        * You should drink water because __it__ is good
-    * No abbreviations: 
-        * ~~don't~~ __do not__ 
-        * ~~can't~~ __cannot__
-        * etc
-    * ≥ 10 words per sentence 
-        * (except "The first", "The second", "The third"). Short OK for those three. 
-        * Want a good score? 10 words not enough. Give more detail!
-    * Check spaces 
-        * space AFTER comma, period. 
-            * ~~I like cats,and dogs .I don't like cockroaches~~
-            * I like cats, and dogs. I don't like cockroaches.
-        * space AROUND hyphen 
-            * ~~three reasons-happiness~~ 
-            * three reasons - happiness
-        * space BEFORE brackets ()
-            * I like ~~cats(Suzuki,~~ 2009).
-            * I like cats (Suzuki, 2009). 
-* Check the Invention
-    * At least one reference
-    * (n.d.) references need "Retrieved June 1, 2022, from https://etc"
-    * link not hyperlink: [http://alba-english.com](http://alba-english.com) not [Alba English](http://alba-english.com)
-    * FAMILY name + initial - "Suzuki, H." not ~~"Suzuki, Hiroko" or "Hiroko Suzuki"~~
-
-
-
-
-
+### Homework 3D - Check the list of common mistakes 
+* Link is [here](https://docs.google.com/document/d/1Lc49kjd4fDCqhIbSitnMP1vIdU9uNkyvreXpBVvrnME/edit#)
 
 
 
