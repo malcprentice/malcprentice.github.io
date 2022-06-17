@@ -87,7 +87,5 @@ If you don't like _"most people" and "one of the best" and "This is important be
 * No date? Write (n.d.), and add "Retrieved June 1, 2022, from https://etc"
 
 ### Homework 3D - Check the list of common mistakes 
-* Link is [here](https://docs.google.com/document/d/1Lc49kjd4fDCqhIbSitnMP1vIdU9uNkyvreXpBVvrnME/edit#)
-
-
+* Link is [here](Checklist-Essays)
 

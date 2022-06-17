@@ -88,3 +88,5 @@ Remember that your solutions and problems don't need to match exactly. For examp
         * "There are seven kinds of tiger, of which the Siberian...."
         * "The Siberian tiger is the only member of the big cat family which plays tennis"
 
+## Check the list of common mistakes 
+* Link is [here](Checklist-Essays)

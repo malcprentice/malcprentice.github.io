@@ -53,5 +53,6 @@ Topic question: "What is a good way to save money?"
 * See [Use Cohesion](Style-UseCohesion)
 
 
-
+## Check the list of common mistakes 
+* Link is [here](Checklist-Essays)
         

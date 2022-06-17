@@ -92,15 +92,8 @@ Example structure (4 paragraphs)
     * Final Comment (A recommendation. I will explain more in class)
 
 
-## Common mistakes
+### Homework 3D - Check the list of common mistakes 
+* Link is [here](Checklist-Essays)
 
-World heritage is an **idea** not a place 
 
-* NO: ~~"This essay describes a world heritage."~~
-* NO: ~~"This world heritage is..."~~
-* OK: "This essay describes a world heritage **site.**"
-* OK: This essay compares two world heritage **sites**. 
-* OK: This world heritage **site** is...
-* OK: This world heritage **organisation** is...
-* OK: This essay argues why world heritage is important.
-* OK: Most world heritage is governed by UNESCO
+

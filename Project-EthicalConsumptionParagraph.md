@@ -117,3 +117,6 @@ In class, we will also talk about:
 * Find the template online
 * Write your 11 sentences
 * Bring it to class for friend check next week. 
+
+## Check the list of common mistakes 
+* Link is [here](Checklist-Essays)
