@@ -1,6 +1,6 @@
 # Invention - Cite Brackets Style
 * Brackets (かっこ) style is 
-    * easiest, and the only option for slides and titles.  
+    * easiest, and the only option for slides and titles
     * See [Citation General Rules](Invention-CitationGeneralRules) for alternatives. 
 
 ## Basics of Brackets style
