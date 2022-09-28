@@ -1,5 +1,6 @@
 # Project
 * [Book Summary](Project-BookSummary.md)
+* [Cover Letter And Resume](Project-CoverLetterAndResume.md)
 * [Endangered Animals Essay](Project-EndangeredAnimalsEssay.md)
 * [Ethical Consumption Paragraph](Project-EthicalConsumptionParagraph.md)
 * [Opinion Essay Three Paragraphs](Project-OpinionEssayThreeParagraphs.md)
