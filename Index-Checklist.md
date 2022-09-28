@@ -1,3 +1,3 @@
 # Checklist
-* [Book Summary](Checklist-BookSummary.md)
+* [Essays](Checklist-Essays.md)
 * [Slides](Checklist-Slides.md)

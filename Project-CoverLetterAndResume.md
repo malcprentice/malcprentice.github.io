@@ -4,6 +4,8 @@
 * Are you doing job hunting (part time or full time)?  
 * What part time jobs have you had?
 * What job do you want after you graduate?
+* Are you interested in English-speaking jobs or jobs overseas? 
+* Where do students look for jobs these days?
 
 ## C.V. or Resume? Which is which?
 * Resume: A one page summary. Work first. More for US and business
@@ -13,14 +15,13 @@
 # Step 1 - Analyse a CV/Resume structure
 
 Look at the examples
-* What are the sections?
 * How are they different?
-* What is the first line of the address: country or street?
-* What order are jobs/education? Earliest first or latest?
-* What information is given for your job / education?
+* What are the sections in each?
+* What order is each section in? 
+* How much information is given
+* How are each different from Japanese rirekishou?
 
 ## Step 2 - write your own
-
 ### If you have no work experience, try these:
 * Club/circle/team membership
 * Volunteer experience
@@ -29,6 +30,7 @@ Look at the examples
 * Sports , Music, Hobbies
 * First Aid experience
 * What else can you think of?
+* WHat words can you use to describe your other experience better? (keen, proficient, qualified, active)
 
 ### If you have part-time experience
 
@@ -64,7 +66,6 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
 
 ## Task 2: Cover letter?
 Usually you don't just send the CV. You send a short letter:
-
 * introducing yourself
 * saying how your skills/experience match each point in the job advert
 * Any information they asked for which is not on your CV (e.g. interview availability)
@@ -99,3 +100,76 @@ I look forward to hearing from you.
 Yours faithfully,
 
 Hiromi Suzuki
+
+
+# STYLE: Some useful verbs for CVs and cover letters
+* Creative/effective/self-starter
+    * solved
+    * suggested
+    * initiated
+    * designed
+    * developed
+    * established
+* team work communication skills / interpersonal skills
+    * shared
+    * participated in
+    * contributed to 
+    * supported 
+    * collaborated
+    * facilitated  
+* Leadership 
+    * led
+    * managed (a project/a team of three)
+    * trained
+    * organised
+    * chaired
+    * delegated
+    * motivated
+    * supervised
+* Specific project actions: Creativity / effectiveness
+    *  devised
+    * handled
+    * approved
+    * proactively X’d
+    * identified
+    * formulated
+    * improved
+    * increased/decreased
+    * investigated
+    * wrote
+    * compiled
+    * presented
+    * represented … at
+    * planning
+    * anticipated
+    * arranged
+    * budgeted for / 
+    * organised
+    * scheduled
+    * evaluated
+    * made + NOUN (suggestions, recommendations)
+*  Specific skills (e.g. IT)
+    * proficient in/with
+    * good command of
+    * working knowledge of
+*  Other patterns
+    * Sentence Starters
+        * I was responsible for X
+        * I assisted in Xing
+        * I successfully X'd
+        * I my role as X, I Y'd
+        * As ROLE, I X'd
+*  Adjectives
+    * in-depth
+    * successful
+    * substantial
+*  Adverbs
+    * successfully
+    * completely
+    * currently
+* AVOID PHRASAL VERBS - they're too casual
+    * ~come up with~
+    * ~look after~
+    * ~take over~
+
+

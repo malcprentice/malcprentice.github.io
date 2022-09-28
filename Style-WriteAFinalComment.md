@@ -1,38 +1,45 @@
 # Style - Write a Final Comment
 
 ## What is a final comment
-* The last sentence of your essay
-* Ends the conclusion
-* Should be aimed at the READER (students)
-* Usually a recommendation, prediction
+* The last sentence of your essay conclusion paragraph
+* Should be aimed at the READER (students in Japan)
+* Usually a 
+    * recommendation ("Students who want to help should", "If you go to my hometown, you should")
+    * prediction ("If we do nothing, then the result will be X")
+    * quote ("According to...")
+    * plan ("The next step will be to ")
 
-## 1) Start like this:
-* As such, university students should
-* As such, Japanese people should
-* One thing that people who want to help could do is 
-* Anyone reading this who wants to ...
+## 1) Recommendations are easiest. Start like this:
+* Recommendation
+    * As such, university students should
+    * As such, Japanese people should
+    * One thing that people who want to help could do is 
+    * Anyone reading this who wants to ...
 
-
-## 2) Add a PRACTICAL verb
+## 2) Use a PRACTICAL verb
 * Something the reader can actually do
     * join a circle
     * donate
     * go to the gym
     * drink more water
     * volunteer
-    * write a protest letter to 
+    * write a protest letter to someone who can change things
     * buy
     * stop buying
-    * write a letter to 
-* Avoid recommending unlikely things or things to people who will not read your essay
+* Avoid recommending actions to people who will not read your essay
     * Avoid
         * As such, the government of Japan should
         * As such, convenience stores should 
-        * As such, you should go to the gym three times a day!
     * Instead say
         * People who want to help should write to their local politician and ask that
         * People who want to help should write to Lawson head office and ask that
-        * As such, you should start slowly, by going to the gym once a week for 15 minutes.
+* Avoid impossible recommendations
+    * Avoid 
+        * You should go to the gym three times a day!
+        * Students should volunteer to repair World Heritage sites in Syria. 
+    * Instead say 
+        * You should start slowly, by walking every day at least 5000 steps.
+        * Students should volunteer to work with NGOs in Japan with their Japanese language fundraising.
 
 ## 4) Add SPECIFIC advice
 * Don't just tell me to donate. Tell me WHO to donate to. Give me the donation link.
