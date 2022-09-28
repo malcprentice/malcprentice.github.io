@@ -1,21 +1,14 @@
 # Orientation
 
 ## Task 1: Check and bookmark your schedule 
-* Find your schedule (Use University login or Drive App)
-    * [Advanced English](https://docs.google.com/document/d/10moADXSEd6NKBea0USmPEuw3r7wHuvyITKV6rsARb8U/edit?usp=sharing)
-    * [English Communication 2](https://docs.google.com/document/d/1tSzk3ghyOK3ilXh7fd_fNtNRM-GZ7e_qtWh9_qjCDmo/edit?usp=sharing)
-    * [Discussion](https://docs.google.com/document/d/1JIbOQeynJY_pzw05XWhMG8orwUswx5WVddW3VfKWqME/edit?usp=sharing)
-    * [R&W](https://docs.google.com/document/d/1EPFvKcq3L5VTQ0KX8RT2KEKOvsh8j922auzHsFhxTtg/edit?usp=sharing)
+* Find your schedule (Google Classroom)
 * What is the homework for next class? 
+* Bookmark it!
 * If you can't find it, ask for help! 
 
 ## Task 2: Check and bookmark the Whiteboard
-* [Discussion TUESDAY](https://docs.google.com/document/d/19R-Mpn-DxkTb4VoL15ZhBEsoim1tzSJfKDUsXRWo-o0/edit?usp=sharing)
-* [R&W Tuesday](https://docs.google.com/document/d/1qaxPmxC9FPhynya5hIap6nuvRUtTgiYO-JKWBv_axas/edit?usp=sharing)
-* [Advanced English](https://docs.google.com/document/d/1yz-EABvMV5zeULnZ-LkhKpes_J6-T8ILN5VaNf0X_jk/edit?usp=sharing)
-* [English Communication 2](https://docs.google.com/document/d/1tlmlXNpYTvZY-IsL-ntUhDqHxWiTTdXDUi5pdNfgoe4/edit?usp=sharing)
-* [Discussion THURSDAY](https://docs.google.com/document/d/1nTMcWvw3umfnMFWEhh5uVj8__zV3I0NMRn9nrdxxVeY/edit?usp=sharing)
-* [R&W THURSDAY](https://docs.google.com/document/d/1t_vA4UcMYIehYJHkQc0T1YzgL4XdPp7I8qcVyeQCI-I/edit?usp=sharing)
+* Find it (Google CLassroom)
+* Bookmark it!
 
 ## Task 3: Check you can use Google Classroom
 * Find the email I sent (OR ask me for the code)
@@ -26,7 +19,6 @@
 
 ## Task 4: Learn to ask for help
 * [Ask for Help](Orientation-AskForHelp.md)
-
 
 ## Task 5 - Learn to make Small Talk
 * [Small Talk](Orientation-SmallTalk)
