@@ -94,11 +94,11 @@ e.g. "Uh-huh", "I see", "Really", "Do you mean?"
 See the  [Communication Skills](Communication Skills)
  
 ### F) Finish the conversation (three parts)
+
 |Stop signal,  reason            |Promise to contact         |Goodbye         
-|---                             |---                        |---
+|------------------------        |------------               |---------------
 |Alright, I have to go.          |See you around!            |Bye
 |Oh, my class starting.          |See you at lunch?          |Goodbye
 |Sorry! My mum's calling me.     |I'll call you later.       |Bye then
 |OK, this is my floor            |Let's go to X later?       |Cheerio (UK)
 |Got to run, my bus is coming.   |Speak to you after         |
-       
