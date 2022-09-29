@@ -39,14 +39,16 @@
 * Practice filling the time until you get it right
 
 ## What score do I need?
+* 60-80: Some universities will let you in (to take a language course first)
+* 61: The minimum to get certain kinds of US visa
+* 71: The average in Japan
+* 82 - the average score of ALL people taking the TOEFL iBT
+* 79-105: Programs state a minimum in this range for application materials
+* 100+: A good university will usually say "100+ iBT to be competitive"
 
-|Study abroad English program        |0+ 
-|University Exchange program        |79?
-|Average US undergraduate degree     |74 (60-100 depending on University)
-|Average US graduate degree          |83 (But expect 100+  for a good university)
-|UK degrees                          |TOEFL iBT not accepted. Take IELTS
+Usually, there are also section minimums:
 
-Usually, there are also section minimums e.g. "100, with 23 on the speaking section and 21 on other sections". 
+* e.g. "100, with 23 on the speaking section and 21 on other sections". 
 * Check the page of the course you want.
 * There is a website for checking what score you need: http//:www.toeflgoanywhere.org
 
