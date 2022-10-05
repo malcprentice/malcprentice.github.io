@@ -12,7 +12,7 @@
 * CV: A 2-3 page summary. School first. More for UK and academics.
 
 
-# Step 1 - Analyse a CV/Resume structure
+## Step 1 - Analyse a CV/Resume structure
 
 Look at the examples
 * How are they different?
@@ -59,26 +59,100 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
 
 
 ## Task 1: Find an advert for a job you want.
-1) Find an appropriate CV Template
-2) Download it and fill in the details
-3) Try to adapt your CV to the job
+* Find an appropriate CV Template
+    * Some are available to download (but many are not free)
+    * There are some [built into Google](https://support.google.com/docs/answer/148833?hl=en&co=GENIE.Platform%3DDesktop)
+* Download it and fill in the details
+* Try to adapt your CV to the job. Remember to use your circle roles/part time job work as necessary.
 
 
 ## Task 2: Cover letter?
 Usually you don't just send the CV. You send a short letter:
-* introducing yourself
-* saying how your skills/experience match each point in the job advert
-* Any information they asked for which is not on your CV (e.g. interview availability)
-* any other highlights you really don't want them to miss on your cv
-* Example below
 
-There are many different styles. 
+* introducing yourself
+* saying how your skills/experience match those asked for in the job advert
+* giving any information they asked for which is not on your CV (e.g. interview availability)
+* gving any other highlights you really don't want them to miss
+
+There are different styles. 
 
 * UK cover letters tend to be very short (like the example below) 
 * US cover letters tend to add more text, about aims/philosophy. 
 * Make sure you know what style you need and find more examples. 
 
- 
+
+## Usual contents
+* YOUR name, address, email address, date (top right)
+* THEIR Name, title, address (left aligned
+* Formal greeting
+    * If there is a name, use "Dear X"
+    * No name? 
+        * Use "To Whom it May Concern" (title case deliberate)
+        * You could also use "Dear Hiring Committee" or "Dear Recruitment Department" if that's what they called themselves.
+* Greeting paragraph. 
+    * Name yourself and the job (any order)
+        * "I am writing to apply for the role of X." 
+        * "I am contacting you in response to the job posting for ROLE"
+        * "I am a 4th year student at..."
+        * "I would like to apply for the position of" 
+        * "I am writing in response to the job announcement for ROLE" 
+    * Give where you saw the ad e.g. 
+        * ", as posted on DATE in SOURCE." 
+        * "as advertised on SOURCE"
+        *  "posted on your company's recruitment page."
+    * Opening info line
+        * " I strongly believe I am a good match for this position because 
+        * "I am applying because I feel that my skills, experience, and qualifications are a good match for the position advertised"
+        * "I am applying because I am very interested in FIELD due to REASON"
+        * Describe why you like company + "For these reasons, I am very interested in applying to your company, and below I will explain why I think I would be a good fit."
+
+* Optional more personal paragraph (before or after job advert paragraph, or joined to greeting)
+    * Why you are interested in this field
+    * Why you are interested in this company
+    * Could be:
+        * people who recommended it 
+        * People you met doing the job who inspired you
+        * Related past experiences 
+* Paragraph about job advert. Point by point, in order, say how you meet or almost meet the requirements not covered already. If possible, give examples. 
+    * "In terms of the requirements in the job interview, 
+    * "While I am not X, I do have similar/related experience from my time doing X"
+    * "While I do not have experience doing X, I have spent time doing Y"
+    * While I cannot use X at the moment, I am very keen to learn
+    * Although I do not X, I recently started an online course which will be completed by"
+    * "For example"
+    * "One way in which I used this skill is"
+    * "Specifically, when I was ROLE, I suggested/improved/implemented improvements"
+    * Describe your experience with occasional adjectives 
+        * "I have extensive experience in"
+        * "I have a strong background in"
+        * "I have regularly been asked to"
+
+* Paragraph about anything not asked for, but relevant. 
+    * Driving license?
+    * Other languages "In addition to the fluency in English requested, I also speak German at an intermediate level."
+    * Awards, 
+    * Hobbies/SportsCircle activities not already used 
+    * Any unfinished courses and qualification not already mentioned ("I am currently working towards a certificate in")
+* Final line - enclosures and closing
+    * "Please find enclosed my CV and scans of my qualifications."
+    * "As requested, I have enclosed X, Y and Z"
+    * "I look forward to hearing from you."
+* Ending
+    * If you used "To Whom", end "Yours faithfully,"
+    * If you used "Dear NAME", end "Yours sincerely,"
+    * Note the comma, not period here
+* Sign
+    * Print and Sign it if paper application
+    * Paste an image of your signature if PDF application
+* Type your name. 
+
+## Other tips
+* If electronic application, EXPORT AS A PDF unless they requested Word. Not everyone has the same software and it could make things weird, especially tables. 
+* Use blank lines between sections or not, to help make sure you almost fill one page. 
+
+## Make your own cover letter
+* As above, find a formatting template (Google built in, or download). Any template for a formal business letter is OK. 
+
 
 ## Example cover letter
 Thanks to HS for the original example. 
