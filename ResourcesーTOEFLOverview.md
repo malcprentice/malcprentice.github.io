@@ -1,6 +1,6 @@
 # TOEFL OVERVIEW
 
-## TOEFL Score comparison
+## TOEFL Score comparison 
 30 points per section, total maximum score 120
 
 |TOEFL iBT           |TOEIC          
