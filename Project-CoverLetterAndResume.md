@@ -114,29 +114,52 @@ There are different styles.
         * People you met doing the job who inspired you
         * Related past experiences 
 * Paragraph about job advert. Point by point, in order, say how you meet or almost meet the requirements not covered already. If possible, give examples. 
-    * "In terms of the requirements in the job interview, 
-    * "While I am not X, I do have similar/related experience from my time doing X"
-    * "While I do not have experience doing X, I have spent time doing Y"
-    * While I cannot use X at the moment, I am very keen to learn
-    * Although I do not X, I recently started an online course which will be completed by"
-    * "For example"
-    * "One way in which I used this skill is"
-    * "Specifically, when I was ROLE, I suggested/improved/implemented improvements"
-    * Describe your experience with occasional adjectives 
+    * Start
+        * "In terms of the requirements in the job interview, 
+        * I would like to explain how my skills qualifications and experience match those advertised. First,..."
+    * Transition between points
+        * In terms of
+        * As for
+        * In addition
+        * The posting also mentions X, which
+        * As regards 
+    * Experience/Skills you have
         * "I have extensive experience in"
         * "I have a strong background in"
         * "I have regularly been asked to"
-
+        * While I ....I was responsible for
+        * At PLACE, I was asked to 
+        * I did X for three months at PLACE
+    * Experience/Skills you don't quite have
+        * "While I am not X, I do have similar/related experience from my time doing X"
+        * "While I do not have experience doing X, I have spent time doing Y"
+    * Experience/Skills you don't have
+        * While I cannot use X at the moment, ...
+        * While I have never X'd, ...
+        * Although I do not X, ... 
+        * ... I am very keen to learn
+        * ... I recently started an online course which will be completed by the start date.
+        * ... I have previously learned Y, and I believe the skills would transfer easily. 
+    * Giving details
+        * "For example"
+        * "One way in which I used this skill is"
+        * "Specifically, when I was ROLE, I suggested/improved/implemented improvements"
+    * Use Adjectives, but not too much
 * Paragraph about anything not asked for, but relevant. 
     * Driving license?
     * Other languages "In addition to the fluency in English requested, I also speak German at an intermediate level."
     * Awards, 
     * Hobbies/SportsCircle activities not already used 
     * Any unfinished courses and qualification not already mentioned ("I am currently working towards a certificate in")
-* Final line - enclosures and closing
-    * "Please find enclosed my CV and scans of my qualifications."
-    * "As requested, I have enclosed X, Y and Z"
-    * "I look forward to hearing from you."
+* Final Paragraph 
+    * enclosures 
+        * "Please find enclosed my CV and scans of my qualifications."
+        * "As requested, I have enclosed X, Y and Z"
+    * Offer more
+        * If you have any questions about my application, please do not hesitate to contact me.    
+    * Closing
+        * "I look forward to hearing from you, and to possibly working together in the future."
+        * "Thank you in advance for taking the time to read my application"
 * Ending
     * If you used "To Whom", end "Yours faithfully,"
     * If you used "Dear NAME", end "Yours sincerely,"
@@ -147,11 +170,21 @@ There are different styles.
 * Type your name. 
 
 ## Other tips
+* Print the ad as a PDF before you start. If you get an interview and they've deleted the advert, you might not remember what requirements they had. 
 * If electronic application, EXPORT AS A PDF unless they requested Word. Not everyone has the same software and it could make things weird, especially tables. 
-* Use blank lines between sections or not, to help make sure you almost fill one page. 
+* I aim for (Double spaced), 60-80% of one page 
+    * Avoid spilling over to a second page then stopping after 3 lines
+    * Avoid half-empty one-page letters
+    * Avoid saying too much (single spaced 100% of page will not get read)
+* If paper
+    * use good paper and a good envelope.
+    * fold it neatly
+* Spellcheck! 
+    * Spellcheck again!
+    * Have someone check it for you! Email me if you don't have a proofreader. 
 
-## Make your own cover letter
-* As above, find a formatting template (Google built in, or download). Any template for a formal business letter is OK. 
+
+* Spellcheck!!!
 
 
 ## Example cover letter
@@ -176,56 +209,60 @@ Yours faithfully,
 Hiromi Suzuki
 
 
-# STYLE: Some useful verbs for CVs and cover letters
-* Creative/effective/self-starter
-    * solved
-    * suggested
-    * initiated
-    * designed
-    * developed
-    * established
-* team work communication skills / interpersonal skills
-    * shared
-    * participated in
-    * contributed to 
-    * supported 
-    * collaborated
-    * facilitated  
-* Leadership 
-    * led
-    * managed (a project/a team of three)
-    * trained
-    * organised
-    * chaired
-    * delegated
-    * motivated
-    * supervised
-* Specific project actions: Creativity / effectiveness
-    *  devised
-    * handled
-    * approved
-    * proactively X’d
-    * identified
-    * formulated
-    * improved
-    * increased/decreased
-    * investigated
-    * wrote
-    * compiled
-    * presented
-    * represented … at
-    * planning
-    * anticipated
-    * arranged
-    * budgeted for / 
-    * organised
-    * scheduled
-    * evaluated
-    * made + NOUN (suggestions, recommendations)
-*  Specific skills (e.g. IT)
-    * proficient in/with
-    * good command of
-    * working knowledge of
+
+
+
+
+
+
+# STYLE: Some useful vocab for CVs and cover letters
+* Verbs
+    * Creative/effective/self-starter
+        * solved
+        * suggested
+        * initiated
+        * designed
+        * developed
+        * established
+    * team work communication skills / interpersonal skills
+        * shared
+        * participated in
+        * contributed to 
+        * supported 
+        * collaborated
+        * facilitated  
+    * Leadership 
+        * led
+        * managed (a project/a team of three)
+        * trained
+        * organised
+        * chaired
+        * delegated
+        * motivated
+        * supervised
+    * Specific project actions: Creativity / effectiveness
+        *  devised
+        * handled
+        * approved
+        * proactively X’d
+        * identified
+        * formulated
+        * improved
+        * increased/decreased
+        * investigated
+        * wrote
+        * compiled
+        * presented
+        * represented … at
+        * planning
+        * anticipated
+        * arranged
+        * budgeted for / 
+        * organised
+        * scheduled
+        * evaluated
+        * made + NOUN (suggestions, recommendations)
+
 *  Other patterns
     * Sentence Starters
         * I was responsible for X
@@ -233,6 +270,10 @@ Hiromi Suzuki
         * I successfully X'd
         * I my role as X, I Y'd
         * As ROLE, I X'd
+    *  Specific skills (e.g. IT)
+        * proficient in/with
+        * good command of
+        * working knowledge of
 *  Adjectives
     * in-depth
     * successful
@@ -241,9 +282,20 @@ Hiromi Suzuki
     * successfully
     * completely
     * currently
-* AVOID PHRASAL VERBS - they're too casual
-    * ~come up with~
-    * ~look after~
-    * ~take over~
+* As with all formal writing, AVOID 
+    * PHRASAL VERBS - they're too casual
+        * ~come up with~
+        * ~look after~
+        * ~take over~
+    * CASUAL words
+        * boss (manager)
+        * job (position, post)
+        * ad (posting, advertisement)
+    * Abbreviations
+        * can't -> cannot
+        * haven't -> havenot
+    * Missed Conditionsals 
+        * I want to -> I would like to
+        * I can send -> I could send
 
 
