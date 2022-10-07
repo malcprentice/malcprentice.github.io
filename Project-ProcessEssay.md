@@ -92,12 +92,16 @@ There are two kinds of process essay
     * You will need several items to help you - 
 * Alternatives
     * One option is 
-    * Instead of doing this, you could 
+    * Instead of doing X, you could do Y 
+    * Consider ING (e.g. using soy milk instead)
+    * Another choice would be to do X
 * Sequence
+    * First (Firsly)
+    * Secondly (Second)
     * After that
     * Next
     * After 5 minutes
-    * Wait for 3 hours
+    * Wait for 3 hours, then 
     * Following that
     * Quickly 
 * Warning 
@@ -123,11 +127,12 @@ There are two kinds of process essay
     * One option for them is 
     * Instead of doing this, they sometimes 
 * Sequence
-    * First, X is done / the PERSON does x
+    * First(ly), X is done / the PERSON does x
+    * Second(ly), X is done / the PERSON does X
     * After that, X is done / the PERSON does x
     * Next, X is done / the PERSON does x
     * After 5 minutes, X is done / the PERSON does x
-    * Wait for 3 hours, X is done / the PERSON does x
+    * Next, they wait for 3 hours, and then
     * Following that, X is done / the PERSON does x
     * Quickly, X is done / the PERSON does x
 * Warning 
