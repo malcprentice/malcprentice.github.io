@@ -148,7 +148,7 @@ There are different styles.
 * Paragraph about anything not asked for, but relevant. 
     * Driving license?
     * Other languages "In addition to the fluency in English requested, I also speak German at an intermediate level."
-    * Awards, 
+    * Awards "I won an (award/was awarded) for achieving a high threshold score on an English proficiency exam, only given to around 25 students each year." 
     * Hobbies/SportsCircle activities not already used 
     * Any unfinished courses and qualification not already mentioned ("I am currently working towards a certificate in")
 * Final Paragraph 
