@@ -4,9 +4,10 @@
 
 * References section
     * Does it have enough references
-        * 4 for draft 1 (Japanese OK)
-        * 8 for draft 2 (50% English)
-        * 12 for draft 3 (50% English)
+        * 4 for draft 0 (Japanese OK)
+        * 8 for draft 1 (50% English)
+        * 12 for draft 2 (50% English)
+        * 12 perfect for draft 3 (50% English)
     * Is the references section in APA?
     * Is the APA OK (use Essay checklisty)
 * Citations in the outline
