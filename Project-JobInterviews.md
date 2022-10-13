@@ -32,6 +32,9 @@
     * x = conscientious, hard working, organised, responsible, flexible etc. 
     * Do you have good X skills
     * customer service, organisation, communication, interpersonal
+* Practical questions
+    * Where/When would you like to work?
+    * How would you commute to work?
 * Trick questions
     * Have you ever had an issue with a coworker or boss? How did you resolve it?
     * Where do you see yourselves in 10 years?
@@ -43,6 +46,10 @@
 
 
 Can you think of any more?
+
+## CLarification language
+
+
 
 ## General tips
 
@@ -63,8 +70,5 @@ Can you think of any more?
     * WHat you did to solve it
     * Outcome (you're better)
 * 3 - Questions. Write some questions you could ask at the end of an interview
-* 4 - Clarification
-    * If you can't zhear a question, what do you say?
-    * If you realise you didn't answer the question, what do you say?
 
 
