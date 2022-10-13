@@ -34,8 +34,18 @@ There are three basic types of integrated speaking
 ## Q2 RLS Campus
 ### Obverview and tips
 * Timing: read (45s), listen (1-2mins), prep (30s), speak (60s) 
-* Do NOT give your own ideas or reasons
+* Topic is US campus life
+	* University policies, rules, plans, facilities,
+	* e.g. car parking policy, evening classes announcement, new sports facilities
+* READ THE QUESTION - you might only need the opinion of one of the speakers. You're listening for:
+	* A strong opinion by
+	* TWO things e.g. two reasons FOR or AGAINST a proposal
+* Do not
+	* give your own opinion
+	* Summarise both speakers opinions if the question asks for one speaker's opinion
 
+### Materials
+* ETS official guide p169-172 has example question workthrough
 
 ### Suggested Example structure
 * In this set of materials, the reading passage is a notice (message, announcement, etc) 
@@ -75,11 +85,18 @@ In the listening passage, two students express surprise at the message. The man 
 ## Q3 RLS Lecture 
 ### Overview and General Tips
 
-* 45s to read 75-100 word reading defining an academic idea
+* 45s to read 80-110 word reading defining an academic idea
 * 60-90 second lecture with examples and details
 * 30s to prepare, 60s to speak. 
 * Explain the term, then explain how lecture illustrates concept
 * Practice by listening to TED talks!
+* Example content
+	* General principle in reading, specific example in listening
+	* Problem in reading, outcome of attempted solution in listening
+* DO NOT
+	* Summarise everything. ANswer the question. 
+### Materials
+* Official guide p173 has worked example	
 
 ### Suggested Example Arrangement (Make your own)
 
@@ -118,15 +135,18 @@ LISTENING TOPIC: add point - dead sea NOT sea
 EXAMPLE ANSWER: In this set of materials, the reading passage describes a body of water, and the listening passage gives additional information about the body of water. The reading passage describes the body of water named the Dead Sea. It is said to be “dead’ because its high salt level prevents life in it. It’s salty because it’s landlocked with no outlet and it’s in an area with a high temperature, which causes rapid evaporation. The listening passage makes an additional point about the Dead Sea, which is that the Dead Sea isn’t really a sea. A sea is a body of water that’s part of the ocean or opens into the ocean, while a lake is a body of water that’s entirely enclosed. The Dead Sea has no outlet and is therefore a lake. 
 
  
-## Q4: LS Lecture   Tips and Suggested Structure
+## Q4: LS Lecture  Summary
 ### Overview and General Tips
 
-* Listen to 90-120s lecture defining of term/concept/issue, with examples)
+* Listen to 60-90ss lecture defining of term/concept/issue, with examples)
 * Instruction: "Using points and examples from the talk, describe the two Xs
 * __20s__ to prepare + 60s to speak 
 * Just a summary
+* Content is usually GENERAL overview followed by SPECIFIC comment on a part of topic
 * Practice by listening to TED talks!
 
+### Materials
+* ETS guide p177
 
 ### Style/Arrangement - Suggested Example Structure
 
