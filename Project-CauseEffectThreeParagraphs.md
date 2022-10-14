@@ -37,6 +37,11 @@
     * "In summary, there are three main causes of TOPIC - 1, 2, and 3 - of which the most important is 3."
     * [Final Comment Sentence](Style-WriteAFinalComment)
 
+## Tips and help
+* I will share a template on Classroom later. 
+* Try to put your causes in order (e.g. least important to most, or local to global)
+
+
 
 
 
