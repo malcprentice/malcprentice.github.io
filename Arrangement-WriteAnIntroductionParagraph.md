@@ -6,39 +6,38 @@ There are many ways to write an introduction. This is ONE way.
 * Introductions prepare your reader by giving 6 pieces of information:
 
 
-|Section                         |content                     |Example
-|--------------------------------|--------------------        |---------------
-|General Background (GB)         |__category__ of topic       |cheap clothes
-|Specific Background (SB)        |Name specific topic         |cotton
-|Importance Background (IB)      |Why care? Why important?    |causes suffering/pollution  
-|Thesis statement - Topic        |                            |cotton production
-|Thesis statement - Main idea    |compare? argue? how to?     |description-problems-solution
-|Keywords - optional             |one word per paragraph      |(main idea = keyword, so not needed)
+|Section                         |content                     |Example |
+|--------------------------------|--------------------        |---------------|
+|General Background (GB)         |__category__ of topic       |cheap clothes|
+|Specific Background (SB)        |Name specific topic         |cotton|
+|Importance Background (IB)      |Why care? Why important?    |causes suffering/pollution|  
+|Thesis statement - Topic        |                            |cotton production|
+|Thesis statement - Main idea    |compare? argue? how to?     |description-problems-solution|
+|Keywords - optional             |one word per paragraph      |(main idea = keyword, so not needed)|
 
 
 ## GB - General Background
-|Type:           |Example
-|----------------|---------------------------
-|"Many":         |Many people regularly use/drink/buy/wear X without thinking.
-|"In Japan,":    |In Japan, it's taken for granted that X, . However...
-|"Every day":    |Every day, many/most students use/drink/buy/wear X
-|"Most":         |Most people use X every day.
-|Number:         |Three million tons of X are used every day (Smith, 1999).
-|Quote:          |According to the WWF (2013) the world today is "addicted to oil".
-|List:           |1, 2, 3, and 4 are all products commonly use in Japan. All of these 
- 
+|Type:           |Example|
+|----------------|---------------------------|
+|"Many":         |Many people regularly use/drink/buy/wear X without thinking.|
+|"In Japan,":    |In Japan, it's taken for granted that X, . However...|
+|"Every day":    |Every day, many/most students use/drink/buy/wear X|
+|"Most":         |Most people use X every day.|
+|Number:         |Three million tons of X are used every day (Smith, 1999).|
+|Quote:          |According to the WWF (2013) the world today is "addicted to oil".|
+|List:           |1, 2, 3, and 4 are all products commonly use in Japan. All of these |
  
 
 ## SB - Specific background - Name and define your topic
-|Type:           |Example
-|------------------------|-------------------
-|One of the most + ADJ   |One of the most endangered animals is the Harp Seal, which
-|Of these                |Of these, the most endangered animals is the Harp Seal, which
-|The most                |The most common type of Tuna is Bluefin, which...
-|particularly            |Plastic bags are a particularly harmful kind of waste.
-|especially              |Harp Seals, which live in Tokyo, are especially endangered.
-|Following a GB "List"   |All of these are/contain ...
-|Use a partition         |There are three main kinds of X - 1, 2, and 3 - of which
+|Type:           |Example|
+|------------------------|-------------------|
+|One of the most + ADJ   |One of the most endangered animals is the Harp Seal, which|
+|Of these                |Of these, the most endangered animals is the Harp Seal, which|
+|The most                |The most common type of Tuna is Bluefin, which...|
+|particularly            |Plastic bags are a particularly harmful kind of waste.|
+|especially              |Harp Seals, which live in Tokyo, are especially endangered.|
+|Following a GB "List"   |All of these are/contain ...|
+|Use a partition         |There are three main kinds of X - 1, 2, and 3 - of which|
 
 ## IB - Importance background
 * __However,__ not all X is made in an ethical way

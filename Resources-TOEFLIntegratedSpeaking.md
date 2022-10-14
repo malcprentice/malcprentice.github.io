@@ -48,8 +48,13 @@ There are three basic types of integrated speaking
 * ETS official guide p169-172 has example question workthrough
 
 ### Suggested Example structure
-* In this set of materials, the reading passage is a notice (message, announcement, etc) 
-* ... and the listening passage shows two students’ reaction to (the message, the announcement, it).
+* Intro 
+	* (long)
+		* In this set of (longer) materials, the reading passage is a notice (message, announcement, etc) 
+		* ... and the listening passage shows two students’ reaction to (the message, the announcement, it).
+	* (short) 
+		* In this set of materials, the reading passage is a notice/message/announcement about TOPIC 
+		* and the listening passage shares two students’ reaction to it. 
 * "The reading passage is..."
     * a notice about X   (from the campus administration) It states/lists (that) X  
     * a message about X  (from the university president) It reminds students to X
@@ -70,7 +75,7 @@ There are three basic types of integrated speaking
     * Neither of them...
 * Continue
     * Additionally,
-    * etc- normal cohesion. 
+    * etc - normal [cohesion](Style-UseCohesion)
 
 ### RLS Campus example 1) Bicycles 
 * (Purple Longman p205)
