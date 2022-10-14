@@ -20,16 +20,16 @@
 
 ## For example
 
-|Signal                              |Example
-|---                                 |---
-|This an example sentence            |"For example, ..."
-|This is another example             |"A second example of this would be..."
-|This an effect                      |"This is because..."
-|This a disagreeing response         |"However, ..."
-|THis is an agreeing response        |"In fact, ..."
-|This a another supporting point     |"Additionally, ..."
-|This is a summary                   |"In summary, ..."
-|This is a new reason on same topic  |"Another reason X is a problem  is that"
+| Signal                              | Example
+| ---                                 | ---
+| This an example sentence            | "For example, ..."
+| This is another example             | "A second example of this would be..."
+| This an effect                      | "This is because..."
+| This a disagreeing response         | "However, ..."
+| THis is an agreeing response        | "In fact, ..."
+| This a another supporting point     | "Additionally, ..."
+| This is a summary                   | "In summary, ..."
+| This is a new reason on same topic  | "Another reason X is a problem  is that"
 
 
 ## Basics: So, Or, But, Because, And
