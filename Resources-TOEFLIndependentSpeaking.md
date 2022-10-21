@@ -95,6 +95,14 @@
 * In brief                
 * On the whole 
 
+## Good examples
+
+* ETS Official Guide 6th edition
+    * Practice Test 1 (p250-253), answer is Track 26, explanation p300
+    * Practice Test 2 (p348-350), answer is Track 44, explanation p395
+    * Practice Test 3 (p446-449), answer is Track 70, explanation p496
+    * Practice Test 4 (p546-549), answer is Track 93, explanation p598
+
 ## Practice Questions
 Note - old open question type pre2019 is gone. Only paired choice left. 
 
