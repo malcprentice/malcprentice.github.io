@@ -35,7 +35,6 @@
     * [Detail sentence](Style-WriteADetailSentence) for Cause 3  
     * [Detail sentence](Style-WriteADetailSentence) for Cause 3
     * "In summary, there are three main causes of TOPIC - 1, 2, and 3 - of which the most important is 3."
-    * [Final Comment Sentence](Style-WriteAFinalComment)
 
 
 
