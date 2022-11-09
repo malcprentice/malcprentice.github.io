@@ -49,7 +49,16 @@ Can you think of any more?
 
 ## CLarification language
 
+See orientation sheet
 
+## "Do you have any questions for us"
+* Don't say no. Always have a question ready. 
+* Best if at least one is specific to the company and shows that you researched them. 
+* For ideas, just [google](https://www.google.com/search?q=questions+to+ask+at+the+end+of+a+job+interview) - there are many lists online. 
+* Avoid some questions until you get the job. 
+    * "WHen do I get holidays"  
+    * "How much money"
+    * etc. 
 
 ## General tips
 
