@@ -23,7 +23,7 @@
     * Tell us about a time you 
         * worked in a team
         * solved a problem
-        * overcame a difficulty situation
+        * overcame a difficult situation
     * If (BAD THING) happened, how would you respond?
     * Imagine you were in a situation where X. What would you say to the client/customer?
     * OK, I'm going to pretend to be (BAD CUSTOMER TYPE). Respond as you would in that situation. 

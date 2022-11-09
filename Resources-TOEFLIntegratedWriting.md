@@ -3,33 +3,40 @@
 ## Overview and Timing
 * Read a passage 
 	* (230-300 words, 3 mins)   
-	* Look for the Thesis (Paragraph 1)
-	* The text comes back, so you can get details later. 
+	* Look for the Thesis (Paragraph 1). Is it:
+		* A policy
+		* A practice
+		* A position on an issue
+	* Take rough notes. The reading comes back, so you can get details later. 
 	* Instead, look for the three points (Paragraph 2,3,4) 
-	* You will listen and match these points next
+		* Reasons it is true / works / worked / is useful / good / 
+		* Reasons it is not true / does not work / is not useful
+	* Check tense - is this NOW or in the past?
 * Listen to a lecture on the same topic 
 	* (1-2 minutes)  
 	* Listen for the Thesis Statement
 	* Listen for 3 points that match the 3 points in the reading  
-	* Take very careful notes - the lisetning does not come back. 
+	* Take detailed notes - the listening does not come back. 
 	* Listen for what the listening is DOING
-	* Usually, it “casts doubt” or “challenges” 
-	* Sometimes it “adds to”/”supports”
-	* Sometimes it “contrasts” or “differs from”
-
+		* disagree =  “casts doubt”, “challenges”, "answers", "contrasts", "differs"
+		* agree = it “adds to”, ”supports”, "strengthens" 
+* Take off your headset. Listening is done until the end of the test
 * 20 mins to type an answer 
-	* (2-3 mins planning, 15 mins writing, 2-3 mins checking)
-	* Reading passage comes back  
-	* For each point in the reading, compare the points made in the listening 
+	* e.g. 2 mins planning, 16 mins writing, 2 mins checking)
+	* For each point in the reading, compare points on listening notes
 
 
 ## Examples
 
 * See [Example](Examples-TOEFLIntegratedessay)
-* See book (I will add page numbers later)
+* See OG 6th edition book p309, p404, p503, p607
 
 ## General Tips
-* Suggested length is 150-225 words, but no penalty for more
+
+* Suggested length is 150-225 words
+	* No penalty for going over 225 though
+	* One paragraph is OK. DOn't split a short answer into paragraphs
+* [Compare-Contrast language](Style-WriteACompareContrastSentence) is useful 
 * NO personal opinions, examples etc..
 * DO NOT PLAGIARIZE
 	*  Do not copy phrases from the reading or quote. 
@@ -37,7 +44,8 @@
 
 
 ## Scoring
-YOu are scored on
+
+You are scored on
 
 * Development 
 	*  Select the IMPORTANT info from the lecture  
@@ -54,127 +62,72 @@ YOu are scored on
 
 # Arrangement and Style
 
-## Length
-* If your word count in the time is under 200 words, do one paragraph 
-* If your count is more than 200, do the five paragraph version
+## Paragraphs
+
+* Most of the "high level" ETS examples are 4-6 paragraphs. But IT IS NOT NECESSARY - if your essay is short, one paragraph is OK. 
+* If your word count is usually under 200 words, aim for one paragraph 
+* If your count is more than 200, maybe do more paragraphs
  
-## Thesis Statement options without outline
+## Thesis Statement 
 
-* The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
-* Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. 
-* Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
-* Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
-* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
-* The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
+* NO outline
+	* The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
+	* Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. (from ETS)
+	* Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
+	* Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
+	* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
+	* The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
+* With outline  
+	* Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
+	* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
+	* The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
 
-Sometimes you can give a definition before the thesis statement
 
-## Thesis Statement options with outline (be careful!)
-
-* Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
-* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
-* The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
-
-## Keyword sentences 
-
-These are your paragraph topic sentences if you have more than 1 paragraph.
+## Sentence frames
 
 * Firstly, the reading argues that R, however the lecturer notes that L. 
 * The second argument in the reading is that R. The lecture contradicts this, noting L
-* Contrary to the belief in the passage that R, the professor says that L.
-* The lecture refutes the fact that R. In fact, L.
-* The professor also offers a different reason for R. She says that L.
-* Finally, the reading states R. The lecture on the other hand argues that L.
+* In addition, contrary to the belief in the passage that R, the professor says that L.
+* Next, the reading states X, however the listening notes that Y
+* Also, the lecture refutes the fact that R. In fact, L.
+* In terms of R, the professor gives a different interpretation. She says that L.
+* The professor also offers a different R. She says L.
+* Finally, the reading states R. The lecture on the other hand argues that L. 
+* It is said in the reading that R. COntrary to this belief, the professor says that L
 
+* Don't repeat the same pattern 3 times in the essay. 
+* For more options
+	* See [Use Cohesion](Style-UseCohesion) for alternatives to "however"
+	* See [Citation Verbs](Invention-CitationVerbs) for alternatives to "states"/"notes"
+	* See [Write a Compare Contrast Sentence](Style-WriteACompareContrastSentence) for alternatives to "said"
 
-## Contrast sentences
+## Templates and structures.  
 
-"The reading states X however, the listening notes that Y"
-Great! But don't use it 3 times in the essay. 
-
-* See [[Style - use cohesion]] "contrast" for alternatives to "however"
-* See [[Invention - use APA format in the text]] for alternative patterns
-* See [[Style - use verbs for citation]] for alternatives to "said"
-
-## Templates
-1 and 3 have been checked against ETS "perfect score" responses.
 ### Short 1 paragraph
->>The lecture completely refutes the passage. Contrary to the statement in the passage that READING1, the professor says that LISTENING1. The lecture also refutes the idea that READING2. In fact, LISTENING2. The professor also offers a different perspective on READING3. She says that LISTENING3.
+
+The lecture completely refutes the passage. Contrary to the statement in the passage that READING1, the professor says that LISTENING1. The lecture also refutes the idea that READING2. In fact, LISTENING2. The professor also offers a different perspective on READING3. She says that LISTENING3.
 
 ### Longer 1 paragraph
->>Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
 
-### 3 paragraph
-+The reading passage talked about READINGTHESIS. It said that READING1. However, the listening said that LISTENING1.
-+Another reason why READINGTHESIS is READING2. LISTENING2.
-+Finally, the reading said that READING3. LISTENING3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING. (30-40 words)
+Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
 
-### 5 paragraph template
+### 5 paragraph template 
 
+*  Intro (2 sentences)
+	*  Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. 
+	* However, the lecture disagreed. 
+* Body paragraphs. See OG p404 for the example type. 
+	*  Body Paragraph (50-80 words, 3-4 sentences). 
+	*  Body Paragraph (50-80 words, 3-4 sentences)
+	*  Body Paragraph (50-80 words, 3-4 sentences)
+*  Conclusion, 2 sentences. 
+	* "Because of the above reasons, it is highly questionable that R THESIS.
+	* In fact, SUMMARY WITHOUT REPEATING KEYWORDS.
 
-
-*  Intro (30-40 words)
-	*  General Background
-	*  Thesis: The passage introduced three reasons why READINGTHESIS: A, B and C. However, the lecture disagreed. 
-*  Body Paragraph (50-80 words)
-	*  Topic sentence - "This paragraph looks at the first point, KEYWORD"
-	*  Summary of reading - "The article said/claimed that SUMMARY"
-	*  SUmmary of listening - "However, the lecture disagreed, and instead suggested that.  
-*  Body Paragraph (50-80 words)
-	*  Topic sentence - "The second point covered in these materials, KEYWORD"
-	*  Summary of reading - "The reading passage noted that SUMMARY"
-	*  SUmmary of listening - "However, the lecture suggested instead that. 
-*  Body Paragraph (50-80 words)
-	*  Topic sentence - "The last point of disareement was KEYWORD"
-	*  Summary of reading - "The author of the article described SUMMARY"
-	*  SUmmary of listening - "However, the lecture was dubious about this, instead pointing out that. (50-80 words)
-*  Conclusion
-	*  In summary, this set of materials presented contradictory points of view on TOPIC. 
-	*  Overall, the reading was OVERALL KEYWORDS SUMMARY while the listening was OVERALL KEYWORD SUMMARY
-	*  As such, FUZZY CONCLUSION  (30-40 words)
-
-FUZZY CONCLUSION is 
-* Something I never want to see in your actual essays...
-* ..but since here you aren't allowed to come to your own conclusion ...
-* ... and a conclusion paragraph looks strange ending with a just a summary, try somethign like:
-    *  As such, while there are arguments on both sides, it is hard to agree with either of the sources without further research. 
-    *  This means that neither the reading nor the listening is entirely convincing, and those who are interested should investigate more. 
-
-
-# Practice
-The following is an example from Longman - the Homeschooling listening is on page 334 in the new (white) edition, but the below was based on the purple book (not sure if it's different).
-
-1) Do the listening and reading yourself first
-2) Check your notes against mine (below)
-3) Use the templates above to do your own version. 
-4) I will check it and give you a "perfect score" example to look at.  
-
-### Reading Notes 
-
-*  BACKGROUND: Homeschooling becoming more popular. 
-*  DEFINITION: Homeschooling is:
-	*  keep children out of traditional classes
-	*  (traditional = 1 teacher-20/30 children)
-	*  parents educate kids at home
-*  TS: Homeschooling not good
-	*  Reason 1-  not learn as much
-		*  trad. schools - must learn huge amount of material
-		*  home = no requirement to master X before moving to new level
-	*  Reason 2 - Less social interaction
-		*  parents and a few brothers/sisters only
-	*  Reason 3 - Less broad curriculum. Trad. sch have:
-		*  more established curriculum
-		*  more variety of subjects
-
-### Listening Notes 
-
-*  TS: not true - part of panel - disagree
-*  IDEA 1 not proven that learn less
-	*  many studies proved learn far more
-*  IDEA 2 lots of interaction - 
-	*  parents arrange it with other homeschooled children
-	*  could be MORE interaction, as can happen any time
-*  IDEA 3 Variety of curriculum MORE 
-	*  because not limited by school boards, can teach anything
-	*  e.g. astronomy, medicine, Chinese
-  
+### 4 paragraph (ETS p607)
+* Unstructured thesis statement, just summarising topic. 
+* Body paragraphs. See OG p404 for the example type. 
+	*  Unnumbered topic sentence, just stating idea  
+	*  The second 
+	*  The third  
+*  No conclusion. 

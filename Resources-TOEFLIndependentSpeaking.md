@@ -40,6 +40,26 @@
     * Be clear
 * Connect your ideas (For example, etc)
 
+
+
+## Examples and practice
+
+* ETS Official Guide 6th edition
+    * Practice Test 1 (p250-253), answer is Track 26, explanation p300
+    * Practice Test 2 (p348-350), answer is Track 44, explanation p395
+    * Practice Test 3 (p446-449), answer is Track 70, explanation p496
+    * Practice Test 4 (p546-549), answer is Track 93, explanation p598
+* Other practice questions
+    * Some students whose parents do not live close rent their own apartment. Others prefer to live in a dormitory. Which do you think is better and why? Use details and examples in your response.
+    * Some students prefer to study in a coffee shop, others at home.  Which method you think is better and why? Use details and examples to support your choice.
+    * Some people prefer reading electronic books. Others think that traditional paper books are still best. Which do you think is better and why? Use details and examples to support your choice.
+    * Some student like to take a variety of subjects. Others prefer to concentrate on one topic. Which do you think is better and why? Give details and examples to support your response.
+    * Do you like to try new restaurants, or at eat the same place all the time? Use details and examples to support your response.
+    * Do you prefer eating out, or eating it? Use reasons to support your response.
+    * Would you prefer driving to school, or walking? Use reasons to support your response.
+    * Would you like to live in a big city or a small town ? Use reasons to support your response.
+
+
 ## BASIC Arrangement (make your own)
 * I think...
     * My first reason is....because...
@@ -95,24 +115,4 @@
 * In brief                
 * On the whole 
 
-## Good examples
-
-* ETS Official Guide 6th edition
-    * Practice Test 1 (p250-253), answer is Track 26, explanation p300
-    * Practice Test 2 (p348-350), answer is Track 44, explanation p395
-    * Practice Test 3 (p446-449), answer is Track 70, explanation p496
-    * Practice Test 4 (p546-549), answer is Track 93, explanation p598
-
-## Practice Questions
-Note - old open question type pre2019 is gone. Only paired choice left. 
-
-* “In this question, you will be asked to give your opinion about a familiar topic. After you hear the question, you will have 15 seconds to prepare your response and 45 seconds to speak.”
-* Some students whose parents do not live close rent their own apartment. Others prefer to live in a dormitory. Which do you think is better and why? Use details and examples in your response.
-* Some students prefer to study in a coffee shop, others at home.  Which method you think is better and why? Use details and examples to support your choice.
-* Some people prefer reading electronic books. Others think that traditional paper books are still best. Which do you think is better and why? Use details and examples to support your choice.
-* Some student like to take a variety of subjects. Others prefer to concentrate on one topic. Which do you think is better and why? Give details and examples to support your response.
-* Do you like to try new restaurants, or at eat the same place all the time? Use details and examples to support your response.
-* Do you prefer eating out, or eating it? Use reasons to support your response.
-* Would you prefer driving to school, or walking? Use reasons to support your response.
-* Would you like to live in a big city or a small town ? Use reasons to support your response.
 
