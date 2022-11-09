@@ -58,3 +58,23 @@ Below are two good summaries, two not so good. Discuss: Can you see why?
 2. Writer said photo is iconic (Gabriner, n.d.). However, TED speaker said that photo effect is not only iconic but also trigger of people (Klein, 2020, February). 
 3. In this talk, the speaker argued that workers telling each other how much money they make will increase fairness, and so companies should promote doing it (Burkus, 2016, January). In fact, an article in the New York Times described a research project that showed this action reduced discrimination problems in work (Herrera, 2018, August 31).
 4. An article in Pet Guide said that "facility dogs" are working animals that help people in the legal system and other institutional settings (Barrington, 2017, February 21). However, in a TED talk, Morita (2015, March) argued that there are very few facility dogs working in Japan, and this is for several reasons.
+
+
+### Type 3 - conclusion types (for arguments/debates)
+* In conclusion,                  X should
+* To conclude,                X needs to
+* The conclusion to be drawn is that      X needs to be done immediately.
+* The principle conclusion is that        X have to
+* For these reasons,              the most likely next step is to X
+* All in all,                     this suggests that  X is the most appropriate choice.
+* What this means is that,            X is the most important.
+* As a consequence,               the following steps are suggested: 1,2,3
+* As such, the evidence suggests that     it is likely that X will happen
+* This implies that               if we do nothing, X will happen. 
+* All this lends support to the notion that
+* For these three reason,             
+* Because of this,                    
+* Because of these issues,            
+* This data indicates that,   
+* In light of the above,  
+
