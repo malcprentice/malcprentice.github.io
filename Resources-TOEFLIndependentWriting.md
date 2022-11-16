@@ -9,7 +9,7 @@
 
 # Examples
 
-See [example](Examples-TOEFLIndependentessay)
+See [example](Examples-TOEFLIndependentEssay)
 
 
 # Suggested timing
