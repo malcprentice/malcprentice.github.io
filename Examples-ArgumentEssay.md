@@ -25,21 +25,21 @@ This paragraph describes reasons why (despite the benefits above) we are not all
 In conclusion, this essay looked at some advantages and disadvantages of solar cells, in order to consider whether or not it is a good idea to install them. As shown above, it is clear that solar cells are good source of renewable energy and have a lot of advantages, of which the most important is the reduced environmental impact. However, they are not perfect, in particular because of the difficulty and high cost of installation. In conclusion, if you have money and time and live in a sunny area solar cells are recommended, but otherwise people who want to generate their own power should think about alternatives. 
  
 ## References
-_Basic tutorials: Solar panels._ (n.d.). Retrieved October 25, 2016 from http://www.freesunpower.com/solarpanels.php
+_Basic tutorials: Solar panels._ (n.d.). Free Sun Power. Retrieved October 25, 2016 from http://www.freesunpower.com/solarpanels.php
 
-_Disadvantages of solar energy._ (n.d.). Retrieved October 25, 2016 from http://www.conserve-energy-future.com/Disadvantages_SolarEnergy.php
+_Disadvantages of solar energy._ (n.d.). Conserve Energy. Retrieved October 25, 2016 from http://www.conserve-energy-future.com/Disadvantages_SolarEnergy.php
 
-_How many kWh does an average home use?_ (n.d.). Retrieved October 19, 2018, from https://www.reference.com/home-garden/many-kwh-average-home-use-28cc32f433d1bd69
+_How many kWh does an average home use?_ (n.d.). Reference. Retrieved October 19, 2018, from https://www.reference.com/home-garden/many-kwh-average-home-use-28cc32f433d1bd69
 
-Maehlum, M. (2015, May 26). _Top 10 benefits of going solar._ Retrieved from http://energyinformative.org/benefits-of-solar-panels/4
+Maehlum, M. (2015, May 26). _Top 10 benefits of going solar._ Energy Informative. http://energyinformative.org/benefits-of-solar-panels/4
 
-Shahan, Z. (2013, October 8). Advantages & disadvantages of solar tower. _Clean Technology._ Retrieved from http://cleantechnica.com/2013/10/08/
+Shahan, Z. (2013, October 8). Advantages & disadvantages of solar tower. _Clean Technology._ http://cleantechnica.com/2013/10/08/
 advantages-disadvantages-solar-power/
 
-_Solar panel direction: what direction should solar panels face?_ (n.d.). Retrieved October 25, 2016 from http://sinovoltaics.com/learning-center/system-design/solar-panel-direction-what-direction-should-solar-panels-face/
+_Solar panel direction: what direction should solar panels face?_ (n.d.). Sinevoltaics. Retrieved October 25, 2016 from http://sinovoltaics.com/learning-center/system-design/solar-panel-direction-what-direction-should-solar-panels-face/
 
-_Solar power-advantages and disadvantages._ (n.d.). Retrieved October 25, 2016 from http://www.alternate-power.org/solar-power-advantages-and-disadvantages/
+_Solar power-advantages and disadvantages._ (n.d.). Alternative Power. Retrieved October 25, 2016 from http://www.alternate-power.org/solar-power-advantages-and-disadvantages/
 
-_Top 10 renewable energy sources._ (2009, May 1). Retrieved from http://listverse.com/2009/05/01/top-10-renewable-energy-sources/
+_Top 10 renewable energy sources._ (2009, May 1). Listverse. http://listverse.com/2009/05/01/top-10-renewable-energy-sources/
 
-Woodford, C. (2016, April 28)._ Solar cells._ Retrieved from http://www.explainthatstuff.com/solarcells.html
+Woodford, C. (2016, April 28)._ Solar cells._ Explain That Stuff. http://www.explainthatstuff.com/solarcells.html
