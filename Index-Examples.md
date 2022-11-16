@@ -6,3 +6,4 @@
 * [Rough Essay Outlines](Examples-RoughEssayOutlines.md)
 * [T O E F L Independent Essay](Examples-TOEFLIndependentEssay.md)
 * [T O E F L Integrated Essay](Examples-TOEFLIntegratedEssay.md)
+* [World Heritage](Examples-World Heritage.md)

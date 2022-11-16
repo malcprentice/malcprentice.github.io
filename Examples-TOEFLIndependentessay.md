@@ -4,13 +4,6 @@
 
 * When I was young, my family lived near the sea, however we always used to spend some time each summer with my grandmother, and her home was in the mountains. Each place - mountains and sea - has its advantages, but I would prefer to live near the mountain for three reasons - the mountain herbs, the seasons, and the quiet. Firstly, in the mountains, we can enjoy a lot of mountain herbs such as warabi, udo, takenoko, kinoko, and so on. We can pick, cook, and eat them all the time if we live near the mountains. These herbs are very good for health, which also makes living near the mountains healthier than living near the sea. Secondly, if you live near the mountains, you can enjoy the seasons changing more. In spring, you can see some beautiful flowers or cherry trees, while in summer time, you can enjoy a lot of great green trees and not only these, insects such as beetles, cicada, and dragonflies appear. In fall, the green leaves change to red, yellow, and orange - you can see these process happening every day if you live in the mountains. Then in Fall, you can try hiking. If you go, you can take these scenery, and some delicious foods. In Winter, the beautiful leaves are all gone, but the snow-covered trees are very beautiful. The third reason I want to live in the mountains is that it is very quiet there, so you relax and unwind. When I was visiting my grandmother in summer, I often just sat for hours listening to the wind in the trees, with no cars or trains or noises of people. I can understand why some people would prefer to live in the sea - it does have good sports and I do like eating fish - but for the reasons above, I would prefer to live in the mountains. Next holidays I will be taking my driving test in Yamagata, and I hope I can take some time to visit the mountains there. (338 words- Thanks to MY for original) 
 
-### Another Example Conclusion for this topic (Hook-“I understand”-However-Comment)
-I still remember the holidays I took in the mountains as a teenager. I can understand why some people would like to live near the sea, as it does have some good food. However the mountain air is clean, the food is good and the hills offer a good place to exercise, which is why I prefer the mountains. Next week, I have a long weekend and I plan to go to the mountains and have a BBQ.
-
-
-### Another example intro for this topic
-When I was young, I lived near the sea because my home town was a fishing port. Some people like living near the sea like I did, however others prefer to live in the mountains. In this essay I will argue that living near the mountains is best for three reasons -  air, food and activities.
-iBT TOEFL: Independent Writing Example 
 
 ## Example 2 Some people like to travel without a plan. Others prefer to plan everything before they leave. Which do you prefer? Give reasons and examples. 
 
@@ -39,5 +32,35 @@ In conclusion, I am convinced that the development of technology is the most imp
 
 Word Count: 380
 
- 
+
+## Example 4: 3 paragraph
+Intro is attached to paragraph 1
+Conclusion attached to paragraph 3. 
+
+(Thanks to NH, 2021)
+
+Q. Do you agree or disagree with the following statement? All university students should be required to participate in exercise classes or sports. Use specific reasons and examples to support your answer.
+
+These days, a lot of university students tend to be busy and have no time to exercise to build their health by themselves. Personally, I believe that all university students should be required to take exercise classes or participate in sports club activities. I feel this way for two reasons, which I will explore in the following essay.
+
+First of all, university students do not have time to control their health by themselves because almost all of them are busy with assignments, part-time jobs, and so on. Almost all university students think that “We are still young, so we do not have to take care of our health too seriously, and we want to hang out more” or “I have countless things to do in order to make my dream come true”. Because of this, they do not have time to do sports. My friend's experience is a compelling example of this. She is living far from our university, so it takes about 2 hours to go to the university, and she has so many things to do in her life. Therefore she cannot make time to do sports or something. And then, her health is not good. Therefore,  I agree that some class time should be allocated.
+
+Secondly, students can make friends  more easily in these kinds of activities than other opportunities in university. Sports have a strong power to connect people, and allow them to make friends. One reason for this is that players need to communicate with each other in order to win, and hold their breath to perform well. For instance, in the P.E class, when I was a high school student, my classmates and I were playing soccer on the ground, and talked to each other a lot during the game, so we had a great time. . Then, I could be friends with my classmates who I did not know well about. As such, for the above two reasons, I am of the opinion that all university students should take exercise classes to be healthier and make good friends.
+
+Word Count: 345
+
+
+## Example 5:  (5 paragraph)
+In answer to "What famous place would you like to visit? Use details and reasons to support your response." Thanks to MY for the original submitted in 2014
+
+Recently, one of my friends from high school went to Okinawa for a company trip. She told me how nice the prefecture was and I was so interested in her story. Therefore, if I could go to a famous place, I would choose Okinawa for three reasons: its nature, food, and peace.
+
+The first reason why I want to visit Okinawa is that it has great nature. For example, there are rare animals such as the Iriomote cat and the Dugong. I may not be able to see them any other place in Japan, so I would like to encounter those animals. Also, Okinawa has beautiful beaches. I was born and raised in a big city, so I am not familiar with beaches - I heard that I can see star-shaped sand in Okinawa, and I want to bring back some to my home. 
+
+Another point which makes Okinawa adorable is its cuisine. Okinawa food is unique and nice. When I was eating one of them, goya chanpuru with my friend from Okinawa, she said it was not as good as the one made at her home. I am curious about how it differs from Tokyo’s version. Also, I am interested in a food called taco rice. I have never eaten it, but I heard it comes with tomato, lettuce, cheese, and rice and tastes like salad. I cannot imagine it, so I really want to try it and learn how to cook it. 
+
+Finally, in Okinawa, I can learn about peace. I am majoring in peace studies, and knew that Okinawa is only the place in Japan where a war was actually brought during World War II. Many people who were not soldiers were killed, and some of them were forced to commit suicide. Despite those sad histories during the war, they recovered and remade a peaceful island with cultural music and dance. As I am studying about world peace, I think I should know these events and how they recovered.
+
+In conclusion, these days we can go everywhere if only we have time and money. I understand that many people would choose foreign countries such as the US or Australia to go sightseeing. However, still I want to visit Okinawa because I can experience its nature, food, and peace culture. Now I am saving money to attend a study tour held in Okinawa this summer, so hopefully, I will be going to Okinawa soon.
+
 
