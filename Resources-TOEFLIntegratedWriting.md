@@ -28,7 +28,7 @@
 
 ## Examples
 
-* See [Example](Examples-TOEFLIntegratedessay)
+* See [Example](Examples-TOEFLIntegratedEssay)
 * See OG 6th edition book p309, p404, p503, p607
 
 ## General Tips

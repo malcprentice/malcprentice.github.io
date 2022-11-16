@@ -10,4 +10,5 @@
 * [Process Essay](Project-ProcessEssay.md)
 * [Research Presentation](Project-ResearchPresentation.md)
 * [Supporting Examples Paragraph](Project-SupportingExamplesParagraph.md)
+* [Tower Building](Project-TowerBuilding.md)
 * [World Heritage Essay](Project-WorldHeritageEssay.md)
