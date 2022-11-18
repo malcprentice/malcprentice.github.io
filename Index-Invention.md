@@ -1,5 +1,4 @@
 # Invention
-* [Advanced Issues](Invention-AdvancedIssues.md)
 * [Avoid Plagiarism](Invention-AvoidPlagiarism.md)
 * [Citation General Rules](Invention-CitationGeneralRules.md)
 * [Citation Verbs](Invention-CitationVerbs.md)
