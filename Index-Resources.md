@@ -1,4 +1,5 @@
 # Resources
+* [Guess Word Meanings](Resources-GuessWordMeanings.md)
 * [Images](Resources-Images.md)
 * [Listening](Resources-Listening.md)
 * [News Sites](Resources-NewsSites.md)

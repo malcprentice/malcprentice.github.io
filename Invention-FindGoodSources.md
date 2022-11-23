@@ -6,6 +6,7 @@ When you are looking for sources, try this:
 * Read the Japanese Wikipedia page
 * Google the topic in Japanese
 * Translate the main idea keywords into English.
+* Read the English Wikipedia page to find the keywords in English
 * Make a list
 
 ## 2) Search for those keywords
@@ -47,7 +48,13 @@ You can READ these for your own information, but don't USE them in your essay:
     * Quora answers
     * Yahoo answers
     * About.com
-
+* MOst of your sites should be 
+    * High Quality News Sites
+    * NGO reports
+    * Government reports
+    * High quality personal websites by experts
+    * Academic articles you have read (maybe in Japanese) on your courses
+    * Books (maybe later, for your dissertation)
 ## Next, note taking! 
 * See note taking sheet. 
 
