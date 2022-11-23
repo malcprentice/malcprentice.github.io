@@ -8,7 +8,7 @@ There are many ways to write an introduction. This is ONE way.
 
 |Section                         |content                     |Example |
 |--------------------------------|--------------------        |---------------|
-|General Background (GB)         |__category__ of topic       |cheap clothes|
+|General Background (GB)         | __category__ of topic       |cheap clothes|
 |Specific Background (SB)        |Name specific topic         |cotton|
 |Importance Background (IB)      |Why care? Why important?    |causes suffering/pollution|  
 |Thesis statement - Topic        |                            |cotton production|
@@ -17,8 +17,8 @@ There are many ways to write an introduction. This is ONE way.
 
 
 ## GB - General Background
-|Type:           |Example|
-|----------------|---------------------------|
+|Type:           |Example                                      |
+|----------------|--------                                      |
 |"Many":         |Many people regularly use/drink/buy/wear X without thinking.|
 |"In Japan,":    |In Japan, it's taken for granted that X, . However...|
 |"Every day":    |Every day, many/most students use/drink/buy/wear X|
@@ -29,7 +29,7 @@ There are many ways to write an introduction. This is ONE way.
  
 
 ## SB - Specific background - Name and define your topic
-|Type:           |Example|
+|Type:                   |Example           |
 |------------------------|-------------------|
 |One of the most + ADJ   |One of the most endangered animals is the Harp Seal, which|
 |Of these                |Of these, the most endangered animals is the Harp Seal, which|
