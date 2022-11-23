@@ -17,6 +17,7 @@ There are many ways to write an introduction. This is ONE way.
 
 
 ## GB - General Background
+
 |Type:           |Example                                      |
 |----------------|--------                                      |
 |"Many":         |Many people regularly use/drink/buy/wear X without thinking.|
@@ -29,6 +30,7 @@ There are many ways to write an introduction. This is ONE way.
  
 
 ## SB - Specific background - Name and define your topic
+
 |Type:                   |Example           |
 |------------------------|-------------------|
 |One of the most + ADJ   |One of the most endangered animals is the Harp Seal, which|
