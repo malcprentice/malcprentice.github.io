@@ -8,7 +8,7 @@ There are many ways to write an introduction. This is ONE way.
 
 |Section                         |content                     |Example |
 |--------------------------------|--------------------        |---------------|
-|General Background (GB)         | __category__ of topic       |cheap clothes|
+|General Background (GB)         | __category__ of topic      |cheap clothes|
 |Specific Background (SB)        |Name specific topic         |cotton|
 |Importance Background (IB)      |Why care? Why important?    |causes suffering/pollution|  
 |Thesis statement - Topic        |                            |cotton production|
@@ -17,6 +17,11 @@ There are many ways to write an introduction. This is ONE way.
 
 
 ## GB - General Background
+* DO NOT NAME YOUR TOPIC in GB. Save it for SB
+* Do not use these for GB:
+    * Personal statements ("I...", "When I was"). OK in TOEFL iBT, not here
+    * Definitions ("The Oxford dictionary defines imagination as....")
+    * Questions ("Do you know X?") - OK in speech, not writing
 
 |Type:           |Example                                      |
 |----------------|--------                                      |
@@ -24,9 +29,9 @@ There are many ways to write an introduction. This is ONE way.
 |"In Japan,":    |In Japan, it's taken for granted that X, . However...|
 |"Every day":    |Every day, many/most students use/drink/buy/wear X|
 |"Most":         |Most people use X every day.|
-|Number:         |Three million tons of X are used every day (Smith, 1999).|
-|Quote:          |According to the WWF (2013) the world today is "addicted to oil".|
-|List:           |1, 2, 3, and 4 are all products commonly use in Japan. All of these |
+|Number:         |Three million tons of X are used every day (Smith, 1999), ...|
+|Quote:          |According to the WWF (2013) the world today is "addicted to oil", and ...|
+|List:           |1, 2, 3, and 4 are all products commonly use in Japan. All of these ... |
  
 
 ## SB - Specific background - Name and define your topic
@@ -42,7 +47,8 @@ There are many ways to write an introduction. This is ONE way.
 |Use a partition         |There are three main kinds of X - 1, 2, and 3 - of which|
 
 ## IB - Importance background
-* __However,__ not all X is made in an ethical way
+
+* __However,__ not all SB TOPIC is made in an ethical way
 * __This is a__
     * This is a problem that needs solving because...
     * This is an issue, because if X, then Y will also
@@ -54,22 +60,17 @@ There are many ways to write an introduction. This is ONE way.
     * While much is known about X, little is known about Y
     * The results/information below should be useful to ...
     * Knowing more about X should help Y (do Z)
-
-## Tips
-* Sometimes thesis statement also has keywords - one per paragraph
-* DO NOT NAME YOUR TOPIC in GB. Save it for SB
-* Do not use these for GB:
-    * Personal statements ("I...", "When I was"). OK in TOEFL iBT, not here
-    * Definitions ("The Oxford dictionary defines imagination as....")
-    * Questions ("Do you know X?") - OK in speech, not writing
-* IB can be replaced with a definition or a partition if you haven't already used that in SB or in a description paragraph
-* Sometimes the order is GB-IB-SB-Thesis (if your SB isn't actually important)
+ 
+* If IB doesn't work well for your essay, try 
+    * a definition or partition if you're not using that elsewhere
+    * change the order to GB-IB-SB-Thesis (if your SB isn't actually important)
 
 
 
 ## THESIS STATEMENT
 * Opinion 
-    * "This essay argues that X, for three reasons - 1, 2, and 3."
+    * "This essay argues that PROPOSITION, for three reasons - 1, 2, and 3."
+    * This essay argues that electric cars are  actually bad for the environment, for three reasons: rare earth mining, construction energy cost, and the difficulty in recycling batteries. 
 * Ethical consumption
     * Examples
         * This essay first describes X in detail, then summarizes some problems it/they/its production/their production causes/is causing, and finally outlines some possible solutions to those problems.
@@ -77,7 +78,7 @@ There are many ways to write an introduction. This is ONE way.
     * Be careful about causes and effects
         * is the product itself is dangerous (e.g. mercury/plastic)
         * or is just __"its production"__ dangerous (e.g. diamonds/cotton/paper)
-    * Be careful about plurals and countable nouns?
+    * Be careful about countability
         * Uncountable? Use "its" (Tantalum, cotton)
         * Countable? Use "their" (bananas, tuna)
 * Endangered animals
