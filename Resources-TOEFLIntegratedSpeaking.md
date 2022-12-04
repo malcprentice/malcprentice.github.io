@@ -58,28 +58,15 @@ In this set of materials, the reading passage is about TOPIC ... and in the list
 
 
 ### Template with Choices. 
-* Intro e.g. "In this set of materials, the reading passage is about TOPIC ... and in the listening two students react to it.
-* Summary of Reading e.g. "The reading passage is about X. It says that"
-    * Option 1: Some examples say what the message is 
-    	* an email about X    
-    	* a message about X    
-    	* an announcement about X               
-    	* part of a syllabus for a course on X 
-    * Option 2: Some examples say who it is from
-    	* (from the campus administration)
-    	* (from the university president)
-		* (from a teacher)
-	* Option 3: Instead of "says that", some examples use more specific verbs
-		* It notes that
-		* It warns that
-		* It reminds students that
-* PAUSE
-* "In the listening passage, two students discuss the topic. "   
-    * Option 1: change the verb / the reading type
-    	* discuss      					/ the notice.    
-    	* talk about   					/ the message.  
-    	* express surprise about 		/ the letter 	
-    	* share their unhappiness about / the change
+
+
+* Filler (If you cannot fill 60s reliably, maybe make your intro longer with this:
+	* Intro e.g. "In this set of materials, the reading passage is about TOPIC ... and in the listening two students react to it.
+	* Summary of Reading e.g. "The reading passage is about X. It says that"
+	* Summary of listening"In the listening passage, two students discuss the topic/notice/letter. "   
+
+HOWEVER, most ETS "HIgh LEVEL ECXAMPLES" just start with the answer, focusing ONLY on the speaker they asked about (the woman or the man)
+
 * The woman/man says/thinks OPINION 
 	* His/her first reason/example is L1.
 	* His/her second reason/example is L2. 
@@ -91,10 +78,7 @@ In this set of materials, the reading passage is about TOPIC ... and in the list
 ### Example
 * See ETS Official Guide, track 24 (p300), 49, and 70
 * 
-* Example 1 (possibly old style): In this set of materials, the reading passage is a message about a teacher retiring, and in the listening two students react to it. The reading passage is a message from the university president about the retirement of Dr Hiroko Suzuki, at the end of Spring Semester, after 50 years. It also describes her career as a grad student and professor in the psychology department, where she was known for her dedication to students, and for writing many books and articles. In the listening passage, two students express surprise about the message. The woman wanted to take the Dr Suzuki's class, because her father had studied with the professor 30 years ago and said it was good. As a result, she will probably try to take at least one class next semester, because it will be their last chance.  
-
-* In this set of materials, the reading passage is a letter about student health services, and in the listening two students react to it. The reading passage gives two suggestions to fix health centre issues with wait times and unavailability on the weekend. The letter gives two suggestions. The first is to hire more doctors so that students can be treated more quickly. The second is to open on weekends, so that more time slots are available if something happens then. In the listening passage, two students discuss the message. The man disagrees with the suggestions. He notes that there is nowhere to put any new doctors they do hire, because the health centre building is too small. In addition he points out that many students aren't on campus at the weekend, so opening on the weekend would have no point. 
-
+* Example 1 (old style with really overlon introduction): In this set of materials, the reading passage is a message about a teacher retiring, and in the listening two students react to it. The reading passage is a message from the university president about the retirement of Dr Hiroko Suzuki, at the end of Spring Semester, after 50 years. It also describes her career as a grad student and professor in the psychology department, where she was known for her dedication to students, and for writing many books and articles. In the listening passage, two students express surprise about the message. The woman wanted to take the Dr Suzuki's class, because her father had studied with the professor 30 years ago and said it was good. As a result, she will probably try to take at least one class next semester, because it will be their last chance.  
 
 
 ## Q3 RLS Lecture 

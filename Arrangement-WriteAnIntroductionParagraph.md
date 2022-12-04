@@ -88,6 +88,7 @@ There are many ways to write an introduction. This is ONE way.
         * Talking about a species: use "it" and "the panda"
         * Talking about all individuals : use "they" and "pandas"
         * both OK, but don't mix! ~~"This essay first describes __the__ Saola in detail, then looks at some problems __they__~~
+* Other essay types, see [Write A Thesis Statement](Style-WriteAThesisStatement)
 
 
 ##  Full Examples
