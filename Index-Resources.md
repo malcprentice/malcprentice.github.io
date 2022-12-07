@@ -3,7 +3,7 @@
 * [Images](Resources-Images.md)
 * [Listening](Resources-Listening.md)
 * [News Sites](Resources-NewsSites.md)
-* [Other Links](Resources-Other Links.md)
+* [Other Links](Resources-OtherLinks.md)
 * [Reading](Resources-Reading.md)
 * [Spelling Alphabet](Resources-SpellingAlphabet.md)
 * [T O E F L Independent Speaking](Resources-TOEFLIndependentSpeaking.md)
@@ -11,3 +11,4 @@
 * [T O E F L Integrated Speaking](Resources-TOEFLIntegratedSpeaking.md)
 * [T O E F L Integrated Writing](Resources-TOEFLIntegratedWriting.md)
 * [T O E F L Overview](Resources-TOEFLOverview.md)
+* [Tech Tips](Resources-TechTips.md)
