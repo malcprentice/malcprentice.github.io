@@ -5,49 +5,46 @@
     *  For example, Engineering is usually stricter on using "I" than Education.
 
 ## Do not use "I"
-* "This essay argues"
-* "This essay has showed"
-* Using your own experience as an example is OK
-	*  Still, don't use "I" - use "The author was/went/saw"
-	*  But even, then, only talk about facts, not opinions i.e. never use "The author believes/thinks"
-* Sometimes "I" is OK in SOME majors IF YOU ARE PART OF THE RESEARCH CONTEXT e.g. Education ("In my class")
+* ~~I will argue~~ -> "This essay argues"
+* ~~I am going to show~~ -> "This essay has showed"
+* ~~When I went to Okinawa~~ -> "WHen the author went to Okinawa"
+* ~~I chose this topic because I~~ -> "This topic was chosen because the author"
+* "I" is OK in SOME majors' academic writing IF YOU ARE RESEARCHING YOURSELF e.g. Education ("In my class")
         
 ## Do not use "you" or "we"
 
 Unless you mean EVERYONE:
 
-* "We did a survey"                __bad, because "we" = your research team, not the reader__
-* "We must protect the planet"     __OK, because "we" = all humans__
-* "After that, you should look at" __bad, because "you" means the reader__
-* "When you study English, you also learn culture" __only OK if essay is aimed at all and only students__
+* "We did a survey"                __No - the reader is not included in group that did survey__
+* "We must protect the planet"     __OK, all human readers are included__
+* "After that, you should look at" __No, don't talk to the reader directly__
+* "When you study English, you also learn culture" __Only OK if ALL readers are students of English__
 * __It's safer just to avoid "we" and "you" completely.__
-	* Use passive ("A survey was done", "must be protected", "should be looked at"
-	* third person ("The authors did a survey", "People should protect", "Future researchers should look at"
-	* "it is" ("It is necessary to protect", "It is recommended to look at"
-	* FOr example
+	* Use passive ("A survey was done", "must be protected", "should be looked at")
+	* Use third person ("The authors did a survey", "People should protect", "Future researchers should look at"
+	* Use "it is" ("It is necessary to protect", "It is recommended to look at"
 
-## Do not use digits under 10
+## No digits under 10 without units
 * Use words for 1-9  ("one two three")
 * Use numbers for 10+ ("10, 11, 12")
 * However
-	* If the number starts a sentence, use "Twelve" or "Around 12"
-	* Use numbers with counters ($3, 8 hours, 5 years old)
-	* Keep numbers consistent (8-10, not 8-ten)
-	* For more, read this: https://wikis.engrade.com/apanumbers
+	* Start sentences with words ("Twelve" or "Around 12")
+	* Numbers with units OK ($3, 8 hours, 5 years old)
+	* Don't mix (8-10, not 8-ten)
+	* For more, read [this](https://wikis.engrade.com/apanumbers)
 
-## Do not use abbreviations (e.g. "don't" = do not)
-* No short forms (don’t, won’t, can’t, isn’t, he’s, etc.) in essays.
-* Use long forms (do not, will not, cannot, is not, he is, etc.)
+## Do not use abbreviations 
+* ~~don't, won't, can't, isn't, he's~
+* do not, will not, cannot, is not, he is
 
 
 ## Do not use anonymous sources
 *  ~~Many people think~~
 *  ~~It is thought that~~
 * ~~It is said that~~
-
 * Instead [SAY WHO SAID IT](Invention-CitationGeneralRules)
 
-## No opinion adjecitves
+## No opinion adjectives
 * Just give the facts, not your attitude to them. 
 	* ~~obviously~~
 	* ~~surprisingly~~

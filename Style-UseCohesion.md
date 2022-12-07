@@ -1,155 +1,101 @@
 # Style - Use Cohesion
+## What is Cohesion?
 
-## You need to link some sentences. 
-* Examples: However, In addition, Also, Moreover, Therefore, While, Because, Otherwise, Furthermore, In other words, Actually, As, Whether … not. 
+* Cohesion is about using English well (Style) to make your plan clear (Arrangement).
+    * Arrangement plans in any language:          "Sentence 3: example ＝ペンギン"
+    * Style writes in English:                                  "For instance, the emperor penguin..." 
 
-
+* Give example         
+    * "A second example of this would be..."
+    * For example, X
+    * X, for example Y, Z
+    * An example of this is X
+    * X such as Y
+    * For instance, X
+    * As an example, X.
+    * One example of this is X
+    * Namely, X.
+    * Chiefly, X
+* Reason, Cause, & Effect 
+    * "This is because..."
+    * X, so Y
+    * Y because X
+    * X. Therefore Y.
+    * See also [Write a Cause-Effect Sentence](Style-WriteACauseEffect.md))
+* Disagree 
+    * However, 
+    * That said, 
+    * 
+* CLarification
+    * In other words
+    * Another way of understanding this is
+    * To put it differently
+    * To put it another way
+    * That is to say
+    * To repeat,
+* Agree  
+    * In fact, ...
+* Summarise            
+    * In summary, ...
+* Introduce a number 
+    * Around          10%         of Y are Z.
+    * More than           7000        of Y are not Z.
+    * Less than           five        of those Y are Z.
+    * Approximately    half       Ys are Z.
+    * Up to           one third       of Y could be Z.
+* Add more of the same
+    * Another reason X is
+    * In addition, X.
+    * Additionally, X
+    * Moreover, X.
+    * What is more, X.
+    * Furthermore, X.
+    * Another X is.
+    * Also, X
+* Add a detail 
+    * In fact,
+    * Specifically,
+    * To be specific, X.
+    * In particular, X
+* Signal quote/research
+    * e.g. "According to"
+    * See Invention worksheets
+* Signal Importance
+    * It is important to note that
+    * The key point is that
+    * It must be remembered that
+    * One point often forgotten is that
+* Signal Doubt or disagreement
+    * While most sources think that
+    * There is insufficient research to
+* Signal a Summary (Alternatives to "In summary")
+    * To summarize
+    * To sum up
+    * In summary,
+    * In summary, we have learned that X
+    * In short
+    * In brief
+    * While it is true that A, it is also important to note that B.
+ 
 
 ## Common mistakes
 * DO NOT START A SENTENCE WITH THESE: 
-    * ~~And, But, So~~
-    * , and , but, so 
-    * In addition, However, Therefore
-
-
-## What is Cohesion?
-* Where I am in the essay outline ("Signposting")
-    * e.g. "The first problem is", "As the previous noted,"
-    * See [[Style - use signposting]] for more
-* What each sentence does ("Signalling")
-
-## For example
-
-| Signal                              | Example
-| ---                                 | ---
-| This an example sentence            | "For example, ..."
-| This is another example             | "A second example of this would be..."
-| This an effect                      | "This is because..."
-| This a disagreeing response         | "However, ..."
-| THis is an agreeing response        | "In fact, ..."
-| This a another supporting point     | "Additionally, ..."
-| This is a summary                   | "In summary, ..."
-| This is a new reason on same topic  | "Another reason X is a problem  is that"
-
-
-## Basics: So, Or, But, Because, And
-You could write an essay with just these (a boring one though).
-* cats, so
-* cats, and
-* cats, but
-* cats, or
-
-Use them correctly! They JOIN sentences. Never do this:
-
-* ~~cats. So~~
-* ~~cats. And~~
-* ~~cats. But~~
-* ~~cats. Or~~
-
-Because works both ways, but be careful of the order
-
-* Because X, Y.
-* Y, because X.
-
-## Giving an example (alternatives to "for example")
-* For example, X
-* X, for example Y, Z
-* An example of this is X
-* X such as Y
-* For instance, X
-* As an example, X.
-* One example of this is X
-* Namely, X.
-* Chiefly, X
-
-
-
-## Adding another point: (alternatives to "Also")
-* In addition, X.
-* Additionally, X
-* Moreover, X.
-* What is more, X.
-* Furthermore, X.
-* Another X is.
-* Also, X
-
-## Adding a detail to a point
-* In fact, 
-* Specifically, 
-* To be specific, X.
-* In particular, X
-
-
-
-## Adding a clarification
-* In other words
-* Another way of understanding this is
-* To put it differently
-* To put it another way
-* That is to say
-* To repeat,
-
-
-## Giving a reason (alternatives to "so")
-* X, so Y
-* Y because X
-* X. Therefore Y.
-* See also [[Style - write a cause-effect sentence]]
-* See also [[Arrangement - write an argument]]
-
-## Numbers
-
-|               |           |  
-|---            |---        |---
-|Around          |10%        |of Y are Z.
-|More than       |7000       |of Y are not Z.
-|Less than       |five       |of those Y are Z.
-|Approximately   |half       |Ys are Z.
-|Up to           |one third  |of Y could be Z.
-
-## Signal quote/research
-* e.g. "According to"
-* See (sentence style citation)[Invention-CiteSentenceStyle]
-
-## Signal Importance
-* It is important to note that
-* The key point is that
-* It must be remembered that
-* One point often forgotten is that
-
-## Signal Doubt or disagreement
-* While most sources think that
-* There is insufficient research to
-* See also [[Arrangement - write a summary-response]]
-
-## Signal a Summary (Alternatives to "In summary")
-* To summarize
-* To sum up
-* In summary,
-* In summary, we have learned that X
-* In short
-* In brief
-* Other Summaries 
-    * Opposite viewpoint (some TOEFL iBT essays) While it is true that A, it is also important to note that B.
-    * Time order: In summary, the three stages are A, then B, and finally C. (process)
-    * Solutions 
-        * In summary, there are three possible solutions - A, B, and C -
-        * of which only C is effective.
-        * all of which work.
-        * however none of these work.
-        * of which only A and B are effective.
-        * of which only the first is effective.
-        * of which only the second is effective.
-        * of which only the last is effective.
-
-## Not in academic essays
-* Unfortunately, 
-* Surprisingly,
-
-## Spoken only
-* All things considered,
-* All in all,
-* To recap
+    * cats, so
+    * cats, and
+    * cats, but
+    * cats, or
+    * Never do this:
+        * ~~cats. So~~
+        * ~~cats. And~~
+        * ~~cats. But~~
+        * ~~cats. Or~~
+* Do not use in academic essays
+    * Unfortunately, 
+    * Surprisingly,
+* Only use when speaking 
+    * All things considered,
+    * All in all,
+    * To recap
 
 
 
