@@ -2,7 +2,7 @@
 
 
 ## Overview
-From the syllabus, "This is a response to a question, for example, ‘What is a good way to be eco-friendly?’ It typically includes a main idea and two or three supporting ideas with examples."
+From the syllabus, "This is a response to a question, for example, ‘What is a good way to be eco-friendly?' It typically includes a main idea and two or three supporting ideas with examples."
 
 ## Invention - get some ideas
 
@@ -39,14 +39,14 @@ Topic question: "What is a good way to save money?"
 
 ## Template Suggestion
 
->**This paragraph responds to the question** ‘Copy your question here in sentence case?’, **giving three examples. The first example is** KEYWORD 名詞/動名詞.  Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The second example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The third example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **In summary, there are at least three ways to** TOPIC - KEYWORD1, KEYWORD2, and KEYWORD2 - **of which the best is KEYWORDX.**
+>**This paragraph responds to the question** ‘Copy your question here in sentence case?', **giving three examples. The first example is** KEYWORD 名詞/動名詞.  Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The second example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **The third example is** KEYWORD名詞/動名詞. Any sentence with detail on the example with at least 10 words. Link + another sentence of detail on the example with at least ten words. **In summary, there are at least three ways to** TOPIC - KEYWORD1, KEYWORD2, and KEYWORD2 - **of which the best is KEYWORDX.**
 
 ## Examples (Topic + first detail only)
-> This paragraph responds to the question ‘How do I get up early?’, giving three examples. The first example is setting an alarm.  The main thing you need to do is make sure you have set a high volume alarm so you can hear it. However, this does not always work, so some people should set more than one alarm, for example my friend Hiroko sets six alarms. The second example is going to Bed early.....
+> This paragraph responds to the question ‘How do I get up early?', giving three examples. The first example is setting an alarm.  The main thing you need to do is make sure you have set a high volume alarm so you can hear it. However, this does not always work, so some people should set more than one alarm, for example my friend Hiroko sets six alarms. The second example is going to Bed early.....
 
 
 
->This paragraph responds to the question ‘What is a good way to spend the weekend?’, giving three examples. The first example is going shopping.  My favourite kind of shopping is for clothes, and the best area to do that is Ikebukuro, especially Sunshine City. In particular, the best shops there are Pen-GUin and Uni-Penguin because their clothes are varied but cheap. The second example is having dinner...
+>This paragraph responds to the question ‘What is a good way to spend the weekend?', giving three examples. The first example is going shopping.  My favourite kind of shopping is for clothes, and the best area to do that is Ikebukuro, especially Sunshine City. In particular, the best shops there are Pen-GUin and Uni-Penguin because their clothes are varied but cheap. The second example is having dinner...
 
 ## Tips
 * Careful that the SECOND detail sentence needs a link

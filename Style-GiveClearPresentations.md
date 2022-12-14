@@ -56,7 +56,7 @@
 
  
 ## Remember
-* Keywords are best if they are NOUNS (名詞) - don’t forget the "and".
+* Keywords are best if they are NOUNS (名詞) - don't forget the "and".
 * If you're using slides, don't use speakers notes
     * They almost never work properly
     * They make you look at the laptop too much 
@@ -68,7 +68,7 @@
 ## General Style Tips
 * Present for other students, not Malc:
     * they didn't read what you did
-    * define or avoid words they won’t know
+    * define or avoid words they won't know
 * Make sure it is INTERESTING
 * Any words hard to pronounce? 
     * If they're important, practice 
@@ -101,13 +101,13 @@
 |---                        |---                     |---    
 |Today, I'd like to tell you |how to do X.          |There are three steps: A, B and C.
 |In this talk, I'll      |describe how to do X.     |I'll be talking about A, B and C
-|etc                      |look at how to X.        |I’m going to look at Aing, Bing, and Cing.
+|etc                      |look at how to X.        |I'm going to look at Aing, Bing, and Cing.
 |                         |tell you how X happens.  |There are three steps: A, B and C.
 |                         |describe how X happened.  |I'll be talking about A, B and C
 
 
 ## Alternative endings
-* Summary: And so, once more.... / To sum up / Don’t forget / Please remember / I hope you
+* Summary: And so, once more.... / To sum up / Don't forget / Please remember / I hope you
 * Prediction: And so, in the future, we will/should...
 * Conclusion: In conclusion... / As you can see, this means....
 
@@ -115,9 +115,9 @@
 * Order
     * First, Second, Third
     * First, Next, Finally.
-    * Let’s begin with 1.
+    * Let's begin with 1.
     * That was 1, but how about 2?
-    * That covers 2, now let’s turn to 3.
+    * That covers 2, now let's turn to 3.
 * Referring to slides
     * "As this slide shows"
     * "The next slide has"

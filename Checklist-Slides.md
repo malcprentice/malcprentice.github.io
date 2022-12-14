@@ -10,7 +10,7 @@
     * Unless you have a meaningful image (map, chart), you need text
     * Everything is keywords. Never sentences
     * Title is in Title Case
-    * If you will say it, don’t write it 
+    * If you will say it, don't write it 
     * No penguins!
 * General (all slides)
     * Is the font colour + Background colour combination readable\

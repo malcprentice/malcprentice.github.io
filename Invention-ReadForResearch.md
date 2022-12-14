@@ -28,10 +28,10 @@ When you need to read for information, not for language learning.
 * Choose - are you going to write or type?
 * Choose - are you doing to use Japanese or English?
     * (Up to you, unless I ask you to use English)
-    * (if you use English, don’t copy paste!)
+    * (if you use English, don't copy paste!)
 * Keep your notes short
     * Choose only the IMPORTANT highlights you need for your summary
-    * Don’t copy-paste the whole phrase!
+    * Don't copy-paste the whole phrase!
     * Use the keywords you wrote. Add more if those are not clear
     * If you do copy a quote, use quote marks so you remember it's not your words
 * Give page numbers if the original is very long

@@ -13,8 +13,8 @@ You need this skill for:
     * It **gives the topic** (e.g. "plastic bags" / "Harry Potter" / "giant pandas")
     * It **gives the main idea** (e.g. "described" / "argued" / "compared") 
     * It **gives keywords** from the source 
-        * Don’t just say "described some people", give an example!
-        * Don’t just say "gives two reasons" - list them!
+        * Don't just say "described some people", give an example!
+        * Don't just say "gives two reasons" - list them!
 * It **starts with a good link**
     * First summary sentence:    "In summary" / "In this book/talk" / "An article in"  
     * Second summary sentence:   "In fact" / "In addition" / "For example, an article by"
@@ -33,9 +33,9 @@ Here are four summaries of a book [("World Wonders", level 2)](http://www.oxford
 * Three are bad. One is good. 
 * Discuss: Is the summary bad or good? Why?
     * "I think A is a bad summary, because …" 
-        * … it isn’t really a summary
-        * … it doesn’t give enough detail 
-        * … it doesn’t start with a link. 
+        * … it isn't really a summary
+        * … it doesn't give enough detail 
+        * … it doesn't start with a link. 
         * … it uses copy paste.
     * Use discussion language to agree or disagree
         * ("Me too. Mainly because it's... How about B")

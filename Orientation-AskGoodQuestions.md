@@ -34,9 +34,9 @@ Here are some patterns
 (Experiences)
 
 * What was your favourite TV show (when you were small)?
-* What’s the first CD you ever bought?
-* What’s the last movie you saw?
-* What’s the strangest thing you’ve ever eaten?
+* What's the first CD you ever bought?
+* What's the last movie you saw?
+* What's the strangest thing you've ever eaten?
 * When did you last go shopping?
 * Where did you buy your shirt?
 * Where have you been in Japan?
@@ -44,17 +44,17 @@ Here are some patterns
 * Have you ever bought stuff at a flea market?
 
 ## Recommendations, Likes
-* What’s a good place to buy English books?
+* What's a good place to buy English books?
 * Where do you think I should do a study abroad?
 * Which do you think is best – hotel or homestay?
 * Do you like karaoke?
 * Do you prefer the country or the city?
-* Who’s your favourite Japanese artist?
-* What’s your favourite restaurant?
+* Who's your favourite Japanese artist?
+* What's your favourite restaurant?
 * What kind of movie do you like?
 
 # Discussion patterns  
-* Do you think it’s OK to keep animals in zoos?
+* Do you think it's OK to keep animals in zoos?
 * (See discussion phrase sheet for more)
 
 ## Imagination patterns ("conditionals") 

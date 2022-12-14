@@ -9,7 +9,7 @@
     * Most example answers do not include one, and it takes too much time.
     * Focus on content and transitions.
 * This is a speaking test - use informal speech.
-    * Especially, use contractions (it’s, they’re)
+    * Especially, use contractions (it's, they're)
     * Example responses avoid formal signalling like “In summary” - these are for writing
 * Practice using the right tense, conditionals
     * Do you prefer  =   I prefer
@@ -21,7 +21,7 @@
     * Transcribe yourself and look for problems
     * Do the same speech again and again - faster and smoother
 * See http://www.ets.org/s/toefl for example answers
-* Don’t repeat to fill time
+* Don't repeat to fill time
     * add something
     * Practice filling the time with new content until you get it right
 

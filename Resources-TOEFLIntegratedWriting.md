@@ -57,7 +57,7 @@ You are scored on
 * Language use 
 	*  Sentence structure   
 	*  Choosing the right words
-	*  Spelling and Grammar don’t need to be perfect 
+	*  Spelling and Grammar don't need to be perfect 
 
 
 # Arrangement and Style

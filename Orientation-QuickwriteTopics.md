@@ -29,51 +29,43 @@
 * A Sport/Hobby I want to try
 * My Favourite Teacher in (Junior) High School
 * My School Trips in JHS/HS
-* The Best Study-abroad Plan <--
+* The Best Study-abroad Plan 
 * The Best Food to Cook. * 
-* The Best Thing to do With 1,000,000 yen <--
-* The Best Present I Ever Received <--
-* What I Want to do After University <--
-* The Best and Worst Thing about University Life <--
-* A Celebrity I Would Like to Meet  <--
-* My Most Important Possession  <--
-* The Country I Would Like to Go to Most <--
-* The Thing I Want to Buy Most <--
-* The Place I Want to Visit Most in Japan <--
-* If I Could Live Anywhere in the World, I Would Live in CITY NAME <--
-* If I Could Change One Thing About (the university / Tokyo / my job / my house) <--
-* If I Could Make One Thing Illegal <--
-* Good and Bad Points of SNS <--
-* If I Could Add any Feature to my Smartphone, I Would Add <--
-* Do SNS like Facebook or Line damage our relationships with people? <--
-* Should university students be required to do sports? <--
-* Should university students have part-time jobs while they are studying? <--
-* Should all University students should spend a year abroad? <--
-* "Success is about hard work, not luck". Agree or disagree? <--
-* Do you prefer the mountains or the sea? <--
-* Would you prefer to work for a Japanese company or an overseas one? <--
-* Would you prefer to work for yourself or work for a company? <--
-* What are the qualities of a good friend?  <--
-* What are the qualities of a good co-worker (e.g. for your part time job)? <--
-* What are the qualities of a good place to live?  <--
-* What are the qualities of a good boss? <--
-* What are the qualities of a good teacher. <--
-* What is most important when deciding choosing your first apartment (e.g. location, cost, shops). <--
-* Your city is going to build a statue of a famous person. Who should it be? <--
-* A friend is visiting your hometown and only has two days. What should they do? <--
-* A tourist is visiting your country, and has only one week. What should they do? <--
-* What are the good and bad points of online shopping? <--
+* The Best Thing to do With 1,000,000 yen 
+* The Best Present I Ever Received 
+* What I Want to do After University 
+* The Best and Worst Thing about University Life 
+* A Celebrity I Would Like to Meet  
+* My Most Important Possession  
+* The Country I Would Like to Go to Most 
+* The Thing I Want to Buy Most 
+* The Place I Want to Visit Most in Japan 
+* If I Could Live Anywhere in the World, I Would Live in CITY NAME 
+* If I Could Change One Thing About (the university / Tokyo / my job / my house) 
+* If I Could Make One Thing Illegal 
+* Good and Bad Points of SNS 
+* If I Could Add any Feature to my Smartphone, I Would Add 
+* Do SNS like Facebook or Line damage our relationships with people? 
+* Should university students be required to do sports? 
+* Should university students have part-time jobs while they are studying? 
+* Should all University students should spend a year abroad? 
+* "Success is about hard work, not luck". Agree or disagree? 
+* Do you prefer the mountains or the sea? 
+* Would you prefer to work for a Japanese company or an overseas one? 
+* Would you prefer to work for yourself or work for a company? 
+* What are the qualities of a good friend?  
+* What are the qualities of a good co-worker (e.g. for your part time job)? 
+* What are the qualities of a good place to live?  
+* What are the qualities of a good boss? 
+* What are the qualities of a good teacher. 
+* What is most important when deciding choosing your first apartment (e.g. location, cost, shops). 
+* Your city is going to build a statue of a famous person. Who should it be? 
+* A friend is visiting your hometown and only has two days. What should they do? 
+* A tourist is visiting your country, and has only one week. What should they do? 
+* What are the good and bad points of online shopping? 
 
 
-# Opinion topics
 
-Topics marked "<--" are also OK for "Opinion Quickwrite" (EngComm, Debate class)
-
-* Start with "I think" + title in lower case
-* Optional: Give a SHORT description if it's something we don't know
-* Then say "There are several reasons why .... . Firstly, "
-* e.g. 35 "I think that the country I would like to go to most is  New Zealand. There are several reasons why I want to go there. Firstly, I love "The Hobbit"
-* E.g. 36 "I think that the thing I want to buy most is a ukelele. It is a kind of small guitar with four strings. There are several reasons why I want to buy one. 
 
 # Need more topics?
 * NYT650 [New York Times 650 topic](https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0)

@@ -44,7 +44,7 @@ Show you are listening! Careful with tone. Happy voice! Tone changes meaning, an
 * OK, so so you mean (that)
 
 ## Listener - if that doesn't work, then:  
-* Sorry. I don’t understand
+* Sorry. I don't understand
 * Sorry, I don't follow
 * Sorry, I didn't catch that
 * SOrry, I didn't quite get that. 

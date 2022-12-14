@@ -82,7 +82,7 @@
 * Intro (1 paragraph)
 * Background section (1 paragraph)
 * Reason section (3 paragraphs)
-    * Reason 1 it is good/bad / we should/shouldn’t do it
-    * Reason 2 it is good/bad / we should/shouldn’t do it
-    * Reason 3 it is good/bad / we should/shouldn’t do it
+    * Reason 1 it is good/bad / we should/shouldn't do it
+    * Reason 2 it is good/bad / we should/shouldn't do it
+    * Reason 3 it is good/bad / we should/shouldn't do it
 * Conclusion  (1 paragraph)

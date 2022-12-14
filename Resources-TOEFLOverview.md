@@ -35,7 +35,7 @@
 * Transcribe yourself and look for problems
 * Do the same speech again and again - faster and smoother
 * See http://www.ets.org/s/toefl for example answers
-* Don’t repeat to fill time. Add something
+* Don't repeat to fill time. Add something
 * Practice filling the time until you get it right
 
 ## What score do I need?

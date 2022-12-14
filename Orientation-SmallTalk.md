@@ -34,8 +34,8 @@ A conversation has 6 parts: A, B, C, D, E, & F. Do all 6 every time you change p
 |---     |---
 |Hi      |How's it going?
 |Hey     |How are things?
-|Morning |How’ve you been?
-|Afternoon |What’s new?   
+|Morning |How've you been?
+|Afternoon |What's new?   
 |Evening |What's up?
 
 
@@ -47,7 +47,7 @@ There are many more, but usually:
 ### B) Small talk question
 Examples for people you just met:
 
-* What’s your name?       
+* What's your name?       
 * Where are you from?                             
 * Where do you live   ?      
 * What's your major?          

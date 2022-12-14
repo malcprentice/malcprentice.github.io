@@ -11,52 +11,34 @@ Set LONG, MEDIUM and SHORT term goals for study and life
 * Example 2
     * LONG: I want to do a Masters degree in a good US university
     * MEDIUM: TOEFL iBT 100 by 4th year. Save money.
-    * SHORT: Speaking Test centre once a week. Get a part time job.
-* Example 3
-    * LONG: I want to volunteer for the UN
-    * MEDIUM: Improve my English. Learn French. Get overseas volunteer experience
-    * SHORT: Go to CCC/EF. Go to Global Village. Join a volunteer circle
+    * SHORT: Buy a TOEFL book. Get a part time job. 
 
 
 ### Discuss! Ask your partner
-* What is your long term goal (your dream)?
-* What is your medium term plan (e.g. for this semester)?
-* What are your short term actions (tomorrow / this week)?
-* Not sure? Maybe try to imagine yourself in the future
-    * Who you want to be, and how will you get there?
-    * Who do you NOT want to be, and how will you avoid that?
-    * Remember, TOEFL/TOEIC score is not a dream! It's a plan - what dream is it helping?
+* What is your long term goal?
+    * e.g. What is your dream?
+    * e.g. Who do you want to be like? (your role model)
+    * e.g. What do you want to AVOID becoming? 
+* What is your medium term plan
+    * e.g. for this semester
+    * e.g. by 4th year
+* What are your short term actions 
+    * tomorrow
+    * this week
 
 ## Step 2: Manage Time
-* OK, you have goals, but do you have to time to do everything? 
 * Time management is the main reason students fail courses
-* You need a way to manage your time
-    * Everyone works differently. You don't have to use my system but you need a system.
-    * If you keep forgetting your homework (or doing it at 4am), something is wrong
-* Recommendations
-    * Use something you see OFTEN       (e.g. email, wall, laptop desktop)
-    * Use something you CAN'T AVOID     (not a reminder app or work-only diary)
-    * Use a SINGLE PLACE                         (not diary+app+calendar+paper)
-* Here are some techniques and tools students use or people talk about
-* Everything in a diary 
-    * (don't separate study and life, put everything in one place)
-    * The kind with schedule on one side, and blank on other so you can write task lists
-* Reminder apps (Not good if you swipe the reminder and forget)
-* Post-its (above your desk in your room, not so good if you work mostly at school)
-* Whiteboard (same as post-its, not so easy to move tasks around)
-* Calendar apps with reminders 
-    * Not good if you swipe the reminder and forget. Set multiple reminders if you do. 
-    * Good if you have regular schedules (for classes, work, gym)
-* Inbox zero  
-    * Email yourself tasks you can do now
-    * Add tasks for later to Google Calendar
-    * Calendar will email you, so everything is in inbox 
-    * Your aim is to have an empty inbox
-
+* If you keep forgetting your homework (or doing it at 4am), something is wrong
 
 ### Discuss!
 * What is your time management system?
-* Is it working? (i.e. Do you often submit homework late? At 3am?)
+    * A diary you check regularly. 
+    * Reminder apps with notifications
+    * Post-its on your bedroom wall
+    * Whiteboard on your bedroom wall
+    * Calendar apps with reminders 
+    * Email (email yourself everything e.g. "buy bread") and try to empty your inbox  
+* Is it working? (Or are you doing homework, stressed, at 4am)
 
 ## Stay Motivated
 * Above, you learned to make a plan and manage time. 

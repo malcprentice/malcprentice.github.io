@@ -21,7 +21,7 @@ This essay first looked at the Selous Game Reserve in detail, then outlined some
 
 Madenge. (2021, October 14). _A quick walkthrough - Selous Game Reserve._ The United Republic of Tanzania. https://unitedrepublicoftanzania.com/economy-of-tanzania/tourism-in-tanzania/wildlife-parks-in-tanzania/a-quick-walkthrough-wilderness-impala-africa-express-reserve-location-selous-game-reserve-national-park-safari-frederick-sand-riverside-river-serena-camp-kinga-lodge/
 
-_Poaching puts Tanzania’s Selous Game Reserve on list of world heritage in Danger._ (n.d.). UNESCO. Retrieved October 13, 2021 from https://en.unesco.org/news/poaching-puts-tanzania%E2%80%99s-selous-game-reserve-list-world-heritage-danger
+_Poaching puts Tanzania's Selous Game Reserve on list of world heritage in Danger._ (n.d.). UNESCO. Retrieved October 13, 2021 from https://en.unesco.org/news/poaching-puts-tanzania%E2%80%99s-selous-game-reserve-list-world-heritage-danger
 
 _Selous Game Reserve._ (n.d.\_a). Selous Camp. Retrieved November 10, 2021, from https://www.selouscamp.com/selous-game-reserve/
 
@@ -39,7 +39,7 @@ Sukuu tame ni korosu? “Goraku no syuryo” no rinriteki, keizaitekimondai [Kil
 
 _Tanzania: Mkuju river uranium project._ (n.d.). Uranium-network. Retrieved October 28, 2021 from https://uranium-network.org/
 
-_This is a time of change for Tanzania’s Selous Game Reserve – some good, some terrible._ (2020, October 1). Africa Geographic Stories. https://africageographic.com/stories/selous-be-damned/
+_This is a time of change for Tanzania's Selous Game Reserve – some good, some terrible._ (2020, October 1). Africa Geographic Stories. https://africageographic.com/stories/selous-be-damned/
 
 _UNESCO concerned about insufficient Strategic Environmental Assessment of the Rufiji Hydropower Project in Selous Game Reserve (Tanzania)._ (2019, December 17). UNESCO World Heritage Convention. https://whc.unesco.org/en/news/2071
 

@@ -19,7 +19,7 @@ Quickwrite = How many words can you write in 10 minutes?
     * Wait! THINK and PLAN for 1 minute first
 * Go!
     * Start your 10 minute timer and go! 
-    * No stopping! No dictionaries! Don’t worry about grammar or spelling!
+    * No stopping! No dictionaries! Don't worry about grammar or spelling!
     * Paragraph (段落) - not a list of sentences.
 * After 10 minutes, STOP and count words
     * Record your word count at bottom e.g. "(88 words)"

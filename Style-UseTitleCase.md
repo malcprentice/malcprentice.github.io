@@ -26,7 +26,7 @@ Capitalize important words:
 ## Important! "No title case" doesn't mean " all lower case"
 
 * Names, cities don't change
-    * e.g. Harry Potter and the philosopher’s stone
+    * e.g. Harry Potter and the philosopher's stone
     * e.g. The impact of climate change on London
 * First letter is **still**  capital letters
 * First letter after a colon: **Also** a capital

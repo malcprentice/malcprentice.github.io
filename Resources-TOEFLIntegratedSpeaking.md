@@ -54,7 +54,7 @@ There are three basic types of integrated speaking
 * ETS official guide p169-172 has example question workthrough
 
 ### Simple template
-In this set of materials, the reading passage is about TOPIC ... and in the listening two students’ talk about the topic. The reading passage is about X. It says that SUMMARY. In the listening passage, two students discuss the topic. The man/woman OPINION. His/her first reason/example is L1. His/her second reason/example is L2. 
+In this set of materials, the reading passage is about TOPIC ... and in the listening two students' talk about the topic. The reading passage is about X. It says that SUMMARY. In the listening passage, two students discuss the topic. The man/woman OPINION. His/her first reason/example is L1. His/her second reason/example is L2. 
 
 
 ### Template with Choices. 
@@ -143,7 +143,7 @@ LISTENING TOPIC: add point - dead sea NOT sea
 
 EXAMPLE ANSWER
 
-* In this set of materials, the reading passage describes a body of water, and the listening passage gives additional information about the body of water. The reading passage describes the body of water named the Dead Sea. It is said to be “dead’ because its high salt level prevents life in it. It’s salty because it’s landlocked with no outlet and it’s in an area with a high temperature, which causes rapid evaporation. The listening passage makes an additional point about the Dead Sea, which is that the Dead Sea isn’t really a sea. A sea is a body of water that’s part of the ocean or opens into the ocean, while a lake is a body of water that’s entirely enclosed. The Dead Sea has no outlet and is therefore a lake. 
+* In this set of materials, the reading passage describes a body of water, and the listening passage gives additional information about the body of water. The reading passage describes the body of water named the Dead Sea. It is said to be “dead' because its high salt level prevents life in it. It's salty because it's landlocked with no outlet and it's in an area with a high temperature, which causes rapid evaporation. The listening passage makes an additional point about the Dead Sea, which is that the Dead Sea isn't really a sea. A sea is a body of water that's part of the ocean or opens into the ocean, while a lake is a body of water that's entirely enclosed. The Dead Sea has no outlet and is therefore a lake. 
 
 ### Example (Template for ETS example)
 In this set of materials, the reading passage describes animal domestication, and the listening passage gives two examples. 

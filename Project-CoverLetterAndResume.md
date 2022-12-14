@@ -244,7 +244,7 @@ Hiromi Suzuki
         *  devised
         * handled
         * approved
-        * proactively X’d
+        * proactively X'd
         * identified
         * formulated
         * improved

@@ -3,14 +3,14 @@
 If you need to use someone else's words, there are two options: Quote or Paraphrase.
  
 ## Option 1: Quote
-* "Quote" = Use the writer’s EXACT words in quotemarks ("")
+* "Quote" = Use the writer's EXACT words in quotemarks ("")
 * After this, he __"__renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton__"__ (Nobel Foundation, 1922)
 * Only do this for a FEW important quotes.
 * Usually, you should paraphrase. ALWAYS give a page number if you can
 
 * You can make SMALL changes to quotes:
-    * Original: "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"
-    * Shorter: "He doesn’t like cats ... he doesn’t like dogs either"
+    * Original: "He doesn't like cats, and although they are friendly he doesn't like dogs either"
+    * Shorter: "He doesn't like cats ... he doesn't like dogs either"
     * Fix grammar: "He doesn't like cats ... [or] dogs"
     * Fix pronouns: "[Bob] doesn't like cats, ... [or] dogs"
  

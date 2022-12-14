@@ -11,7 +11,7 @@
 
 Make a plan. Please use discussion language 
 * What should we do first?
-* Why don’t we / We should
+* Why don't we / We should
 * I totally agree 
 * etc)
 
@@ -21,7 +21,7 @@ Make a plan. Please use discussion language
     * How many sheets should we use per leg? How about for the tower?
     * Should we roll tightly or rolol loosely
     * How should we use the tape?
-    * We don’t have much time. How should we share the work?
+    * We don't have much time. How should we share the work?
 
 
 
@@ -44,7 +44,7 @@ Make a plan. Please use discussion language
 * Give advice to a future class. 
 * Think about design AND construction teamwork
     * What went well? What __should__ a future team do?
-    * What went badly? What __shouldn’t__ a future team do?
+    * What went badly? What __shouldn't__ a future team do?
 * What language did you need that you didn't know? 
     * e.g. Parts
         * The base

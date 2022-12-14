@@ -28,11 +28,11 @@ Tech Tips
     * Read one: 
         * https://support.google.com/edu/assignments/answer/9392759?hl=en
         * https://support.google.com/edu/assignments/answer/9392759?hl=en
-    * Don’t forget to turn on the citation switch. 
+    * Don't forget to turn on the citation switch. 
         * [引用した文章が <数値> 件あります] の横にあるスイッチをオン  にします
         * The instructions say this is "適切に引用した文が含まれているテキスト" 
             * but it is NOT "適切" the way most of you are doing it. 
-            * It’s only OK to use it IN QUOTES " " 
+            * It's only OK to use it IN QUOTES " " 
             * and only A LITTLE of each paragraph can be in quotes. 
             * Copy paste without quotes is always wrong, even with a citation. 
                 * OK: King said that he had a dream (King, 1963). 

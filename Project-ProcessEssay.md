@@ -106,7 +106,7 @@ There are two kinds of process essay
     * Quickly 
 * Warning 
     * Be careful about
-    * Make sure you (don’t) do something
+    * Make sure you (don't) do something
     * It is very important that
     * Avoid Xing 
 
@@ -137,6 +137,16 @@ There are two kinds of process essay
     * Quickly, X is done / the PERSON does x
 * Warning 
     * The X has to be careful about ING
-    * They need to make sure they (don’t) VERB
+    * They need to make sure they (don't) VERB
     * It is very important that they VERB
     * It is necessary to avoid Xing 
+
+
+## Endings for process
+Now you have                    "Now you have some tasty mochi"
+Do not forget               "Do not forget to chew your mochi carefully"
+Options                         "You can add cream or eat it plain"
+Recommendation                  "You should eat it with cream"
+Decision (not academic)         "I will make some next week for my friend’s party"
+Link to next paragraph:         "That was how it is made. In the next section...."
+Other options                   Write a paragraph summary

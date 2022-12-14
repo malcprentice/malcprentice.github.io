@@ -52,8 +52,8 @@ a warning.
     * Don't forget quotemarks " ", citation, and possibly page number
     * After this, he "renounced his citizenship for political reasons and emigrated to America to take the position of Professor of Theoretical Physics at Princeton" (Nobel Foundation, 1922, p. 23)
 * You can make SMALL changes to quotes if they don't change the meaning:
-    * Original:  "He doesn’t like cats, and although they are friendly he doesn’t like dogs either"
-    * Shorter:    "He doesn’t like cats ... he doesn’t like dogs either"
+    * Original:  "He doesn't like cats, and although they are friendly he doesn't like dogs either"
+    * Shorter:    "He doesn't like cats ... he doesn't like dogs either"
     * Grammar: "He doesn't like cats ... [or] dogs"
     * Names:  "[Bob] doesn't like cats, ... [or] dogs"
     * Don't change meaning though. 
