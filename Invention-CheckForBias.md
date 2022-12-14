@@ -20,9 +20,6 @@ Sometimes it is obvious that a source is not good. Sometimes it is not.
 |Maybe a bit biased = 3      |Medium Quality     = B
 |Totally Biased  = 1         |Low Quality    = C
 
- 
-
-
 
 # Satire and April Fools: getting "onioned"
 When you do not read critically enough, sometimes you even believe things that are written to be funny.
