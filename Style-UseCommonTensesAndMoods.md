@@ -3,7 +3,7 @@
 ## Statements
 
 |Example                         |Key idea            |Common time phrases
-|-------------------------------|--------------------|------------------
+|--------------------------------|--------------------|------------------
 |1 I play football               |every/habit         |usually, every week
 |2 I'm playing football          |right now           |at the moment / this week
 |3 I have played football        |unfinished          |ever, just, still not, yet,
@@ -13,6 +13,9 @@
 |7 I'm playing football          100% future, friends |definitely
 
 ## Questions mix and match
+
+| Question      | Topic (optional)    |tense verbs     |verb form
+|---------------|----------------     |----------------|---------
 |1   What       |NOUN (optional)      |are you         |doing 
 |2   Where      |X                    |do you          |do  
 |3   When       |X                    |did you         |do   
@@ -22,13 +25,16 @@
 |7   How        |many/much/often/adj  |are you gonna   |do  
 
 ## Names
-* Can you name the tenses in Japanese (think back to JHS)
-* Here are the names in English (you don't need these unless you are doing a study abroad):
-    * 1) Present Simple
-    * 2) Present Continuous
-    * 3) Present Perfect
-    * 4) Past Simple
-    * 5) Future
+You don't need these unless you are doing a study abroad
+
+|English                 |Japanese          
+|------------------------|------------------ 
+|1) Present Simple      |現在
+|2) Present Continuous　|現在新古系
+|3) Present Perfect     |現在完了
+|4) Past Simple　       |過去形
+|5) Future　            |未来形
+
 
 
 
