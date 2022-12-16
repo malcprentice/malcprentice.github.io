@@ -3,6 +3,7 @@
 * [Business Communication](Project-BusinessCommunication.md)
 * [Cause Effect Three Paragraphs](Project-CauseEffectThreeParagraphs.md)
 * [Cover Letter And Resume](Project-CoverLetterAndResume.md)
+* [Do A Quick Code](Project-DoAQuickCode.md)
 * [Endangered Animals Essay](Project-EndangeredAnimalsEssay.md)
 * [Ethical Consumption Paragraph](Project-EthicalConsumptionParagraph.md)
 * [Job Interviews](Project-JobInterviews.md)
@@ -16,3 +17,4 @@
 * [Supporting Examples Paragraph](Project-SupportingExamplesParagraph.md)
 * [Tower Building](Project-TowerBuilding.md)
 * [World Heritage Essay](Project-WorldHeritageEssay.md)
+* [Write An Email](Project-WriteAnEmail.md)

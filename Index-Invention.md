@@ -1,5 +1,6 @@
 # Invention
 * [Avoid Plagiarism](Invention-AvoidPlagiarism.md)
+* [Check For Bias](Invention-CheckForBias.md)
 * [Citation General Rules](Invention-CitationGeneralRules.md)
 * [Citation Verbs](Invention-CitationVerbs.md)
 * [Cite Brackets Style](Invention-CiteBracketsStyle.md)
@@ -16,3 +17,5 @@
 * [Reference Video](Invention-ReferenceVideo.md)
 * [Reference Websites](Invention-ReferenceWebsites.md)
 * [References General Rules](Invention-ReferencesGeneralRules.md)
+* [Repeating Citations](Invention-RepeatingCitations.md)
+* [Use A P A Format For Tables And Figures](Invention-UseAPAFormatForTablesAndFigures.md)

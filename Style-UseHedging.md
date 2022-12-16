@@ -1,5 +1,7 @@
 # Style - Use Hedging
 
+
+
 Sometimes you need to soften what you say. Usually:
 
 * When you are not sure something is true
@@ -14,7 +16,10 @@ Sometimes you need to soften what you say. Usually:
     * Qualify weak citations ("Based on Smith (1999), it seems that X, however"
     * Qualify when no evidence is available
 
-## How to qualify
+## Ideas for practice
+* [Geouessr](https://www.geoguessr.com/)
+
+## Certain vs uncertain phrases
 
 |Absolute phrase 	 |qualified version
 |--------------------|-----------------
@@ -78,13 +83,14 @@ Sometimes you need to soften what you say. Usually:
 * It is impossible that it will happen. 
   
 ## How NOT to qualify
+
 ### Avoid Weasel Words 
 Weasel words means qualifying evidence to hide the fact it is missing.  
 
 Question				| Honest answer 					|Weasel words
 ------------------------|-----------------------------------|---------------
 Who said that?			|I don't know 						|Some people say
-What is the evidence?	|There isn't any // I didn't look 	|A growing body of evidence says that
+What is the evidence?	|There isn't any, or I didn't look 	|A growing body of evidence says that
 "Is the evidence strong? |I'm not sure 						|It is obvious that
 Does anyone disagree 	|I didn't look 						|Critics claim that
 

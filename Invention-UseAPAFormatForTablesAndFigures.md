@@ -1,3 +1,6 @@
+
+
+
 # Invention - Use APA Format for Tables and Figures
 
 Exact formatting is hard to describe - while you read this, look at the example file in Shared Materials folder  ("Style - using figures and tables.docx")

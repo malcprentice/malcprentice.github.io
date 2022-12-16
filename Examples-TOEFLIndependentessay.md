@@ -1,5 +1,14 @@
 # Examples - TOEFL Independent Essay
 
+## "High scoring" Example pattern from OG p406
+
+* People … However, does that mean… Personally, I…., and this essay argues that ….
+* There is no denying that …Thus…But…Besides…
+* Moreover, … however, .. An example of this is… 
+* Last but not least …Consequently … In addition to that
+* To put it in a nutshell, …People have to
+
+
 ## Example 1 Some people like to live in the mountains, while others would prefer to live near the sea. Which would you prefer? Give reasons to support your response
 
 * When I was young, my family lived near the sea, however we always used to spend some time each summer with my grandmother, and her home was in the mountains. Each place - mountains and sea - has its advantages, but I would prefer to live near the mountain for three reasons - the mountain herbs, the seasons, and the quiet. Firstly, in the mountains, we can enjoy a lot of mountain herbs such as warabi, udo, takenoko, kinoko, and so on. We can pick, cook, and eat them all the time if we live near the mountains. These herbs are very good for health, which also makes living near the mountains healthier than living near the sea. Secondly, if you live near the mountains, you can enjoy the seasons changing more. In spring, you can see some beautiful flowers or cherry trees, while in summer time, you can enjoy a lot of great green trees and not only these, insects such as beetles, cicada, and dragonflies appear. In fall, the green leaves change to red, yellow, and orange - you can see these process happening every day if you live in the mountains. Then in Fall, you can try hiking. If you go, you can take these scenery, and some delicious foods. In Winter, the beautiful leaves are all gone, but the snow-covered trees are very beautiful. The third reason I want to live in the mountains is that it is very quiet there, so you relax and unwind. When I was visiting my grandmother in summer, I often just sat for hours listening to the wind in the trees, with no cars or trains or noises of people. I can understand why some people would prefer to live in the sea - it does have good sports and I do like eating fish - but for the reasons above, I would prefer to live in the mountains. Next holidays I will be taking my driving test in Yamagata, and I hope I can take some time to visit the mountains there. (338 words- Thanks to MY for original) 
