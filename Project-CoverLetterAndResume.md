@@ -24,7 +24,7 @@ Look at the examples
 ## Step 2 - write your own
 
 * Feel free to lie or invent if you don't want to share. 
-* Maybe imagine who you MIGHT be in 5-10 years and write that resume. 
+* Maybe imagine who you MIGHT be in 5-10 years and write THAT resume. 
 
 ### If you have no work experience, try these:
 * Club/circle/team membership
@@ -38,7 +38,7 @@ Look at the examples
 
 ### If you have part-time experience
 
-Make your job sound better (without lying)
+Make your job sound better
 
 __Instead of:__ Waiter, XYZ Ramen, Shinjuku. I took money, took orders, cleaned toilet.
 __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash handling, customer service and hygiene inspection.
