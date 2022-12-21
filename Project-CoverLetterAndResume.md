@@ -22,6 +22,10 @@ Look at the examples
 * How are each different from Japanese rirekishou?
 
 ## Step 2 - write your own
+
+* Feel free to lie or invent if you don't want to share. 
+* Maybe imagine who you MIGHT be in 5-10 years and write that resume. 
+
 ### If you have no work experience, try these:
 * Club/circle/team membership
 * Volunteer experience
