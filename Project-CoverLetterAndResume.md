@@ -82,15 +82,18 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
     * UK cover letters tend to be very short (like the example below) 
     * US cover letters tend to add more text, about aims/philosophy. 
     * Make sure you know what style you need and find more examples. 
-### Suggested structure
-* YOUR name, address, email address, date (top right)
-* THEIR Name, title, address (left aligned
-* Formal greeting
+
+### Cover Letter - Suggested structure and useful language
+* 1) Top of letter
+    * YOUR name, address, email address, date (top right)
+    * THEIR Name, title, address (left aligned
+
+* 2) Start with Formal greeting
     * If there is a name, use "Dear X"
     * No name? 
         * Use "To Whom it May Concern" (title case deliberate)
         * You could also use "Dear Hiring Committee" or "Dear Recruitment Department" if that's what they called themselves.
-* Greeting paragraph. 
+* 3) Greeting paragraph. 
     * Name yourself and the job (any order)
         * "I am writing to apply for the role of X." 
         * "I am contacting you in response to the job posting for ROLE"
@@ -106,14 +109,14 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
         * "I am applying because I feel that my skills, experience, and qualifications are a good match for the position advertised"
         * "I am applying because I am very interested in FIELD due to REASON"
         * Describe why you like company + "For these reasons, I am very interested in applying to your company, and below I will explain why I think I would be a good fit."
-* Optional more personal paragraph (before or after job advert paragraph, or joined to greeting)
+* 4) Optional more personal paragraph (before or after job advert paragraph, or joined to greeting)
     * Why you are interested in this field
     * Why you are interested in this company
     * Could be:
         * people who recommended it 
         * People you met doing the job who inspired you
         * Related past experiences 
-* Paragraph about job advert. Point by point, in order, say how you meet or almost meet the requirements not covered already. If possible, give examples. 
+* 5) Paragraph about job advert. Point by point, in order, say how you meet or almost meet the requirements not covered already. If possible, give examples. 
     * Start
         * "In terms of the requirements in the job interview, 
         * I would like to explain how my skills qualifications and experience match those advertised. First,..."
@@ -145,13 +148,13 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
         * "One way in which I used this skill is"
         * "Specifically, when I was ROLE, I suggested/improved/implemented improvements"
     * Use Adjectives, but not too much
-* Paragraph about anything not asked for, but relevant. 
+* 6) Paragraph about anything not asked for, but relevant. 
     * Driving license?
     * Other languages "In addition to the fluency in English requested, I also speak German at an intermediate level."
     * Awards "I won an (award/was awarded) for achieving a high threshold score on an English proficiency exam, only given to around 25 students each year." 
     * Hobbies/SportsCircle activities not already used 
     * Any unfinished courses and qualification not already mentioned ("I am currently working towards a certificate in")
-* Final Paragraph 
+* 7) Final Paragraph 
     * enclosures 
         * "Please find enclosed my CV and scans of my qualifications."
         * "As requested, I have enclosed X, Y and Z"
@@ -160,11 +163,11 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
     * Closing
         * "I look forward to hearing from you, and to possibly working together in the future."
         * "Thank you in advance for taking the time to read my application"
-* Ending
+* 8) Ending
     * If you used "To Whom", end "Yours faithfully,"
     * If you used "Dear NAME", end "Yours sincerely,"
     * Note the comma, not period here
-* Sign
+* 9) Sign
     * Print and Sign it if paper application
     * Paste an image of your signature if PDF application
     * Type your name. 
