@@ -66,26 +66,23 @@ __Better to say:__ Serving staff, XYZ Ramen, Shinjuku. Responsible for cash hand
 * Find an appropriate CV Template
     * Some are available to download (but many are not free)
     * There are some [built into Google](https://support.google.com/docs/answer/148833?hl=en&co=GENIE.Platform%3DDesktop)
-* Download it and fill in the details
-* Try to adapt your CV to the job. Remember to use your circle roles/part time job work as necessary.
+    * I will share one in Classroom.
+* Fill in the details. Add sections (e.g. for circles) if you need to
+* Try to adapt your CV to the job. 
+* Remember to use your circle roles/part time job work as necessary.
 
 
-## Task 2: Cover letter?
-Usually you don't just send the CV. You send a short letter:
-
-* introducing yourself
-* saying how your skills/experience match those asked for in the job advert
-* giving any information they asked for which is not on your CV (e.g. interview availability)
-* gving any other highlights you really don't want them to miss
-
-There are different styles. 
-
-* UK cover letters tend to be very short (like the example below) 
-* US cover letters tend to add more text, about aims/philosophy. 
-* Make sure you know what style you need and find more examples. 
-
-
-## Usual contents
+## Task 2: Cover letter
+* Usually you don't just send the CV. You send a short letter:
+    * introducing yourself
+    * saying how your skills/experience match those asked for in the job advert
+    * giving any information they asked for which is not on your CV (e.g. interview availability)
+    * giving any other highlights you really don't want them to miss
+* There are different styles. 
+    * UK cover letters tend to be very short (like the example below) 
+    * US cover letters tend to add more text, about aims/philosophy. 
+    * Make sure you know what style you need and find more examples. 
+### Suggested structure
 * YOUR name, address, email address, date (top right)
 * THEIR Name, title, address (left aligned
 * Formal greeting
@@ -109,7 +106,6 @@ There are different styles.
         * "I am applying because I feel that my skills, experience, and qualifications are a good match for the position advertised"
         * "I am applying because I am very interested in FIELD due to REASON"
         * Describe why you like company + "For these reasons, I am very interested in applying to your company, and below I will explain why I think I would be a good fit."
-
 * Optional more personal paragraph (before or after job advert paragraph, or joined to greeting)
     * Why you are interested in this field
     * Why you are interested in this company
@@ -171,11 +167,11 @@ There are different styles.
 * Sign
     * Print and Sign it if paper application
     * Paste an image of your signature if PDF application
-* Type your name. 
+    * Type your name. 
 
-## Other tips
+## Cover letter - other tips
 * Print the ad as a PDF before you start. If you get an interview and they've deleted the advert, you might not remember what requirements they had. 
-* If electronic application, EXPORT AS A PDF unless they requested Word. Not everyone has the same software and it could make things weird, especially tables. 
+* If electronic application, EXPORT AS A PDF unless they request Word. Not everyone has the same software and it could make things weird, especially tables. 
 * I aim for (Double spaced), 60-80% of one page 
     * Avoid spilling over to a second page then stopping after 3 lines
     * Avoid half-empty one-page letters
@@ -186,9 +182,7 @@ There are different styles.
 * Spellcheck! 
     * Spellcheck again!
     * Have someone check it for you! Email me if you don't have a proofreader. 
-
-
-* Spellcheck!!!
+* Spellcheck again!
 
 
 ## Example cover letter
