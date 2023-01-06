@@ -1,6 +1,10 @@
 # Make a Holiday Study Plan
 * Choose at least FIVE achievable "I will" goals for your holiday study plan.
-* See Resources for lists of other ideas
+* Give each goal a NUMBER
+    * e.g. "once a week"
+    * e.g. "every day"
+    * e.g. "two Harry Potter books by April"
+* See [Resources](Index-Resources) for lists of other ideas
 
 ## Reading
 * "I will borrow and read X graded readers"
@@ -8,15 +12,15 @@
 * "I will read for X minutes every day"
 * "I will read X news articles in the holidays"
 * "I will buy a copy of MAGAZINE NAME and read it every day"
-* See Find Reading Materials and Tools for more ideas
-* See Find and Read News in English
+* See [Reading Resources](Resources-Reading) for more ideas
+* See [New Sites](Resources-NewsSites)
 
 ## Listening
 * I will watch X TED lectures with/without English subtitles
 * I will watch X movies (without subtitles?)
 * I will do TOEIC/TOEFL listening practice
 * I will download, read, and listen to the lyrics of one song every week
-* See Find Listening Materials and Tools for more ideas
+* See [Listening Resources](Resources-Listening) for more ideas
 
 ## Writing/Typing
 * "I will keep a diary every day"

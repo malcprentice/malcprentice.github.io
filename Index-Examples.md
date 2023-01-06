@@ -10,4 +10,4 @@
 * [Rough Essay Outlines](Examples-RoughEssayOutlines.md)
 * [TOEFL Independent Essay](Examples-TOEFLIndependentEssay.md)
 * [TOEFL Integrated Essay](Examples-TOEFLIntegratedEssay.md)
-* [World Heritage](Examples-World Heritage.md)
+* [World Heritage](Examples-WorldHeritage.md)
