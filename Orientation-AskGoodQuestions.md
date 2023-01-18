@@ -1,6 +1,30 @@
 ﻿# Ask Good Questions
 
-Here are some patterns
+## Writing good DISCUSSION questions
+A good discussion questions asks about OPINION or EXPERIENCE or PLANS.
+
+* This is not a quiz. No questions that have correct answers
+   * How many people live in Tokyo?
+   * What is the capital of Yemen?
+* This is not a dissertation (論文). No questions that need research
+   * How can we reduce water pollution in Bangladesh?
+   * What is the solution to poverty in Vietnam?
+* No questions with obvious answers. 
+   * Have you ever been to Paraguay?
+   * Do you think war is bad?
+* No lazy questions. The following are BANNED.
+   * "Do you know TOPIC" (Of course they do! You just explained it!)
+   * "What do you think about TOPIC?"
+   * "What is your image of TOPIC" 
+   * "How do you feel about TOPIC"
+   * Instead, be specific e.g. "Do you think that X is Y?"
+* If I ask you to write three questions, they must start three different discussions. 
+   * 1) Do you like dogs
+   * 2) Do you want dogs
+   * 3) Do you have dogs
+
+
+## Here are some patterns to follow
 
 * Use the patterns but change the content. 
    * e.g. When did you last **go shopping**? ---> When did you last **see a movie**?
@@ -70,25 +94,3 @@ Put **"category"** in right place
 * Which **country** would you like to work in?
 
 
-## Writing good DISCUSSION questions
-A good discussion questions asks about OPINION or EXPERIENCE or PLANS.
-
-* This is not a quiz. No questions that have correct answers
-   * How many people live in Tokyo?
-   * What is the capital of Yemen?
-* This is not a dissertation (論文). No questions that need research
-   * How can we reduce water pollution in Bangladesh?
-   * What is the solution to poverty in Vietnam?
-* No questions with obvious answers. 
-   * Have you ever been to Paraguay?
-   * Do you think war is bad?
-* No lazy questions. The following are BANNED.
-   * "Do you know TOPIC" (Of course they do! You just explained it!)
-   * "What do you think about TOPIC?"
-   * "What is your image of TOPIC" 
-   * "How do you feel about TOPIC"
-   * Instead, be specific e.g. "Do you think that X is Y?"
-* If I ask you to write three questions, they must start three different discussions. 
-   * 1) Do you like dogs
-   * 2) Do you want dogs
-   * 3) Do you have dogs
