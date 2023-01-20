@@ -21,7 +21,6 @@
     * X, so Y
     * Y because X
     * X. Therefore Y.
-    * See also [Write a Cause-Effect Sentence](Style-WriteACauseEffect.md))
 * Disagree 
     * However, 
     * That said, 

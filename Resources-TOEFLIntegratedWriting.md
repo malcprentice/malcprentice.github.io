@@ -97,7 +97,7 @@ You are scored on
 
 * Don't repeat the same pattern 3 times in the essay. 
 * For more options
-	* See [Use Cohesion](Style-UseCohesion) for alternatives to "however"
+	* See [Use cohesion](Style-UseCohesion) for alternatives to "however"
 	* See [Citation Verbs](Invention-CitationVerbs) for alternatives to "states"/"notes"
 	* See [Write a Compare Contrast Sentence](Style-WriteACompareContrastSentence) for alternatives to "said"
 

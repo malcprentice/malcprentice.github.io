@@ -7,7 +7,7 @@ Style-WriteAThesisStatement
 
 * I will give you easy copy-paste patterns. This page is for more advanced projects. 
     * See your project page. 
-    * See the [examples](Index-Examples)
+    * See the [Examples](Index-Examples)
     * See the the [Arrangement page on introduction paragraphs](Arrangement-WriteAnIntroductionParagraph)
 
 ## IN general, for any thesis statement:

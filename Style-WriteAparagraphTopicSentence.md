@@ -39,7 +39,7 @@
 * A simple, boring, academic style of topic sentence is to just name the topic/keyword 
 	* e.g. "The third problem is pollution"
 	* e..g. "This paragraph looks at cost"
-* All the essay [examples](Index-Examples) use this pattern
+* All the essay [Examples](Index-Examples) use this pattern
 * You can just copy and use the examples
 
 ## Longer version for longer academic paragraphs/sections

@@ -47,8 +47,8 @@ When you need to read for information, not for language learning.
 ## Stop and think - add your own ideas
 * Anything you disagree with? 
 * Any connections to other things you have read? 
-* Should you use this article? Is it a good source []()
+* Should you use this article? Is it a [good source](Invention-FindGoodSources)
 * What did the article NOT tell you? (What should you look at next?)
 * Now take notes on language (e.g. useful words and phrases for later)
-* Do the APA reference now - it will save  time later. []()
-* Write a summary now - it will save time later. []()
+* Do the APA reference now - it will save  time later.
+* Write a summary now - it will save time later.

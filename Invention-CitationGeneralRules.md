@@ -1,7 +1,7 @@
 # Citation General Rules
 
 * This is for IN TEXT and ON SLIDE *citations*
-* For END OF ESSAY or LAST SLIDE *references*, see  the [Reverence General Rules](Invention-ReferencesGeneralRules)
+* For END OF ESSAY or LAST SLIDE *references*, see  the [Reverence General Rules](Invention-ReferenceGeneralRules)
 
 ## Choose the style
 1) Brackets style
@@ -44,7 +44,7 @@
     * Smith and Suzuki (2010) say that English is great.
     * ~~(Smith and Suzuki, 2010).~~
     * ~~Smith & Suzuki (2010) say~~
-    * This is for citations. In [References](Invention-ReferencesGeneralRules, always use "&"
+    * This is for citations. In [Reference](Invention-ReferenceGeneralRules), always use "&"
 * Acronyms like "UNESCO" or "SUA"?
     * First time  
         * In brackets (United Nations High Commision for Refugees [UNHCR], 2000)

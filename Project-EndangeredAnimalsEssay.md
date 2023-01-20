@@ -11,7 +11,7 @@
     * Choose something endangered or vulnerable NOT extinct or extinct in wild. 
 
 ## Step 2 - Homework
-* Read the [example](Example-EndangeredAnimalsEssay.md)
+* Read the [example](Examples-EndangeredAnimalsEssay.md)
 * Read 3 articles about your animal.
     * Japanese OK. 
     * Take notes. 

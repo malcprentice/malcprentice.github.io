@@ -47,7 +47,7 @@ This worksheet focuses on paragraphs 3 and 4 of a longer essay for first year st
 ## Tips
 * Problems
     * For keywords, use only noun or short noun phrase
-    * Details sentence 1 can start any way, but every detail sentence 2 needs to [use cohesion](style-UseCohesion) e.g. "For example" or "However" or "In addition" 
+    * Details sentence 1 can start any way, but every detail sentence 2 needs to [Use cohesion](Style-UseCohesion) e.g. "For example" or "However" or "In addition" 
 * Solutions
     * Summary is not that kind of summary. Don't start "In summary"
     * Always link to the response showing the solution is good  (However, etc) or bad (In fact, etc) 

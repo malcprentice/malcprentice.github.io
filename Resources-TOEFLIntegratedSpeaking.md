@@ -27,7 +27,7 @@ There are three basic types of integrated speaking
 * Topic Development
 	* Complete answers
 	* Organised - clear structure
-	* [Use Cohesion](Style-UseCohesion) links to connect your ideas (be careful - some of those phrases are writing only)
+	* [Use cohesion](Style-UseCohesion) links to connect your ideas (be careful - some of those phrases are writing only)
   
 ## Good Examples
 * ETS Official Guide 6th edition

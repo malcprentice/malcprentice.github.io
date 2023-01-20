@@ -65,7 +65,7 @@ By the end of this project, you will be able to write a paragraph summarising yo
     * Find 3 problem keywords
         * For people (workers, farmers) and environment NOT for you/companies. 
         * e.g."tobacco farms use child labour" not "tobacco gives us cancer"
-        * Use Keywords []() correctly. Easiest option: use only NOUNS. For example
+        * [Use Keywords](Style-UseKeywords) correctly. Easiest option: use only NOUNS. For example
             * child/slave labour
             * conflict
             * poverty, 

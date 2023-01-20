@@ -47,4 +47,4 @@ In conclusion, this essay first described shea butter in detail, then outlined s
 * Don't confuse consumption and animal essays - "experiencing" or "causing"?
 
 ## More Examples
-See [Examples](INdex-Examples)
+See [Examples](Index-Examples)

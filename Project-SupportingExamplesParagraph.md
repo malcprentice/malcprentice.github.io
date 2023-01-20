@@ -50,7 +50,7 @@ Topic question: "What is a good way to save money?"
 
 ## Tips
 * Careful that the SECOND detail sentence needs a link
-* See [Use Cohesion](Style-UseCohesion)
+* See [Use cohesion](Style-UseCohesion)
 
 
 ## Check the list of common mistakes 

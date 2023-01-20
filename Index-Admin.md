@@ -1,4 +1,4 @@
 # Admin
+* [About](Admin-About.md)
+* [Contact](Admin-Contact.md)
 * [Disclaimer](Admin-Disclaimer.md)
-* [about](Admin-about.md)
-* [contact](Admin-contact.md)

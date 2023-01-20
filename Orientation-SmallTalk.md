@@ -63,7 +63,7 @@ Examples for people you see every week:
 * What will you do in the holiday?
 * How are classes going?          
 * How's work? 
-* Or see [ask good questions](Style-AskGoodQuestions) sheet
+* Or see [ask good questions](Orientation-AskGoodQuestions) sheet
 
 ### C) Change the topic
 * Hey, 
@@ -91,8 +91,7 @@ Can't think of how to say something? Give yourself some time! Use English sounds
 ### E) Active Listening
 Maybe you learned this in another class. Use it here too!
 e.g. "Uh-huh", "I see", "Really", "Do you mean?"
-See the  [Communication Skills](Communication Skills)
- 
+
 ### F) Finish the conversation (three parts)
 
 |Stop signal,  reason            |Promise to contact         |Goodbye         
