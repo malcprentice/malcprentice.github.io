@@ -1,7 +1,8 @@
 # Make index
 import os
 #import re
-root= "/Users/mp/Documents/GitHub/malcprentice.github.io/"
+homedir = os.getenv("HOME")
+root = homedir+"/Documents/GitHub/malcprentice.github.io/"
 filepathlist = list()
 fullpathlist = list()
 
@@ -9,7 +10,7 @@ filelist = list()
 filelist = os.listdir(root)
 for item in filelist:
     if item.endswith("md"):
-        fullpathlist.append("/Users/mp/Documents/GitHub/malcprentice.github.io/" + item)
+        fullpathlist.append(root + item)
         filepathlist.append(item.rstrip(".md"))
 print(filepathlist)
 for item in fullpathlist:
