@@ -27,7 +27,6 @@
 
 
 ## Examples
-
 * See [Example](Examples-TOEFLIntegratedEssay)
 * See OG 6th edition book p309, p404, p503, p607
 
@@ -68,46 +67,14 @@ You are scored on
 * If your word count is usually under 200 words, aim for one paragraph 
 * If your count is more than 200, maybe do more paragraphs
  
-## Thesis Statement 
-
-* NO outline
-	* The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
-	* Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. (from ETS)
-	* Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
-	* Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
-	* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
-	* The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
-* With outline  
-	* Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
-	* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
-	* The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
 
 
-## Sentence frames
-
-* Firstly, the reading argues that R, however the lecturer notes that L. 
-* The second argument in the reading is that R. The lecture contradicts this, noting L
-* In addition, contrary to the belief in the passage that R, the professor says that L.
-* Next, the reading states X, however the listening notes that Y
-* Also, the lecture refutes the fact that R. In fact, L.
-* In terms of R, the professor gives a different interpretation. She says that L.
-* The professor also offers a different R. She says L.
-* Finally, the reading states R. The lecture on the other hand argues that L. 
-* It is said in the reading that R. COntrary to this belief, the professor says that L
-
-* Don't repeat the same pattern 3 times in the essay. 
-* For more options
-	* See [Use cohesion](Style-UseCohesion) for alternatives to "however"
-	* See [Citation Verbs](Invention-CitationVerbs) for alternatives to "states"/"notes"
-	* See [Write a Compare Contrast Sentence](Style-WriteACompareContrastSentence) for alternatives to "said"
-
-## Templates and structures.  
-
+## Arrangement - Templates and structures.  
 ### Short 1 paragraph
 
 The lecture completely refutes the passage. Contrary to the statement in the passage that READING1, the professor says that LISTENING1. The lecture also refutes the idea that READING2. In fact, LISTENING2. The professor also offers a different perspective on READING3. She says that LISTENING3.
 
-### Longer 1 paragraph
+### Longer 1 paragraph template
 
 Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While the reading states that READINGTHESIS, the lecture says that this is not the case. The reading argues that R1, however the lecturer notes that L1. The second argument in the reading is that R2. The lecture contradicts this, noting L2. Finally, the reading states R3. The lecture on the other hand argues that L3. Because of the above reasons, it is doubtful that READING THESIS. In fact, it could  SUMMARYLISTENING.
 
@@ -124,10 +91,63 @@ Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS. While
 	* "Because of the above reasons, it is highly questionable that R THESIS.
 	* In fact, SUMMARY WITHOUT REPEATING KEYWORDS.
 
-### 4 paragraph (ETS p607)
-* Unstructured thesis statement, just summarising topic. 
-* Body paragraphs. See OG p404 for the example type. 
-	*  Unnumbered topic sentence, just stating idea  
-	*  The second 
-	*  The third  
-*  No conclusion. 
+## A frame from ETS "high scoring response"
+* In the woman's  opinion, the proposal to          
+	* ... SUMMARISE THE PROPOSAL QUICKLY ...
+    * is not a good idea 
+* While the man says R1, this is not true because L1 
+* That's one reason, but she also says that 
+* The idea that R2 doesn't work, because L2
+    
+## ANother
+The passage introduced three reasons why TOPIC: 1, 2, and 3. However, the lecture disagrees.
+The first contradicting fact is... 	Detail sentence. Detail sentence. (Optional third Detail sentence) 
+Another issue is…. 			Detail sentence. Detail sentence. (Optional third Detail sentence) 
+The third aspect is…. 			Detail sentence. Detail sentence. (Optional third Detail sentence) 
+Because of the above reasons, it is highly questionable that REPEAT READING TOPIC. In fact MAIN IDEA/CONCLUSION LISTENING.
+
+
+## Style - other sentences frames
+
+* Thesis Statement options
+	* NO outline
+		* The lecture completely refutes the passage. While the reading states that READINGTHESIS, the lecture says that this is not the case.
+		* Both texts deal with THESIS. The reading states that READINGTHESIS. In the lecture, however, the professor LISTENINGTHESIS. (from ETS)
+		* Despite claims in the reading that READINGTHESIS, in fact LISTENINGTHESIS.
+		* Contrary to the claims in the reading that READING THESIS, the listening states that this is not the case. 
+		* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples given are LISTENING
+		* The passage introduced three examples/reasons why READINGTHESIS. However, the lecture disagrees.
+	* With outline  
+		* Contrary to the claims in the reading that READING THESIS because of A, B and C, the listening states that this is not the case. 
+		* The listening completely refutes the claim in the reading that READINGTHESIS, by showing that the reasons/examples A, B and C are not true. 
+		* The passage introduced three examples/reasons why READINGTHESIS: A, B and C. However, the lecture disagrees.
+* Other Sentence frames
+	* Firstly, the reading argues that R, however the lecturer notes that L. 
+	* The second argument in the reading is that R. The lecture contradicts this, noting L
+	* In addition, contrary to the belief in the passage that R, the professor says that L.
+	* Next, the reading states X, however the listening notes that Y
+	* Also, the lecture refutes the fact that R. In fact, L.
+	* In terms of R, the professor gives a different interpretation. She says that L.
+	* The professor also offers a different R. She says L.
+	* The professor also offers a differing interpretation of R, saying that it is L
+	* Finally, the reading states R. The lecture on the other hand argues that L. 
+	* It is said in the reading that R. COntrary to this belief, the professor says that L
+	* Contrary to the belief in the passage that R, the lecturer says L
+	* The lecture also refutes the fact that R1, noting that L
+* Don't repeat the same pattern 3 times in the essay. 
+	* For more options
+	* See [Use cohesion](Style-UseCohesion) for alternatives to "however"
+	* See [Citation Verbs](Invention-CitationVerbs) for alternatives to "states"/"notes"
+	* See [Write a Compare Contrast Sentence](Style-WriteACompareContrastSentence) for alternatives to "said"
+* This numbered pattern is also used in ETS "high scoring"
+	* Firstly, not reading literature does not mean R1. L1
+	* Secondly, not reading literature does not mean R2. L2
+	* Finally, lack of support for writers does not mean R2. L3
+
+
+
+
+
+
+
+

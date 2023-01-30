@@ -32,24 +32,32 @@ Put your Name and a few words about the email contents. If you are emailing abou
     * "Here is my homework"
     * "Here is my report. Sorry it is late. "
     * "I was sick last week. Can I have an extension on A3"
+    * "I hope you can help. I read the schedule but I don't understand what "SR" means. Can you explain it?"
+    * "I have a question and I'd like to come to your office hour. But I have a class that period this week. Can I come period 4 on Friday instead?"
+    * "I was in your NAME class last year. Next year I want to do an internship / study abroad, and I need a teacher to certify my English score. Would it be possible for you to do this? I can come to your office Thursday afternoon or Friday morning."
 
 ## 5) Add a thanks/hope phrase (optional for informal emails)
-* Thanks in advance.      if it's something normal like marking an essay or sending info
-* I hope you can help.        if it's something less common, like a reference
-* I hope to hear from you.        if you're expecting a reply - quite formal
-* Let me know         informal - if there's a chance they'll say "no"
+
+Line                |When to use               
+-----------------   |----------------- 
+Thanks in advance.  |A task I would do anyway e.g. teacher marking an essay 
+I hope you can help.|A task that's less common e.g. teacher writing a reference
+I hope to hear from you. |If you're expecting a reply - quite formal
+Let me know if...   |If there's a chance they'll say "no"
 
 ## 6) Add a polite written goodbye phrase
 Be careful - most have commas not periods
 
-* Nothing             Very informal.  People you know very well. 
-* Cheers,         Very informal.  People you know very well. 
-* Best,               Informal.       People you know very well
-* Regards,            Semi-formal     I use this for work. Use it for me!
-* Best Regards,       ?? I've seen this used both ways. Maybe avoid.  
-* Yours,          Formal      People you know
-* Your sincerely,         Formal          You started "Dear Mr. Smith,"
-* Yours faithfully,       Formal      You started "Dear Sir/Madam"
+Type             |Style             |Who for?  
+-----------------|----------------- |----------------- 
+Nothing          |Very informal.    |People you know very well. 
+Cheers,          |Very informal.    |People you know very well. 
+Best,            |Informal.         |People you know very well
+Regards,         |Semi-formal       |I use this for work. Use it for me!
+Best Regards,    |semi-formal       |I've seen this used both ways. Maybe avoid.  
+Yours,           |Formal            |People you know formally
+Your sincerely,  |Formal            |You started "Dear Mr. Smith,"
+Yours faithfully,|Formal            |You started "Dear Sir/Madam"
 
 ## 7) Your name
 If a class email, also give your student number in brackets

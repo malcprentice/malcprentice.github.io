@@ -12,7 +12,6 @@ for item in filelist:
     if item.endswith("md"):
         fullpathlist.append(root + item)
         filepathlist.append(item.rstrip(".md"))
-print(filepathlist)
 for item in fullpathlist:
     with open(item, "r") as f:
         for line in f:
