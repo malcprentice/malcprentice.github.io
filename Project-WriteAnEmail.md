@@ -1,6 +1,4 @@
-<details>
-    <summary><b>My section header in bold</b></summary>
-Any folded content here. It requires an empty line just above it. </details>   
+# Project - Write an Email
 
 
 ## 1) Subject Line
