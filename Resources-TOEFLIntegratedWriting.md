@@ -31,7 +31,6 @@
 * See OG 6th edition book p309, p404, p503, p607
 
 ## General Tips
-
 * Suggested length is 150-225 words
 	* No penalty for going over 225 though
 	* One paragraph is OK. DOn't split a short answer into paragraphs
