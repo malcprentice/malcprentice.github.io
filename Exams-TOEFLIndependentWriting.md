@@ -1,7 +1,7 @@
  
 # General tips
 *  300 words minimum for a perfect score
-*  See tips for all writing questions here: [Resources-TOEFLOverview](Resources-TOEFLOverview)
+*  See tips for all writing questions here: [Resources-TOEFLOverview](Exams-TOEFLOverview)
 * This essay is rated by a human, but also a computer. Computers are good at finding:
 	*  text you have memorized from the internet. So don't
 	*  structure phrases such as "Another example". Use these
