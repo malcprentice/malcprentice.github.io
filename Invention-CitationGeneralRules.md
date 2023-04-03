@@ -3,8 +3,20 @@
 * This is for IN TEXT and ON SLIDE *citations*
 * For END OF ESSAY or LAST SLIDE *references*, see  the [Reverence General Rules](Invention-ReferenceGeneralRules)
 
+##  Style overview
+
+As a rough guide (it depends on the department / journal), some  styles you might see are:
+
+* [APA](https://apastyle.apa.org)  -  Psychology but also often Linguistics, Journalism, Education, some Engineering
+* [MLA](https://www.mla.org/MLA-Style) - Communication, Theater, Philosophy
+* [Chicago](https://www.chicagomanualofstyle.org)  -                History, Art, Music, Economics
+* [Bluebook](http://www.legalbluebook.com/)  - US Law
+* [AMA](http://healthlinks.washington.edu/hsl/styleguides/ama.html) - Medicine
+
+
 ## Choose the style
-1) Brackets style
+### 1) Brackets style
+
 * This is 
     * Easier
     * The ONLY option for titles. 
@@ -17,7 +29,8 @@
     * ("Title," n.d.)
     * For details, see [Cite Brackets Style](Invention-CiteBracketsStyle)
 
-2) Sentence style
+### 2) Sentence style
+
 * This is 
     * More difficult
     * Not usable for titles

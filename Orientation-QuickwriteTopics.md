@@ -65,7 +65,18 @@
 * What are the good and bad points of online shopping? 
 
 
-
+## Discussion topics
+* All schools should be public schools
+* Smokers should pay more for healthcare
+* Everyone should have the choice to study online
+* All university buildings should be red brick
+* Driving should be a university class
+* The drinking age in Japan should be 18
+* Snowboarding is better than skiing
+* University students should all study statistics. 
+* Glasses are better than contacts
+* In summer, going to Oshima is better than going to Hawaii
+* Spanish is the best 3rd language to study after English
 
 # Need more topics?
 * NYT650 [New York Times 650 topic](https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0)
