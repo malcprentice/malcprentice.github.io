@@ -20,22 +20,27 @@ Tech Tips
     * Hate Microsoft?  Try Libre Office: https://www.libreoffice.org/
     * Slow laptop? Try AbiWord (lightweight): https://www.abisource.com/
 
-
-* What do you mean "Check your Originality report"
-    * Run one
-        * https://support.google.com/edu/classroom/answer/9335819?hl=en
-        * https://support.google.com/edu/classroom/answer/9335819?hl=jp
-    * Read one: 
-        * https://support.google.com/edu/assignments/answer/9392759?hl=en
-        * https://support.google.com/edu/assignments/answer/9392759?hl=en
-    * Don't forget to turn on the citation switch. 
-        * [引用した文章が <数値> 件あります] の横にあるスイッチをオン  にします
-        * The instructions say this is "適切に引用した文が含まれているテキスト" 
-            * but it is NOT "適切" the way most of you are doing it. 
-            * It's only OK to use it IN QUOTES " " 
-            * and only A LITTLE of each paragraph can be in quotes. 
-            * Copy paste without quotes is always wrong, even with a citation. 
-                * OK: King said that he had a dream (King, 1963). 
-                * OK, occasionally: "I have a dream," (King, 1963)
-                * NOT OK, ever, anywhere: I have a dream (King, 1963)
-    * For more detail, see [Avoid Plagiarism](Invention-AvoidPlagiarism)
+  
+## What do you mean "Check your Originality report"
+ * "Originality report" (独自性レポート) 
+ * You have three chances. If you have run out, try this: https://www.grammarly.com/plagiarism-checker
+ * Run one
+    * https://support.google.com/edu/classroom/answer/9335819?hl=en
+    * https://support.google.com/edu/classroom/answer/9335819?hl=jp
+* Read one: 
+    * https://support.google.com/edu/assignments/answer/9392759?hl=en
+    * https://support.google.com/edu/assignments/answer/9392759?hl=en
+* Don't forget to turn on the citation switch. 
+    * [引用した文章が <数値> 件あります] の横にあるスイッチをオン にします
+    * Don't just check flagged "フラグ済みの文". You must ALSO click 詳細, then if you see it [引用した文章が <数値> 件あります] の横にあるスイッチをオン にします
+* The instructions might say "適切に引用した文が含まれているテキスト" 
+    * but using "適切" is tricky. It's OK to use it 
+        * ONLY IN QUOTES " " 
+        * ONLY ONCE per paragraph  
+        * ONLY IF the actual words are important. 
+    * For example
+        * OK: King said that he had a dream (King, 1963). 
+        * OK, occasionally: "I have a dream," (King, 1963)
+        * NOT OK, ever, anywhere: I have a dream (King, 1963)
+* For more detail, see [Avoid Plagiarism](Invention-AvoidPlagiarism)
+ 
