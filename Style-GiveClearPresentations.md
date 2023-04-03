@@ -128,3 +128,10 @@
     * "So why is this the case? Probably because"
     * "But which of these are best? As the next slide shows, ..."
     * "Why is this important? Mainly since..."
+
+## Some good TED Talks;
+* Ernesto Sirolli (on effectiveness of aid, and also body language for presentations): https://www.ted.com/talks/ernesto_sirolli_want_to_help_someone_shut_up_and_listen/up-next?language=en
+* Daniela Papi (also on effectiveness, this time volunteering - I use this one for the Voluntourism essay): https://www.youtube.com/watch?v=oYWl6Wz2NB8  
+* Angela Duckworth (on "grit" - the ability to keep going when things get tough - being more important than anything for students and others): https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/up-next?language=en
+* Angel Chang on sneakers (has same Arrangement as Ethical Consumption essay): https://www.ted.com/talks/angel_chang_the_wildly_complex_anatomy_of_a_sneaker?language=en
+* Hans Rosling on global population: https://www.ted.com/talks/hans_rosling_on_global_population_growth?language=en
