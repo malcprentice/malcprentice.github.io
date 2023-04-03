@@ -17,7 +17,9 @@
         * 1 line per section (for long/group presentations)
     * A decoration image 
 * Check the Body Slides Format
-    * Title is in [Title Case](Style-UseTitleCase)
+    * Capitals are consistent. I recommend
+        * Title is in [Title Case](Style-UseTitleCase)
+        * Text is NOT in title case
     * Every slide needs an image. 
         * Either for Decoration or Meaning (Figure)
             * Decoration: Anything relevant. No penguins!
@@ -31,7 +33,7 @@
         * White text on light colour is hard to read
         * Black text on dark colour is hard to read
 * Check the Body slides APA
-    * Every slide needs a fact, so every slide needs APA.  
+    * Every slide needs APA in this kind of presentation. 
     * If you have 2 sources for one slide
         * Option 1: Format carefully (citation just under fact, small font)
         * Option 2: Both at bottom. Use semicolon ("Title," n.d.; Suzuki, 2019). 
@@ -74,10 +76,14 @@
         * Only list FACTS/IDEAS you used on slides
             * Not decoration images. 
             * Those go on image sources slide 
-* Image sources slide
+* Check Image sources slide
     * Is the image decoration or fact/idea?
-    * Decoration: list its http address on image sources slide. No APA.
-    * Fact/idea: list it on references list. Use APA. 
+    * If it was decoration, list its http address here. 
+        * No APA in references list. 
+        * No citation on slide
+    * If it was fact (e.g. map, chart) 
+        * APA here
+        * APA in references slide
 * Question slide
     * No obvious questions ("Have you been to Antarctica")
     * No quiz Questions ("How many penguins live in Antarctica")
