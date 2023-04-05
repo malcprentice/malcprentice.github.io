@@ -1,8 +1,9 @@
 # Guess Word Meanings
 
 ## Guess from Suffixes
-|suffix|POS|meaning|example
-|------|------|------|------
+
+|suffix         |POS            |Meanings                   |example
+|---------------|---------------|---------------------------|------
 |-able, -ible	|For Adjectives	|(turns verb into adjective) |drinkable
 |-an, -ian		|For nouns	|person/place	|Italian, Musician
 |-ancy			|For Nouns	|state	|infancy
