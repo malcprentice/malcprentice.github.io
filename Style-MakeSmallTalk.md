@@ -63,7 +63,7 @@ Examples for people you see every week:
 * What will you do in the holiday?
 * How are classes going?          
 * How's work? 
-* Or see [ask good questions](Orientation-AskGoodQuestions) sheet
+* Or see [ask good questions](Style-AskGoodQuestions) sheet
 
 ### C) Change the topic
 * Hey, 

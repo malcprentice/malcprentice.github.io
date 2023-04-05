@@ -12,7 +12,7 @@ Quickwrite = How many words can you write in 10 minutes?
 ## How to do a quickwrite 
 
 * Choose a topic 
-    * Choose a topic from [the list](Orientation-QuickwriteTopics)
+    * Choose a topic from [the list](Resources-QuickwriteTopics)
     * Any topic OK. Start easy (at top).
 * Get Ready
     * Set a timer for 10 minutes

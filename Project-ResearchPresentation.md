@@ -1,5 +1,5 @@
 # Project - Research Presentation
-The aim this project is to practice reading (news articles), listening (lectures), note taking, summary writing, presentation skills, [asking good questions](Orientation-AskGoodQuestions), making slideshows, leading discussions, discussion participation, learning reflection, and APA referencing.  
+The aim this project is to practice reading (news articles), listening (lectures), note taking, summary writing, presentation skills, [asking good questions](Style-AskGoodQuestions), making slideshows, leading discussions, discussion participation, learning reflection, and APA referencing.  
 
 ## Step 1: Listen to a lecture
 * Visit the TED website https://www.ted.com/talks
@@ -58,7 +58,7 @@ The aim this project is to practice reading (news articles), listening (lectures
 * Spellcheck and proof read!
 * No penguins!    
 * Script is optional
-* Question slide follow rule- [ask good questions](Orientation-AskGoodQuestions)
+* Question slide follow rule- [ask good questions](Style-AskGoodQuestions)
 * References slide 
     * in alphabetical order. 
     * TWO citations - TED+News. Maybe three if your news article was short

@@ -12,7 +12,7 @@
 
 
 ## Need help in Office Hours?
-* Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login)  
+* Check [my schedule](https://docs.google.com/document/d/1ydVVh1pVCZWGxAm30T-ElaN6DKU9PnTRtCALHgC-c9U/edit?usp=sharing) (needs university Google Drive login)
 * email for an appointment
 
 

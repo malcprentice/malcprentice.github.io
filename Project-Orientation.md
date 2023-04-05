@@ -1,3 +1,4 @@
+
 # Orientation
 
 ## Task 1: Check and bookmark your schedule 
@@ -18,13 +19,13 @@
    * Maybe [get the phone app](https://support.google.com/edu/classroom/answer/6118412?hl=ja)
 
 ## Task 4: Learn to ask for help
-* [Ask for Help](Orientation-AskForHelp.md)
+* [Ask for Help](Style-AskForHelp)
 
 ## Task 5 - Learn to make Small Talk
-* [Small Talk](Orientation-SmallTalk)
-* [Ask Good Questions](Orientation-AskGoodQuestions)
-* [Communication Skills](Orientation-CommunicationSkills)
+* [Small Talk](Style-MakeSmallTalk)
+* [Ask Good Questions](Style-AskGoodQuestions)
+* [Communication Skills](Style-UseCommunicationSkills)
 
 ## Task 6 - Do a Quickwrite
-* (This is homework for Advanced English, English Communication and R&W only). Discussion only does this in class
+* (Not all classes! Check your syllabus). 
 * [Instructions on Drive](https://docs.google.com/document/d/1ZILTkcv8nOrYRm11js5-KLiJZD0D0kmDnM8LiCH-MY4/edit?usp=sharing)

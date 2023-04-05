@@ -1,6 +1,4 @@
 
-[Orientation](Index-Orientation)
-
 [Project](Index-Project)
 
 [Resources](Index-Resources)

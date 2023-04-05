@@ -89,4 +89,4 @@
     * No quiz Questions ("How many penguins live in Antarctica")
     * Different discussions ("Do you like penguins? What do you think about penguins? Would you be a penguin?")
     * No questions that need research ("How can we save the Galapagos penguin from disease?"    
-    * For more on this, see [Ask good questions](Orientation-AskGoodQuestions)
+    * For more on this, see [Ask good questions](Style-AskGoodQuestions)
