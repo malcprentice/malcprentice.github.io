@@ -5,6 +5,7 @@
 * [Cover Letter And Resume](Project-CoverLetterAndResume.md)
 * [Do A Learning Reflection](Project-DoALearningReflection.md)
 * [Do A Quick Code](Project-DoAQuickCode.md)
+* [Do A Quicktalk](Project-DoAQuicktalk.md)
 * [Do A Quickwrite](Project-DoAQuickwrite.md)
 * [Endangered Animals Essay](Project-EndangeredAnimalsEssay.md)
 * [Ethical Consumption Paragraph](Project-EthicalConsumptionParagraph.md)
