@@ -29,8 +29,7 @@ Quickwrite = How many words can you write in 10 minutes?
 
 ## Minimum word count
 * Level 3:       75 words in Spring, 125 words in Fall
-* Level 2:     100 words in Spring, 150 words in Fall.  
-* Level 1:     150 words in Spring, 200 words in Fall  (also electives)
+* Level 1/2:     100 words in Spring, 150 words in Fall.  
 * If you do less, you have NOT done your homework.
 
 ## Assessment

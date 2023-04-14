@@ -2,7 +2,7 @@
 The aim this project is to practice reading (news articles), listening (lectures), note taking, summary writing, presentation skills, [asking good questions](Style-AskGoodQuestions), making slideshows, leading discussions, discussion participation, learning reflection, and APA referencing.  
 
 ## Step 1: Listen to a lecture
-* Visit the TED website https://www.ted.com/talks
+* Visit the [TED website](https://www.ted.com/talks)
 * Select "6-12 mins"
 * Look for an interesting topic and title
 * Listen to 20 seconds, English only. 
@@ -39,9 +39,9 @@ The aim this project is to practice reading (news articles), listening (lectures
 * Remember to keep the URL (http addresses) of the talk and article
 
 
-## Step 4: Get your Presentation ready (9 slides minimum)
-* I will share "Template for RR"
-* Follow the template carefully. 
+## Step 4: Get your Presentation ready
+* I will share the Template
+* Follow the template carefully. You can add slides, but do not delete. 
 * I will review in class, but common mistakes are: 
     * Titles: keywords, in title case, consistent format
     * Every body slide needs EITHER
