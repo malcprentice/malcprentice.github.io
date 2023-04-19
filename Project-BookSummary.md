@@ -29,7 +29,7 @@ Ask and answer as many of these questions as you can:
 9. What was the main problem?      
 10. What happened then? (2-3 main events max)
 11. Was there a moral (教訓)?             
-12. Is the book good, overall? (adjective/形容詞)
+12. Your [reflection ](https://alba-english.org/Style-WriteReadingAndListeningReflections.html)on the book (good/bad/interesting/boring, why)
 
 
 ## Example Notes
@@ -40,7 +40,7 @@ Ask and answer as many of these questions as you can:
 5. wizard
 6. a magical school called Hogwarts
 7. Voldemort (enemy), Ron, Hermione (friends), Lupin (teacher), 
-8. Went to school, saw dog
+8. saw dog, Went to school, 
 9. Dementors, Scabbers
 10. patronus, reveal identity, win
 11. to not judge people by their appearances
