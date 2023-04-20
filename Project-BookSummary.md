@@ -23,8 +23,8 @@ Ask and answer as many of these questions as you can:
 3. What YEAR was it written?       
 4. Who is the hero / MC / 主人公          
 5. What is the main character          
-6. Where is it set?                    
-7. Who are the other characters (and how are they connected)?       
+6. Where is it set? (Maybe also "When is it set?")
+7. Who are the other characters? (Name/relationship e.g. brother, enemy)       
 8. How did it start?                
 9. What was the main problem?      
 10. What happened then? (2-3 main events max)
