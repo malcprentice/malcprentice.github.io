@@ -43,18 +43,66 @@
     * **Pause for questions**
     * "Thank you again." 
     * 👏👏👏
-* Reflection slide
-    * **STOP AND SIT DOWN! The next part is not in a normal presentation**
-    * "Here is my learning reflection for this talk"
-    * "Can someone give me feedback on my slides or presenting style?"
-    * Audience - [give good feedback](Style-GiveGoodFeedback)
 * Discussion question slide
+    * **STOP AND SIT DOWN! The next part is not in a normal presentation**
     * "Next let's have a discussion."
     * "OK, so, my first/second/third question is QUESTION 1"
     * "What do you think, Hiroki?"
     * [See Discussion Worksheets](https://docs.google.com/document/d/1GYvDm-zW2psmE7hWrZGnvu2prgL6RsZClCEgwk8fa_w/edit?usp=sharing)
+    * OPTION IF SMALL GROUP: 
+        * "Finally, can someone give me feedback on my slides or presenting style?"
+        * Audience - [give good feedback](Style-GiveGoodFeedback)
 
- 
+## Group Pattern with RR slides
+* TItle slide
+    * A: "Hello, my name is PRESENTER A. "
+    * B: "And my name is PRESENTER B. " (sit down)
+    * A: "Today, WE'RE going to talk about _______"
+* Outline slide
+    * A: "We will talk about these ideas"
+    * **Pause so they can read. don't read them yourself!**
+* Presenter A Section slide
+    * "FIrst, I will talk about SECTION TITLE A"
+* Presenter A Body Slides: 
+    * "The first thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * "The second thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * "The third thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * OK, next PRESENTER B. 
+* Presenter B Section slide
+    * "Next, I will talk about SECTION TITLE A"
+* Presenter B Body Slides: 
+    * "The first thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * "The second thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * "The third thing/point/step/stage/thing I learned/idea is KEYWORD"
+    * (OK, next PRESENTER C?) 
+* Summary slide
+    * "In this talk, the speaker said that/described/argued that "
+    * **TED SUMMARY**
+    * "However/For example/In addition, "
+    * "an article in/by/on NEWS SOURCE said that "
+    * **NEWS SUMMARY** 
+    * "Thank you for listening. Any questions?"
+    * EXAMPLE "**In this talk, the speaker** described the history of the Stanford-Binet IQ test and how it was developed, **for example** that it started  by just comparing English and Mathematics scores. **However,**  an article in Business Insider  outlined how the tests have a dark background in racism in the US in the 1950s,  **and** were used to justify segregation. **Thank you for listening. Any questions?"**
+* References slide
+    * "Here are our references. "
+    * "Thanks for listening." 
+    * 👏 
+    * "Are there any questions?"
+    * **Pause for questions**
+    * "Thank you again." 
+    * 👏👏👏
+* Discussion question slide
+    * **STOP AND SIT DOWN! The next part is not in a normal presentation**
+    * "Next let's have a discussion."
+    * "OK, so, my first/second/third question is QUESTION 1"
+    * "What do you think, Hiroki?"
+    * [See Discussion Worksheets](https://docs.google.com/document/d/1GYvDm-zW2psmE7hWrZGnvu2prgL6RsZClCEgwk8fa_w/edit?usp=sharing)
+    * OPTION IF SMALL GROUP: 
+        * "Finally, can someone give us feedback on our slides or presenting style?"
+        * Audience - [give good feedback](Style-GiveGoodFeedback)
+
+
+
 ## Remember
 * Keywords are best if they are NOUNS (名詞) - don't forget the "and".
 * If you're using slides, don't use speakers notes

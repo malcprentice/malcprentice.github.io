@@ -80,8 +80,8 @@ As a rough guide (it depends on the department / journal), some  styles you migh
                 * (Suzuki, Yamazaki & Smith, 2010)
                 * (Suzuki, Yamazaki & Tanaka, 2010)
             * Is better than this:
-                * (Suzuki, et al., 2010a)
-                * (Suzuki, et al., 2010b)
+                * (Suzuki et al., 2010a)
+                * (Suzuki et al., 2010b)
 * Be careful using full names
     * YES: "However, an article written by Albert Einstein argued that dogs are the best pets"
     * NO: "However, an article written by Hiroko Suzuki argued that dogs are the best pets."
