@@ -12,25 +12,25 @@
 
 ## Step 2 - Homework
 * Read the [example](Examples-EndangeredAnimalsEssay.md)
-* Read 3 articles about your animal.
-    * Japanese OK. 
+* Read two articles about your animal.
+    * Japanese OK (except advanced classes). 
     * Take notes. 
-    * Focus on problems. 
-    * If you can't find 3 problems, change your topic. 
-    * If you can't find 3 solutions, change your topic. 
+    * If animal doesn't have 3 problems, maybe change your topic. 
+    * If animal doesn't have 3 solutions, maybe change your topic. 
     * [Find good sources](Invention-FindGoodSources)
 
 ## Step 3 - Read more and start writing
-* Read three more articles.  
-    * English only
-    * Take notes - enough detail to speak for 5 minutes on your topic
-    * This time, concentrate on description and solution responses. 
+* Read two more articles.  
+    * English only 
+    * Take notes
+    * You will write 2 sentences about each problem and solution. Do you have enough materials? If not read more articles (Japanese OK)! 
 
 ## Tips on Arrangement 
-We will write five paragraphs
+
+We will write four or five paragraphs. Example has five paragraphs. 
 
 * Write an Introduction Paragraph
-* Write a Description Paragraph
+* ~~Write a Description Paragraph (optional)~~
 * Write a Problems (Cause-Effect) paragraph - see also write a cause-effect paragraph
 * Write a Solutions (Summary-Response) Paragraph
 * Write a Conclusion paragraps
@@ -38,35 +38,32 @@ We will write five paragraphs
 ## Tips for Invention
 If you can't find a problem in the articles you read, try searching for problem keywords AND the name of your animal. 
 
-Common problem keywords are
+__Remember that your solutions and problems don't need to match exactly. For example, fixing deforestation fixes hunting (no forest roads, less hunters).  __
 
-* habitat destruction
-* overdevelopment
-* tourism
-* deforestation
-* climate change
-* pollution
-* invasive species
-* land animals mostly: hunting, or poaching(illegal hunting)
-* sea animals mostly: bioaccumulation, bycatch, overfishing, boatstrike
-* indirect problems (things that make the problem worse) conflict, corruption
-* big mammals: traditional medicine
-
-
-Common solution keywords are
-
-* NGOs for animal (Save the Tiger), habitat (Mangrove Action PRoject), or general (WWF)
-* Wildlife preserves
-* Farmer compensation
-* Ecotourism
-* Sustainable Development
-* Laws (national, international, trade agreements like CITES)
-* Consumer awareness (if animal or habitat is part of food production) e.g. dolphin-safe tuna
-
-Remember that your solutions and problems don't need to match exactly. For example, fixing deforestation fixes hunting (no forest roads, less hunters).  
+* Common problem keywords are
+    * habitat destruction
+    * overdevelopment
+    * tourism
+    * deforestation
+    * climate change
+    * pollution
+    * invasive species
+    * land animals mostly: hunting, or poaching(illegal hunting)
+    * sea animals mostly: bioaccumulation, bycatch, overfishing, boatstrike
+    * indirect problems (things that make the problem worse) conflict, corruption
+    * big mammals: traditional medicine
+* Common solution keywords are
+    * NGOs for animal (Save the Tiger), habitat (Mangrove Action PRoject), or general (WWF)
+    * Wildlife preserves
+    * Farmer compensation
+    * Ecotourism
+    * Sustainable Development
+    * Laws (national, international, trade agreements like CITES)
+    * Consumer awareness (if animal or habitat is part of food production) e.g. dolphin-safe tuna
 
 
 ## Tips for Style
+
 * You're talking about ALL of an animal group. 
     * You can talk about the animalS or THE species. Don't mix
     * Plurals or 'the'. 
@@ -87,6 +84,6 @@ Remember that your solutions and problems don't need to match exactly. For examp
     * Use partition instead for animals, use the family and a different fact
         * "There are seven kinds of tiger, of which the Siberian...."
         * "The Siberian tiger is the only member of the big cat family which plays tennis"
-
-## Check the list of common mistakes 
-* Link is [here](Checklist-Essays)
+* Also 
+    * Check the list of common mistakes 
+    * Link is [here](Checklist-Essays)

@@ -92,8 +92,21 @@ Example structure (4 paragraphs)
     * Final Comment (A recommendation. I will explain more in class)
 
 
-### Homework 3D - Check the list of common mistakes 
-* Link is [here](Checklist-Essays)
+### Tips
+* Check common mistakes [here](Checklist-Essays)
+* Bew careful: Heritage is an idea, not a place.
+    * WIth a noun
+        * ~~This world heritage is old.~~ 
+        * This world heritage __site__ is old.
+        * ~~This essay describes a world heritage~~
+        * This essay describes a world heritage __site.__
+   * On its own as an idea
+        * This essay argues why world heritage is important.
+        * World heritage is governed by UNESCO
+
+
+
+
 
 
 

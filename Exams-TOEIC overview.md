@@ -19,15 +19,22 @@
 	* Name the situation (e.g. office, hotel)
 	* Name the ING verbs (e.g. showing, explaining, giving)
 * Listening 2 - Question-Response
-	* Skim the questions and guess the situation
+	* Skim the questions and guess 
+		* the situation (hotel, office, etc)
+		* the people speaking
+		* the function (apologising, instructing, complaining, etc)
 	* If you have to guess: Repeated words are _very_ bad. Synonyms (同義語) are good
 * Listening 3 - Conversations 
 	* If you have to guess: Repeated words are _maybe_ bad. Synonyms (同義語) are _maybe_ good
 	* Learn question types
 		* e.g. "Can you" "Could you" is often request. Answer = "Sure", not "Yes, I can"
 		* e.g. "I was wondering if"
-	* Careful of negatives e.g. "You don't X, do you". Agree = "No"
-	* Careful of Tense (e.g. present question with past answer
+	* Careful of negatives 
+		* e.g. "You don't X, do you"
+		* e.g. "Why can't you come on time"
+	* Careful of Tense 
+		* e.g. present question with past answer
+		* e.g. "WHat will the woman say" - you have to guess, she hasn't said it in audio. 
 * Listening 4 - Talks
 	* Questions are in order (answer to first question is at beginning of listening)
 * General tips
@@ -35,6 +42,7 @@
 	* Answer every question - wrong answer do not get minus points
 	* For section 3/4, answer the easy questions first.
 	* OLd practice materials OK for practice, but note that pre-2017 meterials have too many questions in section 1/2, too few in section 3, no images in section 3. 
+	* Learn general business roles (e.g HR, CEO) - see vocab list for TWL and BWL sections. 
 
 
 
