@@ -22,25 +22,41 @@
 * That said, you should probably 
 
 ## 3) Say something useful
-* avoid touching/waving your notes
-* avoid dropping your hand 
-* Avoid adjusting your clothes / mask /glasses
-* stand still/straight
-* use open body language (no hugging your notes)
-* speak louder/slower
-* make your voice more interesting
-* make more eye contact
-* stop looking at the ceiling 
-* look at EVERYONE
-* avoid making a fist 
-* practice pronouncing new words 
-* practice speaking in phrases
-* Change the way you prepare your notes:
+* work on your eye contact
+    * stop looking at the ceiling 
+    * stop looking at the slides so often. Look ONCE to check then look at audience
+    * stop looking at the big screen. Check your slides on the laptop. 
+    * look at EVERYONE
+* work on your body language
+    * stand still/straight
+    * avoid touching/waving your notes
+    * avoid dropping your hand 
+    * Avoid adjusting your clothes / mask /glasses
+    * avoid making a fist 
+    * use open body language (no hugging your notes)
+    * practice teamwork (sit stand change slides)
+    * Relax your hand - no fists, no stiff finger/wrist
+* work on your voice
+    * use more intonation (high and low voice)
+    * avoid "reading voice"
+        * practice speaking in phrases
+        * plan where to pause
+        * speak in 5-10 word chunks
+    * make more eye contact
+    * practice pronouncing new words 
+    * speak louder/slower
+* work on your notes:
     * make the text bigger
     * plan what to EMPHASIZE
-    * write in 5-10 word chunks
+    * plan where to pause /
+    * write one line per pause
     * use keywords, not scripts
-
+    * use spoken English, not written English. Simpler words, simpler grammar, abbreviations. 
+* work on your slides
+    * make your fonts consistent
+    * some images are missing
+    * some APA is wrong
+    
 ## 4) Say something else nice
 * "Overall, I really enjoyed it"
 * "But overall, it was really interesting"
