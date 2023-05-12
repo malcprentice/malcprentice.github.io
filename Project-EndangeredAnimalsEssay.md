@@ -8,7 +8,7 @@
     * Choose something INTERESTING we DO NOT KNOW (i.e. NOT the Giant Panda)
     * Do NOT choose Narwhal (the example essay topic)
     * Choose a SPECIFIC species (i.e. "Amur Tiger", not just "Tiger")
-    * Choose something endangered or vulnerable NOT extinct or extinct in wild. 
+    * DO NOT choose animals that are "extinct" or "extinct in wild". Stick to "Critically endangered", "Endangered", "Vulnerable" or "Least concern"
 
 ## Step 2 - Homework
 * Read the [example](Examples-EndangeredAnimalsEssay.md)

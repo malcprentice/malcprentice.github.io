@@ -15,25 +15,34 @@
 |Excellent           |volume         |- it was        |just right
 
 
-## Say something useful
+## 2) Transition
+* , but in the future 
+* Perhaps you might try to    
+* However,    
+* That said, you should probably 
 
-* **Transition**
-    * , but in the future 
-    * Perhaps you might try to    
-    * However,    
-    * That said, you should probably 
-* **Advice** 
-    * you could avoid touching/waving your notes
-    * stop dropping your hand 
-    * stand still/straight
-    * speak louder/slower
-    * make your voice more interesting
-    * next time maybe "make more eye contact
-    * stop looking at the ceiling 
-    * look at EVERYONE
-    * avoid making a fist 
-    * practice pronouncing new words 
-    * practice speaking in phrases
-* **Say something else nice**
-    * Either another phrase from above
-    * Or just "Overall, I really enjoyed it"
+## 3) Say something useful
+* avoid touching/waving your notes
+* avoid dropping your hand 
+* Avoid adjusting your clothes / mask /glasses
+* stand still/straight
+* use open body language (no hugging your notes)
+* speak louder/slower
+* make your voice more interesting
+* make more eye contact
+* stop looking at the ceiling 
+* look at EVERYONE
+* avoid making a fist 
+* practice pronouncing new words 
+* practice speaking in phrases
+* Change the way you prepare your notes:
+    * make the text bigger
+    * plan what to EMPHASIZE
+    * write in 5-10 word chunks
+    * use keywords, not scripts
+
+## 4) Say something else nice
+* "Overall, I really enjoyed it"
+* "But overall, it was really interesting"
+* "I didn't know that X, so I was surprised"
+* Some other positive [reflection](Style-WriteReadingAndListeningReflections)
