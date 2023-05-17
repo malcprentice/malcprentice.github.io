@@ -12,20 +12,34 @@
 	* 7 Reading Comprehension 
 
 ## Listening Tips
-
 * Listening 1 - Photos: While waiting, quickly 
 	* Name the things you see (e.g. laptop)
 	* Name the people you see (e.g. receptionist, presenter)
 	* Name the situation (e.g. office, hotel)
 	* Name the ING verbs (e.g. showing, explaining, giving)
 * Listening 2 - Question-Response
+	* If you have to guess: 
+		* Rhyming words ("away", "weigh") are a very bad sign
+		* Repeat words with different meaning ("at the park" vs "park the car") are very bad
+		* Repeated words are bad, but not as bad as part 3.
+		* Synonyms (同義語) are good
+	* Look at the question and think "When is it happening". Common trick is wrong tense: 
+		* When would you do it .... I did it yesterday
+		* What will you do ... I haven't done it
+	* Look at the question and thuink "WHO is doing it?". Common trick is wrong pronoun:
+		* Did he do it? Yes I did. 
+		* WHat did she do? They did something.
+	* If you get something wrong, or can't answer
+		* Shake it off and get ready for next question. 
+		* Unlike other sections you can't look at the answers and guess later. 
+* Listening 3 - Conversations 
 	* Skim the questions and guess 
 		* the situation (hotel, office, etc)
 		* the people speaking
 		* the function (apologising, instructing, complaining, etc)
-	* If you have to guess: Repeated words are _very_ bad. Synonyms (同義語) are good
-* Listening 3 - Conversations 
-	* If you have to guess: Repeated words are _maybe_ bad. Synonyms (同義語) are _maybe_ good
+	* If you have to guess
+		* Repeated words (in listening and in reading) are bad. 
+		* Synonyms (同義語) are _maybe_ good
 	* Learn question types
 		* e.g. "Can you" "Could you" is often request. Answer = "Sure", not "Yes, I can"
 		* e.g. "I was wondering if"
@@ -42,8 +56,11 @@
 	* Answer every question - wrong answer do not get minus points
 	* For section 3/4, answer the easy questions first.
 	* OLd practice materials OK for practice, but note that pre-2017 meterials have too many questions in section 1/2, too few in section 3, no images in section 3. 
-	* Learn general business roles (e.g HR, CEO) - see vocab list for TWL and BWL sections. 
-
+	* Learn general business roles (e.g HR, CEO) - see vocab list for TWL and BWL sections.
+	* Having problems with accents (e.g. australian)? 
+		* You jkust need to tune in your brain
+		* Find some news, TV, TED Talks, to listen to. 
+		* Use subtitles at first, then turn them off 
 
 
 ## Reading tips

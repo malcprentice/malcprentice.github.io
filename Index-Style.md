@@ -6,6 +6,8 @@
 * [Give Clear Presentations](Style-GiveClearPresentations.md)
 * [Give Good Feedback](Style-GiveGoodFeedback.md)
 * [Make Small Talk](Style-MakeSmallTalk.md)
+* [Understand Negative questions](Style-Understand Negative questions.md)
+* [Understand Tag Questions](Style-UnderstandTagQuestions.md)
 * [Use Academic Writing Style](Style-UseAcademicWritingStyle.md)
 * [Use Cohesion](Style-UseCohesion.md)
 * [Use Common Tenses And Moods](Style-UseCommonTensesAndMoods.md)
