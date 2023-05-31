@@ -25,3 +25,4 @@
 * [World Heritage Essay](Project-WorldHeritageEssay.md)
 * [Write A Poem](Project-WriteAPoem.md)
 * [Write An Email](Project-WriteAnEmail.md)
+* [Write An Essay About Ethical Consumption](Project-WriteAnEssayAboutEthicalConsumption.md)

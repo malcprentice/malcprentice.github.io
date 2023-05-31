@@ -27,8 +27,8 @@ Ask and answer as many of these questions as you can:
 7. Who are the other characters? (Name/relationship e.g. brother, enemy)       
 8. How did it start?                
 9. What was the main problem?      
-10. What happened in the end? 
-11. Was there a moral (教訓)?             
+10. What happened then?
+11. Was there a moral (教訓)?  (Don't give away the ending)           
 12. Your [reflection ](https://alba-english.org/Style-WriteReadingAndListeningReflections.html)on the book (good/bad/interesting/boring, why)
 
 
@@ -48,10 +48,10 @@ Ask and answer as many of these questions as you can:
     
 ## Example Arrangement / Template
 
-> **This paragraph summarises a book called** "1", **which was written by** 2 **in** 3. **It is about** 4, **who is a** 5, **and is set in/at/on** 6.  **The other characters are** 7A (description), 7B (description) **and** 7C (description). **At the beginning of the book,** 8. **However,** 9. **In the end,** 10. **The moral of the story is that** we should (not) 11. **In summary, this was a** 12 **book, so students should (not) read it.**
+> **This paragraph summarises a book called** "1", **which was written by** 2 **in** 3. **It is about** 4, **who is a** 5, **and is set in/at/on** 6.  **The other characters are** 7A (description), 7B (description) **and** 7C (description). **At the beginning of the book,** 8. **However,** 9. **After that,** 10. **This review will not spoil the ending, but the moral of the story is probably that** we should (not) 11. **In summary, this was a** 12 **book, so students should (not) read it.**
 
 ## Example Paragraph
-> **This paragraph summarises a book called** "Harry Potter and the Prisoner of Azkaban", **which was written by** J.K. Rowling **in** 1999. **It is about** Harry Potter, **who is a** wizard, **and is set** in a magical school called Hogwarts.  **The other characters are** Ron (his friend), Hermione (another friend), Lupin (his godfather) **and** Voldemort (the enemy). **At the beginning of the book,** Harry as usual goes to school and takes classes. **However,** they learn that a prisoner called Sirius Black escaped and there are dementors everywhere. **In the end,** they learn a new skill to defeat the enemy, and many secrets are revealed. **The moral of the story is that** people should not judge others by their appearances. **In summary, this was an** interesting **book, so students should read it.**
+> **This paragraph summarises a book called** "Harry Potter and the Prisoner of Azkaban", **which was written by** J.K. Rowling **in** 1999. **It is about** Harry Potter, **who is a** wizard, **and is set** in a magical school called Hogwarts.  **The other characters are** Ron (his friend), Hermione (another friend), Lupin (his godfather) **and** Voldemort (the enemy). **At the beginning of the book,** Harry as usual goes to school and takes classes. **However,** they learn that a prisoner called Sirius Black escaped and there are dementors everywhere. **After that,** they learn a new skill to defeat the enemy, and many secrets are revealed. **This review will not spoil the ending, but the moral of the story is probably that** people should not judge others by their appearances. **In summary, this was an** interesting **book, so students should read it.**
 
 ## Some tips
 * "This paragraph"

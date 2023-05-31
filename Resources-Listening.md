@@ -18,6 +18,7 @@
 
 ## News Video
 * [BBC (UK) NEWS](http://www.bbc.co.uk)
+* [BBC Ideas](http://bbc.co.uk/ideas/)
 * [CBC (US) NEWS](http://www.cbc.ca/news/world/  )
 * [NPR (US)](http://www.npr.org/)
 * [PRI (US)](http://www.pri.org/ 　)
