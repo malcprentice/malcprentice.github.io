@@ -37,8 +37,10 @@ Set LONG, MEDIUM and SHORT term goals for study and life
     * Post-its on your bedroom wall
     * Whiteboard on your bedroom wall
     * Calendar apps with reminders 
-    * Email (email yourself everything e.g. "buy bread") and try to empty your inbox  
-* Is it working? (Or are you doing homework, stressed, at 4am)
+    * Email yourself a task, try to empty your inbox  
+* Ask your partner
+    * What is your time management system? 
+    * Is it working? (Or are you doing homework, stressed, at 4am)
 
 ## Stay Motivated
 * Above, you learned to make a plan and manage time. 

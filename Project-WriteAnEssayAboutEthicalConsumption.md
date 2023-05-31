@@ -59,12 +59,10 @@ By the end of this project, you will be able to write an essay summarising your 
         
 
 ## Homework for Class 2
-* Do some research - is your topic OK? 
-    * Japanese articles OK this week
-    * Notes in Japanese recommended (no copy pasting!)
-* Research your topic
+* Research your topic 
     * Read 3 things. Take notes
-    * Japanese OK!  
+    * Japanese articles OK this week
+    * Notes in Japanese recommended (can't copy paste!)
     * Google your topic + "problem" or the example keywords below
         * Find good sources (newspapers, government, NGO). 
         * Avoid bad sources (wikipedia, dictionary, answer sites) 
