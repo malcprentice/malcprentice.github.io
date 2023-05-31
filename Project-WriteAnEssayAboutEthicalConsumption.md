@@ -54,37 +54,34 @@ By the end of this project, you will be able to write an essay summarising your 
     * Read what your classmates have posted. 
     * If someone else has chosen your topic, too late! Choose a new one! 
     * Post your topic e.g. "I'm Hiroko, and I choose cotton"
-* Do some research - is your topic OK? 
-    * Research your topic a little. 
-        * Read 3 things. Take notes
-        * Japanese OK! This is writing practice, not reading practice!
-        * Google your topic + "problem" or the example keywords below
-            * Find good sources (newspapers, government, NGO). 
-            * Avoid bad sources (wikipedia, dictionary, answer sites) 
-            * Avoid plagiarisism! (don't copy paste into your notes, it's dangerous)
-    * Find 3 problem keywords
-        * For people (workers, farmers) and environment NOT for you/companies. 
-        * e.g."tobacco farms use child labour" not "tobacco gives us cancer"
-        * [Use Keywords](Style-UseKeywords) correctly. Easiest option: use only NOUNS. For example
-            * child/slave labour
-            * conflict
-            * poverty, 
-            * dangerous working conditions
-            * deforestation
-            * air/water/sea/soil pollution
-        * If you can't find 3 problems,  change your topic! 
-        * In class next week you will share your topic and research. I want to see
-            * notes on what you read 
-            * 9 lines minimum,  
-            * three http links
-            * Japanese OK. 
+
+
+        
 
 ## Homework for Class 2
-* Read three articles about your topic. Japanese OK
-* Take notes in Japanese. 
+* Do some research - is your topic OK? 
+    * Japanese articles OK this week
+    * Notes in Japanese recommended (no copy pasting!)
+* Research your topic
+    * Read 3 things. Take notes
+    * Japanese OK!  
+    * Google your topic + "problem" or the example keywords below
+        * Find good sources (newspapers, government, NGO). 
+        * Avoid bad sources (wikipedia, dictionary, answer sites) 
+        * Avoid plagiarism! (don't copy paste into your notes, it's dangerous)
+* Find 3 problem/solution keywords
+    * For people (workers, farmers) and environment NOT for you/companies. 
+    * e.g."tobacco farms use child labour" not "tobacco gives us cancer"
+    * [Use Keywords](Style-UseKeywords) correctly. Easiest option: use only NOUNS. For example
+        * child/slave labour
+        * conflict
+        * poverty, 
+        * dangerous working conditions
+        * deforestation
+        * air/water/sea/soil pollution
+    * If you can't find 3 problems,  change your topic! 
 * Add your Name, Topic, 3 problem keywords, 3 solution keywords, and 3 links to planning document. 
-* Prepare to talk about your topic next class. You will need 2 details per keyword. 
-
+* Prepare to talk about your topic next class. You will need 2 details per keyword. See the script below. 
 
 ## Class 2 Task A - Share your Ideas 
 You should now have notes like this
@@ -115,6 +112,9 @@ In class, we will also talk about:
 
 
 ## Homework for Class 3
+* Read three more things
+    * English this time. 
+    * Add your links to the planning document
 * Find the template online
-* Write your four paragraphs
-* Bring it to class for friend check next week.  
+    * Write your four paragraphs
+    * Bring it to class for friend check next week.  
