@@ -51,6 +51,10 @@
 		* e.g. "WHat will the woman say" - you have to guess, she hasn't said it in audio. 
 * Listening 4 - Talks
 	* Questions are in order (answer to first question is at beginning of listening)
+	* Answer quickly and then read the next question. Especially read the diagrams.
+	* AS always, synonyms ("from the top" = CEO)
+	* Pay attention to who will do what  
+	* Answer as you listen, but don't get distracted by Q2 answer and forget to listen to Q3. 
 * General tips
 	* Answer as quickly as you can, then look at the next question. Try to guess what is coming.
 	* Answer every question - wrong answer do not get minus points
@@ -58,7 +62,7 @@
 	* OLd practice materials OK for practice, but note that pre-2017 meterials have too many questions in section 1/2, too few in section 3, no images in section 3. 
 	* Learn general business roles (e.g HR, CEO) - see vocab list for TWL and BWL sections.
 	* Having problems with accents (e.g. australian)? 
-		* You jkust need to tune in your brain
+		* You just need to tune in your brain
 		* Find some news, TV, TED Talks, to listen to. 
 		* Use subtitles at first, then turn them off 
 
