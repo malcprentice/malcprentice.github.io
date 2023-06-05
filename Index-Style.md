@@ -3,6 +3,8 @@
 * [Ask Good Questions](Style-AskGoodQuestions.md)
 * [Avoid Repetition](Style-AvoidRepetition.md)
 * [Avoid Short Sentences](Style-AvoidShortSentences.md)
+* [Describe Change](Style-DescribeChange.md)
+* [Describe Figures And Tables](Style-DescribeFiguresAndTables.md)
 * [Give Clear Presentations](Style-GiveClearPresentations.md)
 * [Give Good Feedback](Style-GiveGoodFeedback.md)
 * [Make Small Talk](Style-MakeSmallTalk.md)

@@ -7,6 +7,7 @@
 * [Do A Quick Code](Project-DoAQuickCode.md)
 * [Do A Quicktalk](Project-DoAQuicktalk.md)
 * [Do A Quickwrite](Project-DoAQuickwrite.md)
+* [Do A Reading Sprint](Project-DoAReadingSprint.md)
 * [Endangered Animals Essay](Project-EndangeredAnimalsEssay.md)
 * [Ethical Consumption Paragraph](Project-EthicalConsumptionParagraph.md)
 * [Job Interviews](Project-JobInterviews.md)
