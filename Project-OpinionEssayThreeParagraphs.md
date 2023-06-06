@@ -12,24 +12,15 @@
     * I think that NAME1 is more ADJECTIVE than NAME 2 (e.g. “I think that Osaka is a much more interesting city than Tokyo
     * I think that VERBing is more ADJECTIVE than VERBing (e.g.  “I think that living in Osaka is much more interesting than living in Tokyo”)
 
-## Arrangement (to help you do homework)
+## Homework 1: Plan (paragraph 2 only)
+
+### Homework 1: Which paragraph?
 * ~~Introduction paragraph~~ (We will do later)
 * Opinion paragraph 10 sentences. 
-    * Topic sentence (“This paragraph argues that” + OPINION)
-    * The first reason is KEYWORD
-        * Detail sentence 
-        * Detail sentence
-    * The second reason is KEYWORD
-        * Detail sentence
-        * Detail sentence
-    * The third reason is KEYWORD
-        * Detail sentence
-        * Detail sentence
-    * Optional summary sentence
 * ~~Conclusion paragraph~~ (We will do later)
 
 
-## Homework 1
+### Homework 1: Write what? 
 * AT LEAST 10 LINES OF NOTES IN ENGLISH ON A PIECE OF PAPER:
     * ONE OPINION
     * THREE REASONS  (to SUPPORT your opinion)
@@ -37,8 +28,22 @@
 * At least one ENGLISH newspaper article on the topic. 
 * NOTES and KEYWORDS, NOT SENTENCES YET. 
 
-## Homework 1 Example notes/outline plan
-* __"This paragraph argues that__ everyone should do a Study Abroad"
+### Homework 1: Template for Paragraph 2
+
+* Topic sentence (“This paragraph argues that” + OPINION)
+* The first reason is KEYWORD
+    * Detail sentence 
+    * Detail sentence
+* The second reason is KEYWORD
+    * Detail sentence
+    * Detail sentence
+* The third reason is KEYWORD
+    * Detail sentence
+    * Detail sentence
+* Optional summary sentence
+
+## Homework 1: Example of paragraph 2 plan
+* "This paragraph gives three reasons for the above opinion"
     * The first reason is learning English.
         * For example, my brother = 2 weeks Canada, TOEIC up 93 points
         * Cite this: [link](https://www.kaplanpathways.com/blog/top-8-reasons-to-study-abroad/)
@@ -53,8 +58,10 @@
 ## Homework 2 - Write body paragraph 
 * "draft 0 (body paragraph only, NOT intro or conclusion)"
 * See examples and template. 
+* 10 sentences. 
+* Start "This paragraph gives three reasons for the opinion above. The first reason is"
 
-## Homework 3 - draft 1 
+## Homework 3 - add intro and conclusion
 
 ### Homework 3A - add introduction (4 sentences)
 
