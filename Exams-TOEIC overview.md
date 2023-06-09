@@ -48,12 +48,13 @@
 		* e.g. "Why can't you come on time"
 	* Careful of Tense 
 		* e.g. present question with past answer
-		* e.g. "WHat will the woman say" - you have to guess, she hasn't said it in audio. 
+		* e.g. "What will the woman say" - you have to guess, she hasn't said it in audio. 
 * Listening 4 - Talks
-	* Questions are in order (answer to first question is at beginning of listening)
+	* Questions are USUALLY in order (Q1 is usually at beginning of listening)
 	* Answer quickly and then read the next question. Especially read the diagrams.
 	* AS always, synonyms ("from the top" = CEO)
-	* Pay attention to who will do what  
+	* Pay attention to WHO does things
+	* Pay attention to WHEN things are done  
 	* Answer as you listen, but don't get distracted by Q2 answer and forget to listen to Q3. 
 * General tips
 	* Answer as quickly as you can, then look at the next question. Try to guess what is coming.

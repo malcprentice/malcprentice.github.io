@@ -1,6 +1,6 @@
 # Project - Do A Learning Reflection
 
-Reflect     ("反映する") on your learning, and try to improve it!
+We will reflect("反省する") on your learning, and try to improve it!
 
 
 ## A) Think about your learning

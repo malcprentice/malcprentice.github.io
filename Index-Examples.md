@@ -6,6 +6,7 @@
 * [Ethical Consumption Essay](Examples-EthicalConsumptionEssay.md)
 * [I E L T S Task1](Examples-IELTSTask1.md)
 * [I E L T S Task2](Examples-IELTSTask2.md)
+* [Opinion Three Pararaph Version](Examples-OpinionThreePararaphVersion.md)
 * [Refugees And Asylum Seekers Essay](Examples-RefugeesAndAsylumSeekersEssay.md)
 * [Rough Essay Outlines](Examples-RoughEssayOutlines.md)
 * [T O E F L Independent Essay](Examples-TOEFLIndependentEssay.md)
