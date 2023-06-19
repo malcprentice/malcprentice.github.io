@@ -20,6 +20,8 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
     * If you have a time problem, maybe skip the difficult ones and come back at end of test
         * Maybe skip "..the following are true except"
         * Maybe skip "infer" or "suggests" questions and come back later
+
+## Genres and question types (from ETS OG book)
 * Be aware that the ETS book says there are limited kinds of passages. When skimming, decide
     * Which type is it (usually one of three):
         * explanation/description ("how emotions and feelings are connected")
@@ -77,7 +79,7 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
             * Tips
                 * Remember it's two points - double your time. 
                 * won't match any one sentence. It's a summary of paragraphs, probably
-                * Answers can be true, found in the passage, and WRONG because they are just not important
+                * Answers can be true, found in the passage, and WRONG because they are just not important / main ideas. 
         * Fill the table
             * tips
                 * Careful of difference between MINOR and MAJOR ideas. Major only. 
@@ -107,19 +109,8 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
             * Tips
                 * Can CONTRADICT or just OMIT something important
                 * WIll not disagree with overall passage meaning.  
+## Other tips
 
-
-## General Tips
-Again, wrong answers can either wrong meaning, or just not something  essay says
-Like inference,   it won't contradict the main passage point
-If you don't know a word, guess based on parts you know from other words. 
-
-Be careful of " the most important" in a question. 
-It means some answers are true but not correct
-Wrong answers can be true but 
-indirect / implied but not stated
-occasional / partial / 
-about subtopic / about example  only, not about topic of paragraph/essay
-For Q10, one trick is to prefer ideas which are repeated in more than one paragraph. 
-
+* Carefully learn which question types can have answers that are in the passage but wrong because they're just not important enough 
+* Make sure you know the basic word list and the AWL list at a minimum. Ask me to share vocab list if I haven't already. 
 
