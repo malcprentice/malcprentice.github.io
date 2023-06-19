@@ -11,8 +11,8 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
     * Don't read the whole passage first 
         * Skim it quickly (title, first and last sentences of each paragraph)
         * THen read questions
-        * Then Scan for answer. For example, if it says *In paragraph 3, what happens when students close their computers, SKIM for *close computers* in paragraph 3. 
-        * Skim not just for keywords from the question, but for synonyms and antonyms i.e. sadness = melancholy = lack of happiness
+        * Then Scan for answer. For example, if it says *In paragraph 3, what happens when students close their computers,* SKIM for *close computers* in paragraph 3. 
+        * Skim not just for keywords from the question, but for synonyms (同義語) and antonyms (反意語) i.e. sadness = melancholy = lack of happiness
     * Manage your time. From July 2023, there are 2 readings (total 35 mins), so 17-18 mins each
         * 60s for easy questions like vocab, so you have time for:
         * 2 mins for difficult questions ("not true" / "true except",  infer)
@@ -24,15 +24,10 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
 ## Genres and question types (from ETS OG book)
 * Be aware that the ETS book says there are limited kinds of passages. When skimming, decide
     * Which type is it (usually one of three):
-        * explanation/description ("how emotions and feelings are connected")
+        * exposition ("how emotions and feelings are connected")
         * argument ("Why students should do a study abroad") (rare)
         * history (e.g. "nineteenth century politics in the US")
-    * Which is the main idea? (usually one of four, you may be asked to identify this). 
-        * classification ("is a kind of")
-        * compare/contrast ("on the other hand", "same/different", "more/less", "differ in that")
-        * cause/effect ("causal relationship", "leads to")
-        * problem/solution - same as cause effect but bad and good language too
-* the ETS book says there are ten question types. Some are more common than others. 
+* The ETS book says there are ten question types. Some are more common than others. 
     * You WILL DEFINITELY get at least one question about  
         * Facts 
             * Examples
@@ -43,30 +38,30 @@ TOEFL reading is broadly the same as center test or TOEIC reading. You already k
                 * Skim back
                 * Eliminate the wrong ones
                 * Don't choose based on word matches
-            * Inference 
-                * Patterns
-                    * can be inferred about/from
-                    * implies that
-                * Tips
-                    * don't choose because seems true
-                    * however, it won't be against the main passage point
-            * Purpose  
-                * Patterns
-                    * mentions/discusses  in order to
-                    * Why does the author mention/discuss  
-                * Tips
-                    * illustrate, contrast, explain, refute, note or criticize
-                    * learn meanings of above words. 
-                    * learn patterns that match the meaning 
-                    * e.g. "Illustrate" might use phrases like "for example" or "like the"
-                    * will be about sentence or paragraph, not essay. 
-            * Vocab 
-                * Patterns
-                    * closest in meaning to
-                    * the author means that
-                * Tips
-                    * meaning in passage ≠ most common meaning of word. READ around.
-                    * say the line to yourself, using each new word. Does it sound right?
+        * Inference 
+            * Patterns
+                * can be inferred about/from
+                * implies that
+            * Tips
+                * don't choose because seems true
+                * however, it won't be against the main passage point
+        * Purpose  
+            * Patterns
+                * mentions/discusses  in order to
+                * Why does the author mention/discuss  
+            * Tips
+                * illustrate, contrast, explain, refute, note or criticize
+                * learn meanings of above words. 
+                * learn patterns that match the meaning 
+                * e.g. "Illustrate" might use phrases like "for example" or "like the"
+                * will be about sentence or paragraph, not essay. 
+        * Vocab 
+            * Patterns
+                * closest in meaning to
+                * the author means that
+            * Tips
+                * meaning in passage ≠ most common meaning of word. READ around.
+                * say the line to yourself, using each new word. Does it sound right?
         * Insert the sentence 
             * Patterns
                 * None, it's the one with ABCD or squares in the passage
