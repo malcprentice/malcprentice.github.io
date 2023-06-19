@@ -1,5 +1,13 @@
 # TOEFL OVERVIEW
 
+## Changes in 2023 July 
+* Overall shorter exam
+* No independent writing, just "Writing for an Academic Discussion" - replying to teahcer and student in online forum. I will share an example in class. 
+* Reading shorter -  20 questions,  2 reading passages, 35 minutes. 
+* Listening shorter - 28 questions based on 3 lectures and 2 conversations. Time allocation: 36 minutes 
+* No speaking change
+
+
 ## TOEFL Score comparison 
 30 points per section, total maximum score 120
 

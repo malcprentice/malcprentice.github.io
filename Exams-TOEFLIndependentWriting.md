@@ -1,4 +1,6 @@
- 
+## IMPORTANT
+this isn't a part of TOEFL any more - now "Writing for an Academic Discussion" - replying to teacher and student in online forum. I will share an example in class. 
+
 # General tips
 *  300 words minimum for a perfect score
 *  See tips for all writing questions here: [Resources-TOEFLOverview](Exams-TOEFLOverview)
