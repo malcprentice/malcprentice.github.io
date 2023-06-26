@@ -1,23 +1,28 @@
-# Project - Do a Reading Spring
+# Project - Do a Reading Sprint
 
-## What is a reading sprints?
-The aim is to increase reading speed. Your eyes  might have picked up bad habits of reading too slowly for exams. Let's see if we can change that habit
+## What is a reading sprint?
+
+* Sometimes, your eyes are trained to move too slowly and carefully. 
+* Not all reading needs to be slow and careful. 
+* Let's see how fast you can go! 
+* The aim is to improve your automatic 
 
 
-## How to do a reading spring 
+## How to do a reading sprint
 * Set a timer for 3 minutes
-* Read for 3 minutes at your normal speed
-* Count how many lines you have read. 
-* Count FORWARD that amount, and set a target 
+    * Read for 3 minutes at your normal speed
+    * Count how many lines you have read. This is your LINE COUNT
+    * If you read fast, count pages instead!
 * Set a timer for two minutes
-* Count the same lines forward again, and set a target 
-* Try to read the same amount in TWO minutes
+    * Count the LINE COUNT forward in the book again, and mark it
+    * Try to read that amount in TWO minutes
 * Set a timer for ONE minute
-* Count the same lines forward again, and set a target 
-* Try to read the same amount in ONE minute
+    * Count the LINE COUNT forward in the book again, and mark it
+    * Try to read that amount in ONE minute
 * Set a timer for three minutes
-* Read at your normal speed
-* Is your normal speed now faster?
+    * Read at your normal speed
+    * Is your normal speed now faster?
 
-## Tips
-If you read fast, count pages instead!
+## What next? 
+* Try the speed reading activity (ask me where to find materials in class)
+* Just read more. More graded readers, more easy news. Links under "Resources"
