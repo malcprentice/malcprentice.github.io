@@ -11,13 +11,13 @@ Without prejudice to the generality of the foregoing paragraph, Alba English doe
 * the information on this website is complete, true, accurate or non-misleading.
 
 
-Nothing on this website constitutes, or is meant to constitute, advice of any kind.  [If you require advice in relation to any [legal, financial or medical] matter you should consult an appropriate professional.]
+Nothing on this website constitutes, or is meant to constitute, advice of any kind.  If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.
 
 ## Limitations of liability
 
 Alba English will not be liable to you (whether under the law of contract, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website:
 
-* [to the extent that the website is provided free-of-charge, for any direct loss;]
+* to the extent that the website is provided free-of-charge, for any direct loss;
 * for any indirect, special or consequential loss; or
 * for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
 
