@@ -1,4 +1,5 @@
 # Resources
+* [Class Rules](Resources-Class Rules.md)
 * [Guess Word Meanings](Resources-GuessWordMeanings.md)
 * [Images](Resources-Images.md)
 * [Listening](Resources-Listening.md)

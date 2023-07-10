@@ -12,6 +12,7 @@
 * [Ethical Consumption Paragraph](Project-EthicalConsumptionParagraph.md)
 * [Job Interviews](Project-JobInterviews.md)
 * [Learn Vocab](Project-LearnVocab.md)
+* [Make A Business Proposal](Project-MakeABusinessProposal.md)
 * [Make A Holiday Study Plan](Project-MakeAHolidayStudyPlan.md)
 * [Negotiation And Monopoly](Project-NegotiationAndMonopoly.md)
 * [Opinion Essay Three Paragraphs](Project-OpinionEssayThreeParagraphs.md)

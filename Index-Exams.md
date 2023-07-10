@@ -1,4 +1,5 @@
 # Exams
+* [T O E F L Academic Discussion](Exams-TOEFLAcademicDiscussion.md)
 * [T O E F L Independent Speaking](Exams-TOEFLIndependentSpeaking.md)
 * [T O E F L Independent Writing](Exams-TOEFLIndependentWriting.md)
 * [T O E F L Integrated Speaking](Exams-TOEFLIntegratedSpeaking.md)

@@ -37,8 +37,7 @@
 * "I will look at the syllabus for next semester/year and start the reading"
 
 ## Speaking / Groups
-* "With my friends, we are going to Skype each other and talk in English X times per week
-* "We are staying near here, so we will meet X times a week to talk in English"
+* "We are staying near here, so we will talk online X times a week to talk in English"
 * "There is a holiday lounge. I will go X times / every day"
 * "I will sing at least one song every time I go to karaoke in English"
 

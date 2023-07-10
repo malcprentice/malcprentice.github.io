@@ -23,10 +23,10 @@
 		* Repeat words with different meaning ("at the park" vs "park the car") are very bad
 		* Repeated words are bad, but not as bad as part 3.
 		* Synonyms (同義語) are good
-	* Look at the question and think "When is it happening". Common trick is wrong tense: 
+	* Think "When is it happening". Common trick is wrong tense: 
 		* When would you do it .... I did it yesterday
 		* What will you do ... I haven't done it
-	* Look at the question and thuink "WHO is doing it?". Common trick is wrong pronoun:
+	* Think "WHO is doing it?". Common trick is wrong pronoun:
 		* Did he do it? Yes I did. 
 		* WHat did she do? They did something.
 	* If you get something wrong, or can't answer
