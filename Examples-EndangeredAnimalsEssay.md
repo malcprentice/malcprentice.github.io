@@ -1,6 +1,6 @@
 Example - Endangered Animals Essay
 
-See [Endangered Animal Essay](Project-EndangeredAnimalsEssay)
+See [Endangered Animal Essay](Project-WriteAboutEndangeredAnimals)
  
 
 
