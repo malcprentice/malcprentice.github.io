@@ -25,7 +25,6 @@ A good discussion questions asks about OPINION or EXPERIENCE or PLANS.
 
 
 ## Here are some patterns to follow
-
 * Use the patterns but change the content. 
    * e.g. When did you last **go shopping**? ---> When did you last **see a movie**?
    * * Do you have any **brothers and sisters?** ---> Do you have any **pets**
@@ -93,4 +92,6 @@ Put **"category"** in right place
 * What **kind of movie** do you watch?
 * Which **country** would you like to work in?
 
-
+## Some more examples of good CONVERSATION questions 
+* Try the [Proust questionnaire topics](https://www.vanityfair.com/magazine/2000/01/01/proust-questionnaire)
+* Try the [increasing closeness](https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness) questions
