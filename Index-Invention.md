@@ -3,7 +3,6 @@
 * [Check For Bias](Invention-CheckForBias.md)
 * [Citation And References General Rules](Invention-CitationAndReferencesGeneralRules.md)
 * [Citation And References Other Rules](Invention-CitationAndReferencesOtherRules.md)
-* [Citation Verbs](Invention-CitationVerbs.md)
 * [Cite A Book](Invention-CiteABook.md)
 * [Cite A Journal Article](Invention-CiteAJournalArticle.md)
 * [Cite A News Article](Invention-CiteANewsArticle.md)

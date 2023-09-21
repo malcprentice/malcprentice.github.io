@@ -1,8 +1,9 @@
 # Invention - Citation and References, Other Rules
 
-## There are a lot of small annoying rules. 
-* If they're common, they are on the Invention Checklist (part of the essay checklist, but works for presentations too). 
-* If they're not common (only some students need to know this sometime), they are here so they don't make the main worksheets confusing. 
+* You might not need this sheet. If a mistake is common, it is 
+    * on the other worksheets 
+    * in the Invention Checklist 
+* If they're not common they are here 
 
 ## Citation: Direct quotes (" ") from a book need the page number(s)
 * "Something something" (Suzuki, 2002, p.23)
@@ -61,23 +62,8 @@
             * (remember to cite them too) 
             * "However, an article written by Hiroko Suzuki, *Professor of Canine Behaviour at Harvard University,*  argued that dogs are the best pets (Suzuki, 2019)"
 
-## REferfences - common Mistakes
-1) References should be in alphabetical order (123abcd)
-2) Burasage
-3) Don't copy paste fonts or spacing - all references should look the sam.e   
-4) The reference list matches the references used. 
-    * Nothing in text that isn't in list. 
-    * Nothing in list that isn't in the text 
-    * 5 names in text = 5  matching names in references
-5) Double check Title Case and Italics
-6) Double check spaces, commas, and periods. 
-7) One date. Not two dates or zero dates. You don't need "retrieved" if you have brackets date.
-8) No first names Suzuki, H. never Hiroko, S. 
-9) Online news has italics in different place than paper newspapers. 
-10) Ignore case. Japan Times, never JAPAN TIMES or japantimes, even if that' what it looks like on the newspaper. 
-11) Triple check Italics and Title case. 
 
-## TItle case and italics is the most common of common problems. 
+## References: TItle case and italics is the most common of common problems, so here is a longer overview
 * Italics in APA = the thing you hold in your hand (Newspaper article, Magazine article , book)
 * Title Case in APA = a collection of work by many people (Newspaper, Magazine, Website)
 * If you have to rip it out of something to hold it, it's not italics. 
@@ -105,23 +91,4 @@
 
  
  
-## Tools to help you
-There are also some tools you can use, but they're always full of mistakes. They get dates, page numbers, and online vs paper wrong all the time. Learn to do it manually first. However, if you're doing a long dissertation with many citations and take the time to correct the mistakes, they're great and integrate with Word or Google Docs. The main ones are:
-
-* Zotero: https://www.zotero.org/ (recommended option)
-* Mendeley: https://www.mendeley.com/
-
-* If you just want to check one citation, also try:
-    * Google Scholar: https://scholar.google.co.jp/ (search, click "Cite" and choose APA)
-    * BibMe:  http://www.bibme.org  
-
-## Answer not here? 
-* Search Google (e.g. "How to cite YouTube with only user name in APA7").
-* Best websites for clear examples and answers are:
-    * Purdue Online: https://owl.english.purdue.edu/owl
-    * APA style blog: http://blog.apastyle.org/ 
-* Copy from another article that uses the same or similar source.
-* Read the actual APA manual
-    * [Library has copies](https://opac.rikkyo.ac.jp/opac/opac_details/?reqCode=fromlist&lang=0&amode=11&bibid=BB50621412&opkey=B166873801269221&start=1&totalnum=237&listnum=11&place=&list_disp=50&list_sort=0&cmode=0&chk_st=0&check=00000000000000000000000000000000000000000000000000) 
-    * Careful you have the right one - [7th edition looks like this](https://apastyle.apa.org/products/publication-manual-7th-edition)
 

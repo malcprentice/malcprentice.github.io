@@ -1,7 +1,15 @@
 # Reference Books
 
-Don't forget to follow the [General Rules](Invention-CitationAndReferencesGeneralRules)
+# Cite books
+* Modern books always have a date and an author. Only give the year. 
+* Penguins are cute (Suzuki, 2023).
+* You could also try Sentence Style 
+    * According to Suzuki (2023), penguins are cute. 
+    * See [Invention-CiteSentenceStyle](Invention-CiteSentenceStyle)
+* If there is no name, ask me. You probably need to use a group name instead. 
 
+
+## Reference books
 * Author, I. (Year). *Book title italics no title case.* Company name.
 * Suzuki, H. (2002). *Penguins are great.* Kodansha. 
 * Rowling, J. (2002). *Harry Potter and the philosopher's stone.* Bloomsbury. 

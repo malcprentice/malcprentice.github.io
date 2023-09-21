@@ -136,7 +136,7 @@ Because of the above reasons, it is highly questionable that REPEAT READING TOPI
 * Don't repeat the same pattern 3 times in the essay. 
 	* For more options
 	* See [Use cohesion](Style-UseCohesion) for alternatives to "however"
-	* See [Citation Verbs](Invention-CitationVerbs) for alternatives to "states"/"notes"
+	* See [Citation Verbs](Invention-CiteSentenceStyle) for alternatives to "states"/"notes"
 	* See [Write a Compare Contrast Sentence](Style-WriteACompareContrastSentence) for alternatives to "said"
 * This numbered pattern is also used in ETS "high scoring"
 	* Firstly, not reading literature does not mean R1. L1

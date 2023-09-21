@@ -6,7 +6,6 @@
     * Wrong: ~~According to "Title," (n.d.),~~ penguins are cute.
     * Either use brackets: Penguins are cute ("Title," n.d.)
     * Or change them and ALSO use brackets at end: According to an article in the Mainichi Daily, penguins are cute ("Title," n.d.).
-* More verbs available here: [Cite Sentence Verbs](Invention-CitationVerbs)
 
 ## Pattern 2: NVF (Name-Verb-Finding)
 

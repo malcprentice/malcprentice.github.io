@@ -1,23 +1,24 @@
 # Cite a Video
 
-# Reference Video
-
-Don't forget to follow the [General Rules](Invention-CitationAndReferencesGeneralRules)
-
-
-
-
-* Brackets Style
-    * (Familyname, year, date)
-    * (Suzuki, 2021, April 3) for YouTube
-    * (Suzuki, 2021, April) for TED Talks without date
-    * (Khobandeh, 2022, February)
-* Sentence style
-    * According to Familyname (year, date)
-    * According to Suzuki (2021, April 3)  
-    * According to Suzuki (2021, April)  
-    * According to Khobandeh (2022, February)
- 
+# Cite A Video
+* Follow the basics: 
+    * Cite as much of the date as you can find
+        * Penguins are cute (Suzuki, 2023, April 23).
+        * Penguins are cute (Suzuki, 2023, April).
+        * Penguins are cute (Suzuki, 2023). <- this is most common for Ted Talks
+    * If there is no date, use "n.d."
+        * Penguins are cute (Suzuki, n.d.)
+        * Penguins are cute ("Penguins overview," n.d.)
+    * IF there is no human name, use 2-3 words of the article title 
+        * Penguins are cute ("Penguins overview," 2023, April 23)
+        * Penguins are cute ("Penguins overview," n.d.)
+* IF there is a name, you could also try Sentence Style:
+    * According to Suzuki (2023, April), penguins are cute. 
+    * See [Invention-CiteSentenceStyle](Invention-CiteSentenceStyle)
+* FOr video, 
+    * If there is only a User name, e.g. YouTube
+        * that's OK, even if looks silly
+        * (Happypandafeet, n.d.)
 
 
  
