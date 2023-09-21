@@ -41,7 +41,7 @@ Capitalize important words:
 * Subtitles in an essay
 * In the references section 
     * This is complicated
-    * See [Invention - References General Rules](Invention-ReferenceGeneralRules)
+    * See [Invention - References General Rules](Invention-CitationAndReferencesGeneralRules)
     * But basically, only for Magazine, Newspaper, Website names (i.e. CONTAINERS of articles. Not for normal books or for article titles. 
     
  

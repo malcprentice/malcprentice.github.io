@@ -17,7 +17,7 @@
 * No underline. 
 * Italics 
     * In text - for emphasis or non-English words. 
-    * In references - see [Invention - General Rules](Invention-ReferenceGeneralRules)
+    * In references - see [Invention - General Rules](Invention-CitationAndReferencesGeneralRules)
 * Alignment
     * Title centre aligned (中央揃え)
     * References left aligned

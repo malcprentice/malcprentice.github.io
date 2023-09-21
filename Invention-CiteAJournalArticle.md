@@ -2,7 +2,7 @@
 
 For Academic Journal (学術雑誌/論文誌) articles 
 
-Don't forget to follow the [General Rules](Invention-ReferenceGeneralRules)
+Don't forget to follow the [General Rules](Invention-CitationAndReferencesGeneralRules)
 
 * Author, Y. (Year). Article title. *Journal Name, volume*(issue), page. https://doi.org/number/number
 * Brown, M., & Smith, P. (2010). How to cite an article from a journal or magazine in your reference list. *Journal of Writing, 3*(4), 221-256. https://doi.org/10.111111/asdf

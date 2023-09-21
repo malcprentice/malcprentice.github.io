@@ -42,7 +42,7 @@ Unless you mean EVERYONE:
 *  ~~Many people think~~
 *  ~~It is thought that~~
 * ~~It is said that~~
-* Instead [SAY WHO SAID IT](Invention-CitationGeneralRules)
+* Instead [SAY WHO SAID IT](Invention-CitationAndReferencesGeneralRules)
 
 ## No opinion adjectives
 * Just give the facts, not your attitude to them. 

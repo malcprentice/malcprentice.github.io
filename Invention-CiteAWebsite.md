@@ -1,6 +1,6 @@
 # Reference Websites
 
-Don't forget to follow the [General Rules](Invention-ReferenceGeneralRules)
+Don't forget to follow the [General Rules](Invention-CitationAndReferencesGeneralRules)
 
 * *Title of nameless online website article.* (2022, April 3). Title of News Source. http://nameofnewswebsite.com/asdf.html
 * *Title of nameless dateless website article.* (n.d.). Title of Website Source. Retrieved April 27, 2022, from http://fakewebsite.com/asdf.html

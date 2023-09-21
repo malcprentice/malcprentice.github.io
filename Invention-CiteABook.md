@@ -1,6 +1,6 @@
 # Reference Books
 
-Don't forget to follow the [General Rules](Invention-ReferenceGeneralRules)
+Don't forget to follow the [General Rules](Invention-CitationAndReferencesGeneralRules)
 
 * Author, I. (Year). *Book title italics no title case.* Company name.
 * Suzuki, H. (2002). *Penguins are great.* Kodansha. 

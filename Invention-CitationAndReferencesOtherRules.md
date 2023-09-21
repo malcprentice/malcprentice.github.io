@@ -20,7 +20,7 @@
 * Smith and Suzuki (2010) say that English is great.
 * ~~(Smith and Suzuki, 2010).~~
 * ~~Smith & Suzuki (2010) say~~
-* This is for citations. In [Reference](Invention-ReferenceGeneralRules), always use "&"
+* This is for citations. In [Reference](Invention-CitationAndReferencesGeneralRules), always use "&"
 
 ## Citation:  Acronyms like "UNESCO" or "SUA"?
 * First time  
