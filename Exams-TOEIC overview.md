@@ -1,14 +1,16 @@
-Compilation of TOEIC test tips
-* Overview of Test
-	* Listening (45 minutes, 100 questions)
-		* 1 Photographs
-		* 2 Question-Response
-		* 3 Conversations
-		* 4 Talks
-	* Reading (75 minutes, 100 questions)
-		* 5 Incomplete Sentences
-		* 6 Text Completion
-		* 7 Reading Comprehension
+# Compilation of TOEIC test tips
+
+## Overview of Test
+* Listening (45 minutes, 100 questions)
+	* 1 Photographs
+	* 2 Question-Response
+	* 3 Conversations
+	* 4 Talks
+* Reading (75 minutes, 100 questions)
+	* 5 Incomplete Sentences
+	* 6 Text Completion
+	* 7 Reading Comprehension
+
 ## General Tips 
 * Old practice materials OK for practice, but note that pre-2017 materials have
 	* Too many questions in section 5(Incomplete Sentences)
@@ -29,6 +31,7 @@ Compilation of TOEIC test tips
 		* (e.g HR, CEO, marketing, sales, supervisor, HR, etc)
 		* https://kimi.wiki/japanese/japanese-office-vocab
 	* Learn business vocab  - see vocab list for TWL and BWL sections.
+
 ## Listening Tips
 * General - 
 	* Having problems with accents (e.g. Australian)?
