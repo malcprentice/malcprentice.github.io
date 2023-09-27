@@ -23,7 +23,7 @@ For example, in animals essay, use the country-keyword combination
     * Google Japanese: https://google.co.jp
     * Google News: http://news.google.com
 * Remember you can
-    * Limit it to governmental sites ("site:gov" or "site:.gov.jp")
+    * Limit it to governmental sites ("site:gov" or "site:.go.jp")
     * Limit it to university sites ("site:ac.jp" or "site:ac.jp")
     * Limit it to recent articles using Search Tools
     * Limit it to exact matches with quotes "". See the difference this makes:
