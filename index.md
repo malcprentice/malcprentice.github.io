@@ -13,6 +13,4 @@
 
 [Admin](Index-Admin)
 
-[Exams](Index-Exams)
-
 [Examples](Index-Examples)
