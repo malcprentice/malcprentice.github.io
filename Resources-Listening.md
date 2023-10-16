@@ -1,37 +1,32 @@
-## Listening for Learners
-* [Elllo](http://www.elllo.org/)
-* [ESLFast](http://www.eslfast.com)
-* [ESL lab](http://www.esl-lab.com/index.htm)
-* [British Council YouTube](http://www.youtube.com/user/BritishCouncilLE)
-* [British Council](http://learnenglish.britishcouncil.org/en/listen-and-watch)
-* [BBC World Service Learning English](http://www.bbc.co.uk/worldservice/learningenglish/)
-* [BBC Learning English](http://www.bbc.co.uk/learningenglish)
-* [VOA](http://learningenglish.voanews.com/)
-* [Spotlight Radio](http://spotlightenglish.com/)
-* [Public Radio International](http://www.pri.org/)
-* [Stories](http://esl-bits.net/)
-* [NHK Gogako](https://www2.nhk.or.jp/gogaku/english/)
-* [NHK World](https://www3.nhk.or.jp/nhkworld/)
-* [VoiceTube](http://www.voicetube.com)
-* [NewsinLevels](http://www.newsinlevels.com)
-* [Movie trailers](http://www.learnenglishfeelgood.com/eslvideo/videos3.html)
+# Resources - Listening
+ 
 
-## News Video
-* [BBC (UK) NEWS](http://www.bbc.co.uk)
-* [BBC Ideas](http://bbc.co.uk/ideas/)
-* [CBC (US) NEWS](http://www.cbc.ca/news/world/  )
-* [NPR (US)](http://www.npr.org/)
-* [PRI (US)](http://www.pri.org/ 　)
-* [NHK (Japan)](https://www3.nhk.or.jp/nhkworld/)
-* [Video](http://www.wimp.com/)
-* [The Ecologist](http://www.theecologist.org/tv_and_radio/tv/)
-* [National Geographic](http://video.nationalgeographic.com/video/travel)
-* [Scientific American](http://www.scientificamerican.com/video/)
-* [Non-specialist Lectures)
+## Listening for Learners
+* [Elllo](https://elllo.org/english/levels/index.htm)
+* [Stories](ESL-BITS.EU)
+
+## News 
+* I have a separate list of News sites 
+    * Link [here](Resources-NewsSites.md) 
+    * Some of these have video, you might need to look. 
+* Video (simplified)
+    * [NewsinLevels](http://www.newsinlevels.com)
+    * [BBC Learning English News Videos](https://www.bbc.co.uk/learningenglish/english/course/newsreview-2023)
+    * [VOA](http://learningenglish.voanews.com/)
+* News Video (not simplified)
+    * [BBC News Video](https://www.bbc.com/news/av/10462520)
+    * [NPR](http://www.npr.org/)
+    * [The World ](https://theworld.org)
+    * [Scientific American Video](http://www.scientificamerican.com/video/)
+
+
+
+## Non-specialist Lectures
 * [Big Think](http://bigthink.com/topics)
 * [TED](http://www.ted.com/talks)
 * [CGPGrey](https://www.youtube.com/user/CGPGrey  (very fast, funny))
 * [Crash Course](https://www.youtube.com/user/crashcourse)
+* [BBC Ideas](http://bbc.co.uk/ideas/)
 
 ## Specialist lectures, supported or MOOC
 * [Coursera](https://www.coursera.org/)
@@ -41,22 +36,15 @@
 * [Udacity](https://www.udacity.com/)
 * [Academic Earth](http://academicearth.org/  (list of MOOCs, not a MOOC))
 * [Khan Academy](https://www.khanacademy.org/  (Math, Science, Economics, Art, History, Civics))
-
-
-## Lecture-only university courses.
-* [iTunes U:  ](https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8)
-* [YouTube Ed](http://www.youtube.com/education)
-* [Unsupported lectures are hard. Try reading some first:)
-* [Warwick Database](http://www2.warwick.ac.uk/fac/soc/al/research/collect/base/lecturetranscripts/ah)
-)
+ 
 
 ## Movies
-Watch a movie, but don't use subtitles if you want to practice listening. That's reading. If you get lost, instead of using subtitles:
-* Download the [transcript](http://www.script-o-rama.com/trans.shtml] (not the script)
-* Read ahead.
-* Watch without reading.
-* If you get confused stop, read, understand, read ahead a little, then)
-* [Start watching again.
+* Watch a movie, but don't use subtitles if you want to practice listening. That's reading. If you get lost, instead of using subtitles:
+    * Download the [transcript](http://www.script-o-rama.com/trans.shtml) 
+    * Read ahead.
+    * Watch without reading.
+    * If you get confused stop, read, understand, read ahead a little, then)
+    * Start watching again.
 
 ## Songs
 * Google "Lyrics for SONG NAME", read and understand.

@@ -1,22 +1,19 @@
 # News
 See [news sources list](Resources-NewsSites) for simplified and unsimplified news. 
 
-# Simplified Books
-## Online 
-* Graded readers online from Library (ask the library how)
-* CommonLit (for US kids): https://www.commonlit.org/en/texts
-* Extensive Reading Central (short texts with quizzes): http://www.er-central.com/
-* List of free graded readers: http://www.how-to-learn-any-language.com/forum/forum_posts.asp?TID=19562&PN=1
+## Graded readers
+* Graded readers online from Library (see poster in library next to graded readers) 
+* [ESL Bits](https://esl-bits.eu/home.html)
+* [CommonLit](https://www.commonlit.org/en/texts)
+* [Extensive Reading Central](http://www.er-central.com/)
 
-## On campus:
-* Graded readers in Libraries
-* Books, newspapers, magazines, etc in library/SAC
+
 # Unsimplified
-## Old free books
-* http://www.gutenberg.org/ (free ebooks - old, not easy)
-* http://e-booksdirectory.com/ (mixed)
- 
-
+* [Project Gutenberg](http://www.gutenberg.org/)
+* [Ebooks firectory](http://e-booksdirectory.com/)
+* Kindle Unlimited (free trial available)
+* Scribd (free trial available
+* Read lecture transcripts: [Warwick Database](http://www2.warwick.ac.uk/fac/soc/al/research/collect/base/lecturetranscripts/ah)
 # Speed Reading Tools
 * If your reading speed is faster with these tools than in normal reading, you might need to do some Speed Reading to practice skills. Ask me for advice.
 * Spreeder: http://www.spreeder.com/
