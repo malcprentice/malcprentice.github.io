@@ -119,4 +119,4 @@ In class, we will also talk about:
 * Bring it to class for friend check next week. 
 
 ## Check the list of common mistakes 
-* Link is [here](Checklist-Essays)
+* Worksheet for Checklist handed out in class

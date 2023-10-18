@@ -86,4 +86,4 @@ __Remember that your solutions and problems don't need to match exactly. For exa
         * "The Siberian tiger is the only member of the big cat family which plays tennis"
 * Also 
     * Check the list of common mistakes 
-    * Link is [here](Checklist-Essays)
+    * Worksheet for Checklist handed out in class

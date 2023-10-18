@@ -93,7 +93,7 @@ Example structure (4 paragraphs)
 
 
 ### Tips
-* Check common mistakes [here](Checklist-Essays)
+* Check common mistakes  - Worksheet for Checklist handed out in class
 * Bew careful: Heritage is an idea, not a place.
     * WIth a noun
         * ~~This world heritage is old.~~ 

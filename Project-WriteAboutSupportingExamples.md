@@ -55,5 +55,5 @@ This paragraph responds to the question ‘What is a good way to spend the weeke
 ## Tips
 * Careful that the SECOND detail sentence needs a link
 * See [Use cohesion](Style-UseCohesion)
-* Common mistakes list is [here](Checklist-Essays)
+* Check - Worksheet for Checklist handed out in class
         
