@@ -14,6 +14,5 @@
 * [Find Good Academic Sources](Invention-FindGoodAcademicSources.md)
 * [Find Good Sources](Invention-FindGoodSources.md)
 * [Quote And Paraphrase](Invention-QuoteAndParaphrase.md)
-* [Read For Research](Invention-ReadForResearch.md)
 * [Repeating Citations](Invention-RepeatingCitations.md)
 * [Use A P A Format For Tables And Figures](Invention-UseAPAFormatForTablesAndFigures.md)

@@ -7,5 +7,4 @@
 * [Other Links](Resources-OtherLinks.md)
 * [Quickwrite Topics](Resources-QuickwriteTopics.md)
 * [Reading](Resources-Reading.md)
-* [Spelling Alphabet](Resources-SpellingAlphabet.md)
 * [Tech Tips](Resources-TechTips.md)
