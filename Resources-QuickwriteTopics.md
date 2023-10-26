@@ -4,7 +4,7 @@
 * What I did in the Holidays
 * What I do in my Free Time
 * My First Week of Class
-* The Last Movie I saw  /// The Next Movie I Want to See
+* The Last Movie I saw / The Next Movie I Want to See
 * My Hometown's Food/Festivals/Famous Places
 * My Best Friend
 * My Part-Time Job.
@@ -21,26 +21,32 @@
 * My Family
 * A Time I was in Trouble
 * How I Try to Stay Healthy
-* How I Relax When I am Worried or Stressed
-* My Dream Study Abroad Plan
+* How I Relax When I am Worried or Stressed 
 * A Shop I Often Visit
 * My Pet / My Dream Pet
 * Some Interesting Places in and Around University
 * A Sport/Hobby I want to try
 * My Favourite Teacher in (Junior) High School
-* My School Trips in JHS/HS
-* The Best Study-abroad Plan 
-* The Best Food to Cook. * 
-* The Best Thing to do With 1,000,000 yen 
-* The Best Present I Ever Received 
-* What I Want to do After University 
-* The Best and Worst Thing about University Life 
+* My School Trips in JHS/HS  
+* The Best/Worst
+    * Food to Cook. * 
+* What I Would do if I
+    * Won 1,000,000 / 100,000 / 10,000 yen 
+    * Won 100,000
+* The Best / Worst
+    * Thing about University Life 
+    * Present I ever Received
+* What I Want to do 
+    * Next Year
+    * After University 
 * A Celebrity I Would Like to Meet  
 * My Most Important Possession  
-* The Country I Would Like to Go to Most 
 * The Thing I Want to Buy Most 
 * The Place I Want to Visit Most in Japan 
-* If I Could Live Anywhere in the World, I Would Live in CITY NAME 
+* The city/country I would most like to 
+    * live in
+    * visit on holiday
+    * study abroad in
 * If I Could Change One Thing About (the university / Tokyo / my job / my house) 
 * If I Could Make One Thing Illegal 
 * Good and Bad Points of SNS 
@@ -53,12 +59,15 @@
 * Do you prefer the mountains or the sea? 
 * Would you prefer to work for a Japanese company or an overseas one? 
 * Would you prefer to work for yourself or work for a company? 
-* What are the qualities of a good/bad friend?  
-* What are the qualities of a good/bad co-worker (e.g. for your part time job)? 
-* What are the qualities of a good/bad place to live?  
-* What are the qualities of a good/bad boss? 
-* What are the qualities of a good/bad teacher?
-* What is most important when deciding choosing your first apartment (e.g. location, cost, shops). 
+* What are the qualities of a good/bad 
+    * friend?  
+    * part time job)? 
+    * coworker
+    * housemate
+    * place to live?  
+    * boss? 
+    * teacher?
+* What is most important when choosing a place to live (e.g. location, cost, shops). 
 * Your city is going to build a statue of a living person. Who should it be? 
 * The government is issuing a new 20,000 yen note. What historical person's face should be on it? 
 * A friend is visiting your hometown and only has two days. What should they do? 
@@ -67,18 +76,40 @@
 
 
 ## Discussion topics
-* All schools should be public schools
-* Smokers should pay more for healthcare
-* Everyone should have the choice to study online
-* All university buildings should be red brick
-* Driving should be a university class
-* The drinking age in Japan should be 18
-* Snowboarding is better than skiing
-* University students should all study statistics. 
-* Glasses are better than contacts
-* In summer, going to Oshima is better than going to Hawaii
-* Spanish is the best 3rd language to study after English
-
+* SHould
+    * All schools should be public schools
+    * Smokers should pay more for healthcare
+    * Everyone should have the choice to study online
+    * All university buildings should be red brick
+    * Driving should be a university class
+    * The drinking age in Japan should be 18
+    * University students should all study statistics. 
+* Best 
+    * This is the best university in Japan    
+    * Spanish is the best 3rd language to study after English
+    * THe best snack in the conbini is X
+* "VS" Types
+    * Snowboarding vs skiing
+    * AU vs DOCOMO
+    * Living in the Countryside vs. Living in the City
+    * McDonalds vs. Yoshinoya
+    * My hometown vs. other place
+    * Book vs. Movie
+    * Cars vs public transport
+    * Hokkaido vs. Kyushu
+    * Uniqlo vs. Muji
+    * Dogs vs. Cats
+    * Cars vs. Public Transport
+    * Italian food vs. Chinese food
+    * Living with parents vs Living alone
+    * Holiday in Japan vs. Holiday abroad
+    * Playstation vs. Xbox
+    * Glasses vs. Contact lenses
+    * Money vs. Love
+    * Streaming vs Going to the Cinema
+    * Eating out vs eating in
+    * career vs freedom
+    
 ## Need more topics?
 * Try NYT650 [New York Times 650 topic](https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html?_r=0)
 * Try the [Proust questionnaire topics](https://www.vanityfair.com/magazine/2000/01/01/proust-questionnaire)
