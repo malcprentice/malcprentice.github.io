@@ -1,10 +1,5 @@
 # Resources
-* [Class Rules](Resources-Class Rules.md)
-* [Guess Word Meanings](Resources-GuessWordMeanings.md)
-* [Images](Resources-Images.md)
 * [Listening](Resources-Listening.md)
 * [News Sites](Resources-NewsSites.md)
-* [Other Links](Resources-OtherLinks.md)
 * [Quickwrite Topics](Resources-QuickwriteTopics.md)
 * [Reading](Resources-Reading.md)
-* [Tech Tips](Resources-TechTips.md)
