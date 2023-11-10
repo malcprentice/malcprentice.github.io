@@ -4,5 +4,3 @@
 [Resources](Index-Resources)
 
 [Invention](Index-Invention)
-
-[Admin](Index-Admin)
