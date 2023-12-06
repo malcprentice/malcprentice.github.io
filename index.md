@@ -1,6 +1,3 @@
+All resources have been moved to the booklets. 
 
-[Project](Index-Project)
-
-[Resources](Index-Resources)
-
-[Invention](Index-Invention)
+If you can't find something, email me or ask in class. 
