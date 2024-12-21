@@ -1,21 +1,13 @@
 # About
-
-Website for materials for classes (now mostly moved to PDFs and manuals)
-
-## Contact
-* My email is in the manual and on your syllabus. 
-* Check your schedule then email to book an office hour appointment. 
-
-
+  
 ## Privacy 
-* There is no data retained (unless you're submitting homework through a link to Google Forms or Google Classroom). 
+* There is no data retained 
 * There is no tracking (i.e. no Google Analytics)
 
   
 
 ##  A Disclaimer
-
-This site is mostly about writing essays - if you manage to write an essay bad enough to need a disclaimer, please send me a copy! That said, though, here is the disclaimer:
+ 
 
 ## Credit
 This document was created using a Contractology template available at http://www.contractology.com.
