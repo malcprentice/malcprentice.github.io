@@ -1,2 +1,0 @@
-# Resources - Listening
- All links have been moved [here](https://docs.google.com/document/d/1gCVzP0BB0K_uxCL-qOsSMLIOOZ5vzVuXMo6iDjy_Ak8/edit?usp=sharing)
