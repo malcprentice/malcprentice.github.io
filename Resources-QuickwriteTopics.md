@@ -1,1 +1,0 @@
-Topics have tided up and moved [here](https://docs.google.com/document/d/1fbrDPbw2WGf0p-J0u4r0rmTpA35zfmKGwTKH2-JTMw0/edit#heading=h.1jatdi213py0)
